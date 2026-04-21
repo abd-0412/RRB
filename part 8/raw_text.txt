@@ -1,0 +1,1016 @@
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0001_left.png =====
+08.
+——
+1. Even after giving a 22% discount, how much
+should the marked price of an article face value
+of an item be greater than the original
+purchase price to get 17% profit.
+(a) 50% (b) 35%
+(c) 28% (d) 45%
+RRB JE - 23/05/2019 (Shift-I11
+Ans : (a) Let the cost price = 100
+Given- Discount = 22%
+profit = 17%
+Marked price __100+ Profit %
+Cost price 100- Discount%
+Marked price _ 117
+100 78
+=> Marked price = 100x117
+78
+Marked price = 150
+Profit = Marked price — Cost price
+= 150-100 = 50
+Profit % = Ea 50%
+100
+2. If the selling price is 71680, there is a loss of
+16%. If there is a profit of 15% even after
+giving 8% discount then what should be the
+marked price of the product.
+(a) % 2200 (b) % 2000
+(c) % 2500 (d) % 2600
+RRB JE - 28/06/2019 (Shift-II1) |
+Ans. (c) SP = 1680
+7 cp= SP x100
+(100—loss%)
+“ CP = 1680 ~ 100 _ % 2000
+84
+{where MP = Marked Price, SP = Selling Price, CP =|
+Cost Price, D = Discount}
+CPx(100+P) _ MP(100-D)
+100 100
+2000 x 115 = MP x 92
+MP = 2000x115 =% 2500
+92
+3. A shopkeeper offers a discount of 10% every 4
+months. If a person buys an item under this |
+scheme in December for 225515, then what was
+the initial price of that item in January?
+(a) & 45000 (b) % 35000
+(c) & 36000 (d) % 40000
+RRB JE - 22/05/2019 (Shift-II1)
+Discount 17
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0001_right.png =====
+°
+Discount
+—_———
+Ans : (b) Let the initial price of object = %x
+According to question,
+xx 205, 50, 90 as515
+100 100 100
+= X29 _45515
+1000
+> x = 255151000
+T29
+> x= 35 x 1000
+x =% 35000
+4. Which one is better?
+(1) A gradual discount of 10% and 20%
+(2) A gradual discount of 20% and 10%.
+(a) Both are similar
+(b) Cannot be determined
+(c) A gradual discount of 20% and 10%.
+(d) A gradual discount of 10% and 20%
+RRB JE - 23/05/2019 (Shift-I)
+Ans: (a)
+(1) A gradual total discount of 10% and 20%
+=10+.20—20%10 _ 399 = 28%
+100
+(2) Gradual total discount of 20% and 10%
+=20+10—20%10 _ 39_9 = 28%
+100
+Hence it is clear that both are equal
+5. Find the selling price of an item if the
+shopkeeper gives two successive discounts of
+5% on the marked price 80.
+(a) %72 (b) %70.10
+(c) % 72.20 (d) %73
+RRB JE - 25/05/2019 (Shift-I
+Ans : (c) Marked Price = & 80
+On giving two successive discount of 5%.
+selling price = 80 2-5) x (5)
+100 100
+= 80x 2x 2%
+100 100
+_ 222000 _ ¢ 79 99
+10000
+6. An item listed at %65 was purchased at 56.16
+after two successive discounts, which the first
+discount is 10%. Find the second discount.
+(a) 9% (b) 6%
+(c) 2% (d) 4%
+RRB JE - 26/05/2019 (Shift-Il)
+) YCT
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0002_left.png =====
+‘Ans : (d) Marked Price = 65, Selling Price = 56.16
+First Discount (D,) = 10%, Second Discount (D2) =?
+Formula-
+
+Marked Price {100=D,) x (100-D,) = Selling price
+
+100 100
+65x (100-10) 10) ,{00=D,) D3) = 56.16
+100 100
+65x90, (100=Ds) _ 56 16
+100 100
+
+56.16 x 1000
+(100-D,) 65x9
+
+56160
+(100-D,) 585
+100 — D2 = 96
+100-96 =D,
+
+4=D,
+
+(Hence, Second Discount (D2) = 4%
+
+7. The listed price of an item in a showroom is
+%2000 and it is being sold at successive discount
+of 20% and 10%. Find its net selling price.
+
+(a) %1520 (b) = 1400
+(c) %1440 (d) 71700
+RRB JE - 30/05/2019 (Shift-I
+Ans. (c)
+Selling Price = Marked Price x(100-Discount)/100
+Selling Price = 2000x 2, =
+100 100
+= 2000x 4 x 2
+5 10
+= 36 x 40 =% 1440
+
+8. 25% reduction in market value, Sita can buy 1
+kg more sugar for 230. Find the actual price of
+sugar.
+
+(a) %7.50 (b) 710
+(c) 716.50 (d)_ 27.30
+RRB JE - 30/05/2019 (Shift-II.
+|Ans : (b) Let the actual price of Sugar = x
+Price after 25% reduction = x x mee = 3x
+100 4
+According to question,
+30 30 _ 1
+3K x
+4
+120 30 _ 1
+3x x
+120-90
+=x
+3
+30
+=x
+3
+x= 710
+
+9. A gradual discount of 10% and 20% is
+displayed in a sales advertisement. If an
+additional discount of 5% is given on cash
+payment, find the total discount available for
+making purchases by paying cash.
+
+Discount 17
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0002_right.png =====
+(a) 40% (b) 35%
+(c) 31.6% (d) 32%
+RRB JE - 26/06/2019 (Shift-I
+Ans: (c) Equivalent discount in lieu of two successive
+discount of 10%, 20%
+==10-29 + 10x20
+100
+-30+2=-28%
+Again total discount after 5% discount
+= 28-54 285
+100
+=-33+14=-316%
+Hence there will be a discount of 31.6%.
+10. Find the actual profit percentage using the
+given statements.
+1. There would be 20% profit, without any
+discount.
+2. Although 5% discount is offered.
+(a) 15% (b) 12%
+(c) 14% (d) 20%
+RRB JE - 26/06/2019 (Shift-I
+Ans. (c) x = +20%, y=-5%
+%=x+y+ 72%
+Actual profit % = x+y 100
+= 29-54 20x35
+100
+=20-5-1=14%
+11. An item whose marked price is %80 is sold for
+68. Find the rate of discount.
+(a) 12% (b) 15%
+(c) 16% (d) 18%
+RRB JE - 31/05/2019 (Shift-I
+Ans : (b) Marked price = %80
+Selling Price = 68
+Rate & discount = Marked Price - Selling Price x100
+Marked Price
+= 80-68 100
+80
+= BR, 100 =15%
+80
+12. Goods worth %6500 was purchased with a
+discount of 5%. The bill then included a sales
+tax of 4%. Find the bill amount.
+(a) %6500 (b) 6576
+(c) %6422 (d) 6600
+RRB JE - 31/05/2019 (Shift-IL
+Ans. (c) Amount paid for goods after 5% Discount
+= 6500x 55 6175
+100
+Amount of bill for including sales tax of 4%
+= 6175x 104 %6422
+100
+[ YCT
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0003_left.png =====
+13. Due to two consecutive discounts at the labeled
+price of %6000, the selling price decrease to
+if a gradual discount of 10% and 20% is
+given.
+(a) % 4230 (b) & 4000
+(c) % 4200 (d) % 4320
+RRB JE - 02/06/2019 (Shift-IT
+Ans. (d) Selling price
+= 6000x{ 100=Pr }/100=Ds ) i) Discount}
+100 100
+= 6000x 20 , 80
+100 100
+=6x 9 x 80 =%4320
+14. After deducting 5% commission, a television
+set is valued at 79595. Find its marked price.
+(a) %10000 (b) 710100
+(c) Z10075 (d) 710500
+RRB JE - 28/06/2019 (Shift-IIT.
+Ans. (b) SP = MP oa {where SP-selling price,
+MP - Marked price}
+9595 = MP x 25
+100
+Mp = 2595%29 _ 19100
+19
+15. A shop offers 30% discount on MRP of a
+product. If the MRP of the product is 7500,
+what is the selling price?
+(a) 500 (b) 3250
+() 300 (d) 3350
+RRB Group-D — 28/11/2018 (Shift-I.
+Ans: (d) On giving 30% Discount
+Selling Price = 500 x 100-30
+100
+70
+= 500x—— =% 350
+“700
+16. 71,600 was written on a shirt. During the
+Diwali festival offer, 10% discount is given on
+it. What will be the selling price of the shirt?
+(a) 21,400 (b) 21,540
+(c) %1,440 (d) 1,240
+RRB Group-D — 23/09/2018 (Shift-I.
+Ans : (c)
+The price written on the shirt ie. marked price = % 1600
+Discount = 10%
+Selling Price of the shirt
+— Marked Priced x(100-discount%)
+100
+_ 1600x(100-10)
+100
+_ 1600x90
+100
+== 1440
+Discount 17:
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0003_right.png =====
+17. Neha bought a book for 71300 at a 30%
+discount and sold it at a 30% profit. How much
+did he earn?
+(a) 2273 (b) %390
+(c) %780 (d) %0
+RRB Group-D — 26/09/2018 (Shift-II1)
+Ans: (b) According to question-
+Cost price = 1300
+Selling price = 1300x130 _ 1690
+100
+Profit = Selling price — Cost price
+Profit = 1690 — 1300 = %390
+18. Find the discount rate when the marked price
+is $1,880 and the selling price is 71,598.
+(a) 12% (b) 20%
+(c) 15% (d) 13%
+RRB Paramedical Exam — 21/07/2018 (Shift-ID
+Ans: (c) MP = 1880, SP = 1598
+Discount rate = 18801598, 199 = 159%
+1880
+19. The marked price of an article is $352 and its
+selling price is $326. What is the discount rate
+(up to one digit of decimal) given on the item?
+(a) 8% (b) 7.8%
+(c) 7.4% (d) 83%
+RRB Group-D — 26/10/2018 (Shift-IID)
+Ans : (c) Given, MP = 352 and SP = 326
+Rate of Discount = 352326 x100
+352
+= 26, 100= 7.4%
+352
+20. The current price of a computer is 32450,
+which is 12% less than its previous years price.
+What was the price of computer last year?
+(a) %37,424 (b) %36,344
+(c) 228,556 (d) %36,875
+RRB Group-D — 04/12/2018 (Shift-IIT.
+Ans. (d) Reduction in price of previous year = 12%
+Price of computer in previous year = 32450 x =
+LLL & 36875
+88
+Hence Price of computer last year was = 36,875
+21. If the market price is 30% higher than the cost
+price and a 10% discount is offered on the
+market price, indicate the profit in percentage.
+(a) 17% (b) 15%
+(c) 31/2% (d) 12%
+RRB Group-D — 28/11/2018 (Shift-I.
+Ans: (a) mark up % = 30% , Discount = 10%
+Profit %=x-y-2~
+100
+=30-10- 30x10
+100
+= 30-13 =17 % Profit
+J YCT
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0004_left.png =====
+22. Ina factory, the sales center decided not only
+to get rid of old stock but to get variable costs
+in the process. In this case, he sold each set at a
+low price of %399. If the fixed cost is 24% of the
+total cost, then what was the low cost price of
+each set.
+(a) %520 (b) %540
+(c) %525 (dd) %550
+RRB Group-D — 12/12/2018 (Shift-I
+Ans. (c)
+Di 9
+Selling Price = Marked Price x ———
+According to question,
+Selling Price = = 399
+Discount % = 24%
+399 = Marked Price x (100-24 )
+100
+Marked Price = 399%100
+76
+=21 x 25 =% 525
+23. A person saved %5 by buying a dress in a sale.
+If he spends %45, how much percent will he
+save?
+(a) 15% (b) 30%
+(c) 10% (d) 18%
+RRB Group-D — 31/10/2018 (Shift-I11)
+Ans: (c) Person has total money = 5+45 = 50
+Profit % or saving % = 2 «100
+=x100 =10%
+50
+24. <A shop sells clothes at a 60% discount on
+weekends. On Sunday, an additional discount
+of 10% is available on the discounted price. If
+you buy a shirt on Sunday for %36, how much
+more money you have to pay to buy the same
+shirt on Tuesday of the same month.
+(a) %57 (b) 50
+(c) %68 (d) 764
+RRB Group-D — 05/10/2018 (Shift-IIT.
+Ans. (d) Let the price of shirt = =x.
+Selling price of shirt on Sunday,
+=x +(1-25)(-2:) =36
+100 100
+> xx 40 36 p= 60%, D,=10%}
+100 100
+x=% 100
+Hence additional money is giving on Tuesday
+=100-36 = %64
+25. Find the selling price when the marked price is
+160 and the discount is 12%?
+(a) 140.80 (b) 132.80
+(c) 160.80 (4) 100
+RRB Group-D — 04/10/2018 (Shift-I)
+Discount 17:
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0004_right.png =====
+Ans, (a) Selling price (SP) =?
+Marked Price = & 160
+Discount (D) = 12%
+*! Selling price = Marked Price x en
+88 88
+“. SP =160x—— =8x—
+“700° 5
+SP = 7 140.8
+
+26. The price of a Television is £14000 inclusive of
+VAT. If the rate of VAT is 12%, find the basic
+price of the Television.
+
+(a) 712,000 (b) 713,000
+(c) = 12,500 (d) % 13,500
+RRB ALP & Tec. (21-08-18 Shift-I
+Ans: (c) Let The original price of television is x
+According to question, xx mz =14000
+x =%12, 500
+
+27. A shopkeeper allows a discount of 20% to his
+customers and still gains 25%. Find the
+marked price of an article which costs Rs. 600
+to the shopkeeper.
+
+(a) 2937.50 (b) %937
+(c) %930 (d) %1,000
+RRB ALP & Tec. (21-08-18 Shift-IIT,
+Ans: (a) Let the Marked Price of object = &x
+According to question-
+xx 20. 699,125
+100 100
+x= B01 937.50
+
+Marked Price (x) = %937.50
+
+28. Find the rate of discount on an article whose
+marked price is = 170 and selling price is = 130
+is:
+
+(a) 22.45% (b) 24.26%
+(c) 23.53% (d) 23.60%
+RRB ALP & Tee. (17-08-18 Shift-I.
+
+Ans: (c)
+
+Discount% = Marked price — Selling price x100
+
+Marked price
+= 107130 199 = 9 «100
+170 170
+= 23.53% (Approx)
+
+29. Two devices whose cost price is 715000 and
+%20000 they are exempted by 8% and 12%
+respectively. Find the total selling price.
+
+(a) & 30,200 (b) % 28,600
+(c) & 31,400 (d) 31,800
+RRB NTPC 26.04.2016 Shift : 1
+Ans : (c) Cost price of first device = 15, 000
+Discount = 8%
+Sellingprice = Cost price x (100 - Distount)
+100
+3 YCT
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0005_left.png =====
+1 100-
+
+Selling price = 15000(100-8) 00-8)
+100
+= 15000x92 = 1 50x92
+
+100
+Selling price of first device = 713, 800
+Cost price of second device = 20, 000
+
+Discount = 12%
+. : 20000 x (100-12
+
+Selling price = Boron (100-17) ) = 200x88
+Selling price of second device = €17600
+
+Total selling price = 13,800+17,600 = 231400
+
+30. ___ is a single discount equivalent to 25%, 20%
+and 10% successive discounts.
+
+(a) 40% (b) 46%
+(c) 50% (d) 54%
+RRB NTPC 03.04.2016 Shift : 3
+
+Ans : (b)
+
+Discount = 100x 75 ,, 80, 90 — 54%
+100 100 100
+
+Equivalent discount = 100-54 = 46%
+
+31. A publisher, adding 30% of the production cost |:
+of the book, fixed the book's selling price at
+%260. Although, he gives a discount of 12% on
+the selling price for selling the book. What will
+be the profit percentage?
+
+(a) 13.7 (b) 12.87
+(c) 13.4 (d) 14.4
+RRB Group-D — 02/11/2018 (Shift-I
+
+Ans. (d) According to question,
+
+Cost price x 130% = 260 :
+Cost price x 130_ 260
+
+100
+Cost price = %200
+
+(On 12% Discount,
+
+Selling Price = 260x 88 = 13*88 = 1144
+100 5 5
+Profit% = Selling Price - Cost Price
+Cost Price
+(us - 200) 100
+= 5)
+200
+= (1144-1000) 100 =144
+1000
+
+32. Himanshi bought a T-shirt at a discount of
+20% of its marked price. But sold it at marked |.
+price. What is the profit or loss percentage in
+the entire transaction?
+
+(a) 25% profit (b) 15% loss
+(c) 15% profit (d) 25% loss
+RRB Group-D — 19/09/2018 (Shift-1
+Ans : (a) Let MP = 100, CP = 80, SP = 100
+Profit = 20, 100
+80
+= 25% profit
+Discount 17.
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0005_right.png =====
+33. After giving 20% discount on marked price,
+Kishore earns a profit of 12%. How much is
+the marked price more than the cost price?
+
+(a) 40% (b) 32%
+(c) 25% (d) 8%
+RRB NTPC 29.03.2016 Shift : 1
+Ans: (a) Let Marked Price is 7100
+-. Selling price = 100 x 100-28 _ go
+100
+Cost price of an article = 80x 100 =80x _
+100+12 112
+_5x100 _ 500
+7 7
+Marked Price - Cost price = 100-70 = ”
+200
+% = x100 = 2 100 = 409
+Mark up % 309 <1 500 *1 40%
+7
+
+34. Shopkeeper earns 26% profit even after
+offering 10% discount on marked price. If the
+cost price is 7800, find the marked price.
+
+(a) 21120 (b) 21100
+(c) 71000 (d) 21008
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (a) Marked price of object = —_ = 21120
+
+35. An article was sold for Rs. 3600 at a discount of
+10%. Find the selling price if the discount was
+15%.
+
+(a) 3,600 (b) %4,000
+(c) 3,800 (d) 23,400
+RRB NTPC 05.04.2016 Shift : 3
+Ans :(d) Let Selling price of object = =x
+Selling price after the discount 10% =x od
+3600 = xx
+100
+x = 4000 ®.
+Selling price after the discount 15%
+= 4000x8° = 23400
+100
+
+36. A trader sells his goods at a 50% discount,
+marking 40% more than the purchase price or
+cost price. Find its profit or loss.
+
+(a) 40% Loss (b) 50% Loss
+(c) 30% Loss (d) 10% Loss
+RRB NTPC 04.04.2016 Shift : 2
+Ans: (c) % Profit / Loss = 40-50- “ = -10-20
+=30% Loss
+7 YCT
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0006_left.png =====
+37. A trader marks 20% more than the cost price |:
+on his goods. If he gives a discount of 5% what
+will be the percentage of the last profit
+received?
+
+(a) 12% (b) 14%
+(c) 15% (d) 18%
+RRB NTPC 03.04.2016 Shift : 1
+
+Ans : (b) Let the cost price is = 100 then according to
+
+question
+
+Selling price =100x (*20220),,(00-5)
+
+100 100
+= 100x120, 95. = %l4
+100 100
+Profit = S.P.-C.P
+= 3114-7100 =14
+Profit% = (i100 ns =14%6
+100
+Trick: (Profit/Loss)% = sxtyt 7 + — increase
+=+20-5+ 20x(-5) - — decrease
+100
+=+20-5-1
+Profit =14%
+
+38. A trader marks 25% more than the cost price
+on his goods and gives a discount of 8%. What
+is his profit percentage?
+
+(a) 10% (b) 15%
+(c) 12% (d) 25%
+RRB NTPC 31.03.2016 Shift : 3
+
+Ans : (b) Profit % =25-8-2>*8
+
+100
+=17-2=15%
+
+39, A shopkeeper gives two sequential discounts of
+20% and 10% and gets 7108 for his product.
+Find its actual value.
+
+(a) 7142 (b) 2147 .
+(c) 7150 (d) 2153
+RRB NTPC 28.03.2016 Shift : 3
+Ans : (c) Let the actual price of product = &x
+Price of product after sequential discount = 7108
+80 90
+xx——x—— = 108
+100 100
+x=%150
+40. Find the discount (in percentage) if a book of
+%90 marked price is sold in 776.
+(a) 14.65% (b) 15.56%
+(c) 13.45% (d) 14.75%
+RRB NTPC 18.01.2017 Shift : 1
+7 90-76
+Ans: (b) Discount %= = G9 _*100
+= 4.100
+90
+=140_ 15.56%
+9
+Discount 17
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0006_right.png =====
+41. Manish bought a mobile phone after 50%
+discount on the marked price and sold it for
+8100 at a profit of 35% of his cost price. What
+was the marked price?
+
+(a) %8000 (b) 12000
+(c) 100000 (d) 9000
+RRB NTPC 19.04.2016 Shift : 1
+Ans : (b) Let the Marked price of Mobile phone = %x
+. 50 x
+cost price = xx 003
+a . 100+35\ x
+~. Selling price ( 100 )s 2
+8100 =35,.%
+100 2
+x= 8100x100x2 =212000
+135
+
+42. What is the maximum amount of discount
+sheela can give to her customers on the marked
+price that she has neither profit nor loss on
+selling her goods, if she has already marked
+25% more than the cost price?
+
+(a) 25 (b) 20
+(c) 30 (d) 40
+RRB NTPC 19.04.2016 Shift : 2
+Ans: (b) Let the cost price = 100
+~. Marked Price = %125
++. (neither profit, nor loss) Let discount given on selling
+price for selling goods is x%.
+According to question,
+(100—x)
+125x 100 100
+(100-x)= 100x100
+125
+=> 100-x=80
+=>x= 100-80
+>x=20%
+
+43. Even at 40% discount on the marked price, a
+jacket was sold for 20% profit at %600. If it is
+sold at marked price, what will be the profit
+percent.
+
+(a) 50% (b) 75%
+(c) 100% (@) 125%
+RRB NTPC 18.04.2016 Shift : 2
+i 9)
+Ans: (c) MPx (~ =seeome) =sp
+100
+MP xO. 600
+100
+MP= 600x100
+60
+MP = 1000
+CP = SP va
+100+ 20
+CP = 600 » 100
+120
+5 YCT
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0007_left.png =====
+CP = 500
+
+if it is sold at marked price
+
+Profit% = 1000 — 500 = 500
+
+Profit% => 99 100 =100%
+500
+
+44. Ram Naresh buys a bag, whose marked price is
+%400, he buys it for 7160 after two consecutive
+discounts. If the second discount is 20%, find
+the first discount.
+
+(a) 40% (b) 30%
+(c) 50% (d) 80%
+RRB NTPC 16.04.2016 Shift : 1
+
+Ans : (c) Let the first discount = D,%
+
+According to question,
+
+400% (10. ogee) -100
+
+100 100
+= 400 «(020 160
+
+100 100
+= (100-D,)= 160x 100x100
+
+400x80
+
+= (100-D,) = 50
+D, = 100-50 = 50%
+
+Hence, the first discount = 50%
+
+45. Mukesh bought a bike at a marked price of
+%20000 after a discount of 10% and 15%
+respectively. 7700 spent on insurance and
+repairs. Then he sold his bike for %20000 find
+the profit percent.
+
+(a) No profit (b) 25%
+(c) 30% (d) 35%
+RRB NTPC 12.04.2016 Shift : 1
+Ans: (b) Cost price of Bike
+= 20000 x-(100=10) , (100-15)
+100 100
+= 2000022 , 85
+100 100
+=2x 90x 85
+= 180 x 85
+= 315,300
+Price of Bike including insurance and repair
+= 15,300 + 700 =%16, 000
+land Selling price = %20,000
+-. profit %= —Profit oft x100
+Cost price
+_ 20000-16000 100
+16000
+= 1009 100 = 10 = 259% |
+16000 4
+
+46. Aparna changes the marked price of an item to
+50% above its C.P. What % of discount is
+allowed (in approximately) to gain 10%?
+
+(a) 27% (b) 25%
+(c) 35% (d) 37%
+RRB NTPC 12.04.2016 Shift : 3
+
+Discount 17
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0007_right.png =====
+Ans: (a) Let the cost price of an item = 100
+~. Marked Price = 150
+and selling price on 10% profit = 110
+-. Discount %
+=> 150x (200=D) =110
+100
+= (100-D)= 110x100
+150
+=100-D= =
+=>D=100- *
+=>D= 300-220
+3
+>D= . = 26.66
+=>Dx27™%
+
+47. A shopkeeper marks the price of an item at
+%640. If even after 10% discount, he earns 20%
+profit on the cost price, find the cost price of
+the article.
+
+(a) %560 (b) 3480
+(c) %600 (d) 2700
+RRB NTPC 10.04.2016 Shift : 3
+Ans: (b) Selling price of an item after 10% Discount
+100-10
+= 640 (100-10) _ 64090 _ 257
+100 100
+Hence cost price of object for 20% profit.
+= __x199 = 578 100
+(100+ 20) 120
+= 8x5 =96 x 5 = 8480
+
+48. A trader marked 50% more value on an item
+and later gave 20% discount on it. What
+percentage of profit did the merchant get after
+giving a discount?
+
+(a) 30% (b) 125%
+(c) 25% (d) 20%
+RRB NTPC 09.04.2016 Shift : 3
+
+Ans : (d) Let the cost price of object = 100
+
+Then marked price on increased by 50%
+
+= 100x159 - 150
+100
+
+Selling price on giving 20% discount
+
+=150x 50 =120
+100
+
+Profit percent = 120-100 = 20%
+
+49. The marked prices of large and small note
+books are 710 and 215 respectively. A student
+bought 5 dozen small and 10 dozen large note
+books at a total discount of 5%. Find the total
+discount amount.
+
+(a) %100 (b) 7110
+(c) 120 (d) 2130
+RRB NTPC 06.04.2016 Shift : 2
+J YCT
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0008_left.png =====
+Ans : (c)
+Total price of small note books = 5 x 12 x 10 = 600
+Total price of large note books = 10 x 12 x 15 = 1800
+:. Amount of Discount = (600 + 1800) =
+=2400x—>-= 2120
+100
+
+50. A box of 20 items was purchased for a discount
+of 20% at %6400. What is the price of each]
+item?
+
+(a) 3300 (b) %350
+(c) %400 (d) %450
+RRB NTPC 27.04.2016 Shift : 2
+Ans: (c)
+Cost price one item = n =320
+Marked price of one item = z0ni00 =%400
+
+51. A shopkeeper purchased a pen drive of marked
+price 1000 at successive discounts 10% &
+15% respectively. He spent % 35 on packaging
+and sold it on & 1000. Calculate the profit
+percent.
+
+(a) No profit (b) 25%
+(c) 30% (d) 35%
+RRB NTPC 27.04.2016 Shift : 3
+
+Ans : (b) Cost Price of Pen drive
+
+_ rooo( STO 10S)
+100 100
+=1000x—2 x 85. =z 765
+100 100
+
+Total cost price = 765 + 35 =% 800
+Selling price of Pen drive =% 1000
+
+Profit = 1000-800
+
+= % 200
+Profit vo-(Box100 x )
+
+800
+
+= 25%
+
+52. Party buys a bed after a discount of 22% for
+216725. He later finds that the same store was
+selling that bed online for 715685 after a 15%
+discount. What is the difference between
+marked prices of store bought bed and marked
+price of online bed? (Rounded off to nearest®)
+(a) %2989 (b) 22785
+(c) %2897 (d) 22888
+
+RRB NTPC 28.04.2016 Shift : 1
+
+Ans: (a) Marked Price of bed bought from store
+
+=16, 725x100 _
+100-22
+=16,725x 2
+B
+= %21442.30
+Discount 17
+
+
+===== Part 8 — Discount (pp. 170–177)_page-0008_right.png =====
+Marked Price of bed on bought online
+= 15,685 x100_
+100-15
+= 15,6852
+85
+= %18452.94
+Required difference = 21442.30 — 18452.94
+= 2989.36 = %2989
+53. A saree is sold for %5871 after a discount of
+5%. Find its marked price.
+(a) 5577 (b) 6880
+(c) 6180 (d) 5734
+RRB NTPC 28.04.2016 Shift : 1
+Ans : (c) Marked Price of Saree = 5871 x00
+100-5
+=5871x100 = z6180
+95
+54. A shopkeeper buys a stereo system of 22000
+marked price after a discount of 10% and 15%
+respectively. He spends 270 to get it packed
+and sells it for %2000. State the percentage
+profit of the shopkeeper.
+(a) Not profit (b) 25%
+(c) 30% (d) 35%
+RRB NTPC 29.04.2016 Shift : 2
+Ans: (b) Cost price of stereo system
+2000x(100-10) (100-15
+= x| ——
+100 100
+= 2000x208
+100 100
+= 1530
+Total expense = 1530 + 70 = 1600
+Profit = 2000-1600 = 400
+Profit % = es UY — 400%100 =25%
+Cost Price 1600
+55. A shopkeeper gives his customer 10% discount
+on the marked price of an item, yet he gets
+26% profit. If the marked price is %560,
+calculate the cost price.
+(a) %400 (b) %450
+(c)_ %396 (@)_ %404
+RRB Paramedical Exam — 20/07/2018 (Shift-IID
+Ans. (a):
+-Di 9
+Selling Price = Marked Prie{ 0O-DisSount)
+100-10
+= 560x| ——
+56 -( i” )
+=560x 50 8 504
+100
+* Cost Price =( ——!0° ___.) setting Price
+100+ Profit %
+Cost Price = 100, 504 = %400
+126
+y YCT

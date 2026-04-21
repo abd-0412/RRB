@@ -1,0 +1,2215 @@
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0001_left.png =====
+06.
+————————
+1. 5% population of a town died of a epidemic,
+and 8% panicked and left the town from rest
+population. If the present population of the
+town is 88274, then initially find the total
+population of the town.
+(a) 1,21,600 (b) 1,01,000
+(c) 99,800 (d) 84,500
+RRB RPF Constable -17/01/2019 (Shift-IIT
+Ans : (b) Let the population of the town is 100%.
+Rest population after epidemic = 95%
+The population who left the town with panic = 8%
+95x92 9
+Rest people = 00 = 87.40%
+Given,
+87.40% = 88274
+0, . 88274 x 100 _ !
+100% = —3740 > 1,01,000
+Hence, the total population of the town is 1,01,000
+
+2. The population of a village increased from
+18000 to 22500. What is the increase
+percentage?
+
+(a) 25% (b) 15%
+(c) 30% (d) 20%
+RRB JE - 29/05/2019 (Shift-IIL
+
+[Ans : (a) Required increase percentage
+
+_ (22500-18000)x100 _ 4500x100 _ 259%
+18000 18000 :
+
+3. The population of a town increased by 10%
+and 20% in two successive years, but decreased
+by 25% in the third year. Find the ratio of the
+population in the third year and the population
+3 year back. '
+(a) 100: 99 (b) 99: 100
+(c) 2:1 (d) 1:1
+
+RRB JE - 01/06/2019 (Shift-I
+Ans: (b) Let the population of the town is x.
+Population after three years,
+x (l00#10) | (100+ 20) , (100-25)
+100 100 100
+110 120) 75 _ 99x
+XX——xX—— x =
+100 100 100 100
+99x
+Population in third year _ 100
+Population before three years = x
+= 99,1 _ 99 _ oo.
+100 x 100 a
+Percentage 13:
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0001_right.png =====
+Percentage
+TS
+4, 62% population of a town is educated. If the
+
+number of uneducated people in the town is
+24567, then what is the number of educated
+people?
+(a) 41823 (b) 64650
+(c) 35688 (d) 40083
+RRB Group-D — 08/10/2018 (Shift-1
+Ans. (d) : Educated population of the town = 62%
+Uneducated population = (100 - 62) = 38%
+If the total population of the town is x, then number ot
+uneducated people
+24367 = 2238
+100
+xe ee = 64650
+So, the total educated population of the town
+64650 x 62
+100 40083
+5. What will be the population of a town after two
+years, if the present population is 1,20,0000 and
+population growth rate is 4%?
+(a) 1297920 (b) 1207920
+(c) 1300000 (d) 1297820
+RRB Group-D — 24/09/2018 (Shift-I)
+Ans : (a)
+The present population of the town = 1,20,0000
+% growth rate = 4%
+2
+Population after two years = 1200000(1+;45)
+26 26
+1200000 x arr
+_ 1200000 x 676 _ 1297920
+625
+6. The population of a town is growing at a rate of
+5% per year. If the present population of the
+town is 1,85,220, then what was the population
+of the town one year ago?
+(a) 1,76,000 (b) 1,70,500
+(c) 1,76,400 (d) 1,76,200
+RRB Group-D — 16/10/2018 (Shift-1
+Ans. (c) : Let the population of the town before a year|
+was 100x.
+And it is growing at a rate of 5%,
+The present population = 105x
+According to the question,
+105x=185220
+x=1764
+The population before a year = 100x
+= 100x1764 =176400
+3 YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0002_left.png =====
+7. The population of a town is 8000. If the men
+are increased by 8% and women by 12%, then
+the population will be 8680. Find the number
+of women in the town.
+
+(a) 2500 (b) 1500
+(c) 2000 (d) 1000
+RRB Group-D — 30/10/2018 (Shift-I)
+
+Ans: (d) Let the number of men in the town is x.
+
+So, the number of women = 8000 - x
+
+According to the question,
+
+=xx108, (go00- 2) x U2 = 8680
+
+100 100 |
+— 108x+8000x112-112x _ 8680
+
+100
+
+= 896000 - 4x = 868000
+4x = 896000 - 868000
+4x = 28000
+x= 7000
+
+So, the number of women = 8000 — 7000 = 1000
+
+8. In 2018, the population of a colony became
+54000, which is increasing at a rate of 5% per
+year. Find the population of the colony two
+years ago?
+
+(a) 45980 (b) 48980
+(c) 49500 (d) 50000
+RRB Group-D — 09/10/2018 (Shift-I
+
+Ans. (b) : Let the population of the colony was P, two)
+
+years ago.
+
+So, the population two years ago
+
+2
+
+54000 = (+55)
+
+100
+
+21, 21
+
+54000 = Px 20°30
+
+P= 54000 x 20x20
+21x21
+P= 21600000
+
+441
+P = 48980 (Approximately)
+
+9. The number of people in a town increased by
+3% at the beginning of each year. If the present
+population of the town is 30,00,000, then the
+population after three years will be:
+
+(a) 3277181 (b) 3217881
+(c) 3278181 (d) 3281781
+RRB Group-D — 02/11/2018 (Shift-II)
+Ans. (c) Population of the town after n years,
+. Tr
+present population (1 + a
+
+(Where, n = 3 years, and r= 3%
+
+3
+
+So, the population after 3 years = 30,00,000{1 + a)
+
+= 30,00,000x 103 x103x103
+100x100x100
+= 3x 103 x 103 x 103 = 3278181
+Percentage 13¢
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0002_right.png =====
+10. 111 out of 200 people in a village are literate.
+What is the percentage of uneducated people in
+the village?
+
+(a) 45% (b) 44.5%
+(c) 55.5% (d) 54%
+RRB NTPC 18.01.2017 Shift : 3
+
+Ans : (b)
+
+The number of uneducated people = 200 - 111 = 89
+
+So, the required % = = 100=
+
+200
+
+11. The ratio of boys and girls in a school is 3:2. If
+20% boys and 25% girls get the scholarship,
+then how many percentage of students do not
+get the scholarship?
+
+(a) 80% (b) 70%
+(c) 56% (d) 78%
+RRB JE - 02/06/2019 (Shift-IIT.
+
+Ans : (d) Let the number of students = 3x
+
+The number of girls in the school = 2x
+
+The number of total students = 5x
+
+The number of boys who do not get the scholarship
+
+80 _ 12x
+= 3xx—— =
+100 5
+The number of girls who do not get the scholarship
+75 _ 3x
+= 2xx—— =
+100 2
+
+The number of students who do not get the scholarship
+
+12x 3x _ 39x
+
+at un
+
+5 2 10
+39x
+So, the required percentage = aa 100
+x
+= 215100 = 73%
+10 5x
+
+12. If Anju scored 68 out of 80 in Hindi, 46 out of
+60 in Mathematics, 74 out of 90 in Science, and
+35 out of 45 in English, in which subject did
+Anju score the maximum percentage marks ?
+(a) Mathematics (b) Hindi
+(c) English (d) Science
+
+RRB RPF-SI -05/01/2019 (Shift-ID
+
+Ans : (b) Hindi % = 88 100 = 8.5 =85%
+
+80 4
+Mathematics % = 46, 100 -*, $= a 16.67%
+60 3 3
+
+Science % = 4,100 =M0_ 82.22%
+
+90 9
+English % = 3, 100 = 33, 20= 100 _ 71.2%
+
+45 9 9
+So, Anju got maximum percentage in hindi.
+} YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0003_left.png =====
+13. In an examination, 40 out of 85 students scored
+less than 50%. The ratio of the number of
+students, scoring less than 50% to the number
+of scoring 50% or more marks is:
+
+(a) 8:9 (b) 3:4
+(c) 9:8 (d) 5:7
+RRB RPF Constable -18/01/2019 (Shift-I
+Ans : (c) The required ratio
+= (85-40) : 40
+= 45:40
+=9:8
+
+14. The percentage of obtained marks should be
+42% to pass an exam. If the maximum marks is
+450, then how many marks must be obtained to
+pass the exam?
+
+(a) 201 (b) 168
+(c) 210 (d) 189
+RRB Group-D — 15/11/2018 (Shift-IID
+
+Ans. (d) : Maximum marks = 450
+
+The percentage of marks obtained to pass the exam =|
+
+42%
+
+So, the marks obtained to pass the exam
+
+= 450x 2 189
+100
+
+15. Ina test Chitra scured 58.5 marks that was also
+equivalent to obtaining 78% marks. How many
+marks was the test out of?
+
+(a) 85 (b) 65
+
+(c) 75 (d) 80
+
+RRB Group-D — 19/09/2018 (Shift-I
+Ans. (c) : If the maximum marks were N,
+Then, 58.5 = Nx8
+100
+
+y 2585045
+
+78
+
+16. 5% students are absent in a class, some day. If
+the number of present students is 38, then what
+is the total number of students in the class that
+day?
+
+(a) 40 (b) 50
+(c) 33 (d) 45
+RRB Group-D — 20/09/2018 (Shift-IIT.
+
+Ans : (a) Let the total students in the class = 100%
+
+% of students present in the class = 100 — 5 = 95%
+
+The students present in the class = 38
+
+So, the number of total students = 38x00 =40
+
+17. Ram obtained 40% marks in an exam and
+failed by 20 marks. Aditya obtained 45%
+marks and that is 30 marks more than the
+passing marks. What is the percentage of
+passing marks?
+
+(a) 38% (b) 42%
+(c) 43% (d) 33%
+RRB Paramedical Exam — 20/07/2018 (Shift-II1)
+
+Percentage 13:
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0003_right.png =====
+Ans : (b) According to the question,
+40% marks + 20 marks less = 45% marks — 30 marks
+more
+20 + 30 =5%
+5% = 50
+1% =10
+100% = 1000
+So, the total marks to pass = 1000x = +20
+=420
+So, the % marks (%) = 420, 100 = 42%
+1000
+18. Pranjoy obtained 272 marks in an exam, which
+was equal to get 64% marks. What was the
+exam score?
+(a) 425 (b) 475
+(c) 450 (d) 440
+RRB Group-D — 26/09/2018 (Shift-1
+Ans : (a) According to the question,
+64% = 272
+1%= 272
+64
+100% = a 100 =425 marks
+So, the maximum marks of the exam were 425.
+19. A student needs 40% marks to pass. He
+obtained 40 marks in an exam and he failed by
+40 marks. What are the maximum marks that
+can be obtained for the exam?
+(a) 500 (b) 400
+(c) 250 (d) 200
+Ans. (d) : Let the total maximum marks be x.
+According to the question,
+XX 40. 40+40
+100
+A0x _ 80
+100
+x= 200
+20. The following table shows the results of the
+students participated in the exam. What is the
+percentage of the passed students?
+[ Result _| Number of students
+[Pass [150
+[Fal [100
+{a) 40% (b) 60%
+(c) 50% (d) 30%
+RRB Group-D — 04/10/2018 (Shift-I
+Ans: (b)
+The % of passed students = Passed students |
+Total students
+=12 100
+250
+= 60%
+J YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0004_left.png =====
+21. A candidate obtains 20% marks and got fail by
+35 marks, while another candidate obtains
+50% marks, which is 32 more than the passing
+marks, What are the maximum marks of the
+exam?
+(a) 250 (b) *
+(c) 450 (d) 500
+RRB Group-D — 30/10/2018 (Shift-I11)
+Ans. (b) Let the maximum marks of the exam be x.
+20% x + 35 = 50% x — 32
+35 + 32 = 50% x- 20% x
+67 = 30%x
+30%x = 67
+30, =67
+100
+xsl
+3
+22. Durba got 70% marks in an exam. He obtained
+20 out of 25 marks in another exam. If his total
+score is 78% then what were the maximum
+marks of the first exam?
+(a) 7.6 (b) 6.25
+(c) 7.25 (d) 6
+RRB Group 'D' 07/12/2018 (Shift-I.
+Ans : (b) Let the maximum marks of the first exam be
+xX.
+And the passing marks = y
+According to the first condition,
+y_ ym
+x 100’ * 10
+According to the second condition,
+y+20_ 78
+x+25 100
+7x+200_ 78
+x+25 10
+70x + 2000 = 78x + 1950
+8x = 50
+x= 6.25
+Therefore, Maximum marks = 6.25
+23. A student had got few marks from maximum
+marks probably. These marks were 75% as %.
+If one more question would be added of one
+mark in the exam then his obtained marks
+percentage would have 76%. What were the
+initial maximum marks of the exam?
+(a) 24 (b) 25
+(c) 20 (19
+RRB Group 'D' 07/12/2018 (Shift-1
+Ans: (a) Let the maximum marks = x
+and the student had got y marks.
+According to the first condition,
+yD
+x 100
+Percentage 13
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0004_right.png =====
+3x
+yaa @
+According to the second condition,
+y+l_ 76
+x+1 100
+3x +1
+4 _ 76 0
+x+1 100 {from eq’. (D}
+3x+4_ 76
+x+1 25
+75x + 100 = 76x + 76
+x= 24
+24. The minimum passing marks in an exam are
+38%. If maximum marks are 750, then how
+many marks a student need to pass the exam?
+(a) 285 (b) 304
+(c) 323 (d) 266
+RRB Group-D — 05/12/2018 (Shift-I1T
+Ans : (a) Minimum required marks to pass the exam
+=750x els =285
+100
+25. A exam was organized for class 10" students,
+96% students passed and 50 failed. How many
+students were present in the exam?
+(a) 1600 (b) 1400
+(c) 1200 (d) 1250
+RRB Group-D — 15/10/2018 (Shift-IID)
+Ans. (d) Let the number of students = 100%
+Passed students = 96%
+Failed students = 4%
+4% = 50
+1%=22
+4
+So, the number of students present in the exam
+= 100% mn =1250
+26. Diksha obtained 58% marks in an exam,
+maximum marks of which were 450. She got
+how many marks?
+(a) 276 (b) 261
+(c) 290 (d) 275.5
+RRB Group-D — 01/10/2018 (Shift-IIT.
+Ans : (b) Diksha obtained marks = 58%
+Maximum marks = 450
+So, the marks obtained by Diksha
+mae x 450
+100
+_ 58x9
+2
+= 261
+27. 60% are boys in a class of 60 students. If 25%
+girls go to school on bicycle, then find the
+number of girls who do not go to school on
+bicycle?
+J YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0005_left.png =====
+(a) 24 (b) 27 .
+(c) 18 (d) 36
+RRB NTPC 18.01.2017 Shift : 2
+Ans : (c)
+
+[Number of boys in 60 students = os =36
+
+Then, number of girls = 60 - 36 = 24
+
+The girls who ride on bicycle to go to school
+
+_ 24x25 _ 6
+100
+
+So, the required number of girls = 24 - 6 = 18
+
+28. A student scored 22 marks out of 25 in a class
+examination. The percentage marks of the
+student is:
+
+(a) 88 (b) 80
+(c) 90 (d)_ 75 |
+RRB NTPC 17.01.2017 Shift-1
+Ans : (a) Scored marks = 22
+Maximum marks = 25 )
+So, the percentage of gained marks = F100
+= 22 x 4= 88%
+
+29. If the marks of a student increased by 25%
+then his test’s score became 75. What is his real
+obtained mark?
+
+(a) 60 (b) 50
+(c) 15 (d) 25
+RRB NTPC 17.01.2017 Shift-2
+Ans : (a) Let the original marks = x.
+Then, according to the question,
+a xxi75 x= Bx - 6
+100 125
+
+30. A student scored 9 marks out of 25 in an exam |.
+organized in a class. Express the marks
+obtained by the student in percentage.
+
+(a) 30 (b) 36
+
+(c) 35 (d) 25
+
+RRB NTPC 17.01.2017 Shift-3
+Ans: (b) Obtained marks = 9
+Total marks = 25
+So, % of obtained marks,
+a2 x 100 = 36
+25
+
+31. A student scored 470 marks in 6 subjects. The
+maximum marks for each subject was 100.
+What was his score in percentage terms?
+
+(a) 67.33% (b) 69.45%
+(c) 78.33% (d) 78.67%
+RRB NTPC 05.04.2016 Shift : 3
+
+Ans : (c) Total marks = 600
+
+Obtained marks = 470
+So, the required % = 470100
+600
+= 78.33%
+Percentage 13’
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0005_right.png =====
+32. ‘In a test, Charan secured 54 marks that was
+also equivalent to obtaining 72% marks. How
+many marks was the test out of?
+
+(a) 75 (b) 85
+(c) 80 (d) 65
+RRB ALP & Tec. (30-08-18 Shift-I
+
+Ans : (a) Marks secured by Charan = 54 which is 72%
+
+of the total marks.
+
+If the total marks of the exam is x, then
+
+54 -Xx72
+100
+100x 54
+x=
+2
+x = 75 marks
+
+33. Moris spent 25% of his income on food. He got
+an increment of 1000, but he did not expand
+his expense on food stuffs. Therefore, his
+expense of food decreased to 20%. What was
+his initial income?
+
+(a) = 6500 (b) 76000
+(c) = 5000 (d) 74000
+RRB RPF SI -16/01/2019 (Shift-I)
+Ans : (d) Let the initial income = %y
+According to the question,
+25 20
+»* 700 (y+1000) 75
+25y - 20 y = 20000
+Sy = 20000
+y = %4000
+
+34. Arun’s income is 150% of Bala’s income.
+Chandu’s income is 120% of Arun’s income. If
+the total income of Arun, Bala and Chandu is =
+86000, then find Chandu’s income.
+
+(a) 36000 (b) %32000
+(c) = 30000 (d) 734000
+RRB RPF Constable -19/01/2019 (Shift-IIT)
+Ans: (a) Let Bala’s income = &x
+So, Arun’s income = x a = 3x
+100 2
+And Chandu’s income = 3x, 120 =2x
+2 100 5
+According to the question,
+xt 3x + ox 86000
+2 5
+10x + 15x +18x = 86000
+10
+43x = 10 x 86000
+x = 20000
+So, Chandu’s income a = %36000
+y YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0006_left.png =====
+35. The annual income of Somnath is & 24,00,000.
+He pays & 40,000 EMI for his vehicle every
+month. What percentage of his monthly income
+is spent on EMI?
+
+(a) 20 (b) 18
+
+(c) 10 (d) 24
+
+RRB Group-D — 15/11/2018 (Shift-I)
+Ans: (a) Somnath’s annual income = 2400000
+Monthly income = 2400000 = 200000
+Monthly payment of EMI = 40000
+So, the required % = a 100 = 20%
+200000
+
+36. Reenu uses averagely 15% on shopping,
+restaurant and going into malls of her monthly
+salary. Rest 40% is used in home expenditure,
+and 45% goes to her savings. If she spends
+40,000 on home in a month, then what is her
+annual income?
+
+(a) 71020000 (b) 71400000
+(c) 1200000 (d) 71000000
+RRB Group-D — 16/10/2018 (Shift-I)
+Ans. (c) : According to the question,
+40% = 40000
+100% = “002.100 = 100000
+So, annual income = 12 x 100000 = 1200000
+
+37. Seema’s annual income is & 15,00,000. she pays |.
+an EMI of & 30,000 per month. What
+percentage of her monthly income goes to
+EMI?
+
+(a) 24 (b) 26
+(c) 28 (d) 25
+RRB Group-D — 28/09/2018 (Shift-II1)
+Ans : (a) Seema’s annual income = & 15,00,000
+So, the monthly income = aaoe
+=% 1,25,000
+EMI payment of every month = = % 30,000
+So, the required % = 30,000 «100
+125,000
+_ 3000
+125
+= 24%
+
+38. Sunaina works in a private company and her |.
+annual income is ¥ 3,00,000. She has a new and
+an old vehicle. 5% of her income is spent on
+keeping of new vehicle and 2% more than the
+new one is spent on old one. What is the total
+annual expenditure on both vehicles?
+
+(a) %20,000 (b) %36,000
+(c) %12,500 (d) %25,000
+RRB Group-D — 28/09/2018 (Shift-III)
+Percentage 13
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0006_right.png =====
+Ans : (b) Annual income of Sunaina = = 3,00,000
+Expenditure on new vehicle = 5% of the income
+= 300000x—
+100
+= % 15000
+Expenditure on old vehicle = 5 + 2=7%
+= 300000x—L =%21000
+100
+So, the total expenditure on both vehicles
+= 15000 + 21000 = % 36000
+39. Every month, Kritika spends 30% on house
+rent of her income and 60% of the rest on
+home expenditure. If she does a savings of %
+6300, then what is her total monthly income?
+(a) %22,000 (b) 20,500
+(c) %22,500 (d) 25,000
+RRB Group-D — 17/09/2018 (Shift-I1)
+Ans : (c) Let her monthly income is = = 100x
+ay So, the rent expenditure = & 30x
+a Home expenditure = 10x x60 =%42x
+100
+an Total expenditure = 30x + 42x = 72x
+o So, the savings = 100x — 72x = 28x
+So, the monthly income of Kritika (100x) = x x100
+=%22500
+40. Minakshi spends averagely 10% of her
+monthly salary on shopping, restaurant and
+going to malls. Rest 80% is spent on her home
+expenditure and 10% are saved. If the monthly
+home expenditure is = 48,000, then what is the
+monthly income?
+(a) = 60,000 (b) = 80,000
+(c) &1,20,000 (d) % 54,000
+RRB Group-D — 25/09/2018 (Shift-III)
+Ans. (a): Let the monthly income = 100%
+Home expenditure = 80%
+Monthly home expenditure = & 48,000
+-. 80% = 48000
+100% = 48000 x100
+80
+= 600x100
+So, the monthly income is = %60000
+41. Pramod uses averagely 10% of his monthly
+income for filling the petrol in his car. Rest
+80% is spent on home expenditure and he saves
+10% of his salary. If he monthly spends =
+24,000 on home expenditure then what is his
+annual income?
+(a) = 360000 (b) % 160000
+(c) % 80000 (d) % 240000
+RRB Group-D — 26/09/2018 (Shift-III)
+3 YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0007_left.png =====
+Ans : (a) Let the monthly income is = %x
+(Monthly home expenditure = 80% = %24000
+xx 80 = 24000,
+100
+x= 30000
+So, the annual income = 30000 x 12 = 360000
+42. Manoj spends 33% of his income on food. He
+got an increment of % 1000, but he did not
+expand his expenditure on food. So, his
+expenditure on food reduced to 27%. What
+was his initial salary? .
+(a) %4,500 (b) %6,500
+(c) %5,500 (d) %5,000
+RRB Group-D — 04/10/2018 (Shift-I)
+Ans: (a) Let Manoj’s income = x 0
+Food expenditure = xx = 33x
+100 100
+Manoj’s new income = x + 1000
+Deduction in expenditure = (x +1000)x =
+Previous expenditure = new expenditure
+33x _ 27x +27000
+100 100 )
+33x = 27 x + 27000
+6x = 27000
+x = 4500
+So the initial salary is 4500
+43, Suman is a hostess of an agricultural land. She
+had let it on lease to a third party for five year.
+Instead of this income she also gets an annual
+salary of & 6,00,000. In five years, total income
+of agricultural land is 50% of her annual
+income. How much money she earns each}
+year?
+(a) %3,00,000 (b) %6,60,000
+(c) %6,00,000 (d) %6,30,000
+RRB Group-D — 10/10/2018 (Shift-I
+Ans : (b) Annual salary of Suman = 6,00,000%
+Income from agriculture in five years = one years’
+income So
+100
+500,000 50 _ sq 9999
+100
+So, income from agriculture in one year
+= 30,0000 ~ = 60000
+So, total annual income = 600,000 + 60000 = 7660000
+44, If Santi spends 50% of his monthly income on
+food, 20% on rent and saves Rs 1500 then,
+what is his monthly income?
+(a) = 5500 (b) % 5000
+(c) € 6000 (d) % 4500
+RRB Group-D — 24/10/2018 (Shift-I1)
+Percentage 13!
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0007_right.png =====
+Ans, (b) : Let the monthly salary = %x
+Total expenditure = 50% + 20% = 70%
+And savings = 30%
+Savings = 1500
+30
+So, x00 1500
+X23 _ 1500
+10
+x =5000
+So, the monthly salary is = 75000
+45. Nathan’s annual income is < 15,00,000 and he
+pays monthly an EMI of & 40,000 for his
+vehicle. What percentage of his monthly
+income goes to EMI?
+(a) 28% (b) 32%
+c) 24% d) 20%
+Ans. (b) : Nathan’s annual income = %15,00,000
+So, his monthly income = ae = 125000
+So, the required %,
+— 40000x100 _ 4000 =32%
+125000 125
+46. Alok saves % 1200 after spending 85% of his
+salary. What is his monthly salary?
+(a) 78,000 (b) 78,500
+(c) & 10,000 (d) 712,000
+RRB Group-D — 19/09/2018 (Shift-1
+Ans : (a) Let the monthly salary of Alok is & x
+According to the question,
+1200 = xx 2%
+100
+x =% 8000
+47. A person pays as his debt Rs 8960 monthly,
+which is 28% of his monthly salary. Calculate
+his monthly salary.
+(a) %32,000 (b) %34,000
+(c) %28,000 (d) 30,000
+RRB NTPC 18.01.2017 Shift : 1
+Ans: (a) According to the question,
+28% = 8960
+- 100% = onx100 = 32000,
+So, the monthly salary = ¥32000
+48. 30% increment was done to an employee’s
+salary, so that his salary became % 910. What
+was his salary before increment?
+(a) 71300 (b) %880
+(c) %700 (d) %810
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (c) Let the old salary = 100x
+On 30% increment,
+130x=%910 9 x=27
+So, the salary before increment
+= 100x = 100 x 7=%700
+) YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0008_left.png =====
+49. Tanya got an increment of 15% in her salary.
+If her enhanced salary is 714,030. What was
+her original salary ?
+
+(a) 712,400 (b) 212,000
+(c) %12, 300 (d) 212,200
+RRB ALP & Tec. (21-08-18 Shift-I)
+Ans: (d) Let the initial income = &x
+According to the question,
+a = 14030, x = % 12,200
+100
+
+50. Veer spends 15% of his monthly income on the
+house rent and 60% of the rest on household
+expenditure. If he saves %2210, what is his
+monthly income ?
+
+(a) 76500 (b) = 7500
+(c) % 8000 ({d) % 7000
+RRB ALP & Tee. (10-08-18 Shift-I
+Ans: (a) Let the monthly income of Veer = =x
+According to the question,
+x of L00=15) jp (100-60) _ 5545
+100 100
+bed 5 x Ao 2210
+100 100
+x= 2210x100x 100 = 26500
+85x40
+
+51. If 20% of a=b, then b% of 20 is equals to what
+
+of the following?
+(a) 20% ofa (b) 4% ofa
+(c) 5% ofa (d) 30% ofa
+RRB JE - 24/05/2019 (Shift-I
+Ans : (b) Let b% of 20, is equal to x% of a.
+ax 20% =b
+> ax a b
+100
+> a=5b
+o 20x 2 ax
+100 100
+> 20b = ax
+> 20x2=ax
+5
+x=4%
+52. 1 min 12 sec of 1 hour is how much?
+(a) 2% (b) 12%
+(c) 11% (d) 1.2%
+RRB RPF SI -06/01/2019 (Shift-IL
+
+[Ans : (a) The required percentage,
+
+a (60sec. +12sec.) 199 72 gg a0%
+60x60 60x60
+
+53. If 40% of 70, is x % more than 30% of 80, then
+find the value of ‘x’.
+
+(a) 40% (b) 16.67%
+(c) 14.28% (d) 33.33%
+RRB RPF SI -13/01/2019 (Shift-II)
+
+Percentage 14(
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0008_right.png =====
+Ans: (b) 40% of 70 = 70x42 = 28
+100
+30% of 80 = 80x20. =24
+100
+Difference = 28 -24=4
+According to the question,
+28, is x % more than 24
+o x= 4x10
+24
+x= 16.66 ~ 16.67%
+54. The 8" share of a number, is equal to what
+percentage of it?
+(a) 12.5% (b) 25%
+(c) 2.5% (d) 1.25%
+RRB JE - 26/05/2019 (Shift-ID)
+Ans : (a) Let the number be x and its 8" share is equal
+to its y%.
+According to the question,
+x y
+==xx—~
+8 100
+= 100
+8
+55. If 75% of 480 + x % of 540 = 603, then find the
+value of ‘x’.
+(a) 55 (b) 65
+(c) 35 (d) 45
+RRB JE - 27/05/2019 (Shift-II.
+Ans: (d) Given,
+75% of 480 + x % of 540 = 603
+480x—2>+540x— = 603
+100 100
+540x— = 603-480x>
+100 4
+540x = 603-360
+100
+540x— = 243
+100
+x = 243x100 |
+540
+56. A number, when 35 subtracted from it, reduces
+to its 80%. What is four-fifths of that number?
+(a) 90 (b) 120
+(c) 140 (d) 70
+RRB JE - 30/05/2019 (Shift-I1)
+Ans : (c) Let the number be x.
+According to the question,
+x-35=xx 80
+100
+x-35= 4x
+5)
+5x-175 = 4x
+x=175
+So, four-fifths of the number = 175 x2 =140
+) YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0009_left.png =====
+57. If 5% of A + 4% of B = 2/3 (6% of A + 8% of |.
+B), then find A : B.
+(a) 1:1 (b) 4:3
+(c) 1:2 (d) 5:4
+RRB JE - 30/05/2019 (Shift-IT.
+Ans: (b) Given,
+5% of A + 4% of B = 2/3 (6% of A + 8% of B)
+AxS | Bx4 _ 2) 6xA | 8xB '
+100" 100 3\ 100 ~ 100
+SA _12A_16B_ 4B
+100 300 300 100
+3A _ 4B
+300 300
+3A=4B
+ALA A:B=4:3
+B 3
+58. What is the percentage form of the ratio 1 : 8?
+(a) 6.25% (b) 12.5%
+(c) 8% (d) 80%
+RRB JE - 28/05/2019 (Shift-I
+Ans : (b) Percentage form of the ratio 1 : 8,
+= 100 =12.5% :
+59. 76% of a number is 95. The number is:
+(a) 124 (b) 125
+(c) 120 (d) 130
+RRB Group-D — 25/09/2018 (Shift-II)
+Ans : (b) Let the number be x.
+According to the question, '
+76
+**T 997 95
+95x100
+x=
+76
+5x100
+x=
+4
+x= 125
+60. Find the number, which is 30% more than 240.
+(a) 312 (b) 340
+(c) 331 (d) 320
+RRB Group-D — 31/10/2018 (Shift-ID)
+Ans: (a) The required number,
+240x130 _ 312
+100
+61. 108% of a number is 189. What is the number?
+(a) 200 (b) 175
+(c) 190 (d)_ 180
+RRB Group-D — 10/10/2018 (Shift-I1T.
+Ans: (b) Let the number be x. |
+108
+—=1
+**700 89
+189x100
+x=
+108
+Percentage 14)
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0009_right.png =====
+62. | What percent is 6 hours of a day?
+(a) 30% (b) 40%
+(c) 25% (d) 45%
+RRB Group-D — 31/10/2018 (Shift-I
+Ans: (c) One day = 24 hours
+“ s 100 = 25%
+24
+63. What is the percentage of 15 minutes of
+1
+1- days?
+3 aays
+(a) 10% (b) o%
+25, 2
+=% d) 41=%
+© 3% @) 413%
+RRB Group-D — 05/11/2018 (Shift-I.
+Ans. (c) Number of minutes in y days, = 3 24x60
+= 36x60 min.
+So, the required %,
+=, 100 = By,
+36x60 36
+64. 48outof60is ss %.
+(a) 72 (b) 75
+(c) 78 (d) 80
+RRB Group-D — 05/11/2018 (Shift-I1T
+Ans. (d) The required percentage,
+48x100 _ 80%
+60
+65. What will be 46% of 250?
+(a) 92 (b) 115
+(c) 126.5 (d) 103.5
+RRB Group-D — 23/10/2018 (Shift-I
+Ans. (b) The required percentage,
+250x46 _ 25x46 _ 1150 _ 1s
+100 10 10
+66. A number becomes 725 when increased by
+45%. Find the number.
+(a) 500 (b) 450
+(c) 600 (d)_ 525
+RRB Group-D — 09/10/2018 (Shift-ID)
+Ans. (a) Let the number be x.
+According to the question,
+x + Bx = 725
+100
+100x +45x _ 725
+100
+145x = 725 x 100
+x= 500
+67. What is 15% of 34?
+(a) 5.1 (b) 5
+(c) 5.2 (d) 49
+RRB NTPC 17.01.2017 Shift-1
+Ans : (a) The required percentage,
+34x15 _ 510
+ak Pas 1
+100 100
+{ YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0010_left.png =====
+68. What is 40% of three-fifth of 24?
+(a) 14.4 (b) 5.76
+() 72 (@) 96
+RRB NTPC 17.01.2017 Shift-2
+Ans : (b) The required percentage,
+24x 3.40% = 24x3x 40 = =5.76
+5 5 100 25
+69. Express 95 out of 200 in percentage:
+(a) 42.5% (b) 47.5% |
+(c) 45% (d) 95%
+RRB NTPC 18.01.2017 Shift : 2
+Ans: (b) The required percentage,
+3 100 = 47.5%
+200
+70. Find the missing value marked by ‘?’ :
+‘2? % of 40 = 1.20
+(a) 3 (b) 9
+() 4 (@ 5
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (a) From given expression,
+2 % of 40 = 1.20
+40-120 © 91202100
+100 40
+2= 120 >2=3
+40
+71. A team wins 45 games, which was 60% of}
+played games. How many games were played
+by team?
+(a) 50 games (b) 75 games
+(c) 60 games (d) 65 games
+RRB NTPC 28.04.2016 Shift : 3
+Ans : (b) Let the number of played games by the team
+bex.
+According to the question,
+x x 60% = 45
+>x= & x100 !
+60
+-y=3 =
+“xX =—x100=75
+4
+So, the number of played games by the team is 75.
+72. 32 % of which number is 25.6?
+(a) 8.19 (b) 32
+(c) 80 (d) 10.24
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (c) Let the number = x
+xx>2. 22565 x = 29-6100 !
+100 32
+x= 2560 =>x=80
+32
+73. 72% of a number is 90. What is the number?
+(a) 120 (b) 125
+(c) 130 (d) 124
+RRB ALP & Tec. (30-08-18 Shift-I)
+Percentage 14;
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0010_right.png =====
+Ans : (b) Let the number be x, then
+90 = Xx72
+100
+10=%% 8
+100
+_ 1000
+x=
+8
+74. What is the 58% of 350 ?
+(a) 217 (b) 203
+c) 210 d) 196
+Ans: (b) 58% of 350
+=350x 28 =7 x38 = 7x 29 = 203
+100 2
+
+75. 84% of a number is 105. The number is:
+(a) 120 (b) 112
+(c) 125 (d) 115
+
+RRB ALP & Tee. (21-08-18 Shift-II
+
+Ans : (c) Let the number be x.
+
+According to the question,
+
+xx 84 2 195, x = 105x100
+100 84
+x = 125
+
+76. The price of a book was first increased by 25%
+and then reduced by 20%. What is the change
+in its original price?
+
+(a) 5% decrease (b) No change
+(c) 10% increase (d) 10% decrease
+RRB JE - 25/05/2019 (Shift-II1)
+xy
+
+Ans: (b) Percentage change = x - y-——
+
+(b) iB Bi ¥~ Too
+= 25-29 -25%20 _ 9595 = 0%
+100
+
+77. If the consumption of sugar increases from 12
+kg to 15 kg, then find the percentage growth.
+(a) 39.2% (b) 20%
+
+(c) 25% (d) 33.3%
+RRB JE - 01/06/2019 (Shift-I11.
+
+Ans. (c) Initial consumption of sugar = 12 kg.
+
+And now the consumption of sugar = 15 kg.
+
+Growth = 15 — 12 =3 kg.
+
+So, % growth = 3 100 = 25%
+
+78. The price of rice is increased from % 25 per kg
+to % 30 per kg. The consumption should be
+decreased to which percentage so that the
+expenditure remains the same?
+
+(a) 165% (b) 85%
+(c) 10% (d) 16%
+RRB RPF Constable -22/01/2019 (Shift-II)
+
+J YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0011_left.png =====
+Ans : (a) Initial price of rice = 225 /kg. '
+Now the price of rice = %30/kg.
+Increased price = 30 - 25 = %5/kg.
+So, % decrease = 3x 100
+30
+= 0 162%
+3 3
+
+79. When the price of a cycle decreased by 20%,
+then the number of sold bicycles increased by
+20%. What was the effect on sale of the shop?
+(a) 4% decrease (b) 4% increase
+(c) 10% increase (d) 10% decrease
+
+RRB JE - 27/06/2019 (Shift-IL.
+= xy
+
+Ans : (a) % change = x + y+——
+
+(a) % chang: Y*I09
+= 20429 —-20%20 :
+100
+=-4% (—-ve sign denotes decrease)
+So, the decrease of 4% is the required change
+80. How many % is the single discount equivalent
+to two consecutive discounts 12% and 5%?
+(a) 17% (b) 8.5%
+(c) 16.4% (d) 15.2%
+RRB RPF SI -11/01/2019 (Shift-IL
+Ans : (c) If both consecutive discounts are a% and b%,
+then equivalent discount
+=a+b 2b
+100
+So, equivalent discount to 12% and 5%
+21245-1245
+100
+=17-0.6=16.4%
+
+Hence discount = 16.4%
+
+81. _ Petrol’s price has been increased by 10% in the
+new budget. The passenger of a motor vehicle
+can reduce the consumption to how many %,
+so that his total expenditure on petrol remains
+the same?
+
+(a) 10% (b) 9%
+() 1% (d) 115%
+RRB RPF SI -10/01/2019 (Shift-IL
+
+Ans: (b) Formula- for such cases,
+
+Decrease % = (5) x100
+
+100+x
+Given- Growth = 10%
+So, decrease in consumption,
+10
+=|———_ |x 100
+( 100+ ia) *
+= 1 x100= pty
+ll ll
+Percentage 14
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0011_right.png =====
+82. A labourer’s salary has been increased by
+25%. The new salary should be decreased by
+which % so that the initial salary remains the
+same?
+
+(a) 12% (b) 15%
+(c) 20% (d) 10%
+RRB RPF Constable -20/01/2019 (Shift-I
+
+Ans: (c) From formula,
+
+Decrease % =—*—x100
+100+x
+So, % decrease in the salary = _35_,, 100
+100+ 25
+= x10
+125
+= 100 _ 20%
+5
+
+83. A car was bought of & 16,000. Its price
+decreases by 10% per year. What will be the
+price after two years?
+
+(a) = 12,060 (b) 712,960
+(c) = 12,000 (d) 712,900
+RRB Group-D — 05/10/2018 (Shift-ID
+Ans: (b) Price after 2 years,
+2
+= 16000{ 1-7
+100
+81
+= 16000x——=% 12960
+100
+
+84. The decision to provide electricity connection
+to all 1200 families who are living without
+electricity, has been taken. If the rate of
+electrification is 75% per year, then find the
+number of families living without electricity
+connection after two years.
+
+(a) 45 (b) 75
+(c) 55 (d) 65
+RRB Group-D — 15/10/2018 (Shift-1
+Ans : (b) The number of families who got the|
+connection in the first year
+75
+=1200x Too 900
+
+The number of families who are not benefitted = 1200 -
+
+900 = 300
+
+The number of families who got the connection in the
+
+second year
+
+75
+= 300 x 00> 225
+
+The number of rest families = 300 — 225 = 75
+
+So, the required number of families is 75.
+
+85. In a shopping mall the cost price of an article
+was increased by 10% and then it was reduced
+by 10%. What is the percentage increase or
+decrease?
+
+(a) 1.5% increase (b) 1% increase
+(c) 1% decrease (d) 1.5% decrease
+RRB Group-D — 17/09/2018 (Shift-II])
+3 YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0012_left.png =====
+Ans. (c) : In such cases there is always loss if same price}
+is increased first and decreased later.
+2
+Loss %= %
+100
+=e :
+100
+= 1009, = 194
+100
+
+86. If the cost of tomatoes increases by 25% per Kg
+and Sudha wants to spend only 15% more on
+the tomatoes. Calculate the percentage
+decrease in the quantity of tomatoes that Sudha
+gets.
+
+(a) 10% (b) 12%
+(c) 8% (d) 12.5%
+RRB Group-D — 18/09/2018 (Shift-IT)
+
+Ans. (c) : Let the initial price of tomatoes = x @/ kg
+
+Price after 25% increase =x 125 _ 5x UWkg ;
+
+100. 4
+
+Expenditure on tomatoes by Sudha = x x Us = 23x
+
+100 20
+23x
+. 20 _ 23xx4_ 23
+So, th tity of tomatoes = —— = ——_ = — ky
+0, the quantity of tomatoes 3x 20x5x 25 4
+4
+: 23.2
+So, the decrease in the tomatoes =1—-—— =—kg
+25 25
+2
+“ % decrease = Bx 100 =8%
+
+87. Ifa person’s salary increases by 11% on first
+year and on second year decreased by 11%,
+then what is the % change in his salary of third
+year’s beginning compared to initial salary?
+
+(a) 71.21 (b) -1.23
+(©) #1.21 (d) +1.22 |
+RRB Group-D — 05/10/2018 (Shift-I
+Ans. (a) : % increase in the salary
+_ ee
+100 100
+= (22,111) ,100
+100 100
+= 21 100 =-1.21%
+10000
+
+88. The price of an article is reduced by 25%. The
+new price will be increased to which level to
+maintain the initial price?
+
+(a) 108% (b) ee
+() om @) wr
+RRB Group-D — 31/10/2018 (Shift-I)
+Percentage 14
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0012_right.png =====
+Ans: (d) Decrease/Increase % = —100x_
+(100+x)
+Increase % — 100%25 _ 100%25 _ 100,
+100-25 75 3
+
+89. An employee’s salary was firstly increased by
+10% and then reduced by 10%. What was the
+change in his salary?
+
+(a) 1% (b) 2.2%
+(c) -1% (d) 2.4%
+RRB Group-D — 15/11/2018 (Shift-ID)
+
+Ans: (c) Decrease/Increase % = rept im
+
+=10+(-10)+ 10x10)
+100
+=10-10- 1 __ 1%
+100
+
+90. If a fraction y/x becomes 6/7 when its
+numerator is increased by 12% and
+denominator is decreased by 2%. Find the
+initial fraction.
+
+3 4
+
+a) = b) =
+
+(a) 4 (b) 3
+
+1 1
+
+— d) =
+
+(©) 2 @ 5
+RRB Group-D — 01/11/2018 (Shift-IT.
+
+Ans : (a) Fraction = y/x
+
+According to the question,
+
+-  -yxll2_6
+
+xx98 7
+=> — ¥_ 8x98 _ 6x14
+x 7x12 112
+=> 3
+x 4
+
+91. 20% selling of any article, increases when its
+cost is reduced by 20%, what is the effect on
+earned revenue?
+
+(a) 4% increases (b) 5% increases
+(c) 4% decreases (d) 5% decreases
+RRB Group-D — 23/10/2018 (Shift-I
+Ans. (c) : Formula-
+Change in percentage = +x+y+ ao
+=-20+29—-20%20 - 40%
+100
+
+So, it decreases to 4%
+
+52. The price of a residential flat increases by 15%
+per year. If the present price is % 60,00,000,
+then what will be the cost after two years?
+
+(a) %78,00,000 (b) %83,45,000
+(c) %85,39,500 (d) %79,35,000
+RRB NTPC 28.03.2016 Shift : 3
+7 YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0013_left.png =====
+Ans : (d) the cost of the flat after two years, |
+2
+= so00000(1 +7)
+100 '
+= 6000000x22<23 = 15000%529 = €79,35,000
+20 20
+93. Mukesh gets discounts of 30%, 25% and 15%
+respectively on his shirt. Find the single
+equivalent discount.
+(a) 52.34% (b) 38.35%
+(c) 55.38% (d) 57.38%
+RRB NTPC 19.04.2016 Shift : 2
+Ans : (c) «- The discounts on shirt are 30%, 25% and
+15% respectively,
+«. Single equivalent discount
+=100-100x 0, , 8
+100 100 100
+=100-70x2 x12 = 100 — 44.62 = 55.38%
+4 20
+94. Sumit’s salary was decreased by 40% and then
+increased by 40%. Find the final decrease % in
+his salary.
+(a) 16% (b) 45%
+(c) 44% (d) 66% |
+RRB NTPC 19.04.2016 Shift : 3
+Ans : (a) In such cases there is always loss.
+2 2 2
+Required % loss = (2) = (2) =16% = (22) = 16%
+10 10 10
+95. | Onion’s price is increased by 35% in the new
+government policy. A person should reduce his
+consumption by which percentage so that his
+expenditure remains the same?
+(a) 25% (b) 29%
+(c) 26% (d) 33%
+RRB NTPC 16.04.2016 Shift : 3 |’
+Ans : (c) % reduction in consumption = —_, 100
+100 +R
+=-—38_x190 = 2.x100
+100+35 135
+= 2x10 = 25.92 = 26%
+27
+96. The price of the sugar goes up by 30%. By
+what percent should Sita reduce her
+consumption so that the expenditure does not
+increase?
+1 1
+23—% b) 22—%
+(@) 2355% ) 22575%
+(c) 23% (@) 22%
+RRB ALP & Tec, (29-08-18 Shift-I.
+Ans : (a) % reducti tion = ——-.x]
+ns : (a) % reduction in consumption l00ex x100
+= 30%100 _ 3000 _4, 1g,
+100+30 130 13
+Percentage 14
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0013_right.png =====
+Type -3
+97. Anita operates a fashion boutique. Her
+expenditure’s headlines are as follows:
+30% on purchases, 40% on tailor’s payment
+and 30% on rent and electricity. If her total
+expenditure is % 50,000/ month, then how much
+has she spent in tailor’s payment?
+(a) 19,000 (b) 218,000
+(c) 20,000 (d) 221,000
+RRB RPF Constable -24/01/2019 (Shift-I)
+Ans. (c) : Total expenditure in % = Purchase + tailor +
+rent and electricity
+30% + 40% + 30% = 100%
+% expenditure = expenditure in =
+100% = 50000
+1% = 500
+=>> So, tailor’s payment in %
+= 40% = 40x500 = %20000
+98. On a short scale occupation following
+expenditures occurs: 25% on purchase, 25%
+on employees’ salary and 50% on maintenance.
+If the occupation pays & 2,00,000, then what is
+its expenditure on maintenance?
+(a) 7 3,00,000 (b) %4,00,000
+(c) % 2,00,000 (d) %2,50,000
+RRB RPF SI -12/01/2019 (Shift-IIl)
+Ans : (b) Expenditure on salary = 25% = %2,00,000
+So, the amount spent on maintenance = 50%
+=> 50%= 20x80 = %400000
+99. Achyutya opens a tea stall by investing =
+25,000. He spends 30% on furnishing and 20%
+on purchasing other necessary things for stall.
+How much money did he have to purchase the
+rest things for his shop?
+(a) 712,500 (b) %5,000
+(c) %20,000 (d) 212,000
+RRB Group-D — 17/09/2018 (Shift-1
+Ans : (a) Total amount that Achyutya have = 25, 000
+Total expenditure = 30% + 20% = 50%
+So, the rest amount = 25000x 7 = 12,500
+100. Mridula operates a small shop of pets. Her
+expenditure details are as follows: 90% on
+procurement and 10% on rent and electricity.
+If she monthly spends = 15,000 on rent and
+electricity, then how much she spends monthly
+on procurement?
+(a) 1.35 lacs (b) 5 lacs
+(c) 4.5 lacs (d) 2 lacs
+RRB Group-D — 20/09/2018 (Shift-II)
+J YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0014_left.png =====
+Ans : (a)
+Expenditure on rent and electricity = 15000 = 10%
+Then, 90% (expenditure on procurement)
+— = 135000 = 1.35 AE %0
+101. A grocery store purchases 600 bottles of juice
+packed by two different sellers. 20% goods is
+taken by first seller, and 80% by the second.
+The selling price of one bottle is = 25. After
+observing the second seller’s goods, the
+shopkeeper comes to know that 25% goods can
+be used till one day only. He decides to return
+the goods. How much money will he get from
+second seller?
+(a) %4,000 (b) 3,750
+(c) % 3,000 (d) %3,500
+RRB Group-D — 26/09/2018 (Shift-1
+Ans : (c) Total bottles = 600
+First seller-
+= 600 x 20 120 bottles.
+100 ”
+Second seller-
+600 x #0. 480 bottles.
+100 :
+25% (spoiled) = 120 bottles
+75% (accurate) = 360 bottles
+So, the money received for spoiled
+bottles by second seller = 120 x 25 = 23000
+102. 30% of an edible retail chain’s selling, is dairy
+product and rest are fresh products. If the
+monthly sales of the chain is € 50,000 then what
+is the selling amount of dairy products?
+(a) 715,000 (b) %25,000
+(c) %22,000 (d)_ 230,000
+RRB Group-D — 28/09/2018 (Shift-IIT)
+Ans : (a) Selling of dairy products = 30%
+So, the selling of fresh products = 70%
+Monthly selling amount = % 50,000
+So, the selling amount of dairy products
+= 50,000x22 = 215,000
+100
+103. Last year, Manish Korner had invested 1 lacs
+on shop-1 and 1.5 lacs on shop-2 for changing
+the furniture. He collected the expenditure in
+next three quarters: 20% in quarter-1, 55% in
+quarter-2. What was the amount in & In
+quarter-3?
+(a) %60,500 (b) 262,500
+(c) %62,600 (d)_ 70,000
+RRB Group-D — 31/10/2018 (Shift-ID)
+Ans: (b)
+Total invested money = 100000+150000= 250000
+Quarter —1 -------- 20%
+Quarter —2 --------- 55%
+So, quarter — 3 { 100 -—(20 + 55)} = 25%
+So, he will collect 25% expenditure in quarter — 3.
+Then, 250000x 25. %62500
+100
+Percentage 14
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0014_right.png =====
+104. Ina firm, the average salary of male worker is
+% 5,200 and for women % 4200 and the average
+salary of all workers is = 5000. What is the
+percentage of male workers in the firm?
+
+(a) 40% (b) 80%
+(c) 20% (d) 60%
+RRB Paramedical Exam — 21/07/2018 (Shift-I11)
+
+Ans : (b) Let the number of male workers in the firm is x.
+
+And female workers = y
+
+Total salary of male workers = %5200 x
+
+Total salary of female workers = %4200 y
+
+Total salary of all workers = %5000 (x+y)
+
+5200 x + 4200 y = 5000x + 5000y
+
+200x = 800 y
+
+x=4y
+
+xiy=4:1
+
+o, 4
+tala td
+
+So, the required % is 80%.
+
+105. Last year in a small industrial enterprise,
+Mayank’s investment was = 20,000. This year
+he is making a plan to increase his investment
+by 30% in compare to previous year’s
+investment, for providing services to new
+customers. This year he is making plan to
+invest how much.
+
+(a) & 60,000 (b) % 22,500
+(c) % 26,000 (d) % 23,000
+RRB Group-D — 26/09/2018 (Shift-IT)
+
+Ans. (c) Last year investment = 720000
+
+Plan to increase = 30%
+
+Increased money = 20000 = %6000
+
+So, the required money = 20000 + 6000 = 26000
+
+106. In a sport showroom there are different game
+accessories. There is 50% selling of swimming
+accessories, 40% of outdoor game accessories
+and 10% of indoor game accessories. If in a
+particular month store sells swimming
+costumes of worth = 10,000, then what is the
+estimated figure of the selling of outdoor game
+accessories?
+
+(a) %8000 (b) 5000
+(c) 23000 (d) 24000
+RRB Group-D — 26/09/2018 (Shift-II1)
+
+Ans : (a) Selling of swimming costumes in particular]
+
+month = 710000
+
++: 50% selling belongs to swimming accessories.
+
+According to the question,
+
+50% = 10000
+.. So, the total selling of game accessories = 20000
+-. So, the selling price of outdoor game accessories
+= 20000 x 40. 8000
+100
+
+107. Suresh purchases two books of & 1,200, he sells
+one on 20% profit and second on 16% loss. If
+the selling price is same then, find the
+estimated cost price of books.
+
+J YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0015_left.png =====
+(a) % 550 and % 650 (b) & 600 and & 600
+(c) %500and 700 (d) % 400 and & 800
+RRB Group-D — 22/10/2018 (Shift-ID)
+Ans: (c) Let the cost price of one book be € x
+So, the cost price of other book == (1200 -x)
+According to the question,
+£4120 _ (1299-x) x84
+100 100
+> 120 x + 84 x = 1200 x 84
+> 204x = 1200 x 84
+1200x84
+> x=
+204
+> x =%494.11% 7 500
+So, the cost price of other book = 1200 - 500 =% 700
+108. A resort offers special discount on weekend.
+They create a log of weekend customers. They
+see a growth of 15% in their customers, this
+year. Last year they had 1500 customers. How
+many customers do they have this year?
+(a) 1,825 (b) 1,700
+(c) 1,650 (d) 1,725
+RRB Group-D — 03/12/2018 (Shift-IIT)
+Ans. (d) : Growth = 15%
+Last year customers = 1500
+Present customers = 1500x Us
+100
+=15* 115
+= 1725
+109. A bank agrees to lend a loan to Arvind of
+2 ,38,75,697 which falls short by 17% for
+starting his business. How much more loan
+would he need?
+(a) %28765900 (b) 24375303
+(c) %5700108 (d) %5125533
+RRB NTPC 03.04.2016 Shift : 2
+Ans: (a) The amount what Arvind needs
+=2,38,75,697x—
+100-17
+= 287659 x 100 = %28765900
+110. The profit of a company increased by 10%
+from April to May, then it decreased by 20%
+from May to June and again increased by 50%
+from June to July. What was the % growth in
+profit from April to July?
+(a) 15% (b) 45%
+(c) 32% (d) 13%
+RRB NTPC 18.01.2017 Shift : 3
+Ans: (c) From April to June
+= 10-20 10x29) __19-2--19%
+100
+From April to July =-12+50¢ C250 Ba]
+Percentage 14
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0015_right.png =====
+111. An investor invests 1/2 shares on 5%, 1/4
+shares on 10% and the rest on 8%, after 2
+years his income is % 2800 then find the stock.
+(a) 710000 (b) 15000
+(c) %20000 (d) 12000
+
+RRB NTPC 19.04.2016 Shift : 1
+Ans: (c) Let the stock of the investor is  X,
+Rest shares =x -(3 +4) =*
+2 4) 4
+¥x5x2 Xx10x2 *x8x2
+
+2 __44 __ 44 __ = 2800
+
+100 100 100
+~+% 4% =2800
+20 20 25
+5x+5x+4x = 2800
+
+100
+
+14x = 280000 => x = 20000
+
+112. Production of sugar was 1584 million kg. in
+2001 which was 20% more than 1991. Find the
+production of sugar in 1991 (in million kg.).
+
+(a) 1980 (b) 1280
+(c) 1900 (d) 1320
+RRB NTPC 12.04.2016 Shift : 1
+Ans : (d)
+7 . 1584
+Pi f 1991 =———— x 100
+roduction of sugar in 199 100+20 x
+= 1584 100 = 1320 million kg,
+120
+
+113. A drug supervisor rejects 0.05% medicines as
+defective medicines. How many medicines will
+he examine to reject 4 medicines?
+
+(a) 5000 (b) 8000
+(c) 6000 (d) 8500
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (b) ° He examines 100 medicines to reject
+0.05% medicines.
+. - 100
+~. So, to reject 1 medicine = ——
+0.05
+Then, to reject 4 medicines = 100 4
+0.05
+= 100400 = 20x 400 = 8000
+
+114. 15% of an alloy was silver. If in a quantity of
+alloy there was 51 g of silver, what was the
+quantity of the other elements in the alloy ?
+
+(a) 204g (b) 340g
+(c) 300g (d) 289g
+RRB ALP & Tee. (17-08-18 Shift-ID)
+Ans: (d) Share % of other metal in the alloy
+=100-15=85%
+So, the quantity of other metal = =
+as =17x17 = 289 gm.
+y YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0016_left.png =====
+Type - 3
+
+115. The quantity of common salt in 320 gm water
+is 33 gm. Calculate the concentration of the
+solution in context of mass by mass percentage.
+(a) 935g (b) 9.35%
+
+(c) 9.09% (d) 13.05%
+RRB Group-D — 03/10/2018 (Shift-I
+
+Ans: (b) Concentration % of the solution
+
+=-_3_, 100 = 3300 _ 9.348 = 9.35%
+320+33 353
+
+116. The quantity of common salt in 320 gm water
+is 31 gm. Calculate the concentration of the
+solution in context of mass by mass percentage.
+(a) 9.60% (b) 9.60%
+
+(c) 8.83% (d) 9.09%
+RRB Group-D — 03/10/2018 (Shift-II)
+
+Ans : (c)
+
+Concentration % of the solution =! , 100
+
+320+31
+31
+=—x100 = 8.83%
+351
+
+117. The quantity of common salt in 320 gm water
+is 45 gm. Calculate the concentration of the
+solution in context of mass by mass percentage.
+(a) 12.33% (b) 12.36%
+
+(c) 10.36% (d) 12.43%
+RRB Group-D — 30/10/2018 (Shift-1
+
+Ans : (a) Concentration % of the solution
+
+__ 45 100 _ 4500
+320+45 365
+= 12.33%
+
+118. A solution is prepared by mixing 45 gm salt in
+520 gm water. Calculate the concentration of
+the solution in context of mass by mass
+percentage.
+
+(a) 7.96% (b) 8.86%
+(c) 8.1% (d) 6.96%
+RRB Group-D — 20/09/2018 (Shift-I)
+
+Ans. (a) : The required solution percentage
+
+= 4.109 = 45% - 7.96%
+565 565
+
+119. A solution has 8% salt. If the volume of the
+solution is 550 ml, then what is the quantity of
+salt in it?
+
+(a) 42.5 ml (b) 48 ml
+(c) 38.5 ml (d) 44ml
+RRB Group-D — 01/12/2018 (Shift-ID)
+Ans : (d) Volume of the solution = 550 ml
+Salt = 8%
+So, quantity of the salt = 550 ss =44ml
+100
+Percentage 14
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0016_right.png =====
+120. The amount of glucose required to prepare 250
+g of a 5% solution of glucose by mass is:
+(a) 125¢ (b) 125g
+(©) 50g (d) 258
+RRB ALP & Tec. (29-08-18 Shift-I)
+
+Ans : (b) Mass of the solution = 250 gm
+
+Total quantity of glucose in the solution = 5%
+
+So, the quantity of glucose in the solution in gram
+
+5
+= 250x Too 7 12.5gm
+Type -3
+
+121. If 90% of y is x, then what percentage of x will
+
+bey?
+(a) 11.1 (b) 111.1
+(c) 101.1 (d) 121.11
+RRB RPF Constable -25/01/2019 (Shift-IIT)
+Ans. (b) According to the question,
+y x 90% =x
+xO
+y 100
+x:y=9:10
+Let k% of x is y.
+xx ‘ey, 9x * =10
+100 100
+“ k= ex 100= 111A
+9
+
+122. Shyam’s marks are 25% more than Divya’s
+marks. How many % of Divya’s marks are less
+than Shyam’s marks?
+
+(a) 20% (b) 15%
+(c) 10% (d) 40%
+RRB Group-D — 03/10/2018 (Shift-IT
+
+Ans : (a) Let Divya’s marks =100
+
+Then Shyam’s marks = 100% =125
+
+Shyam’s marks - Divya’s marks = 125 — 100= 25
+
+So, Divya’s marks are 25 less than Shyam’s marks.
+
+2
+% lack = 3 100
+125
+_100
+5
+= 20%
+
+123. If the length and breadth of a rectangle is
+increased by 8% and 12% respectively, then
+what will be the % increase in the area of the
+rectangle?
+
+(a) 20.96% (b) 22%
+(c) 20% (d) 24%
+RRB RPF Constable -18/01/2019 (Shift-III)
+
+3 YCT
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0017_left.png =====
+Ans. (a) Percentage growth = x +y+ ay
+P 8x12
+% growth in the area of the rectangle = 8+ Dt
+= 20+24= 20 + 0.96 = 20.96%
+25
+
+124. If the side of a square is increased by 10%,
+then the area of the square increased by........
+(a) 40% (b) 10%
+
+(c) 20% (d) 21%
+RRB Group-D — 10/10/2018 (Shift-I])
+= xy
+
+Ans :(d) % change = x+y+——
+
+(d@) % chang > * 700
+
+Change in the area of the square on increasing its side
+
+by 10%
+
+=10+10+ 10210 - 9404
+
+100
+125. If the side of a square is increased by 30%,
+then find the % in the increase of its square.
+(a) 84% (b) 112%
+(c) 69% (d) 72%
+RRB Group-D — 30/10/2018 (Shift-I])
+
+Ans: (c) Area of the square = (side)
+
+-9 = cm
+
+Formula- % growth = x + y+ 100
+
+% growth = 30430420722)
+100
+% growth = 69%
+
+126. If the length of a rectangle increased by 15%
+and the breadth decreased by 20%, then find
+the % change in area of the rectangle.
+
+(a) 0.8% decrease (b) 0.8% increase
+(c) 8% decrease (d) 8% increase
+RRB Group-D — 05/12/2018 (Shift-I1)
+Ans. (c) Increase in length = 15% = x
+and decrease in breadth = 20% = y
+- Xxy
+Ch =x-y-—
+ange in area =x — y~ —
+= 15~29- 15x20 __5_ 300
+100 100
+=-5-3
+= -8%
+Hence, 8% decrease
+Percentage 14!
+
+
+===== Part 6 — Percentage (pp. 133–149)_page-0017_right.png =====
+127. If the length and the breadth of a rectangle is
+changed by +15 % and -10 % respectively,
+what will be % change in the area of the
+rectangle?
+
+(a) 2.5% (b) 3.0%
+(c) 3.5% (d) 4.5%
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (c) Let the length = 100
+And breadth = 100
+So, area =100x100 = 10000
+
+Length after change = 115, and breadth = 90
+
+So, area = 115 x 90 = 10350
+
+Growth = 10350 - 10000 = 350
+
+% growth = 29100 = 3.5%
+
+10000
+Type -3
+
+128. A candidate won with 75% valid votes, in an
+election. 15% votes were invalid out of 560000
+votes. What is the number of valid votes which
+the candidate got?
+
+(a) 350000 (b) 280000
+(c) 275000 (d) 357000
+RRB RPF SI -12/01/2019 (Shift-IIT)
+
+Ans : (d) Let the number of valid votes which the|
+
+candidate got = x
+
+Total votes = 560000
+
+According to the question,
+
+x =560000x—22 x 8%.
+100 100
+3.17
+= 560000 x= x—
+* “4°20
+x = 7000 x 51
+x = 357000)
+
+129. In an election, a candidate got 62% of the total
+votes polled and won the election by 35640
+votes. The total number of votes cast, if no vote
+is declared invalid, is?
+
+(a) 356400 (b) 57484
+(c) 93790 (d) 148500
+RRB Group-D — 05/11/2018 (Shift-III)
+
+Ans. (d) : Total votes = 100%
+
+Rest votes = 100% — 62% = 38%
+
+% difference = 62% — 38% = 24%
+
+24% = 35640
+
+100% = 35640100 5540 x 25 = 148500
+) YCT

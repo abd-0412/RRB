@@ -1,0 +1,433 @@
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0001_left.png =====
+25.
+os
+Type -¢
+1. Find the co-ordinates of the point, which
+internally divides the line segment joining the
+point (—4, 4) and (4, 0) in the ratio of 3 : 1.
+(a) (0, 4) (&) 2, 1)
+(©) (3, 4) (d) (1, 3)
+RRB RPF SI — 05/01/2019 (Shift-IT)
+Ans. (b) : Given-
+x =X + MX = 3x441 x4)
+m,+m, ” 341
+_ 12-4 _8
+4° 4
+x=2
+_ my, +m,y, _ 3x0+1x4 _4
+y m,+m, ’ 3+1 4
+y=
+Then co-ordinates of points = (2, 1)
+2. The co-ordinates of a point, which internally
+divides the line is segment joining the point (-
+1, 9) and (11, 1) in the ratio of 3:1.
+13
+@ 3) w (3.4)
+©) (2,7) (d) (8,3)
+RRB Group-D — 28/09/2018 (Shift-III)
+RRB RPF Constable — 20/01/2019 (Shift-III)
+Ans : (d) If the coordinates of the inner point of the line |}.
+joining the two points (x,, y;) and (x2, y2) are (x, y),
+then let the coordinates of the inner point are (x,y) then,
+@.y) (%2, Ya)
+C1, 9) (1, 1)
+o—_+——_
+m, (x,y) ™
+m, =3,m=1
+x= Mt my Lot my, +My,
+m, +m, m, +m,
+3x11+1x(C) 3x141x9
+x ope ee
+3+1 341
+xe 33-1 | _3+9
+4°. 4
+x = 8, y=3, So co-ordinate is (8, 3).
+3. Find the ratio in which the line 4x + y = 13
+divide the segment which is joining to the point
+(1, 6) and (6, 1).
+(a) 1:3 (b) 2:5
+(c) 2:3 (d) 1:4
+RRB RPF Constable — 17/01/2019 (Shift-I)
+Co-ordinate Geometry 53!
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0001_right.png =====
+°
+ordinate Geometry
+a
+Ans. (d) :
+Equation of a line passing through two points (x; y;)|
+and (x2 y2)
+y-y= Soon)
+.. equation of a line passing through the points (1, 6)|
+(6, 1)
+1-6
+y-6=—(x-1)
+y-6=-x+1
+orxt+y=7.......(i)
+again equation of a given lines 4x + y= 13 .....(ii)
+from the equation (i) and (ii)—
+The coordinate of the intersection point of both the lines|
+(x, y)= (2,5)
+Let the point (1,6) and (6,1) is divided in the ratio ot
+m:n by the point (2,5).
+mx, +X,
+x=
+m+n
+gmx 6+nxl
+m+n
+or 2m+ 2n=6m+n
+or 4m—n=0
+or 4m=n
+or Re. L =1:4
+n 4
+4, The line segment joined by the points (-1, 0)
+and (2, 6). What will be the co-ordinate of
+points who divides the line in the ratio of 2:1?
+(a) (0, 4) (b) (1, 3)
+(©) (4) @ , 5)
+RRB Group-D — 23/09/2018 (Shift-1
+Ans : (c)
+(-1,0) @ y) (2, 6)
+ae
+m, m,
+(2) a
+Let the interior Point is (x, y) -
+x = tM w= my. +My,
+m, +m, m, +m,
+2x2+1x(-l) 2x6+1x0
+x =," ve
+2+1 2+1
+yettl y_2
+3°75 3
+x=ly=4
+So interior point (x, y) = (1, 4)
+) YCT
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0002_left.png =====
+5. At which point, the line segment associated
+with points (4, 5) and (7, 11) divided internally
+in the ratio of 2: 1.
+
+(a) ©, 8) (b) (5, 10)
+(©) 6, 9) (d) (6, 9)
+RRB Group-D — 15/11/2018 (Shift-II)
+
+Ans : (d) The coordinate of the points P(x, y) internally}
+
+dividing the line segment joining the two points A
+
+(x1, yi) and B (x2,y2) in the ratio of m:n.
+
+x = Me tM yom +m2yi
+m,+m, m,+m,
+
+x =4,y,=5m,=2
+
+X= 7 y.= ll m=1 !
+
+2x74+1x4 2x11+1x5
+xo yo
+
+2+1 2+1
+
+14+4 2245
+
+x=——, y=
+3 3
+
+x18 27
+
+37 OG
+
+x=6 y=9
+
+So required point will be (6, 9)
+
+6. The coordinates of the points that divides the
+line segment joining the points (—7, 6) and (5, 0)
+internally in the ratio of 1:3
+(a) (3,4) (b) (4, 4.5)
+©) 6,1. (d)_ (1, 3)
+
+RRB Group-D — 05/11/2018 (Shift-I11)
+
+Ans. (b) : given
+
+X=-7,%=5 mal
+
+yi=6,y2=0 = m,=3
+
+The point divides the line segment internally, then the}
+
+coordinate of the point is
+
+(xy)=(BStmA mi mds) !
+m, +m, m,+m,
+_(3x(-T)+1x5 3x6+1x0
+143007 143
+_(-2145 18) _(-16 18
+4°74 4°74
+(xy) = (4, 45)
+
+7. Find the coordinate of the point, which
+internally divides the line segment joining the
+point (-3, 7) and (9, -1) in the ratio of 3:1.
+
+(a) (0,5) (b) (6, 1)
+9
+(c) (3,3) (d) (3-2)
+RRB Paramedical Exam — 21/07/2018 (Shift-I11)
+Ans, (b) Formula of interior division
+x= MY tMX
+m,+m,
+y= Mat my.
+m,+m,
+according to the question,
+Co-ordinate Geometry 54(
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0002_right.png =====
+The ratio of the line joining the internal division of the
+points (—3, 7) and (9, -1) is 3:1
+where, x; =—3, x2 =9, y1=7, Yo=—l, m, =3, m= 1
+Then, x= 3x9tHC3) ,_ 27-3
+341 4
+=
+4
+_ 3x(CI)t1x7
+yo 341
+4
+yea =yrl
+So coordinate of internal division will be (6, 1).
+8. The coordinates of a point, which internally
+divides the line segment joining the point (4, 5)
+and (-3, 3) in the ratio of 2 : 3 is—
+(a) 11/5, 17/5 (b) 13/5, 17/5
+(c) 12/5, 13/5 (d) 6/5, 21/5
+RRB Group-D — 24/10/2018 (Shift-III)
+Ans. (d) :
+A——2
+a5 ey CEs)
+m, =2 m)=3
+As per the picture,
+xo he + MK _ 2x(-3)+3x4
+m, +m, 243
+6
+x=-
+5
+my, +m,y, _2x3+3x5
+ya at = eee
+m,+m, 243
+6 21
+So (x,y)=| 2.2
+(xy) ( 55 )
+. The coordinates of the point that internally
+divides the line segment joining the points (-5,
+5) and (7, —3) internally in the ratio of 3 : 1 are
+given by:
+(a) (2,3) (b) (4,-1)
+5
+© (5.0) @ a)
+RRB ALP & Tec. (29-08-18 Shift-I.
+Ans : (b) Let coordinate of points (x, y)
+(xy)= mx, +x, MY, +ny,
+m+n m+n
+xy=-5 xX =7 x=?
+yrs y=3 y=?
+3x7+1x(-5 3x(-3)+1x5
+(x, yy =[ 2XTHES) 3x3) xs
+341 3+1
+_ (2 -5  -9+ ;)
+4° 4
+- (8 =)
+4°4
+=(4,-l)
+So coordinate of Points is (4,1).
+) YCT
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0003_left.png =====
+Type -2
+10. Find the area of a triangle whose vertex are (1,
+2), (-4, 3) and (4, 1)
+(a) 7 Square units (b) 10 Square units
+(c) 14 Square units (d) 20 Square units
+RRB Group-D — 17/09/2018 (Shift-I)
+Ans: (b) area of triangle
+1
+=5[4(¥2-¥5)#2(9-¥) + (i-¥)]
+1
+= 5[(3-1)+(-4)(1-2)+4(2-(-3))]
+=S[-4+4+20] -2- 10 Square unit
+11. The vertex point of a triangle are (a, b + ¢), (b,
+ec + a) and (c, a + b) then find the area of
+triangle.
+(a) ab+be+ca (b) 0
+(c) a-b-c (d) atbt+e
+RRB Group-D — 12/10/2018 (Shift-III)
+Ans: (b) Area of triangle
+1
+= 5112-93) #¥2(¥s i) #4 (¥-¥2)]
+=t[afera-(a+b)}+{a+d-(b+0}}+e{b+e-(c+a)}]
+=F [a(c+a-a-b)+b(a+b-b-c)+e(b+e-c-a)]
+=F [ac~ab-+ab—be + be~ac]
+= * 0=0
+12. The coordinate point of the vertex of a triangle
+are given (3, 5), (-2, 0) and (6, 4) then find the
+area of triangle
+(a) 20 sq. units (b) 7 sq. units
+(c) 10 sq. units (d) 14 sq. units
+RRB Group-D — 11/10/2018 (Shift-I)
+Ans: (c) Vertex of triangle (3, 5), (2, 0) and (6, 4)
+Formula — area of A=
+1
+aL (2-95) #2 (2-1) (vs -¥2)]
+ALY)
+G, 5)
+B (%:, ya) (2,9) (64) Coys)
+Co-ordinate Geometry 54)
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0003_right.png =====
+1
+=5[3(0-4)+(2)(4-5) + 6(5-0) ]
+1
+=2[3(-4)+(-2)(-1)+6(5)]
+1
+=5[-12+2+30]
+1
+=—[20
+10]
+= 10 Square Unit
+13. IfA=(, 1), B=(-2, 7) and C = @, -3), then
+1 1 1
+—+— > +-—— =?
+AB BC CA
+31v5 31
+— b) —V5
+@ =e o as
+150 31
+= d) —
+OF ® 50
+RRB Group-D — 27/09/2018 (Shift-III)
+Ans : (a) A= (1, 1)
+B=(2,7)
+C=(3,-3)
+distance between AB = (x, +x,) +(y,—-y2)
+AB=(1+2)° +(1-7) = V9+36 = V45 = 3V5
+BC = y(-2-3) +(7+3)' = V25+100 = V125 = 5/5
+CA = (3-1) +(-3-1)° = V4+16 = 20 = 2V5
+Jt ,3,121 1
+AB’ BC CA 3y5 5W5_ 25
+= -aG ah 3)
+Vs\3°5 2
+-3()- 31
+Vs 30 30V5
+_ 315
+150
+14. If the point of vertex of a given triangle are (4,
+1), (1, 1) and (3, 5) then triangle is—
+(a) Isosceles but not right angled
+(b) Right angled but not isosceles.
+(c) Both right angled and isosceles
+(d) Asymmetrical triangle
+RRB Group-D — 19/09/2018 (Shift-I)
+Ans : (d)
+If two point is (x; y;) and (x2,y2) then distance between
+them
+= V0.-4F H2-yF
+[ YCT
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0004_left.png =====
+A(4,1)
+J’...
+AB= (1-4) + (1-1)? = V¥ =3
+AC= (3-4) +(5-1)? = V1+16 =VI7
+BC = (3-1) +(5-1) = V4+16 = 2V5
+because three sides of triangle is different, so the
+triangle will be asymmetrical triangle.
+15. The area of the triangle whose vertices are
+given by (2,4), (-3,-1) and (5,3) is:
+(a) 7sq. units (b) 14sq. units
+(c) 20 sq. units (d) 10 sq. units
+RRB ALP & Tec. (17-08-18 Shift-I)
+Ans: (d) *.” Area of triangle
+1
+= 51%: (¥2-93)+¥2(¥9-¥1) +% (Yi -¥2)]
+[Hence the triangle formed from the vertices (2, 4), (-3,
+1), (5, 3)
+=4[2(-1-3)+(-3)(3-4)+5(441)]
+= 1s +3425]
+2
+=1,20
+2
+= 10 Square unit
+Type -2
+16. Which type of line represented by the line
+6x - 3y + 10 = 0 and 2x-y +9=0
+(a) concurrent (b) Parallel
+(c) intersection (d) None of these
+RRB RPF SI — 16/01/2019 (Shift-IM)
+Ans : (b) given equation
+6x -3y+10=0
+Let slope = m,
+om =- cofficientofx)_ (6 =2
+uu cofficientofy ) —\-3) —
+equation
+2x-y+9=0
+Let slope = m,
+m=- cofficientof x )__ (_2. =2
+2 cofficient of y) (=) —
+om, =m,=2
+So the lines will be parallel
+Co-ordinate Geometry 54:
+
+
+===== Part 25 — Co-ordinate Geometry (pp. 539–542)_page-0004_right.png =====
+17. Find the equation of line which slope is -4 and
+bisect the y axis at y =2
+y y
+@) Wx+T=1 (0) 2x+5=1
+() ax+ tel (@) 2x+y=1
+RRB Group-D — 16/10/2018 (Shift-III)
+Ans : (b) Intersection of y = 2
+Hence coordinates = (0, 2) = (xi, yi)
+gradient (m) =—4
+equation of interchange line through a point (x), y:) has
+slope m
+Equation of line => y— y, = m (x-x))
+> y-2=-4(x-0)
+=> y-2=-4x
+4xt+y=2
+2
+18. If two straight line x -Sy = 2 and x + 2y = 9 cut
+each other at a point A, further it is cut x axis
+at the point B and C respectively then find the
+area of triangle ABC.
+(a) 3.2 square unit (b) 3.5 square unit
+(c) 3.7 square unit (d) 3.1 square unit
+RRB Group-D — 25/10/2018 (Shift-I)
+Ans: (b) Point B and C are located on the x-axis.
+The coordinate of point B and C on putting y = 0 in the
+given equation x-Sy = 2 and x + 2y = 9 will be (2,0) and
+(9,0) respectively.
+Again lines x —Sy = 2 and x + 2y = 9 intersect each)
+other on point A.
+x-Sy=2 ------(i)
+x+2y=9 ------(ii)
+Solving equation (i) and (ii) x= 7, y= 1
+So coordinate of Point A = (7, 1)
+X, = 2, x2 =9,x3=7
+yi = 0, y2 = 0, y3=1
+Hence area of triangle ABC
+= slo: ~ 93) - I) +401 -¥2)]
+from
+=5120-+901-0)+70-0)]
+=1[-2+9] =l. 3.5 square unit.
+2 2
+J YCT

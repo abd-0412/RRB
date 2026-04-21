@@ -1,0 +1,699 @@
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0001_left.png =====
+12.
+os
+1. A jar of milk has 40% water, one part of it is
+replaced by another milk which has 19%
+water. The percentage of water in water is
+26%. What is the amount of milk changed?
+(a) 23 (b) 2/5
+(c) 1/5 (@ 18
+RRB JE - 25/05/2019 (Shift-IT)
+Ans : (a)
+Milk
+Water (1) Water (II)
+aN 19%
+0
+“ Ni
+1 : 2
+. p 2
+quantity of milk= 3
+2. Four vessels of the same size are filled with a
+mixture of milk and water. The milk content in
+all four pots is 80% and 75% to 60% and 50%
+respectively. If four mixtures are mixed what
+will be the ratio of water and milk in the
+mixture obtained?
+(a) 13:27 (b) 27:53
+(c) 3:5 (d) 29:51
+RRB JE - 26/05/2019 (Shift-I)
+Ans: (b)
+I I Ill IV
+(M) milk 80 75 60 50
+(W) water > 20 25 40 50
+M:W M:W M:W
+I= 80:20 M=75:25 Ill=60:40
+=4:1 =3:1 =3:2
+M:W
+IV =50:50
+=1:1
+According to the question,
+5 45 2)\5 4 5 2
+=M:W - (Se et0) (Sete Sere)
+20 20
+= 53:27
+or W: M=27: 53
+Alligation 23:
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0001_right.png =====
+Alligation
+TT
+3. 10 litres of milk is removed from a container
+
+containing 50 litres of pure milk and 10 litres
+of water in poured. If this process is repeated
+three times, then what is the ratio between
+water and milk.
+(a) 7:16 (b) 9:16
+(c) 61:64 (d) 1:4
+RRB JE - 27/05/2019 (Shift-IID
+Ans: (c) quantity of pure milk in container
+3 3
+= s0(1-2) = s0(1-4)
+50 5)
+=50x 4x44 28 iter
+55 5 5
+quantity of water =50— “
+_ 250-128 _ 122
+5 s
+water : milk = 122 .128 _ 6 164
+55
+4. To dilute 16 litres of milk in 10% water how
+much water should be added to it, that the
+amount of water in the shelter should be 20%.
+(a) 2 litre (b) 4 litre
+(c) 1 litre (d) 3 litre
+RRB JE - 01/06/2019 (Shift-I
+Ans : (a) Let mixture mixes in x litre water, at the|
+beginning quantity of milk = quantity of milk at last
+16 x 90 = (16 +x) x 80
+144 = 128 + 8x
+144 — 128 = 8x
+16 = 8x
+x = 2 liter
+5. If 4 litres of milk mixture is divided into 4/5
+and two 20 litres, if 5 litres of water is added in
+this mixture, then the percentage of milk in the
+new mixture will be
+(a) 64 (b) 75
+(c) 36 (d) 44
+RRB Group-D — 19/09/2018 (Shift-IIT
+Ans. (a) : According to the question,
+milk quantity in mixture = 20 ¢ =16/
+water quantity in mixture = 20-16=4/
+the ratio of milk and water in the mixture after adding 5.
+7 water in mixture = 16: (4+5) = 16:9
+Milk percentage in new mixture
+$8,100 = 16 « 4= 64%
+25
+5 YCT
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0002_left.png =====
+6. There is 6% sugar in the mixture of 5 litres
+sugar, out of which 1 litre of water becomes
+steam, find the percentage of sugar in this
+mixture.
+
+(a) 5% (b) 7.5%
+(c) 6% (d) 4% '
+RRB NTPC 28.03.2016 Shift : 3
+Ans : (b) Quantity of sugar = — =0.3 gram
+remaining mixture = 4 litre
+percentage of sugar in remaining mixture
+= °3 100 = 75%
+
+7. The ratio of milk and water in a mixture of 35
+litres is 4:1. Find the ratio of milk to 7 litres of
+water in this mixture.
+
+(a) 2:7 (b) 2:1
+(c) 2:3 (d) 1:3
+RRB Group-D — 16/10/2018 (Shift-I
+
+Ans. (b) : According to the question-
+
+quantity of milk in mixture = $35 = 281
+
+water quantity in mixture = ax 35=71
+
+on adding 7/ water
+
+milk : water
+
+28 : (7 + 7)
+
+jor 28: 14
+
+or 2: 1
+
+8. A bucket has two liquid A and B mixed in the
+ratio of 7:5. If 9 litres of B is substituted in the
+same way as 10 litres of milk. The ratio of the
+two liquids becomes 7:9. How many litres of
+liquid A was in the bucket.
+
+(a) 25 (b) 22.75
+(c) 31 (d) 21
+RRB Paramedical Exam — 21/07/2018 (Shift-IT
+
+Ans: (b) According to the first condition-
+
+liquid A and B is 7x /, 5x /
+
+total mixture remaining after removal 9 / (12x-9) /
+
+quantity of A in this mixture
+
+7 _(28x-21
+=(12x-9)x— =| ——— |]
+(12x-9)x75 ( 4 }
+F 5
+
+and quantity of B = (12x ~9)a5
+
+on filling again 10/7. B liquid
+
+=(12x—9)x5 +10 = (60x=45) +19 = 00% =45 +120
+
+12 12 12
+— 60x +75 -(**)
+12 4
+According to the second condition-
+(7). 4. 7
+‘4 20x+25 9
+
+=> 7(20x +25) =9(28x -21)
+
+140x + 175 = 252x — 189
+
+Alligation 231
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0002_right.png =====
+175 + 189 = 252x — 140x.
+364 = 112x
+iquniyoFA= Tae ToIISEIOT|
+. Gold is 17 times heavier than water and
+Copper 9 times heavier. In what ratio show 12
+times heavier than water.
+(a) 4:3 (b) 7:1
+(c) 3:5 (d) 3:2
+RRB Group-D — 11/10/2018 (Shift-I11)
+Ans: (c) According to the question-
+Gold Copper
+iN Wa
+YN
+300: 5
+It will be mix in ratio of 3: 5
+10. In what ratio should 30% potassium nitrate
+should be mixed with 60% potassium nitrate
+mixture so that the resulting solution becomes
+40% potassium nitrate.
+(a) 2:1 (b) 3:1
+() 13 (d) 45
+RRB NTPC 18.04.2016 Shift ; 2
+Ans: (a) According to the question-
+P, P,
+30 60
+NC
+a \ 10
+Intended ratio = 20:10 =2:1
+11. The ratio of mixture of sugar and water in two
+pots A and B is 4:5 and 3:2. In what ratio can
+these two mixture be mixed to obtain a new
+mixture of half sugar and half water.
+(a) 2:3 (b) 9:5
+(c) 7:5 (d) 2:7
+RRB NTPC 22.04.2016 Shift : 3
+Ans: (b) According to the question-
+A(Sugar) B(Sugar)
+4 3
+9 ww a 5
+1
+a ;
+i NN 1
+10 18
+: . 11
+required ratio= — :—=9:5
+10 18
+12. 30 litres of salt solution contains 5% salt. How
+many litre should be mixed in this round so
+that the result will be 3% salt content in the
+solution.
+J YCT
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0003_left.png =====
+(a) 207 (b) 251
+(c) 307 (d) 357
+RRB NTPC 16.04.2016 Shift : 3
+Ans: (a)
+Salt quantity in 30/ solution = 30x>-=3 <1 51
+100 2
+Suppose quantity of mixed water = x /
+from the question-
+3
+(30+x)x05= 1.5
+30+x=50>x=20/
+
+13. Two water-squash mixtures, the first having a
+water to squash ratio of 4 : 1 and the other
+having a ratio of 3 : 1, are blended in the ratio
+1: 2. What is the water : squash ratio in the
+blend ?
+
+(a) 19:11 (b) 23:7
+(c) 17:13 (@) 4:3
+RRB ALP & Tec. (20-08-18 Shift-IIT)
+[Ans : (b) Suppose ratio of water and squash is x : y in|
+last mixture.
+4 3
+5 4
+\ 7
+xty
+(3-35): (35-2)
+4 xty xty 5
+3. x
+_4 xty_1
+“x42
+xty 5
+_3 2x _ x 4
+2 xty xty 5
+=x 3,4
+xty 2.5
+=x -3
+xty 10
+_ x _23
+x+y 30
+
+x = 23 and x + y=30
+
+So ratio =x: y=23:7
+
+14. Two water squash mixtures, the first with a
+water-to-squash ratio of 5 : 1 and the latter
+with a ratio of 3 : 1 are blended in the ratio 3 :
+2. What is the final water and squash ratio in
+the blend ?
+
+(a) 5:3 (b) 10:9
+(c) 6:1 (d) 4:1
+RRB ALP & Tec. (17-08-18 Shift-II)
+Alligation 23°
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0003_right.png =====
+Ans: (d) According to the question-
+
+intended ratio =(:3+4.2):(Je3+402)
+
+6 4 6 4
+AS3)(L V8 2a
+2 2)\2 2) 22
+
+15. fof a milk-water mixture was milk. There was
+21 litres of the mixture. If 4 litres of water is
+added to it, the percentage of milk in the new
+mixture will be:
+
+(a) 44 (b) 56
+(c) 14 qd) 1
+RRB ALP & Tec. (09-08-18 Shift-ID)
+Ans : (b) Milk quantity in mixture = ox 21=141
+and quantity of water = 7/
+
+According to the question-
+
+Percentage of milk = —awantity of milk _ milk x100
+
+quantity of total mixture
+
+[-- total mixture after adding 4 / of water =21+4=25 ]]
+
+=!4 100
+25
+percentage of milk = 56%
+
+16. The ratio of honey and water in 2 container is
+4:3 and 6:7 respectively. How much of the
+mixture from the other container is completed
+with 3.5 litre of mixture from the first
+container to get the same ratio of honey and
+water in the second container.
+
+(a) 67 (b) 6.51
+(c) 71 (d) 7.51
+RRB Group-D — 30/10/2018 (Shift-III)
+
+Ans. (b) : Suppose total mixture is x litre taken from the|
+
+second container.
+
+According to the question-
+
+3.5x 4 + ox
+7_13 _1
+35x34
+7 13
+248%
+—13 =]
+3 7x
+24%
+2 13
+26+6x 1
+39+14x 2
+524+12x =39+14x
+2x =13
+x=6.51
+
+17. The ratio of milk and water in two pots is 2:3
+and 7:3. Find the ratio of milk and water in the
+new mixture obtained by mixing the mixture in
+both pots.
+
+y YCT
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0004_left.png =====
+(a) 2:1 (b) 11:9
+(c) 3:2 (d) 2:3
+RRB NTPC 19.04.2016 Shift : 1
+Ans: (b) Intended ratio -(2+2)}.(2+2)
+5 10) \5 10
+meal : an 29
+1010
+Type -8
+18. The two varieties of rice are priced of Rs. 50
+per kg and Rs. 60 per kg which mixed in some
+ratio and the mixed rice is sold at Rs. 70 per kg
+to get 20% profit. What is the ratio in which
+both rice varieties are mixed?
+(a) 3:5 (b) 2:5
+(©) 1:5 (d) 2:7
+RRB JE - 31/05/2019 (Shift-I
+Ans : (c) According to the question-
+NN a
+175
+= 3 ™~N
+60 - 15 175-50
+3 3
+5 25
+3 3
+HW: W=1:5
+19. There are two types of rice which are priced at
+38 per kg and 42 per kg at same quantity and
+sold at the rate of 45 per kg. Find the
+percentage profit.
+(a) 10% (b) 12.5%
+(c) 18% (d) 15%
+RRB JE - 28/05/2019 (Shift-I.
+Ans : (b) Price of first type of rice = Rs. 38/kg
+price of second type of rice = Rs. 42/kg
+cost price of both type of rice ae =Rs. 40/kg
+selling price of both type of rice = Rs. 45/kg
+profit = selling price — cost price
+=45-40=Rs.5
+o, — __profit 5 _
+profit % = ———— x 100 =—x100= 12.5%
+cost price 40
+20. The initial ratio of sugar and flour in recipe
+was 17:28. With 27 kg of the recipe, Elizabeth
+added more flour to make the sugar to flour
+ratio 2:5. How much flour did Elizabeth added
+later?
+(a) 8.5kg (b) 8.7kg
+(c) 8.3kg (d) 8.1kg
+RRB Group-D — 19/09/2018 (Shift-II)
+Alligation 23
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0004_right.png =====
+Ans. (b) : Total quantity of food items = 27 kg.
+ratio of sugar and flour = 17:28
+“. quantity of sugar = 17x27 _ 17x27 =),
+oe quaniy onsen 7428 45S
+A 28x27 28x27 _ 84
+an tity of flour = ——— = ——— = — kg.
+quantity of flour 17428 45 5 8.
+Suppose if x kg flour is added to it
+51
+—5-.2 __51__2
+& gx 5 8445x 5
+=> 168+10x = 255
+=> 10x = 255-168 = 87
+or
+21. A bakery sells bread cakes, puffs and all cereal
+biscuits he uses 9 kg flour for all purposes to
+make useful items every day. If 20 percent of
+all purposes of flour is used to make more
+cakes, so what is the actual quantity of all
+purpose flour used to make cakes?
+(a) 1800 (b) 2000
+(c) 1500 (d) 1000
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (a) actual quantity of flour for making a cake = x
+kg
+= 2%20 9) B49
+100 5
+= 1800 gm
+22. In what ratio will a grocer mix wheat at Rs.
+2.25 per kg and Rs. 2.75 per kg so that the
+obtained mixture becomes (approximately) Rs.
+2.534 per kg.
+(a) 2:3 (b) 3:2
+(c) 5:3 (d) 3:4
+RRB NTPC 18.04.2016 Shift : 3
+Ans: (d) According to the question
+Cheep wheat Costly wheat
+yf 2
+raw
+0.216 0.284
+required ratio = 0.216 : 0.284
+216 _ 54
+2840-71
+wot 3 23-4
+Rm 4
+23. In what ratio should Darjeeling tea worth Rs.
+400 per kg be mixed with Assam tea worth Rs.
+300 per kg so that there is a profit of 20% on
+selling at the rate of Rs. 408 per kg.
+(a) 1:2 (b) 2:3
+(c) 2:5 (d) 1:6
+RRB NTPC 16.04.2016 Shift : 1
+3 YCT
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0005_left.png =====
+Ans: (b) Selling price of tea = 408 Rs. per kg
+land profit = 20%
+. selling price
+t ft kg=———=>_-x 100
+so cost price of tea per kg 100+ profit % x
+= 18 199 = 408 100
+100+ 20 120
+= 340 Rs. per kg
+from the rule of mixture
+Darjeling Tea Assam Tea
+400 300
+>
+340-300 400-340
+=40 =60
+=2 =3
+required ratio = 2:3
+Type -3
+24. What is the quantity of copper in 1 kg of alloy
+if the alloy contains 32% copper, 40% zinc and
+the rest is nickel?
+(a) 400 g (b) 280g
+(c) 240g (d) 320g
+RRB Group-D — 18/09/2018 (Shift-IT.
+Ans. (d) : Alloy = 1 kg = 1000 g
+Let alloy = 100%
+32% 40% 28%
+Copper Zine —_—Nickel
+- 32
+quantity of copper = 1000x705 = 320g
+25. If the price of 1.25 kg potato and 2.015 kg
+tomato is 35.26, what will be the average price
+of potato and tomato together.
+(a) Rs. 12.32 (b) Rs. 14.04
+(c) Rs. 10.80 (d)_ Rs. 11.95
+RRB Group-D — 28/11/2018 (Shift-I
+Ans : (c)
+Cost of 1.25 kg potato and 2.015 kg = Rs. 35.26
+35.26
+average cost = —————__
+1.25+2.015
+= 35.26 _ Rs. 10.792 = Rs. 10.80
+3.265
+26. Rice of quality A and B, which are worth Rs.
+35 per kg and Rs. 65 per kg respectively are
+mixed. The new average value of the mixture is
+Rs. 50 per kg. the ratio of the amount of A and
+B in the mixture will be:
+(a) 1:2 (b) 13
+(©) Ul (d) 1:5
+RRB NTPC 12.04.2016 Shift : 2
+Alligation 23!
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0005_right.png =====
+Ans : (c) According to the question-
+(A) (B)
+35 65
+50
+65-50 50-35
+15 15
+quantityof A _ 15
+quantityofB 15
+So ratio = 1:1
+27. The amount of alcohol in two different
+medicines was 1.5% and 2.5%. In what ratio
+should these two be mixed so that the amount
+of alcohol in the new mixture obtained is 3.5%
+(a) 1:2 (b) 2:1
+(c) 3:2 (d) 2:3
+RRB NTPC 12.04.2016 Shift : 3
+Ans : (@) From the rule of mixture
+B
+"~\ va
+Lo~\
+1 2
+So ratio = 1:2
+28. In 2 containers the ratio of acid and water is
+3:1 and 5:3 respectively. To get a new mixture
+in which the ratio of acid and water is 2:1,
+what should be the ratio of both types of
+mixture?
+(a) 1:2 (b) 2:1
+(c) 2:3 (d) 3:2
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (a) Acid in first container = = = 3
+14+3 4
+a. . 5 _5
+Acid in second container = —— =—
+3+5 8
+Acid in new mixture = = 2
+1+2 3
+Container Container
+(0) ay
+3 7
+4 8g
+XY : 4
+/ \
+2.5 : 3.2
+(} 3] , lj 3)
+ait.
+2412
+) YCT
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0006_left.png =====
+29. Silver and Aluminium are mixes in the ratio of
+5:3 and 7:9 respectively to form alloy P and Q.
+If the equal amount of both alloy are melt to
+form a new alloy R then what will be the ratio
+of silver and aluminium in R?
+(a) 17:15 (b) 15:17
+(c) 13:17 (d) 17:13
+RRB NTPC 22.04.2016 Shift : 3
+Ans : (a) Ratio of Silver and Aluminium in R
+[22] f243] =17 15 =17:15
+8 16) 8 16] 16 16
+30. A tea trader has 3 varieties of tea to sell. Brand
+A was sold at the rate of Rs. 252 per kg, brand
+B at Rs. 280 per kg and brand C at Rs. 316 per
+kg. At the end of the year, he finds that he has
+now 274 kg of brand A, 197 kg of brand B and
+54 kg of brand C. He mixes all three and sells
+the mixture at the rate of Rs. 283.50 per kg. |
+what was his profit or loss on the sale?
+(a) Rs. 7565.50 profit (b) Rs. 7565.50 loss
+(c) Rs. 8232.40 profit (d) Rs. 8125.30 loss
+RRB NTPC 28.04.2016 Shift : 1
+Ans : (a) Total cost of brand A, B and C
+= 252x274 +280x197 + 316x54
+= 69048 + 55160 +17064 = 141272 Rs.
+Total price of mixture of brand A, B and C
+= (274 + 197 + 54) x 283.50
+= 525 x 283.50
+=Rs. 148837.5
+So total profit on sale = 148837.5 — 141272 = Rs.
+7565.50
+31. A person makes a 20% loss on selling type A
+tea at the rate of Rs. 160 per kg. That person
+makes a 20% profit on selling type B tea at the
+rate of Rs. 400 per kg. To make 25% profit on
+tea at the rate of Rs. 300 per kg, in what
+proportion will these two types of tea A and B
+will be mixes to sold?
+(a) 4:5 (b) 3:2
+(c) 2:1 (d) 1:2
+RRB Group-D — 12/10/2018 (Shift-Il) |
+Ans : (c) Suppose there are x part of A and y part of B
+According to the question-
+160x + 400y 125 _ 300
+x+y 100
+160x + 4009 5 _ 399
+x+y 4
+160x + 400y = 240 (x + y)
+(240 — 160)x = (400 - 240)y
+80x = 160y
+y l
+xiy=2:1
+32. There are two mixtures of juice, the ratio of
+water and juice in the first mixture is 4:3 and
+in the second mixture ratio is 3:2, both are
+mixed in the ratio of 1:2 respectively. What will
+Alligation 24
+
+
+===== Part 12 — Alligation (pp. 235–240)_page-0006_right.png =====
+be the ratio of water and juice in the prepared
+mixture.
+(a) 2:1 (b) 62:43
+(c) 58:47 (d) 9:8
+RRB Group-D — 08/10/2018 (Shift-I
+Ans. (b) : Quantity of water in first mixture = :
+and quantity of juice = 3
+quantity of water in second mixture = 2
+and quantity of juice = :
+According to the question-
+on adding both mixture in ratio of 1 : 2
+required ratio = 62 : 43
+33. The cost price of two varieties of salt T and S is
+Rs. 25 and 35 per kg respectively are mixed in
+the ratio of 4:6. The mixed variety is sold at Rs.
+37 per kg. What is the profit percentage?
+(a) 20% (b) 33%
+(c) 25% (d) 38%
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (a) Total cost of salt T= 25 x 4= 100
+Total cost of salt S = 35 x 6 = 210
+Total cost price = Rs. 310
+Total selling price = 37 x 10=Rs. 370
+According to the question-
+selling price = cost price(100+P/L)
+100
+9
+=>370= 310x(100+ P%)
+100
+3700-3100 _ P%
+31
+00 _ pm
+31
+P% = 19.35%
+P% = 20% (Almost)
+34. A tea trader has 3 varieties of tea to sell brand
+A was sold at the rate of Rs. 252 per kg. brand
+B at Rs. 280 per kg and brand C at Rs. 316 per
+kg. At the end of the year he finds that now he
+has 274 kg of brand A, 197 kg of brand B and
+54 kg of brand C. He mixes all three and sells
+the mixture at the rate of Rs. 283.50 per kg.
+What was his profit or loss on the sale?
+(a) Rs. 7565.50 profit (b) Rs. 7565.50 loss
+(c) Rs. 8232.40 profit (d) Rs. 8125.30 loss
+RRB NTPC 28.04.2016 Shift : 1
+Ans: (a) Total cost of brand A, B and C
+= 252x274 +280x197 + 316x54
+= 69048 + 55160 +17064 = 141272
+Total price of mixture of brand A, B and C
+= (274 + 197 + 54) x 283.50
+= 525 x 283.50 = 148837.5
+So total profit on the sale = 148837.5 — 141272
+=Rs. 7565.50
+) YCT

@@ -1,0 +1,4067 @@
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0001_left.png =====
+Ans: (d) |
+Average number = eee
+= 12000609
+4
+
+Direction (71 to 73)
+
+71. The given table represents the marks obtained
+by four students W, X, Y and Z in four
+subjects P, C, B and M with the maximum
+marks in each subject being 100.
+
+The average marks of all the four students in
+subject C is.
+Students/ Cc M
+Sore |||"
+| w___[ 70 | 90 | 50 | a5 |
+| x | ss | 80 | 9s | 60 |
+|__¥ | 60 | 20 | 90 | 40 |
+[oe fan [a0
+(a) 67.5 (b) 67
+(c) 67.75 (d) 67.25
+RRB Group-D — 12/12/2018 (Shift-1) |
+
+Ans. (a)
+
+Average marks of all four students in subject C
+= 90+80+20+80 _ 270_ 675
+
+4 4
+
+72. What is the average mark of four students in
+
+M?
+(a) 62 (b) 62.25
+(c) 62.75 (d) 62.5
+RRB ALP & Tec. (31-08-18 Shift-I)
+Ans : (d) Average marks of all four students in M
+
+_ 854+60+40+65
+
+———
+
+= 250 _ 62.5
+
+4
+73. What is the average mark of the four students
+in P?
+(a) 68.5 (b) 68
+(c) 68.75 (d) 68.25
+RRB ALP & Tec. (29-08-18 Shift-II])
+Ans : (c) Average marks of all four students in P
+4 4
+Average 36:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0001_right.png =====
+74. A person expenditure has increased 710000 in
+each month in February and March. If his
+expenditure in January was 710000, then find
+the average expenditure (in %) from January to
+march,
+
+(a) 20000 (b) 15000
+(c) 10000 (d) 25000
+RRB NTPC 12.04.2016 Shift : 1
+Ans : (a) January expenses of the person = 710000
+expenses for the month of february
+= 10000 + 10000 = %20000
+And expenses for the month of March
+= 20000 + 10000 = %30000
+Average expenses from January to March
+_ 10000 + 20000 + 30000
+3
+= a“ = 220000
+
+75. A person expenditure has increased by %50000
+in the months of February and March. If his
+expenditure in January was %50000, then find
+his average expenditure (in %) from January to
+March.
+
+(a) 100000 (b) 150000
+(c) 75000 (d) 50000
+RRB NTPC 27.04.2016 Shift : 3
+Ans: (a) Expense in January Month == 50000
+“In the month of February and March, expenses
+increase by * 50000
+.. Expenses for the month of February
+= 50000 + 50000
+=F 100000
+Expenses for the month of March = 100000 + 50000
+= % 150000
+Hence, Average expenses from January to March
+— 50000 + 100000 + 150000
+3
+= Ne = & 100000
+Co 3
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0002_left.png =====
+18.
+
+Spe
+—————
+1. Two buses from a house run at a speed of 25
+
+km/h at an interval of 15 minutes. How much
+more speed (km/h) does a woman coming from
+the opposite side of the house have to walk so
+that the buses meet at an interval of 10
+minutes.
+(a) 12 (b) 12.25
+(c) 12.5 (d) 12.75
+
+RRB RPF SI — 06/01/2019 (Shift-I)
+
+Ans : (c) Speed of bus = 25 Km./hr.
+Let the speed of woman = x km/h .
+Distance = D, Time = 15 minute =} hours
+60 4
+then time after women's speed = 10 minute
+10 1
+=— =~ hours
+60 6
+. D
+Then Relative speed (S) = 7
+> D=SxT '
+D=25x+
+4
+25
+25+x
+D= 6 seeeteeeeeee(di)
+from equation (i) and equation (ii)
+25+x _ 25
+6 4
+25+x= 150
+4
+150
+xe 25
+150-100
+x=
+4
+50
+xo2t
+4
+
+Speed of woman x = 12.5 Km./hr.
+
+2. A car covers a certain distance at a speed of 50
+km/h in 8 hours. How much should its speed
+increase to cover the same distance in 5 hours?
+(a) 50 Km/hr. (b) 40 Km /hr.
+
+(c) 30 Km/hr. (d) 80 Km/nr.
+RRB RPF Constable — 19/01/2019 (Shift-III)
+
+Speed, Time & Distance 36:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0002_right.png =====
+° °
+ed, Time & Distance
+_
+Ans: (c) Let distance = x km
+According to question,
+dis tance
+speed = ————
+time
+50=*
+8
+After covering 400 km distance in 5 hours
+speed = * =80km/h
+then,
+speed increase = 80-50= 30Km_/hr.
+
+3. The speed of 14 meters per second is equal to:
+
+(a) 46.6 Km/hr. (b) 50.4 Km//hr.
+(c) 70 Km/hr. (d) 28 Km/hr.
+RRB RPF SI — 05/01/2019 (Shift-I
+
+Ans : (b) The speed of 14 meter per second is the same
+
+as 50.4 Km./hr.
+
+1 m/sec = 18/5 Km./hr.
+14 m/sec = Bald 50.4 Km./hr.
+
+4, Prithi is going to Delhi from Rajdhani express
+which is running 6 minutes late. Driver in
+creases. It's speed by 4 km/hr. By doing this,
+the train arrives on time at the next station
+which is at the distance of 36 km. Find the
+actual speed of the train.
+
+(a) 20 Km_/hr. (b) 26 Km./hr.
+(c) 36 Km//hr. (d) 30 Km//hr.
+RRB RPF Constable — 17/01/2019 (Shift-I
+
+Ans. (c) : Let the speed of train = x Km./hr.
+
+Distance between both stations = 36 Km.
+According to question,
+36 36 6
+x+4 x 60
+(time = distance/speed)
+> ao(4 7 4) lL
+x x+4) 10
+> 36 Xt40x |_ 1
+x(4+x)} 10
+=> 36x4x10=x? +4x
+=> x? +4x-1440=0
+=> x? + 40x -36x -1440=0
+=> x(x+40)—36(x+40)=0
+=> (x+40)(x-36)=0
+7.x =36Km/h
+3 YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0003_left.png =====
+5. Kishan cycled 96 km at a certain speed. If he |
+cycled 4 km/h slower, then he would have
+taken an addition time of two hours to reach
+the destination. What is the speed, at which
+kishan actually cycled in Kilometers?
+
+(a) 12 (b) 18
+(c) 16 (d) 15
+RRB Group-D-11/10/2018 (Shift-II)
+Ans: (c) Let actual speed = x Km_/hr.
+Distance = 96 km
+New speed = (x4) Km /hr.
+According to question,
+96 _96_,
+x-4 x
+48 48)
+x-4 x
+«e(-2) =I
+x-4 x
+X-x+4
+«( x(x a
+
+48 x4 =x (x4)
+
+x°-4x-192=0
+
+x — 16x + 12x- 192=0
+
+x(x-16) + 12 (x-16) =0
+
+(x+12) (x-16) =0
+
+Hence x— 16=0
+
+x= 16 x #-12
+
+Actual speed = 16 Km//hr.
+
+6. A person has to cover a distance of 40 km. He
+covers a distance of 16 km and the remaining
+distance is covered by a tanga. If he covers a
+distance of 16 km. from a tanga and the
+remaining distance at a speed of 4 km/hr. So
+takes more than 1 hour. Find the speed of the
+tanga.
+
+(a) 12 Km//hr. (b) 8 Km/hr.
+(c) 16Km /hr. (d) 10 Km /hr.
+RRB Group-D — 20/09/2018 (Shift-IIT)
+
+Ans : (b) Let the speed of taanga = x Km./hr.
+
+Distance = 40 km
+
+According to question,
+
+(*e+5)-(24+4)-1 |
+x x
+= 646-74 4a]
+x x
+> Lad =1-2
+x x
+16-24
+>—— =-l
+x
+=> -8=-x
+x= 8 Km/hr.
+Speed, Time & Distance 36:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0003_right.png =====
+7. In a 200 meters long race the runner A beats
+runner B by 3 seconds. If the speed difference
+between A and B is 1.5 m/s. So find the speed of
+A in meter per second.
+
+(a) 10.778 (b) 10.5
+(c) 8.728 (d) 9.728
+RRB Group-D — 15/11/2018 (Shift-IID)
+
+Ans, : (a) Let the speed of B = x m/s
+
+«. Speed of A =(x + 1.5) m/s
+
+According to question,
+
+200200 _,
+x (x+1.5)
+200x +300—200x _ 3
+x’ +1.5x
+x’ +1.5x—100=0
+x’ + 10.778x — 9.278x — 100 =0
+x (x + 10.778) — 9.278 (x + 10.778) =0
+(x - 9.278) (x + 10.778) =0
+x = 9.278 m/s
+
+Hence, Speed of A = (9.278 + 1.5) = 10.778 m/s
+
+B. A car in a fog crosses a person, who was
+walking in the same direction at a speed of 3
+km/h. That person could see this car for 100 m
+up to 4 minutes. What was the speed of the
+car?
+
+(a) 9/2 Km/hr. (b) 7/2 Km./hr.
+(c) 5 Km/hr. (d) 5/2 Km//hr.
+RRB Group-D — 12/11/2018 (Shift-I)
+
+Ans. (a) : Let the speed of train = x Km./hr.
+
+According to question,
+
+{ Relative speed = Distance)
+
+Time
+100
+Pa x—3= 1000 100m, =" jon
+4 1000
+60
+x-3-5 and 4 minute =—-hr}
+10 60
+x= 3 +3
+2
+x= Sham he
+2
+
+. Two cars A and B starting at the same time
+meet each other in opposite direction after t
+hours and after arriving they reach their
+destination after 5 hours and 6 hours. If the
+speed of car A is 55 km/hr, what will be the
+speed of the car B?
+
+(a) 66V12km/hr (b) 110V3km/hr
+110 55
+(0) Te km/hr @ = 30 km/hr
+RRB Group-D — 05/11/2018 (Shift-I)
+7 YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0004_left.png =====
+Ans. (d) : Given,
+
+t Sh
+
+A<—<_}+—_>—">B
+
+6h
+Time taken to reach destination after meeting (A) = 5 hr.
+Time taken to reach destination after meeting (B) = 6 hr.
+Speed of A= 55 Km/hr.
+Let Speed of B= x Km_/hr.
+. Spe fta
+“Sy Vte
+55 V6
+x=55x £
+6
+x=55x,,2-~8
+6x6
+x= 3x30
+6
+x= 330 km/hr
+
+10. Parvej belongs to town A and Gautam belongs
+to Town B. They start their journey to each
+other cities by the same route at the same time.
+They meet some where along the way and
+continue their journey. Parvej takes 12 hours
+to reach the destination after meeting Gautam,
+while Gautam takes another 3 hours to reach
+the city of parvej. If parvej travels at a speed of
+60 km/hr, then find the speed of Gautam in
+km/hr.
+
+(a) 120 (b) 105
+(c) 90 (d) 125
+RRB Group-D — 11/12/2018 (Shift-I)
+Ans. (a) :
+Me fh
+Vv t,
+0 B {crv = 60 Km/hr,, t; = 12, ty = 3}
+Vv, 12
+Vv, 4
+v2 = 120 Km./hr.
+
+11. Two people are cycling in the same direction a
+train traveling at a fixed speed passes from
+there. The train crosses the first in 8 seconds
+and the second in 8.4 seconds, the first person
+was cycling at a speed of 9 km/hr while the
+second person was cycling at a speed of 12
+km/hr. What is the speed of the train in km/hr.
+(a) 66 (b) 75
+(c) 81 (d) 72
+
+RRB Group-D — 11/12/2018 (Shift-II)
+
+Speed, Time & Distance 36:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0004_right.png =====
+Ans : (d) Let the speed of train is V Km./hr.
+
+Train is going in the direction of both the people.
+
+From rule of relative speed, distance = speed time
+
+. 8
+(for the first person) distance =(V-9)x 3600
+7 84
+(for the second person) distance =(V-—12)x——
+3600
+*: The distance travell by the train crossing both
+person will be same.
+8 8.4
+
+*. (V-9) x —— =(V-12) x ——
+“se ~~ 1)™ 3600
+
+8V —72=8.4V - 100.8
+
+100.8—72=0.4V
+
+28.8 =0.4V
+
+V= “ =72km/h
+
+12. Two cars travel from the same houses at a
+speed of 20 km/h at an interval of 10 minutes.
+At what speed does a woman come in the
+opposite direction towards the house. If she
+gets cars in 8 minutes interval.
+
+(a) 5 (b) 6
+(c) 7 (d) 4
+RRB NTPC 17.01.2017 Shift-1
+
+Ans : (a) Let the speed of woman is x Km./hr. and the
+
+woman's distance from the house is / km and at t time|
+
+the woman gets the first car.
+
+Then-
+
+xxt+20t=/........ (i)
+
+and (+R )s+(+ 5220 =l
+
+60 60
+xt + 8% 4 294 20%? _ xt+20t
+60 60
+8x _ 40
+60 60
+x= 5 Km/hr.
+
+13. The speed of the car A is 80 km/h. If it covers a
+certain distance in 6 hours and B travels 60 km
+less than the car A in that time. What is the
+speed of car B?
+
+(a) 50 Km/hr. (b) 70 Km/hr.
+(c) 60 Km/hr. (d) 55 Km/hr.
+RRB NTPC 31.03.2016 Shift : 1
+
+Ans : (b) Distance traveled by car A = 80x6 = 480km.
+
+Distance travelled by car B = 480 — 60 = 420 km.
+
+«. Speed of carB = *“ =70 Km/h.
+
+14. The ratio between the speeds of two buses is
+11:9. If the second bus runs 270 kms in 15
+hours, then the speed of the first bus is?
+
+(a) 23 Km//hr. (b) 11 Km /hr.
+(c) 2 Km/hr. (d) 22 Km/hr.
+RRB NTPC 18.04.2016 Shift : 1
+
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0005_left.png =====
+Ans : (d) Given-
+
+Speed of two buses is 11 x and 9x respectively.
+
+Speed of second bus “ =18km/h.
+
+=> 9x = 18 Km/hr.
+=>x= 18/9
+=>x=2Km/hr.
+
+Hence speed of first bus = 11x = 11x2 = 22 Km/hr.
+
+15. Two bicycles from a house started at a speed of
+24 km/h with a interval of 15 minutes. How
+much more speed does a woman coming from
+the opposite direction of the house have to walk
+so that she meet a cycle at an interval of 10
+minutes.
+
+(a) 13 (b) 11
+(c) 12 (d) 14
+RRB NTPC 11.04.2016 Shift : 1
+Ans : (c) Distance travelled by cycle in 15 minutes
+= 24x Bb 6km.
+60
+Hence speed of women = & = 6x60 _ 36 Km./hr.
+10 10
+60
+.. Intended speed = 36-24 = 12 Km./hr.
+
+16. Two jeep runs from a house at a speed of 20
+km/h at 10 minutes interval. How much speed
+will a woman coming from the opposite
+direction of the house have to walk so that she
+will meet the second jeep at a interval of 6
+minutes.
+
+@ 3 ) 132
+3
+1
+(c) 35 (d) 13.5
+RRB NTPC 11.04.2016 Shift : 3
+Ans: (c) Let the speed of woman = x Km./hr.
+According to question,
+xx&=20x4
+60 60
+x -40 = ai Km//hr.
+3 3
+
+17. If Vinay would have run at a high speed of 2
+km/h he would have taken 10 minutes less to
+cover 4 km, then find the speed of vinay.
+
+(a) 7 Km/hr. (b) 5 Km/hr.
+(c) 4 Km/hr. (d) 6 Km/hr.
+RRB Paramedical Exam — 20/07/2018 (Shift-II)
+
+Ans : (d) Let the speed from starting = S Km./hr.
+
+Increased speed = (S + 2 ) Km./hr.
+
+Distance = 4 km
+
+from use of formula -
+
+Productof speed _ differenceinspeed
+Distance difference in time
+Speed, Time & Distance 361
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0005_right.png =====
+S(S+2)_ 2
+
+4 10
+
+: 60
+
+$+28_ 1,
+
+4
+S?+2S8-48=0
+S? +8S-6S—48=0
+S(S+8)-6(S+8) =0
+(S+8)(S—6)=0
+S$+8=0 > S=-8
+S-6=0 => S=6km/hr
+
+Since the speed is always positive therefore intended
+
+answer = 6 Km/hr.
+
+18. Two mini buses run from a house at an interval
+of 10 minutes at a speed of 22 km/h. How much
+more speed (km/h) a person coming from the
+opposite direction of the house will have to
+walk so that they can settled at an interval of 6
+minutes.
+
+(a) 14° (b) 45 (©) v4 (d) 14.5
+RRB NTPC 07.04.2016 Shift : 1
+
+Ans : (c) Let the speed of person = x Km./hr.
+According to question,
+
+2244 PXM = 9944220
+
+6 6
+x= io 22
+3
+110-66 44
+x=
+3 3
+2
+
+x= 147 km/ h
+
+19. Two bicycles start from a house together at an
+interval of 10 minutes and run at a speed of 6
+km/hr, What should be the speed of a woman
+coming from the opposite direction towards
+home so that she can cross both the bicycles at
+an interval of 8 minutes.
+
+(a) 1.7 (b) 1.6
+(c) 15 (d) 14
+RRB NTPC 19.01.2017 Shift : 1
+Ans : (c)
+Distance covered by bicycle in 10 minutes
+= 6x oH tkm,
+60
+Let the speed of woman = x Km./hr.
+Then Relative speed = (6+x) Km./hr.
+6+x= 1 =, 60 6
+8 8 8
+60
+60-48 12
+x= ==
+8 8
+3
+x=>=1.5km/h
+2
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0006_left.png =====
+20. A car covers a distance of 240 km in 6 hours.
+How much should the speed of the car be
+increased to cover 1% of a distance?
+
+(a) 15 Km/hr. (b) 20 Km/hr.
+(c) 25 Km/hr. (d) 30 Km/hr.
+RRB NTPC 26.04.2016 Shift : 1
+Ans: (b) Speed = Distance = 240 _ 40 Km./hr.
+Time 6
+New Distance = 40x15 = 240x3 = 360 km.
+Again Speed = suid a2u= 60 Km//hr.
+time 6
+Speed Increase = 60 — 40 = 20 Km./hr.
+
+21. Two vehicles from a house moved at a speed of
+25 km/h. in a interval of 20 minutes. How much
+more speed a woman coming from the opposite
+direction of the house will have to walk so that
+she gets a vehicle at an interval of 18 minutes.
+
+5
+a) 2 b) 25
+(a) ) 29
+7 8
+c) 2— d) 2—
+© 29 @ 25
+RRB NTPC 26.04.2016 Shift : 2
+Ans : (c) Distance covered by vehicle in 20 minutes
+Distance = Speed x Time
+= 25x22 km,
+60
+= 25x a km.
+3.3
+Let the speed of women = x Km./hr.
+.. From Question,
+25
+318
+25+x 60
+= 25 _ 18
+3(25+x) 60
+25 18
+> re
+75+3x 60
+25 3
+> a
+75+3x 10
+> 250-225 = 9x
+> 25=9x
+25
+> x=
+9
+
+Hence speed of women = 22 Km_/hr.
+
+22. Two van from one house ran at a speed of 20
+km/h at an interval of 16 minutes. What more
+speed a woman coming from the opposite
+direction of the house will have to walk go get
+the van at an interval of 12 minutes.
+
+Speed, Time & Distance 36’
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0006_right.png =====
+1
+(a) 6 (b) 6 ;
+(c) 62 (d) 65
+RRB NTPC 26.04.2016 Shift : 3
+Ans : (c) Let the women walk x Km./hr. more,
+from formula- Distance = speed x time
+16 59 = (x+20) x12
+60 60
+320=12x +240
+12x =80
+xe 20 6h he.
+12.3 3
+
+23. A Thief drives his motor cycle at a speed of x
+km/h. 4 hours later a policeman starts chasing
+him in a jeep and captures him in 4 hours. If
+the average speed of van of the policeman is 40
+km/hr then find the speed of the thief's
+motorcycle in km/hr.
+
+(a) 30 (b) 36
+(c) 45 (d) 20
+RRB NTPC 27.04.2016 Shift : 1
+Ans : (d) The policeman catches the thief, so the
+distance covered by both will be the same.
+xx 8=40«4
+x=20
+
+~. Speed of motorcycle of thief = 20 Km./hr.
+
+24. A thief drives his motorcycle at a speed of x
+km/h. A police started chasing him with jeep
+after 6 hours and caught him after 4 hours. If
+the average speed of a police is 90 km/h, then
+find the speed of the thief's motorcycle in
+km/hr.
+
+(a) 30 (b) 36
+(c) 45 (d) 60
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (b) Let the speed of motorcycle of thief is x
+Km_/hr.
+and distance = d km.
+Speed of motorcycle of thief x = =" = a
+6+4 10
+
+Speed of motorcycle of Policeman 90 -4
+
+i.e. Distance (d) = 90 x 4= 360 km.
+
+According to question,
+
+Speed of motorcycle of thief x = *
+
+x=36 Km/hr.
+
+25. The radius of a wheel is 0.35 meter. It rotates
+450 round in 1 minute. Its speed in (km/hr) is :
+(a) 59.40 (b) 59.04
+(c) 48.05 (d) 56.40
+
+RRB NTPC 30.04.2016 Shift : 2
+
+y YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0007_left.png =====
+Ans : (a) Circumference of wheel = 2nr = 2x25
+
+= 2.2 meter
+
+Speed = 450%22 _ 450%22 | 18 0 pp = 594 59 ak /br
+
+60 60x10 5 10
+
+26. Krishna cycled a distance of 90 km at a certain
+speed. If he cycled 3 km slower every hour, he
+would have taken 5 more hours to reach his
+destination. What is the speed in Km,/hr. at
+which Kirshna actually cycled?
+
+(a) 7.5 (b) 9
+(c) 18 (@) 15
+RRB ALP & Tec. (17-08-18 Shift-IIT)
+Ans: (b) Let the actual speed = x Km./hr.
+According to question,
+90 90
+—-2=5
+(x-3) x
+> 51x x+3]_ 5
+x° 3x
+18x3
+>= =
+x° —3x
+=> 54=%x?-3x
+=>x’-3x-54=0
+=> x?-9x + 6x-54=0
+=>x(x-9)+6(x-9)=0
+=> (x-9) (x+6) = 0, x = -6 (invalid) x = 9 valid
+
+Hence actual speed = 9 Km./hr.
+
+27. Peter belongs to Town A and Paul belongs to
+Town B. They start their journeys towards
+each other's towns following the same route at
+the same time. They meet somewhere on the |
+way and continue with their journeys. After
+meeting Paul, Peter takes another 13.5 hours to
+reach his destination while Paul takes another
+6 hours to reach Peter's town. If Peter travelled
+at the speed of 30 Km/hr., what was Paul's
+speed in Km./hr.?
+
+(a) 42.5 (b) 40
+(c) 45 (d) 47.5
+RRB ALP & Tec. (13-08-18 Shift-ID)
+Ans: (c)
+6 hours x km/hr,
+LY Paul
+Let if, :
+Speed of Paul is x Km./hr. then,
+It is clear from the above diagram that
+405 _ 6x
+x 30
+=> 6x ?= 40530
+=> x" = 2025 Km/hr._ or x= 45 Km//hr.
+Speed, Time & Distance 36!
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0007_right.png =====
+28. Geeta travels 120 km by steamer, 450 km by
+train and 60 km by scooter from Hyderabad to
+IIT Roorkee. The total journey takes 13 hours
+and 30 minutes and the speed of the train is 3
+times the transit of the scooter and 1% times
+that of the same steamer. What is the speed of
+the train?
+(a) 60 Km./hr. (b) 70 Km./hr.
+(c) 65 Km/hr. (d) 54 Km-/hr.
+RRB Group-D — 04/12/2018 (Shift-II1)
+Ans. (a) According to question,
+Let the speed of train = x Km./hr.
+speed of train= 3 X speed of scooter
+x= 3 x speed of scooter
+speed of scooter = x/3 Km./hr.
+speed of train = 3/2 x speed of steamer
+speed of steamer = 2x/3
+“+ Speed = Distance
+Time
+from question—
+120 , 450 | 60 _ 13 hour 30 minutes
+2x xk Xx
+3 3
+180 450 180 27
++ +
+x x x 2
+810 _27
+x 2
+x=30x2
+x = 60 Km /hr.
+Hence speed of train = 60 Km./hr.
+Type -2
+29. | Mark had to cover a distance of 260 km in 4.5
+hours using a train traveling at a speed of 70
+km/hr or a bus traveling at a speed of 48 km/hr
+or using both these modes of transport.
+(a) 2 hours (b) 1 hour
+(c) 1 hour 30 minute (d) 2 hours 30 minute
+RRB RPF Constable — 25/01/2019 (Shift-II1)
+Ans : (d) Let the time taken by bus = t
+The time taken by train = (4.5 — t)
+According to question,
+260 = 48xt+70x(4.5-t)
+260 = 48t +(70x 4.5-70t)
+260 = 48t+315—70t
+22t=55
+or
+t=2 hours 30 minutes
+30. Raima covered some distance with a speed of 7
+km/h on foot and some distance at a speed of 12
+km on a bicycle. He had covered a distance of
+64 km in 7 hours. How many hours did he
+travel on a bicycle?
+(a) 2 (b) 3
+() 5 qd) 4
+RRB RPF SI - 11/01/2019 (Shift-I)
+3 YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0008_left.png =====
+Ans. (b) Let Raima covered x, distance in t hour by] |:
+bicycle.
+Hence the distance covered by bicycle (x;) = 12 xt
+land distance covered on foot (x2) = 7(7 - t)
+Iso, X, +X) = 64 km.
+12t+ 49 -7t= 64
+St= 64-49
+St=15
+t=3 hours
+31. How long does it take to cross 132meter long
+bridge by a 110 meter long train running at a
+speed of 72 km? .
+(a) 14.3 second (b) 9.8 second
+(c) 12.1 second (d) 12.42 second
+RRB JE - 23/05/2019 (Shift-IT
+Ans: (c)
+Length of train (/) = 110 meter
+Speed of train = 72 Km_/hr. = Tx = 20 m/sec.
+Time = T =?
+1. Speed of train = Distance _ £+ length of bridge
+Time T
+20= 110+132
+T
+pa 282 _ 121 19 1 second
+20 10
+32. Ina 200 meters race P beats Q by 35 meters or
+7 seconds. Find the time taken by P during the
+race.
+(a) 36 second (b) 33 second :
+(c) 40 second (d) 47 second
+RRB JE - 24/05/2019 (Shift-1
+Ans : (b) Time taken to cover 35 m. distance = 7 sec.
+.. Time taken to cover 200m distance = x 200
+=40 sec.
+Hence time taken by Q cover 200 m distance = 40 sec.
+Hence time taken by P to covers 200 m distance = 40-7
+= 33 sec.
+33. At 3/4 of a usual speed, a person reaches his
+work-place 15 minutes late. Normally how
+many minutes does it take to reach the work
+place?
+(a) 42 minute (b) 30 minute
+(c) 45 minute (d) 60 minute
+RRB JE - 24/05/2019 (Shift-I11
+[Ans : (c) Let the time taken to cover d distance from v}
+speed is t.
+v—+—t
+3 y—+—> (t+15)
+vxt =3y(t+15)
+4
+4t=3t+45
+4t—3t=45
+t=45 minutes
+Speed, Time & Distance 365
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0008_right.png =====
+34. In a 300 meter race, P beats Q by 22.5 meters
+or 6 seconds. Find the time taken by Q to
+complete the race.
+
+(a) 86 second (b) 78 second
+
+(c) 76 second (d) 80 second
+
+RRB JE - 27/05/2019 (Shift-ID)
+Ans : (d) It is clear that Q runs 22.5 meters in 6 sec.
+Time taken by Q to cover 300 m distance
+6 6x 3000
+(& +00) 225
+= 79.99 second = 80 second
+
+35. P and Q run around a circular track of 240
+meters at a speed of 15 m/min. and 20 m/min
+respectively. If they start running together then
+after how much time they will meet again at
+the starting point.
+
+(a) 25 minute (b) 36 minute
+(c) 30 minute (d) 48 minute
+RRB JE - 29/05/2019 (Shift-I
+
+Ans: (d) The time taken by P to run around a 240 m|
+
+long circular track. 2 = 16 minute
+
+The time taken by Q to run around a 240 m long)
+
+circular track = a= 12 minute
+
+Time of meeting at the starting point again = LCM o:
+
+16 and 12 = 48 minute
+
+Hence they will be meet at the starting point again after,
+
+48 minutes.
+
+36. A thief rides a bike at a speed of 100 km/h. by
+running away from the police. The police
+immediately started chasing at 75 km/h after 1
+hour the engine of the police car broke down
+which took 30 minutes to repair, after this the
+speed of the car is incresed to 120 km/h, how
+long the thief was caught?
+
+(a) 2hours 45 minute (b) 3 hours 40 minute
+(c) 5 hours 15 minute (d) 2 hours 30 minute
+RRB JE - 02/06/2019 (Shift-I
+
+Ans : (c) Given-
+
+Speed of thief = 100 Km./hr.
+
+Distance covered by thief in 1 hour = 100 km.
+
+Speed of police = 75 km./hr.
+
+Distance covered by police in 1 hour = 75 km.
+
+An hour later the distance between both = 25 km.
+
+The time it took to recover after the car broke down
+
+= 30 minute
+
+Distance covered by thief in 30 min. = 50 km.
+
+Now distance between both= 25+50 = 75 km.
+
+The time taken by police to catch the thief at the speed
+
+of 120 Km./hr. = — 3B
+
+20(Relativespeed)
+= 3b. 3 hours. 45 minutes
+20
+Hence the total time to catch the thief =
+3:45 + 1:30 = 5:15 hours
+) YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0009_left.png =====
+37. Two friends start walking towards the city P to |.
+Q and city Q to P respectively at the same time.
+After meeting at some point between P and Q,
+they reach their destination in 54 and 24
+minutes respectively. In what time did that
+friend who went from Q to P finish their
+journey.
+
+(a) 48 minute (b) 36 minute
+(c) 72 minute (d) 60 minute
+RRB JE - 26/06/2019 (Shift-IIT.
+Ans : (d) p24min . 54min 4
+24y O 54x
+‘Where x and y is the speed of two passenger.
+te pa
+t oy 54
+x2
+y 3
+3
+Day +54x2
+. 2dy+54x _ “°Y 34
+time = ————— = ———___=—_
+y y
+= Sy _ 60 min.
+y
+
+38. Rahi had to travel 360 km in 8 hours. During
+the journey, he traveled at an average speed of |
+60 km/h but took two breaks in between, the
+long break doubled from the short time break,
+for how many minutes the short break was
+taken.
+
+(a) 30 (b) 45
+(c) 40 (d) 35
+RRB RPF Constable — 22/01/2019 (Shift-IIT
+
+Ans : (c) Let the short break was taken for x minutes
+
+during the considered journey.
+
+Time taken while taking both breaks = x+2x
+
+= 3x minute
+._ 360
+
+Actual speed of Rahi = 3 45km /hr
+And Average speed = 60 Km./hr.
+According to question,
+
+360 360 _ 3x .
+—-—~ == hour
+
+45 60 60
+
+60-45 3x
+
+45x60 360x60
+
+15= 3x
+
+8
+
+3x = 120 minute
+x= 40 minute
+
+Hence time taken while taking short break x = 40
+
+minute
+
+Speed, Time & Distance 371
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0009_right.png =====
+39, Nidhi takes 3 hours 45 minutes to walk from
+one place and return to the same place by
+bicycle, it takes 4 hours 20 minutes to walk. So
+how long will it take to get on the cycle.
+
+(a) 3 hours 10 minute
+(b) 3 hours 35 minute
+(c) 3 hours 45 minute
+(d) 3 hours 15 minute
+RRB RPF SI - 12/01/2019 (Shift-I11
+
+Ans : (a) Time taken by Nidhi for reaching one side on
+
+foot + another side by cycle = 3 hour 45 minutes
+=>3+ a 3+ 3.1
+
+60 4 4
+Time taken by her to reach both sides
+=> 4hours 20 minutes = 4+ 20 _13
+60 3
+Time taken to walk one side = B x 1_B
+3 2 6
+. 7 1513
+time taken to reach another side by cycle = a
+ie hour]
+12 12
+. - 19 19
+time taken to travel both side by cycle = Pp” 2= ra
+3 hours 5x 60=3 hours 10 minutes
+
+40. Hema takes 9 hours 55 minutes to walk a
+certain distance and return by bicycle. She
+takes 12 hours and 30 minutes to walk and
+walk on the same distance, how long does it
+take to go from both sides by bicycel and
+return from bicycle.
+
+(a) 7 hour 20 min (b) 7 hour 15 min
+(c) 7 hour 35 min (d) 7 hour 45 min
+RRB RPF Constable — 24/01/2019 (Shift-II)
+
+Ans :(a) The time taken to travel and reach certain|
+
+distance on foot and cycle = 9 hour 55 min.
+
+and total time taken in traveling to go and come
+
+= 12 hours 30 minute
+-. time taken in traveling on foot = 6 hour 15 minute
+Hence time taken to go and come by cycle
+= (9.55—6.15)x 2=7 hours 20 minute
+
+41. How long will it take for a student to take a
+round of 25 hectars field at the speed of 10
+km/hr.
+
+(a) 8 min (b) 16 min
+(c) 10 min (d) 12 min
+RRB Group-D — 15/10/2018 (Shift-IIT.
+
+Ans. (d) :
+
++: 1 Hectare = 10,000 m”
+
+©. 25 Hectare = 250,000 mi?
+
+= (500 x 500) m?
+Hence the shape of field is square.
+) YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0010_left.png =====
+-. a= 500 meter
+Perimeter of field = 4a = 4 x 500 = 2000 meter
+time take to complete one round up = Total distance
+speed
+| 2000m. _ 2000 m. a
+= ———__ = — 000? minutes
+1Okm/hr. 19 x “28° mm /minute
+60
+42. I walk a certain distance and return from the
+vehicle. It takes a total of 13/2 hours., while
+both it takes 31/4 hours to travel, then how |,
+much time will it take to travel both side there.
+(a) 6 hours 15 minute
+(b) 5 hours 55 minute
+(c) 4 hours 15 minute
+(d) 5 hours 15 minute
+RRB Group-D — 03/10/2018 (Shift-I])
+Ans: (d) The time taken by foot (P) and vehicle (w) in
+go and come = 13/2 hour
+Time taken to travel on foot (P) on both sides = 2 hour
+Hence
+P+w= B P+P= 31
+2 4
+2P = 3 , P= 3 hour
+4 8
+Putting the value of P-
+31 13
+S+wes
+8 2
+1331
+wet
+2 8
+we al hours
+8
+. . . 21
+Hence time taken by going vehicle as hours
+Time taken in returning by vehicle = 2 hours
+Time taken in going and coming both sides by vehicle- ||’
+21,21 42
+yf.
+8 8 8
+as? hours
+8
+or 5S hours 15 minutes
+43. Kiran has to cover a distance of 300 km in 5
+hours. He travels for some time at a speed of 75
+km/hr and the remaining the time travels at a
+speed of 55 km/h. How long did Kiran travel at
+high speed.
+(a) 1 hour 10 minute
+(b) 1 hour 25 minute
+(c) 1 hour 15 minute
+(d) 1 hour 35 minute
+RRB Group-D — 10/10/2018 (Shift-II)
+Speed, Time & Distance 37)
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0010_right.png =====
+Ans : (c) Let t hour time is taken in travelling at the
+speed of 75 Km./hr.
+75 xt +55 x (5—t) = 300
+75t + 275 — 55t = 300
+20t = 25
+r/ 255
+20 4
+t= 1 hour 15 minute
+
+Hence kiran traveled 1 hours 5 minute at maximum
+
+speed.
+
+44. Two cars start at opposite ends of the road and
+travel towards each other at speeds of 24 km/h
+and 30 km/h respectively. The distance
+between the starting positions of the cars is
+86.4 km. When the two cars meet each other,
+the approximate time will be?
+
+(a) 14.4 hours (b) 2.88 hours
+(c) 1.6 hour (d) 3.6 hours
+RRB Group-D — 10/10/2018 (Shift-I
+Ans: (c) Given—
+Total Distance = 86.4 km
+Relative speed = 24 Km./hr. + 30 Km./hr.
+= 54 Km_/hr.
+Time _ Distance _ 86.4km =16h
+Speed 54km/h
+Time = approximate 1.6 hours
+
+45. Sabrina traveled 8 km/h on foot and 13 km/h
+on bicycle. She covered 84 km in 8 hours, for
+how many hours did she ride a cycle.
+
+(a) 4 (b) 3
+() 5 dd) 2
+RRB Group-D — 27/09/2018 (Shift-1
+Ans. (a) Let Sabrina cycled till t time
+According to question,
+8 (8—t)+ 13t=84
+64-8t+ 13t=84
+St=20
+t=4
+
+Hence Sabrina cycled till 4 hour.
+
+46. Rahman takes 10 hours to walk to a certain
+place and return by ride. However, if he had
+traveled on both sides by ride, he could have
+saved 5 hours. How long will it take to travel
+on both sides by walking?
+
+(a) 15 hours (b) 10 hours
+(c) 5 hours (d) 20 hours
+RRB Group-D — 27/09/2018 (Shift-III)
+
+Ans : (a) Let time taken in walking on foot = tx.
+
+Ride has taken time in the travel = ty
+
+According to question,-
+
+t+ty=10__ (i)
+And, ty+ty=5
+2ty=5
+5
+ty 3
+{ YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0011_left.png =====
+from equation (i)
+5
+t+=—=10
+2
+t= 15
+2
+Time to walk on foot both sides.
+t+ tx =2tr =2x8= 15 hours
+47, A rectangular lawn is 60 meters long and 40].
+meters wide, approximately how long will it
+take for a person to cross its diagonal at a
+speed of 3 km/h.
+(a) 92.8 second (b) 81.5 second
+(c) 84.5 second (d) 86.5 second
+RRB Group-D — 27/11/2018 (Shift-.
+Ans. (d) :
+A————> 60 m <—__B
+40m
+D c
+‘Length of rectangular lawn (AB) = 60 m
+breadth (AD) = 40 m
+Diagonal (DB) =?
+from pythagoras theorem,
+BD? = AB’ + AD?
+BD? = (60)" + (40)
+BD? = 3600 + 1600
+BD? = 5200
+BD = ¥5200
+BD = 72.11 (Almost72)
+‘Length of diagonal = 72 m
+time =?
+55
+Speed =3km/h=3x—=—m/sec
+18 6
+Time = Distance
+Speed
+= 2 = as = 86.4 (approximately 86.5)sec
+6
+48. Ankit leads the church by bicycle and return to
+the starting point by car. He takes a total of 5
+hours for this journey. Using the car on both
+sides will save him 3 hours in this journey, if he
+rides on both sides, how much time will it take
+him?
+(a) 5 hours (b) 7 hours
+(c) 8 hours (d) 9 hours
+RRB Group-D — 26/11/2018 (Shift-III) |
+Ans. (c) Let the speed of cycle is x and speed of car = y
+aids
+x y
+2d - .
+—=2 (when traveling both sides by car)
+y
+Speed, Time & Distance 37:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0011_right.png =====
+foi)
+y
+from equation (i)
+4 +1=5
+x
+a 4 hour
+x
+If he rides a bicycle on both sides, it will take 8 hours.
+49. Train A, 5 am. at station X departs and 9 am.
+arrives at station Y. Another train B 6.30 am.
+departs from station Y and arrives station X at
+10 am. at what time trains meet each other.
+(a) 7:40 a.m. (b) 7am.
+c) 8am. (d)_ 7:30 a.m.
+Ans. (a) :
+‘ ein Train
+A— —B
+fe enocnnneeecccccccnnneese (icceccnneetenececonmneeseeneeese“bl
+Station Station
+_ Xe 3d 54+ Y
+Time-5am “g 8 Time - 6.30 am
+The time taken by train A to reach station X from
+station Y
+=9-5=4 hours
+The time taken by train B to reach station Y from|
+station X
+= 10-6.30= Fours
+Let the distance between the stations is d km.
+Hence speed of train A -4 Km_/hr.
+and speed of train B =t_ 2d Km /hr.
+7/2 «7
+Distance traveled by train A in 3/2 = ¢ 5 = 2 km.
+Now again the distance between the station
+=d- 3d 5d km.
+8 8
+Relative speed of both trains = a + ELAR
+4.7 28
+=id Km_/hr.
+28
+Relative time = —Distance _ = 54x28
+RelativeSpeed — 8x15d
+= hours or Ihours 10 minute
+Hence Meeting time for both trains
+= 6:30 + 1:10 = 7:40 am
+50. Pallav cycling at a speed of 12 km/h and
+walking at a speed of 3.5 km/h, he takes 8
+hours to cover a distance of 45 kilometers, how
+many hours did he cycle.
+(a) 5 (b) 2
+(c) 4 (@ 3
+RRB Group-D — 23/10/2018 (Shift-III)
+, YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0012_left.png =====
+Ans: (b) Let Pallav ride the cycle x hour
+Distance = Speed x Time
+Distance travelled by cycle = 12 x x
+Time taken to travel on foot = 8-x
+Hence distance travel on foot = 3.5x(8-x)
+According to question,
+12x+3.5(8-x) = 45
+12x +28.0-3.5x = 45
+8.5x = 45-28
+8.5x=17
+or 85x=170
+x= 170 _ 2 hours
+85
+51. Mrs. Vijaya takes 9 hours and 50 minutes to
+walk from her starting place to a certain
+destination and return to her starting point by
+running again. It takes 12 hours and 20
+minutes to walk from both the origin and the
+destination to the destination and again from
+the destination to the original place, both by
+running and in how much times she will
+complete.
+(a) 7 hours 45 minute (b) 7 hours 20 minute
+(c) 7hour 15 minute (d) 7 hour 20 minute
+RRB NTPC 19.01.2017 Shift : 3
+Ans : (d) on foot + by running = 9 hours 50 minutes
+on 2 foot = 12 hours 20 miutes
+on foot = 6 hours 10 minutes
+[By running = 9 hour 50 minute — 6 hours 10 minute
+By running = 3 hours 40 minute
+So, time taken to cover the distance on both sides by)
+running.
+= 2x (3 hours 40 minute)
+= 6 hours 80 minute
+Total time = 7 hours 20 minutes
+52. Keerthana takes 9 hrs 20 minutes in walking a
+distance and riding back to same place where
+she started. She could walk both ways in 11
+hrs. 15 minutes. The time taken by her to ride
+back both ways is.
+(a) 7 hours 25 minute (b) 7 hours 35 minute
+(c) 7 hours 45 minute (d) 7 hours 15 minute
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (a) Let the time taken to going on foot = x
+The time taken to come by riding = y
+then x+y=9.33 (1) (9 hr. 20 min. = 9.33 hr.)
+and x +x=11.25 (2) (time taken to go and come on
+foot)
+2x = 11.25
+x = 5.625 !
+from equation (i),
+5.625 + y= 9.33
+y = 9.33 - 5.625
+y = 3.705
+Then time take to go and come 2y = 2 x 3.705 =7.41
+Intended time = 7 hours 25 minute
+Speed, Time & Distance 37:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0012_right.png =====
+53. A trip from mumbai to pune takes 4 hours 30
+minutes to run at a speed of 60 km/h. How
+much time will it take us to travel at the speed
+of 15 m/s.
+
+(a) 33 hours (b) 5 hours
+(c) a hours (d) 4 hours
+RRB NTPC 18.01.2017 Shift : 2
+Ans : (b) Let the distance = x km
+Distance covered in 270 minute at a speed of 60 Km./hr.
+=> 60 (speed) = x (distance) >60= a
+= (time
+6 time)
+x =270km
+18
+1Sm/s=15x-= = S4lan/h
+
+time taken to cover distance of 270 km at a speed of 54)
+
+Km/hr.
+
+270 =5 hours
+
+54
+
+54. Bhanu takes a total of 6 hours 50 minute to
+walk from one place to another and run back
+to the starting place. He walks on foot on both
+sides in 8 hours and 30 minutes. Time taken to
+run on both sides is?
+
+(a) 5 hours 35 min (b) 5 hours 15 min
+(c) 5 hours 10 min (d) 5 hours 45 min
+RRB NTPC 17.01.2017 Shift-3
+
+Ans: (c) Let the time taken to cover a distance by)
+
+running = x
+
+and time taken to cover a distance on foot = y
+
+from question—
+
+5,41 -
+t+y=6>h=—..........1
+xty=OEne se (i)
+1 17
+
+2y=8> > y=—
+YRS SYR T
+From equation (i)—
+17_ 41 41 17
+X+—=—>x=—-—
+4 6 6 4
+82-51_ 31
+x= a
+12 12
+-. time taken to cover a distance both sides by running}
+= 2x31 =31 = 5S hours 10 minute
+12. 6
+
+55. | The distance between two points A and B was
+covered at a speed of 50 km/h in 5% hours.
+How much time can be saved if the speed is
+increased by 5 km/h.
+
+(a) 5 minute (b) 15 minute
+(c) 50 minute (d) 30 minute
+RRB NTPC 03.04.2016 Shift : 1
+3 YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0013_left.png =====
+Ans: (d) S,=50km/h,  t, =5y-0 hours
+S, =(50+5)=55km/h, t, =?
+from formula- S,t, =S,t, (distance = speedxtime)
+50x i =55xt,
+2 2 :
+t,= 275 _ 5 hours
+55
+saved time = i -S|= L hours
+2 2
+= 30 minutes
+56. Shavya takes 8 hours 20 minutes to walk from
+one place to the same place. She can both ways
+in 10 hours 15 minutes. It takes time to come
+back both ways.
+(a) 6 hours 25 minute
+(b) 6 hours 35 minute
+(c) 6 hours 45 minute
+(d) 6 hours 15 minute
+RRB NTPC 07.04.2016 Shift : 1
+[Ans : (a) Time taken for shavya to walk from one|
+place to the same place = 8 hour 20 minutes
+384 0-944 = 5 ours
+60 3°03
+time taken both ways = 10 hour 15 minutes = 10+
+=(10+-4)rout _ hour
+4 4
+«. The time taken to return both ways
+= 2x23_41 hour esl
+304 3 4
+= 200-123 77 _ 65. hour
+12 12 12
+6 hour 5x60 minutes = 6 hour 25 minutes
+57. Namrata takes 4 hours 15 minutes to walk
+from one place to the same place. She can cover
+both the routes in 5 hours 30 minutes. It takes
+time to come back from both the paths.
+(a) 3 hours
+(b) 3 hours 35 minute
+(c) 3 hours 45 minute
+(d) 3 hours 15 minute
+RRB NTPC 07.04.2016 Shift : 3
+Ans :(a) Let the time taken to going on foot = x hrs.
+time taken to return by vehicle = y hrs.
+Hence x+y=4hr 15 minutes
+xt+y=4.25 hrs vee)
+Time taken to go and come of foot
+x+x=5.50
+2x = 5.50
+x= 2.75
+Speed, Time & Distance 37:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0013_right.png =====
+putting the value of x in equation (1)
+2.75 + y= 4.25
+y =4.25-2.75
+y=1.50
+
+Hence time taken to return by vehicle = 1.50 hrs
+
+Then time taken to go and come = 1.50 x 2= 3 hrs.
+
+58. A bus runs at a speed of 80 km/hr. and reaches
+its destination with a delay of 10 minutes. If it
+had moved at a speed of 90 km/hr., it would
+have reached only 8 minutes late so time is
+right for completing for journey by bus.
+
+(a) 8 minute (b) 10 minute
+(c) 12 minute (d) 15 minute
+RRB NTPC 22.04.2016 Shift : 1
+Ans: (a) Given—
+V, = 80 Km/hr. V2 = 90 Km./hr.
+t;=10 minute t, = 8 minute
+Distance covered by bus from origin to distination
+_VM (ti~b)
+V.~V, 60
+_ 80x90 (2)
+80~90 60
+= 80490 2 oa km.
+10 60
+Time taken by bus to complete the journey
+= 2460-10 = 18-10 =8 minute
+80
+
+59. Neelam and manisha start running from the
+same place at the speed of 7 km/h and 9 km/h
+respectively, if they move in the same direction
+how long will they take to go 16 km from each
+other.
+
+(a) 7 Hours (b) 8 Hours
+(c) 10 Hours (d) 12 Hours
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (b) Speed of Neelam = 7 Km./hr.
+Speed of Manisha = 9 Km./hr.
+
+Relative speed of neelam and Manisha = (9-7) Km./hr.
+
+=2 Km/h.
+
+Hence, Time taken to go 16 km away from each other
+
+_ Distance
+Speed
+
+=16 . 8 hours
+2
+
+60. Divya takes 4 hours 45 minutes to walk from
+one place to the same place and she can walk
+back in 5 hours and 55 minutes. How long will
+it take for both of them to come back riding.
+
+(a) 3 Hours 35 minute
+
+(b) 3 Hours 55 minute
+
+(c) 3 Hours 45 minute
+
+(d) 3 Hours 15 minute
+RRB NTPC 26.04.2016 Shift : 2
+7 YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0014_left.png =====
+Ans : (a) The time taken by Divya to walk from one
+place and back to the same place by vehicle
+=4+ &_ hours
+60 4
+The time taken to walk from both sides
+=5 hour 55 minute = 5 cca) hour
+60 12
+The time taken to go on foot from one side
+101 71
+=—=x2=—
+12,2 24
+. . 7 19 71 '
+Time taken by both sides from vehicle = pu x2
+= Ho) x2
+24
+= 8,9 - 3-3 hour 35 minute
+24 12
+61. A man at 6:30 am starts walking and wants to
+travel 30 km. His initial speed is 6 km/h and
+after traveling 3/5 of distance he reduced his
+speed to 2 km/h. He will finish his journey:
+(a) 11.00 am (b) 12.30 pm
+(c) 11.30pm (d) 12.00 pm
+RRB NTPC 27.04.2016 Shift : 2
+Ans : (b) Total Distance = 30 km.
+Distance traveled at a speed of 6 Km./hr.
+= 2 of total distance
+= 30x 3
+5
+=6x3
+= 18km
+(On 2 Km,/hr. reduction in speed (6 — 2) = 4 Km./hr.
+[Hence the last 12 km distance will run at a speed of 4)
+Km./hr.
+Hence time taken to cover the entire distnace of 30 km
+= ou =3+3=6 hours
+Hence time of ending the journey = 6 : 30 +6 hours
+= 12:30 pm
+62. The distance between two places can be
+covered in 5 hours at a speed of 62 Km./hr. If
+the speed is increased by 8 Km./hr., how much
+time would be saved? |
+(a) 24 minute (b) 20 minute
+(c) 30 minute (d) 15 minute
+RRB ALP & Tec. (31-08-18 Shift-I
+Ans : (a) Distance = Speed x Time
+=62x2
+2
+=31x7=217 km.
+Time taken to increase speed at 8 Km./hr.
+Speed, Time & Distance 37:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0014_right.png =====
+27217 _31_ 41
+(62+8) 70 10 10
+Remainig time = 3h - 34
+2 ~10
+7 31_35-31_ 4 2
+= >-— = =— =~hours
+2 10 10 10 5
+= (3 60) minute
+5
+= 24 minute
+63. Raj takes 2 hours to complete a certain
+distance at a speed of 51 Km./hr. What time
+would Kiran take to complete the same
+distance at a speed of 68 Km./hr.?
+(a) i hours (b) B hours
+(c) 2 hours (d) 5 hours
+RRB ALP & Tee, (31-08-18 Shift-IIT)
+Ans : (b) The total distance covered by Rajan
+=51xd-=119km.
+The time take to covered the distance of 119 km by
+Kiran
+=H hours
+68
+=l. re hours
+4 4
+64. A Car can cover 350 km in 4 hours. If its speed
+is decreased by 12 ; Km/hr. how much time
+does the car take to cover a distance of 450 km.
+(a) 7 hours (b) 4 hours
+(c) 5 hours (d) 6 hours
+RRB ALP & Tec. (14-08-18 Shift-IID}
+Ans: (d) Initial speed of Car = * = 87.5 Km./hr.
+Speed of Car 12s = by reducing 12.5 Km./hr.
+=87.5-12.5=75 km.hr.
+Hence the time taken by Car to covered distance of 450
+km
+= 450 _ 6 hours
+75
+65. You are driving at a speed of 45 km/h from
+point A to B. Your friend is driving 53 km/h
+from point B to A. If the distance between the
+two points is 1029 km and you both start at the
+same time, then how many hours will it take
+you to cross each other?
+(a) 10.5 (b) 9.5
+(c) 10 qd) wu
+RRB Group-D — 11/10/2018 (Shift-I)
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0015_left.png =====
+Ans : (a)
+——* 45 km/hour
+A————B
+——* 1029 km #—
+53 km/hour_ #—————
+Time taken to cross each other
+_ Distance
+Relative speed (Sum of speed)
+= 1029 10.5 hours
+98
+66. Mark had to travel 220 km in 4.5 hours. How
+long did he travel by bus, with a train running |
+at a speed of 60 km/h or a bus traveling at a
+speed of 40 km/h or a combination of these
+two?
+(a) 1 hour (b) 2 hour
+(c) 1 hour 30 minute (d) 2 hour 30 minute
+RRB Group-D — 28/09/2018 (Shift-ID)
+Ans. (d) : Time taken by bus to travel = t hour
+According to question,
+60(4.5—t)+40t = 220
+270-60t+ 40t = 220
+270-20t = 220
+20t =50
+t= ; = 2 hour 30 minute
+67. Pritish, A train which travels at a speed of 60
+km/h or a bus that travels at a speed of 40
+km/h or both travels 420 km in 7.5 hr, for how
+long did he travel by bus.
+(a) 1 Hour 30 minute
+(b) 2 Hours
+(c) 1 Hour
+(d) 2 Hours 30 minute
+RRB Group-D — 29/10/2018 (Shift-IID) ||
+Ans: (a) Let the pritish traveled by bus for t hour
+*: Distance = speed x time
+60 x (7.5-t) + 40 x t= 420
+450 - 60t + 40 t= 420
+30 = 20t
+t= 30 = 3 hours
+20 2
+t=1 hour 30 minute
+Type -3
+68. A thief runs by a car from a city located 400
+km away at a speed of 60 km/h. Just 30
+minutes later police starts chasing the thief at a
+speed of 80 km/h. How much distance covered
+by the police to catch the thief?
+(a) 70 km. (b) 85 km.
+(c) 90 km. (d) 120 km.
+RRB JE - 23/05/2019 (Shift-I)
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0015_right.png =====
+Ans: (d)
+Distance covered by thief in 30 minutes = 0x4
+=30km
+Relative speed = (80-60) = 20km/h
+Total time to catch the thief = 30, = 3
+20, 2
+Distance covered by the police = (s0x3 om
+= 120 km
+69. Two horses travel the same distance at the
+speed of 10 km/h and 15 km/h respectively. If
+the first horse takes 12 minutes longer than the
+second horse then the distance was travelled.
+(a) 8km (b) 6km
+(c) 4km (d) 2km
+RRB RPF SI - 16/01/2019 (Shift-II)
+Ans. (b) : The speeds of both horse are 10 Km./hr. and)
+15 Km./hr. respectively.
+Let distance = x km
+Time = Distance / Speed
+Time taken by first horse = Distance _ x
+Speed 10
+Time taken by second horse = ra
+According to question,
+x x _ 12
+10 15 60
+3x-2x _ 12
+30-60
+x2
+30 60
+x=6km
+70. Apoorva covers equal distance at different
+speeds of 10 km/h, 20 km/h and 6 km/h and it
+takes a total of 19 minutes to complete this
+journey. The total distance travelled by her.
+(a) 3 (b) 1
+(c) 2 (@) 4
+RRB RPF Constable — 18/01/2019 (Shift-III)
+Ans : (a) Let the total Distance = 3D km
+Time = 19 minutes
+-. According to question,
+19 DDD | ___ Distance
+= + + Time = —————
+60 10 20 6 Speed
+19 _6D+3D+10D
+60 60
+19D = 19
+D=l|km.
+Hence Total Distance = 3D = 3 x 1 =3 km.
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0016_left.png =====
+71. Azhar can complete a journey in 10 hours. He
+covers half the journey at a speed of 21 km/h
+and the rest of the journey at the speed of 24
+km/h. What distance (in km) is travelled?
+(a) 234 (b) 225
+(c) 224 (d) 232
+RRB RPF SI - 12/01/2019 (Shift-I
+Ans. (c) Let the total distance covered by Azhar = x|
+km.
+From question-
+. Distance
+X12, x/2 _19|-: Time = Sat
+21 (24 Speed
+>*X+X=20
+21 24
+= 54% =20x3=60
+7 8
+= 8X47 _ 69
+56
+=> 15x = 60x56
+x = 056 «4456, x=224km. |
+15
+72. Sindhu travels a distance of 202 km. On foot
+in 74 hours. Then how many kilometers did
+he travel per hour.
+2 2
+a) >km b) 3>km
+@ 3 ) 35
+(©) 4km (@) 224m
+RRB RPF Constable — 20/01/2019 (Shift-IT)
+Ans : (d)
+. - 2 62
+Distance covered by Sindhu = 205 km = 3m
+and time = 13 hour = 2 nour
+Formula- Speed = Distance
+Time
+62
+3. 62,4 8
+o. Speed=3 = =x =? km/hr
+peed 31 3°31 3
+4
+=2 2 km/hr
+3 !
+73. The usual average speed of a car at a certain
+distance is 50 km/h on a particular day. The
+average speed was 1/10 less than the usual
+average speed, as a result it took 18 minutes
+longer to finish the journey, how much is this
+distance of the road in kilometers?
+(a) 135 (b) 120
+(c) 125 (@) 140
+RRB RPF SI - 10/01/2019 (Shift-I)
+Speed, Time & Distance 37’
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0016_right.png =====
+Ans : (a) First condition-
+
+Let the distance of road = x km
+Usual average speed of Car is 50 Km./hr.
+Time =h
+
+50
+
+Second condition—
+
+Average speed of a particular day
+=50-50x1 = 45 Km/h.
+10
+Time =—~ hours
+45
+Now According to question,
+ee aee
+45 50 60
+20x — 18x = 18 x 15
+2x = 18x 15
+x=9x 15
+
+Therefore Distance of road = 135 km
+
+74. Mahima has to travel at a speed of 54 km/h
+insead of 45 km/h to reach the destination on
+time due to delay of 12 minutes from her usual
+time. Find the distance travelled.
+
+(a) 75 km (b) 54km
+(c) 67.5 km (d) 90 km
+RRB Group-D — 19/09/2018 (Shift-II)
+
+Ans. (b) : Let the distnace travelled by Mahima during)
+
+the journey is x.
+
+According to question,
+
+Time = Distance/speed
+
+Here the time is same in both cases-
+
+xx 12
+
+A454
+
+45 54 60
+x _ x _12
+or —--— ==
+45 54 60
+54x—45x 12
+or ———— = —
+45x54 60
+or an
+45x54 5
+or = =1
+54
+x=54km.
+
+75. A person travels 480 km in 4 hours, some
+distance travels by airplane and some train. If
+he travels the entire journey by airplane then
+he saves 4/5" time than that of the train and he
+arrives at destination 2 hours before. Find the
+distance travelled by the train.
+
+(a) 90km (b) 120km
+(c) 80km (d) 110km
+RRB Group-D — 03/10/2018 (Shift-I)
+y YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0017_left.png =====
+Ans : (b) Total time = 4 hours
+Total distance = 480 km.
+Let the distance covered by train = x km.
+and if the total distance covered by the train then the
+total time taken is = t hours
+According to question,
+If the total distance is covered by Airplane then
+the time taken
+=t-ttit
+5.5
+$=(4-2)=2 hours
+a)
+5
+t= 10 hours
+Hence speed of train = = = 48km/hr
+and speed of airplane = * = 240km/hr
+Distance covered by train = x km
+So distance covered by airplane = (480—x) km.
+Hence
+Xy (480-x) =4
+48 240
+10x +960—2x _ 4
+480
+8x = 1920 - 960 )
+76. A person reaches office driving at a speed of 42
+Knj/hr 2 minutes earlier. While he drives at a
+speed of 36 km/h. He reaches 5 minutes late.
+How much distance does he cover (in km)?
+(a) 30.8 (b) 29.6
+(c) 30.4 (d) 29.4
+RRB Group-D — 30/10/2018 (Shift-I1I)
+Ans. (d) : Let the distance covered by the man is x km.
+According to question,
+XX LT
+36 42 60
+x x _7
+36 42 60
+42x-36x_ 7
+36x42 60
+6x _ 7
+36x42 60
+7x42x6
+x="
+60
+7x42
+xo
+10
+x=29.4km
+Speed, Time & Distance 37%
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0017_right.png =====
+77. Sachin completes 360 km distance from Delhi
+to Hyderabad in 4 hours some by airplane and
+some by train. If he had travelled the entire
+journey by airplane he would have saved 4/5 of
+time than that of the train and reached the
+destination 2 hours earlier, find the distance
+travelled by the train.
+
+(a) 45km (b) 75 km
+(c) 50km (d) 90km
+RRB Group-D — 05/11/2018 (Shift-IT)
+Ans: (d) Let the distance covered by train is x km and|
+time taken by train is x hour
+ax _y
+5
+x =2.5 hour
+
+It takes less than 2 hours when he travels the entire
+
+journey by Airplane.
+
+Hence taken time = 4-2 = 2 hours
+
+Speed of Airplane = 20 =180 Km //hr.
+
+According to question,
+
+360-8 9 5-4
+180
+
+360-a _ 15
+180
+
+360-a=270
+
+Hence distance (a) = 90 km
+
+78. A woman reaches the office driving at a speed
+of 40 km/h 4 minutes earlier while she arrives 5
+minutes late if she drives at the speed of 32
+km/h, what is the distance covered by him?
+
+(a) 32 (b) 24
+(c) 28 (d) 30
+RRB Group-D — 24/09/2018 (Shift-ID
+Ans : (b) Let the actual time to reach the office = t hr
+From {Distance = Speed = Time}-
+40(t-4}-29{ t+)
+60. 60
+40( 1-5} -29{t+5)
+15 12
+40t— 40_ 32t+ 2
+15 12
+40t-32t= 2 + 40
+12 15
+a-848
+3 3
+a= 18
+3
+t= 2
+3
+, 201 9
+Total distance = 40 | —-— |> 40x—= 24km
+3 15 15
+nn <7
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0018_left.png =====
+79. Raghu goes to college at a speed of 4 km/h and
+returns at a speed of 3 km/h. If he takes 5.95
+hrs then what is the distance betweed his home
+and college?
+
+(a) 10km (b) 10.5km
+(c) 20km (d) 10.2km
+RRB Group-D — 03/10/2018 (Shift-
+
+Ans : (d) Let the distance between the college and
+
+home = x km.
+
+According to question,
+
+Time taken to go + Time taken to come = 5.95 hours
+
+X4%=595
+
+4 3
+
+2-595
+
+12
+
+x =0.85x12 !
+x=10.2km|
+
+80. A person reaches his office 1 minute before at a
+speed of 42 km/h, while that person traveling at
+a speed of 36 km/h reaches the office with a
+delay of 3 minutes. How much distance does a
+person travel (in km)?
+
+(a) 12.9 (b) 16.8
+() 154 (d) 18.2
+RRB Group-D — 08/10/2018 (Shift-IT)
+Ans : (b) Let the time taken to reach the office = t hour
+According to question,-
+42x {t-L)=36x{ t+
+60 60
+an? = 361 4 108
+60 60
+aat—36t = 108 , 42
+60 60
+a=!
+6
+a=!
+6
+t->
+12
+Distance = speed = time
+-36(5 +3)
+12 60 '
+= 36x28 _ 6%28 _ 168
+60 10 10
+
+81. Chetna went from her home to the city at a
+speed of 8 km/h, but returned home at the
+speed of 5 km/h by the same route. It took him
+19% hours to travel on both direction. What is
+the distance of the city from the house of
+chetna?
+
+Speed, Time & Distance 375
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0018_right.png =====
+(a) 45 km (b) 60 km
+(c) 52.5km (d) 37.5km
+RRB Group-D — 15/10/2018 (Shift-I
+Ans : (b) Let the distance between Chetna's home and|
+city =x km
+According to question,
+x x 39
+~,%27
+8 5 2
+Sx+8x _39
+40 2
+13x _39
+40 2
+39x20
+xe
+13
+x= 60 km
+82. If Raj drives 10 km/h more than his usual
+speed, then he reaches his village 90 minutes
+before. If raj drives 10 km/h less than the usual
+speed then reaches his village 150 minutes late.
+Find the total distance travelled by him.
+(a) 600 km (b) 500 km
+(c) 400 km (4) 300km
+RRB Group-D — 16/10/2018 (Shift-IID)
+Ans : (d) Let the usual speed of Raj = x Km./hr.
+Both the given conditions are taken for a certain
+distance.
+Hence from vjt; = votz
+90 150
++10)x— =(x-10)x—
+(x +10)x © (x-10)x 60
+3 5
+x+10)x==(x-10)x=
+(x +10) «5 =(x-10)x5
+3x +30=5x-50
+2x = 80 > x = 40 Km/hr.
+Again let certain time = t hours then
+(40-10)( 1-2 = (40-10)(+42)
+60 60
+2t- 2t
+5 (24=3) _ 39 2t#5)
+2 2
+100t —150 = 60t +150
+40t =300>t -4 hours
+Hence required distance = 40x12 =300km.
+83. A man travels by train and car to reach his
+office. If he travels 10 km by car and travels
+the rest by train then he reaches his office in t
+hours. If he does the exact opposite of it, he
+reaches office in (t+0.5) hours. If the speeds of
+the train and car are 50 km/h and 40 km/h
+respectively, then how much distance does he
+cover to reach his office?
+(a) 100 km. (b) 80 km.
+(c) 120 km. (d) 140 km.
+RRB Group-D — 17/09/2018 (Shift-III)
+) YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0019_left.png =====
+Ans. (c) : Let the Man covered D km. distance to reach] | '
+the office.
+According to question,
+10 (D-10) .
+40 + 30 t seseeseeee(i)
+land
+10, (D=19) _ 405 eT)
+50 40
+from equation (ii) - equation (i),
+10, D-10 10 D-10
+—+—— -— -—— = t+ 0.5-t
+50 40 40 50
+1 D-10 1 D-10
+jor =+—_ ---——= 05
+5 40 4 50
+40+5D-50—50-4D+40 =05
+200 :
+D-20=100
+84. Two men X and Y travel a distance of 21 km
+between P and Q at the speed of 3 km/h and 4
+km/h_ respectively. Arriving at Q, Y
+immediately returns and meet X at R. What is
+the distance between P and R?
+(a) 16 km (b) 17.5km
+(c) 17km (d) 18 km
+RRB Group-D — 26/09/2018 (Shift-ID
+Ans. (d) : Let the distance between P and R= x km
+-. Time taken by both will be equal.
+time taken by Y = time taken by X
+214+21-x_ x
+4 3
+(42-x)x 3 = 4x
+126-3x = 4x.
+Tx= 126
+x= 18 “. PR=18km )
+85. A bus crosses two persons cycling in the same
+direction of the bus at a speed of 9.6 km/h and 12
+km/h respectively, in 4.5 seconds and 9 seconds
+respectively. What is the length of the bus?
+(a) 6m (b) 8m
+(c) 7m (d) 4m
+RRB Group-D — 26/09/2018 (Shift-IIT
+Ans: (a) Let the length of bus = x meter.
+> +4.5= => +9
+9.6x— 12x—
+18 18
+18x +45= 18x +9
+48 60
+18x _ 18x 9 45
+48 60 )
+1080x —864x =45
+2880
+216x =1296
+x= 1296 =6m
+216
+Speed, Time & Distance 38
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0019_right.png =====
+86. The distance between two points is travelled by
+the speed of 60 km/h while going and by 40
+km/h during the return journey. If it took a
+total of 5 hours, then the distance between the
+two points on one side is:
+(a) 120km (b) 135km
+(c) 150 km (d) 180km
+RRB Group-D — 27/09/2018 (Shift-II1)
+Ans : (a)
+—— d ———>
+Ae—————e B
+> _—_
+60 km/h 40 km/h
+ved ved
+t t,
+t, =f and t,= a
+Vv, Vv,
++: Total time to come and go = t; + t) = Sh
+. did
+¢ S=— t+
+vO;
+so 4,4
+vYVo™,
+did
+5 60 * 40
+5= (°)
+240
+5=dxt0
+240
+d=5 x 24=120km
+7. d= 120 km
+87. Jatin covers 7.5 km more distance if he walks 9
+km/h instead of 4 km/h. What is the total
+distance covered by him (in km)?
+(a) 7 (b) 5
+(c) 8 (d) 6
+RRB Group-D — 10/10/2018 (Shift-II1)
+Ans : (d) More distance covered after increasing speed
+from 4 Km_//hr. to 9 Km./hr. = 7.5 km
+©. 9 Km /hr. — 4 Km/hr. = 7.5 km
+or, 5 Km/hr. = 7.5 km
+- 75
+o Time =—hr
+5
+. 75 i i
+«. Distance ay (Distance = speed x time)
+=6km
+Hence total distance of journey = 6 km
+88. A car travels a certain distance in 8 hrs. It
+travels half of the distance at a speed of 40
+km/h and another half distance at a speed of 60
+km/h. Find the total distance travelled.
+(a) 384 kms (b) 368 kms
+(c) 344 kms (d) 388 kms
+RRB Group-D — 16/10/2018 (Shift-II)
+) YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0020_left.png =====
+Ans: (a) Let the certain distance covered by the car in
+8 hours = d km
+*." Covered distance at the speed of 40 Km./hr. = Siam
+~. time taken = 4 =4 hr
+40x2 80
+* Covered distance at the speed of 60 Km./hr. = Siam
+~. time taken = a = a hr.
+60x2 120
+* Total time = 8 hr.
+way de 8
+80 120
+o a + ae 80
+8 12
+3d¥24 _ 89 — 5a= 80 x24
+24
+d= ot = 384 km
+89. The distance between two points is travelled by
+the speed of 72 km/h while going and by 54
+km/h during the return journey. If it took a
+total of 7 hours, then the distance between the
+two points on one side is:
+(a) 324km (b) 180 km
+(c) 189 km (d) 216 km
+RRB Group-D — 22/10/2018 (Shift-II)
+Ans. (d) Let the distance between the two points is x
+km.
+a . x x
+According to question, —+—=7
+72 54
+“Time = Distance
+Speed
+3x+4x _ 7
+216 '
+7x =7x216
+x= 216 km
+Hence the distance between the two points is 216 km.
+90. Travelling at a speed of 57 km/h Manay
+reached the destination 3 minute earlier. If he
+travelled at the speed of 51 km/h then he
+reached 1 minute late. What is the distance
+travelled by Manav?
+(a) 31.5km (b) 32.3 km
+(c) 31.9km (d) 32.8km
+RRB Group-D - 26/10/2018 (Shift-IID
+Ans : (b)
+Let the total distance is D km. and usual time is t.
+Hence Dd. tow
+57 60
+and Dd =t rn e))
+51 60
+Speed, Time & Distance 38
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0020_right.png =====
+By subtracting equation (1) from equation (2),
+DDL,
+51 57 60 60
+oD 41
+51x57 60 15
+p= 22457 _ 32 3km
+6x15
+91. A woman reaches the office 5 minutes earlier
+driving at a speed of 45 km/h, while she reaches
+7 minutes late woman driving at a speed of 27
+km/h. What distance did she travel?
+(a) 18 (b) 16.5
+(c) 15 (d) 13.5
+RRB Group-D — 03/12/2018 (Shift-IID)
+Ans. (d) : The distance travelled by the woman in both|
+conditions will be the same {-. t = time taken to arrive}
+at the right time}
+vith = Vat
+45x{t-5)-279(t+2)
+60. 60
+5(60t—5) _ 3(60t+7)
+60 60
+5(60t —5) = (60t +7)x3
+300t-25 = 180t + 21
+120 t= 46
+t= 46 = 2B hours.
+120 60
+Putting the value of t-
+.. Distance =45x 2 -3)
+60 60
+= 45x18
+60
+= 33<13.5km
+10
+92. Ram and Lakshman travel the same distance at
+a speed of 32 km/h and 40 km/h respectively.
+Ram takes one hour more than Lakshman to
+cover the distance. How much distance
+travelled by lakshman?
+(a) 160 km (b) 200 km
+(c) 120km (d) 100 km
+RRB Group-D — 15/11/2018 (Shift-I1)
+Ans : (a) Let Distance = D km.
+Speed of Ram = 21 Km./hr.
+Speed of Laxman = 40 Km./hr.
+According to question,
+DD,
+32 40
+40D -32D _ 1
+1280
+8D = 1280
+D= 160 km.
+[ YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0021_left.png =====
+93. Travelling at a speed of 66 Km/hr, Piyali|'
+reaches a place 5 minutes earlier. If she travels
+at the speed of 54 km/h, she is delayed by 3
+minutes. How much distance did Piyali travel?
+(a) 39.2km (b) 40.2km
+(c) 39.6km (d) 40.8km
+RRB Group-D — 15/10/2018 (Shift-IT)
+Ans : (c) Let the time taken by Piyali to cover the
+journey is t hours.
+.. Distance from first condition
+5 .
+= 66x/t-—] 7
+(-3) -0
+Distance from second condition
+= 54 cr «a. Aii)
+By solving equation (i) and (ii)—
+66(t-) = s4{ t+
+60. 60
+uft-)=0ft+
+60 60
+55 27
+Mt-=9t+—
+60 60
+tit =22 455
+60 60
+1-8
+60
+t= AL
+60
+Putting the value of t in equation (i),
+Distance covered by Piyali = 66 = a
+60 60
+36 11x18
+= 66x— =—_— =39.6km
+“oO 5
+94. Rahim started his journey with a delay of 15
+minutes due to which he had to drive a car at a
+speed of 54 km/h instead of 45 km/h to reach
+his destination on time. Find the distance
+travelled during this journey.
+(a) 75.5 km (b) 90 km
+(c) 67.5km (@) 13.5km
+RRB Group-D — 23/09/2018 (Shift-IT.
+Ans : (c) Let the covered distance during the journey
+=dkm
+According to question,
+Speed = Distance
+Time
+a _d 15
+45 54 60
+=> Sd=5d_1
+270 4
+d= 72 67.5km
+4
+Speed, Time & Distance 38;
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0021_right.png =====
+95. Vishnu covers the same distance at a speed of
+10 km/h, 30 km/h and 8 km/h and takes a total
+of 15.5 minutes to complete journey, then find
+the total distance travelled by him.
+
+(a) 1 (b) 3
+() 4 (d) 2
+RRB NTPC 17.01.2017 Shift-1
+Ans : (b) Let Vishnu has travelled a total of x km
+distance of journey.
+
+According to question,
+
+G).@).)
+\3J,\3) ,G)_ 155
+10 30 8 60
+*( 11 ‘) = 15.5
+A) 4—4-)2227
+
+3410 30 8) 60
+(2x81) 15.5
+3 240) 60
+*( 62 ) _ 15.5
+3240) 60
+a 15.5x240x3
+60x62
+
+62
+x=3 km.
+
+96. P travels 70 hours. He travels half of his
+journey at 30 km/h and the remaining half
+travels at a speed of 40 km/h. Find the total
+distance of his journey.
+
+(a) 2000 km. (b) 2400 km.
+(c) 2720 km. (4) 2160 km.
+RRB NTPC 04.04.2016 Shift : 3
+Ans. (b) Let the total distance of travelled journey = x km
+From question,
+30. 40
+= %4%=70x2=140
+30 40
+= 4843% _149
+120
+=> 7x = 140x120
+>x= a = 2400km.
+
+97. M and N cover the same distance at 160 km/h
+and 200 km/h respectively, if M takes 30
+minutes more than N then the distance is
+travelled by each.
+
+(a) 120 km. (b) 200 km.
+(c) 320 km. (@) 400 km.
+RRB NTPC 04.04.2016 Shift : 3
+
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0022_left.png =====
+Ans : (d) Let the distance covered by M and N = x km.
+.. According to question,
+eee ee)
+
+160 200 60 2
+x x 1
+=> -_*_ ==
+20x8 20x10 2
+= *-% =}, 29-10
+8 10 2
+a= Sx=4K 19
+40
+=>x=10x40=400km.
+
+98. Sanjay and Jaicob start running in the opposite
+direction from the same point of 7 m/s and 5
+m/s respectively. How far will they be from
+each other after 42 minutes?
+
+(a) 30.24 km. (b) 504 km.
+(c) 8.4 km. (d) 69.5 km.
+RRB NTPC 03.04.2016 Shift : 1
+
+Ans : (a) Distance covered by Jacob in 47 minutes = 5
+
+m/sec x 42 minutes
+
+= 5x42 x 60 m. = 12600 m.
+
+5 m/s¢—_—_»—___>7 ms
+Jacob O Sanjay
+
+Distance covered by Sanjay in 42 minutes
+= 7m//sec.x42 minute = 7 x 42 x 60 m.
+= 17640 m.
+
+Hence required distance between Sanjay and Jaicob
+
+after 42 minutes
+= 17640 + 12600
+= 30240 m. = 30.24 km.
+
+99. A person walks at a speed of 3 km/h. He
+doubles his speed after reaching the halfway
+point. He walks for 5 hours. Find the total
+distance travelled by him.
+
+(a) 18 km. (b) 15 km.
+(c) 20 km. (@) 9 km.
+RRB NTPC 30.03.2016 Shift : 1
+
+Ans : (c) Let the total distance = x km.
+
+z Distance
+. Time =———_—
+Speed
+==
+2,2
+24225
+3 6
+x x
+44555
+6 12
+2x+Xx
+santas
+12
+3x = 60
+x= 20
+
+Total distance = 20 km.
+
+Speed, Time & Distance SSS=~S~«S
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0022_right.png =====
+100. If Lalita leaves for her school from her home at
+a speed of 45 km/h by car then she takes 5
+minutes more than driving at 60 km/h. What is
+the distance between home and school?
+
+(a) 18km (b) 15km
+(c) 14km (d) 10km
+RRB NTPC 18.01.2017 Shift : 2
+Ans: (b) Let the distance of school from home = x km.
+then, the time taken to cover the distance of x km at the|
+speed of 45 Km./hr. = as
+45
+time taken to cover the distance of x km at the speed ot
+60 Km/hr. =~
+60
+According to question,
+x x _ 5
+=>-+ =
+45 60 60
+> 4x-3x_ 1
+18012
+>x= 180 =15
+12
+
+Distance between School and home = 15 km
+
+101. Ram completes the 4/9" part of the total
+journey by Bus, the 5/18 part by train and the
+remaining 10 km by walking. Find the total
+distance.
+
+(a) 42 km. (b) 90 km.
+(c) 36 km. (d) 18 km.
+RRB NTPC 19.04.2016 Shift : 2
+
+Ans : (c) Let the total distance is x km.
+
+Distance travelled by bus = *
+
+, Fi 5x
+Distance travelled by train = 18
+According to question,
+
+x (= 3) =10
+9 18
+13x
+
+=>x-—=10
+
+* 78
+> ox 10
+
+18
+=> 5x =10x18
+x= me =36km.
+
+102. A runner covers a distance of 60 km in 3 hours
+and 45 minutes. How much should he increase
+the average speed to cover this distance 45
+minutes before?
+
+(a) 16 Km/hr. (b) 20 Km/hr.
+(c) 6 Km/hr. (d) 4 Km/hr.
+RRB NTPC 18.04.2016 Shift : 3
+
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0023_left.png =====
+Ans: (d) Given-
+Distance = 60 km, Time = 3 hours 45 minutes
+= 345 hours
+60
+=b hours
+4
+<. Speed = Distance
+Time
+= 0 60x 4 = 16 Km hr.
+(5 / 4) 15
+
+Let the averge speed be increased by x Km./hr.
+
+time = 3 hours
+
+Speed = (16+x) Km./hr.
+
+According to question,
+
+60
+16+x)=—
+(I6+x)=—
+=> 16+x=20
+>x=20-16
+=>x=4Km/hr.
+
+103. Mohan covers a certain distance from his car
+in 12 hours at a uniform speed. When the speed
+is increased by 5 km/h, then the same distance
+can be covered in 9 hours. What is the total
+distance?
+
+(a) 108 km. (b) 90 km.
+(c) 190 km. (d) 180 km.
+RRB NTPC 18.04.2016 Shift : 3
+Ans: (d) Let the total distance is d and the speed is|
+"Vv"
+According to first condition-
+d .
+D (i)
+According to second condition-
+(v+5)=$...04)
+from equation (i) and (ii)—
+dod
+27° 9
+d+60_d
+12. 9
+=> 3d + 180= 4d
+=> d=180 km.
+104. A bus is running at a speed of 90 km/h. How
+much distance will it cover in 20 seconds?
+(a) 500 meter (b) 450 meter
+(c) 180 meter (d) 600 meter
+RRB NTPC 16.04.2016 Shift : 1
+Ans ; (a) Speed of bus = 90 Km./hr.
+5
+=90x—
+“Ts
+= 25 m/sec.
+.. Distance covered in 20 seconds = 20x25 = 500 m.
+Speed, Time & Distance 38:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0023_right.png =====
+105. Chandan covers equal distances at the speed of
+3 km/h, 4 km/h and 8 km/h respectively and
+takes a total time of 42.5 minutes. Find the
+total distance in km.
+
+(a) 4 (b) 2
+() 1 (d) 3
+RRB NTPC 11.04.2016 Shift : 2
+
+Ans : (d) Time (t) = 42.5 minute = 2 hours.
+
+Let distance = d, d=d,+d, +d;
+
+and d, = d)=d3= x
+
+Average speed = V
+
+V, =3 Km/hr. V2 =4 km/hr., V3 = 8 Km./hr.
+
+Average speed = (V) =i td, tds
+
+dd ds
+Ga &
+Vv. Vv, V3
+v= X+X+X
+xX xX XxX
+xX * %
+3 4 8
+_ 3x
+v= 8x +6x +3x
+24
+_ 3x
+
+Y" Tx
+24
+
+v = 324 on hr,
+
+17
+Then,
+Distance = speed x time
+_ 42.5. 3x24
+
+d= “2 2%8
+
+60 «(17
+
+425 3x24
+d=,
+
+600 17
+
+d=3 km
+
+106. P travels 35 hours. He travels half of the
+journey at 30 km/h and the rest at 45 km/h.
+Find the total distance.
+
+(a) 1000 km. (b) 1200 km.
+(c) 1360 km. (d) 1080 km.
+RRB NTPC 10.04.2016 Shift : 3
+Ans : (b) Let the total distance = d km.
+Distance
+Time =———_
+Speed
+.. According to question,
+dd
+242 235
+30 40
+> a + ae 35
+60 80
+4d+3d
+> yr an 35
+=> 7d = 240 x 35
+d= 240 x 5 = 1200
+7 YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0024_left.png =====
+107. Rajneesh covers the same distance with the
+speed of 6 km/h, 4 km/h and 8 km/h
+respectively and takes a total time of 32.5
+minutes, Find the total distance in km.
+
+(a) 4 (b) 2
+() 1 (d) 3
+RRB NTPC 07.04.2016 Shift : 3
+
+Ans : (d) Rajneesh travels the same distance each time.
+
+Let the distance travelled each time = x km
+
+Then average speed (v) = Std, +s
+
+dy do ds
+G42 Ss
+vi V2 V3
+_ X+X+X _ 3x,
+“XX xX 4x+6x+3x
+XX X  SRPOK TON
+6 4 8 24
+= Bx = BR km/hr.
+13x13
+Time = 32.5 minute = 225 hours
+60
+Distance = speed x time = R325 =3km
+13 60
+
+108. Two buses X and Y travel from the same place
+in the same direction at a speed 20 km/h and 50
+km/h respectively. But Y leaves 6 hours after
+the X leaves. At what distance will both buses
+meet from the starting point?
+
+(a) 100 km. (b) 200 km.
+
+(c) 150 km. (4) 300 km.
+
+RRB NTPC 19.01.2017 Shift : 2
+Ans ; (b) Let y will catch x after t hours.
+Distance covered by x in 6 hours = 120 km
+According to question,
+Relative speed = (50 — 20) = 30 Km./hr.
+time taken to catch = Total distance = 20 = 4hrs.
+Relativespeed 30
+
+‘Then-
+
+=> Distance covered by y in 4 hours = 4 x 50 = 200 km
+
+=> Distance covered by x in 4 hours = 4 x 20 = 80 km
+
+=> Total distance covered by x = 80 + 120 = 200 km
+
+=> Then both buses will meet at a distance of 200 km.
+
+their starting point.
+
+109. Monal Kumar travels the same distance at the
+speed of 3 km/h, 5 km/h and 8 km/h
+respectively and takes a total time of 395
+minutes. Find the total distance in km.
+
+(a) 40 (b) 20
+(c) 10 (@) 30
+RRB NTPC 22.04.2016 Shift : 2
+Ans ; (d) Let the total distance is 3d km.
+According to question,
+dd d_395
+£454 522°
+3.5 8 60
+Speed, Time & Distance 38:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0024_right.png =====
+40d+24d+15d _ 395
+120 60
+i eZ)
+120 60
+d=10
+
+Hence total distance = 3d = 3 x 10 = 30 km.
+
+110. A car covers the journey from chennai to
+Coimbatore in 8 hours. The first half of
+distance of the journey is travelled by a speed
+of 73 km/h and the second half is travelled at a
+speed of 81 km/h. What is the distance from
+Chennai to Coimbatore?
+
+(a) 614.34 km. (b) 600 km.
+(c) 592 km. (d) 632.65 km.
+RRB Paramedical Exam — 21/07/2018 (Shift-II1)
+
+Ans : (a) Let the distance is d km.
+
+According to question,
+
+(d/2) (4/2) =8
+2B 81
+did
+>—+——=8
+146 162
+=> 308d = 8 x 146 x 162
+8x 146x162
+=>d=————
+308
+=> d= 614.337
+=> d= 614.34 km.
+
+111. A thief is 400 meters ahead of a policeman. The
+thief runs away and policeman starts chasing
+together. Suppose the speed of the thief is 10
+km/h and the speed of the police is 15 km/h.
+Calculate the distance the thief covered before
+the policeman caught.
+
+(a) 750 meter (b) 800 meter
+(c) 850 meter (d) 900 meter
+RRB NTPC 29.04.2016 Shift : 2
+Ans : (b) Let the thief covered a distance of x m before
+the policeman caught.
+Police Thief
+400 m. xm.
+According to question,
+x+400_ x
+15x Es 10x 5
+18 18
+=> 6x +2400 _ 9x
+25 25
+
+> 3x = 2400
+
+> x =800m
+
+112. Jai travels from his home to school at a speed
+of 10 km./hr and reaches late by 5 minutes. If
+he increases his speed by 3 km./hr, he reaches
+the school 4 minutes early. What is the distance
+between his home and the school?
+
+(a) 2km. (b) 65km.
+(c) 4.8 km. (d) 2.5km.
+RRB ALP & Tec. (29-08-18 Shift-III)
+
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0025_left.png =====
+Ans : (b) Let the covered distance = d
+“ d=vt
+According to question,
+5
+d=10x| t+— ceeerren ()
+(+3) 0
+and a-13+(t-4) TY)
+60
+from equation (i) and (ii),
+10x tee =13x tt
+60 60
+10t+ 50 =13t- 32
+60 60
+30 52 13e—10t
+60 60
+102 _»
+60
+34
+t=—
+60
+putting the value of t in equation (i)
+34. 5
+d=10x| —+—
+(i a)
+d=10x2 5 4=65km.
+60
+113. A mini van is going in the same direction in which
+direction two people are going at the speed of 4.8
+km/h and 6 km/h. Mini van crosses both people in
+4.5 seconds and 9 seconds respectively. What is
+the length of the mini van?
+(a) 3.5m (b) 3m.
+(c) 4m. (d) 2m.
+RRB ALP & Tec. (20-08-18 Shift-I.
+Ans : (b) Let the length of the Van is 'a' meter and
+speed of Van is x Km./hr.
+According to question,
+a =
+(x-4.8)x— “4s
+"18
+Bt a4sx-216 ee ())
+> =9
+6)
+(x 8
+= 9x— 54 en T))
+from equation (i) and (ii),
+x= 7.2 m/sec.
+from equation (ii),
+1972-5
+— Na _ 108>a = 10.8%5 _ 3 meter
+5 18
+Speed, Time & Distance 38
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0025_right.png =====
+114. A 150 m long train, travelling at the speed of 54
+km/hr, crosses a platform in 42 seconds. What
+is the length of the platform?
+
+(a) 540m (b) 630m
+(c) 780m (d) 480m
+RRB ALP & Tee. (10-08-18 Shift-I
+Ans: (d) Let the length of Platform = x meter
+Distance
+Speed = ———
+Time
+54x 5 _150+x
+18 42
+
+> x+150 = 3x5x42
+
+> x+150 = 630
+
+> x= 630-150
+
+x= 480
+
+Hence length of platform = 480 m
+
+115. A man walks from P to Q at a speed of 5 km/h
+and comes back at a speed of 3 km/h from Q to
+P. What is his average speed during the entire
+journey?
+
+(a) 8 Km/hr. (b) 3.25 Km_/hr.
+(c) 3.75 Km./hr. (d) 3.5 Km/hr.
+RRB JE - 22/05/2019 (Shift-I11
+
+Ans : (c)
+
+Average speed = 2x product of speed
+sum of speed
+= 25523 3023.75 Kms.
+5+3 8
+
+116. A person travels at a speed of 50 km/h from P
+to Q in 30 minutes. Then he increases his speed
+to 60 km/h and reaches his destination in 20
+minutes. Find the average speed during the
+entire journey.
+
+(a) 55km. /Hour (b) 54Km./hr.
+(c) 65Km./hr. (4) 70Km./hr
+RRB JE - 26/05/2019 (Shift-II.
+Total Distance
+Ans: (b) Average Speed Total Time
+50x20 5 60x 20
+-—#_, ® (-. distance = speedxtime)
+60
+25420 _ 45x6 = S4km/hr.
+5 5
+6
+
+117. A cart covers the first 10 km. with a speed of 4
+km/h and the other 10 km covers at a speed of
+2 km/h. Find the average speed of that car in
+km/h.
+
+(a) 2.67 Km/hr. (b) 3.33 Km//hr.
+(c) 2 Km/hr. (d) 5.54 Km//hr.
+RRB RPF SI - 16/01/2019 (Shift-II1)
+
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0026_left.png =====
+[Ans : (a) When someone travels a certain distance at
+ithe speed of x Km./hr.
+and travels the same distance at the speed of y Km./hr.,
+then the average speed in the entire journey
+= 2) nh = 8 bm
+(x+y) 4+2
+= : = 2.67 km/h
+118. An object travels 24 m in 3s and 15 m in 2s.
+What is the average speed of the object?
+(a) 6.67ms* (b) 7.8ms!
+(c) 7.887! (d) 8.0m
+RRB RPF SI - 11/01/2019 (Shift-I
+Total Distance
+Ans. (b) Average speed Total Time
+- 24415) = =78m/sec =7.8 ms!
+(+2) 5
+119. An object travels 23m in 3s and 15m in 2s.
+What is the average speed of the object?
+(a) 7.6ms* (b) 7.68"
+(c) 7.6m (d) 8.0ms?
+RRB RPF Constable — 22/01/2019 (Shift-IT)
+Ans. (a) Average speed me
+Total Time
+23415 _ 38 7g net
+3+2 5
+120. Kiran swims in a 90 m long bridge. From one end
+to the other end then swims back to the same
+straight path and she covers total distance of 360
+m. Find the average velocity of Kiran.
+(a) Oms? (b) 3ms?
+(c) Sms? (d) 4ms?
+RRB RPF SI - 10/01/2019 (Shift-IT
+Ans : (a) Since Kiran is coming back to the initial
+point. Therefore her displacement will be zero. Hence
+average velocity will be = 0 ms
+121. An object travels 10 m in 4s and then 14m in
+2s. What is the average speed of the object?
+(a) 4s" (bt) 4m
+(c) 4.5 mst (d) 4ms?
+RRB RPF Constable — 25/01/2019 (Shift-II1)
+Ans: (d)
+Total distance travelled by the object
+= 10m+14m = 24m
+and total time taken to cover that distance
+= Asec + 2 sec = 6 sec
+Average speed of object =?
+TotalCovered Distance _ d, +d,
+Average speed = ———_———__ = 1 _2
+Total Time taken t +t,
+_(10+14)m _ 24 _ ams"!
+(44+2)sec 6
+Hence the average speed of object is 4 ms!
+Speed, Time & Distance 38°
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0026_right.png =====
+122. A car travels at a speed of 62 km/h for
+2 hours and 68 km/h for 4 hours. What will
+be its average speed in total distance travelled?
+(a) 65 (b) 64
+(c) 63 (d) 61
+
+RRB NTPC 28.04.2016 Shift : 1
+Ans : (b) Total distance covered by Car
+=62x Se 8x2 (. Distance = Speedx Time)
+=31x5+17x5
+= 155 + 85 =240 km.
+Average speed of car = Total Distance
+Total Time
+240 240x4
+=e
+5/2+5/4 10+5
+ts 16x4 = 64 Km/hr.
+
+123. Ramlal runs 18 km at a speed of 9 km/h. At
+what speed does he need to run in the next 3
+hours to get an average speed of 6 km/h in the
+entire race?
+
+(a) 6 Km/hr. (b) 12 Km/hr.
+(c) 4 Km/hr. (d) 9 Km/hr.
+RRB NTPC 22.04.2016 Shift : 3
+Ans: (c) Time taken to run 18 km = & =2 hours
+According to question,
+6= 18+x
+243
+
+x = 30-18 = 12 km.
+
+«. Speed -= =4 Km/hr.
+
+124. Rupa goes to her office at half of speed at
+which she returns from her office. The average
+speed during the entire journey is 24 km/h.
+What was her speed when Rupa was going to
+her office.
+
+(a) 18 Km/hr. (b) 72 Km//hr.
+(c) 9 Km/hr. (d) 24 Km/hr.
+RRB NTPC 22.04.2016 Shift : 3
+Ans: (a) Let the Actual Speed of Rupa = S Km_/hr.
+Average speed = 2MNa_
+V+V,
+2x8x5
+24=—2
+S+ s
+2
+2
+>12= s
+38
+-. S=36 Km/hr.
+Hence speed at the time on coming to office
+= 36 =18km/h
+2
+] YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0027_left.png =====
+125. The speed of a car from A to B is 60 km/h and
+the speed of return is 40 km/h. Find the
+average speed of the car (in km/h).
+
+(a) 50 (b) 45
+(c) 48 (d) 52
+RRB NTPC 12.04.2016 Shift : 1
+Ans: (c)
+
+Vi = 60 Km/hr.
+Ae—————"B
+«+e
+V2 = 40 Km_/hr.
+
+Average speed of Car = 2VVe
+
+Vit,
+_ 2x60x40 _ 4800 _ 48 Km/h.
+60+40 100
+
+126. An object moves 15 m in 4s and next 16m in 2s.
+
+What is the average speed of that object?
+(a) 6.17 ms" (b) 5.17m
+(c) 5.1787 (d) 5.17mst
+
+RRB Group-D — 25/09/2018 (Shift-I
+
+Ans: (d) Average speed = Total Distance
+Total Time
+= +16 3s ans
+4+2 6
+
+127. An object travels 18 m in first 4s and the
+another 16 m in 2s. What is the average speed
+of the object?
+
+(a) 5.67m (b) 5.675"
+(c) 5.67 ms (d) 6.67 ms™
+RRB Group-D — 19/09/2018 (Shift-II)
+
+Ans. (c) : Distance covered in first 4 seconds = 18 m.
+
+Distance covered in next 2 seconds = 16 m.
+
+Total covered distance = 18+16 = 34 m.
+
+Total time taken = 4+2= 6 seconds
+
+Average speed of object= = Total Covered Distance
+
+Total Time Taken
+
+Average speed = s = 5.67 m//sec.
+
+128. A man covers the distance from point A to B at
+a speed of 40 km/h and returns from B to A at
+a speed of 60 km/h. What is his average speed
+during the entire journey?
+
+(a) 48 Km//hr. (b) 55 Km//hr.
+(c) 50 Km//hr. (d) 45 Km/hr.
+RRB Group-D — 20/09/2018 (Shift-I1)
+
+Ans : (a) Going speed from point A to B = 40 Km./hr.
+
+Returning Speed from point B to A = 60 Km./hr.
+
+From average speed =2 ,
+
+x+y
+_ 2x40x60
+40+ 60
+Average speed = 48 Km./hr.
+Speed, Time & Distance SSS—=~C~S~S~«~S
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0027_right.png =====
+129. An object travels first 25m in 4s and then next
+15m in 2s. What is the average speed of the
+object?
+
+(a) 6.67m (b) 6.675"
+(c) 6.67 ms? (d) 6.67 ms!
+RRB Group-D — 24/09/2018 (Shift-ID
+
+Ans : (c) Distance travelled in 4 seconds = 25 m.
+
+Distance travelled in 2 seconds = 15 m.
+Total Distance
+Average speed = ———————
+Total Time
+_25+15 _ 40 = 6.67 ms!
+442, 6
+
+130. Ram swims in a 72 m long pond. He covers a
+distance of 144 m in 1 minute by swimming
+from one end to the other and coming back the
+same way. Find his average speed.
+
+(a) 3.67ms? (b) 2.60 mst
+(c) 2.04 ms? (d) 2.4mst
+RRB Group-D — 26/09/2018 (Shift-1
+Ans : (d) Average speed = Total Distance = ia
+Total Time 60
+=? Lo ams"
+5
+
+131. Ram swims in a 95 m long pond. He travels 190
+m in 1 minute by swimming from one end to
+the other and coming back the same way. Find
+his average speed.
+
+(a) 2.05 ms" (b) 3.17ms"
+(c) 2.00 ms? (@) 3.10 ms"
+RRB Group-D — 26/09/2018 (Shift-I
+
+Ans : (b) Average speed = Total Distance Distance = 190m
+
+Total Time Imin
+= 2m 25.1666
+60Sec_ 6
+=3.17 ms!
+
+132. Ram swims in 80 m long pond. He travels 160
+m in 1 minute by swimming from one end to
+the other and coming back the same way. Find
+his average speed.
+
+(a) 2.67 ms” (b) 2.07 ms”
+(c) 3.67 mst (d) 2.60 ms"
+RRB Group-D — 28/09/2018 (Shift-I
+
+Ans. (a) :
+
+Total Distance
+Average speed = ————_———
+Total Time
+Average speed = an 2.67m/s = 2.67 ms"
+60 3
+
+133. Eddie travels in 9 hours 1 km less than the
+distance travelled by Fred in 7 hours. In 5
+hours Eddie covers 2 km less than the distance
+travelled by Fred in 4 hours. What is Eddie
+average speed in km/h?
+
+(a) 10 (b) 12
+(c) 9 (d) 11
+RRB Group-D — 30/10/2018 (Shift-I)
+3 YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0028_left.png =====
+Ans : (a) Let the speed of Eddie = V,
+Speed of fred = V2
+According to question,-
+V,-9V,=1 a)
+AV, -5V, =2 (ii)
+equation (i) x 4 — equation (ii) x 7
+28V, - 36V, =4
+=28V, + 35V,=—14
+-V,=-10
+V, = 10 Km/hr.
+Average speed (V,) of Eddie = 10Km./hr.
+134. An Athlete runs a distance of 500 m in 25s.
+What is the average speed of an athlete?
+(a) 20 ms? (b) 20 ms”
+(©) 20 ms! (4) 20ms?
+RRB Group-D — 26/09/2018 (Shift-IIT)
+Ans : (b) Distance = 500 m, Time = 25s
+Speed = Distance
+Time
+Speed = ~ = 20 m/sec = 20 ms"
+135. An object travels 25 m in 3s and then 15 m in
+2s. What is the average speed of the object?
+(a) 6.67s" (b) 6.67 ms"
+(c) 8.0 ms" (d) 80m
+RRB Group-D — 26/09/2018 (Shift-II1)
+Ans: (c)
+Average speed = Total Distance
+Total Time
+cheba 8m/s = 8ms"
+34+2 5
+136. The object travels 14 m in 4s and then another
+16 m in 2s. What is the average speed of the
+object?
+(a) 6.17ms" (b) 5.0s?
+(c) 5.0 mst (d) 5.0m
+RRB Group-D — 27/09/2018 (Shift-IIT
+Ans : (c) Average speed = Total Distance
+Total Time
+14+1
+a Average speed (14416 )m
+(4+2)s
+2 m/s =5 m/s
+Average speed = Sms!
+137. An object travels 18 m in 6s and then 18 m in
+4s. What is the average speed of the object?
+(a) 2.1 mst (b) 2.6ms"
+(c) 3.6 ms! (@) 3.1. ms"
+RRB Group-D — 27/09/2018 (Shift-II1)
+18m+18m
+Ans : (c) Average speed = ————.
+© Be sp 6s+4s
+= mis =3.6ms!
+10
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0028_right.png =====
+138. A person reaches his office in 2 hours from his
+home. He travels 1/4" of the total distance at a
+speed of 15 km/h by cycling, 1/2 of the total
+distance at a speed of 30 km/h by bus and the
+rest by walking at a speed of 5 km/h. What is
+the average speed of this person?
+
+(a) 15 Km/hr. (b) 12 Km/hr.
+(c) 10 Km/hr. (d) 14Km/hr.
+RRB Group-D — 10/10/2018 (Shift-1
+
+Ans : (b) Let the total distance = x km
+
+From question—
+
+x x x
+
+——+>— + ——=2
+
+4x15 2x30 4x5
+
+X+X4+3x _ 2
+
+60
+
+5x = 120
+
+x=24km
+
+Average speed = Total Distance
+
+Total Time
+are 12km/h
+
+2h
+
+139. A cyclist covers the first 3 kilometers at an
+average speed of 8 km/h, the other 2 km at 3
+km/h and the last 2 km at 2 km/h. What is the
+average speed of the entire journey (in km/h)?
+(a) 2.4 (b) 3.43
+(c) 3.8 (d) 3
+
+RRB Group-D — 06/12/2018 (Shift-IT.
+
+Ans. (b) :
+
+Total Distance
+
+Average speed = ———————
+
+Total Time
+
+_ 7 _ 7x24
+342,249
+8 3 2
+
+=168 _ 3.428 Km//hr.
+49
+
+= 3.43 Km//hr.
+
+140. An object covers a distance of 24 meters in the
+first 6 seconds and a distance of 16 meters in
+other 4 seconds. What is the average speed of
+the object?
+
+(a) 4ms* (b) 6mst
+(c) 8ms* (d) 10ms*
+RRB Group-D — 05/12/2018 (Shift-ID
+
+Ans. (a) Let the total covered distance by object
+
+(S) = 24+ 16 =40m.
+and total time taken
+
+(t) = 6 +4 = 10sec.
+Average speed (V) of object = ?
+
+‘Average speed = Total Distance
+Total Time
+= Lams
+10
+
+Hence the speed of object is 4 m.s. |
+) YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0029_left.png =====
+141. Aditi runs on a circular path of 800 meters and
+reaches the starting point in 50 seconds.
+Calculate the average velocity.
+
+(a) Oms" (b) 8.5 ms!
+(c) 16mst (d) 10ms*
+RRB Group-D — 12/12/2018 (Shift-I)
+
+Ans. (a)
+
+Velocity = Displacement
+Time
+|. Displacementin one round of circumference of thecircle
+Time
+=  <oms'
+50
+
+142. An object covers a distance of 25 meters in 8
+seconds and 29 meters in 10 seconds. What is
+the average speed of the object?
+
+(a) 3ms" (b) 3ms!
+(c) 4ms! (d) 4ms?
+RRB Group-D — 11/12/2018 (Shift-III)
+
+Ans : (a)
+
+Average speed = Total Distance
+
+Total Time
+25+29
+= (25429) )m = 54m =3 m/sec
+(10+8)sec 18sec
+
+143. The odometer of a car shows 3000 km at the
+beginning of the journey and 3400 km at the
+end of the journey. If the journey takes 8
+hours. Then find the average speed of car (in
+m/s).
+
+(a) 13.9 mst (b) 15.9 ms"
+(c) 14.9 ms" (d) 12.9 ms
+RRB Group-D — 10/12/2018 (Shift-I)
+Ans. (a) : Total distance covered by Car
+= 3400 — 3000 = 400 km
+Time taken in travelling = 8 hours
+Total Covered Distance
+Average speed =
+Total Time
+= 400. 50km/h
+8
+= 50x = m/s
+18
+2 13.9m/s
+18
+Speed, Time & Distance 39
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0029_right.png =====
+144. The Odometer of a bus shows the reading of
+3000 km at the beginning of a journey and
+3600 km at the end of the journey. If the
+journey took a total of 8 hours, then what is the
+average speed of the bus?
+
+(a) 75kmh? (b) 75kmh?
+(c) 75kmh" (d@) 75kmh!
+RRB Group-D — 26/10/2018 (Shift-II)
+
+Ans : (c) Total distance travelled by bus
+
+= 3600-3000 = 600 km
+-. Average speed = Total Distance Distance
+Total Time
+= ca 75 Km/hr.
+8
+
+145. An object travels 20m in 6s and then another
+30m in 4s. What is the average speed of the
+object?
+
+(a) Sms! (b) 6mst
+(©) Sms" (@) 6 ms!
+RRB Group-D — 08/10/2018 (Shift-III)
+
+Ans : (c)
+
+Average speed (V) = Total Covered Distance (D)
+
+Total Time(t)
+
+Total distance (D) = D, + D, = 20+30 = 50m
+Total time (t) = t) + t, = 6+4 = 10 Sec.
+
+D
+y=
+
+t
+
+50
+yer
+
+10
+v=5 m/s
+
+146. The total distance between the two stations is
+390 km, a train completes 182 km of this
+distance at a speed of 56 km/h and 108 km at a
+speed of 72 km/h. The remaining distance is
+completed by the train in 1% hours. Find the
+average speed of the train during the entire
+journey.
+
+(a) 65 Km/hr. (b) 75 Km//hr.
+(c) 60 Km/nr. (4) 70 Km/hr.
+RRB Group-D — 18/09/2018 (Shift-III)
+Ans. (a) : Total distance = 390 km
+First distance travelled by train = 182 km
+Speed = 56 Km./hr.
+
+Second distance travelled by train = 108 km
+Speed = 72 Km./hr.
+
+) YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0030_left.png =====
+[Remaining Distance = 390 — (182+108) = 100 km
+Time = 5 hours
+4
+[Average speed = Total Distance
+Total Time
+_ 390 ___ 390
+~ 182,108 5 «13,65
+tte Stet
+5672 4 4 4 4
+— 390x4 _ 390x4
+134+6+5 24
+= 65km/hr
+
+147. P moves at a speed of 50 km/h in the first 1
+hour and at a speed of 70 km/h in the next two
+hours. What is the average speed of P?
+
+(a) 60 km/hr (b) 63.33 km/hr.
+(c) 59.33 km/hr. (d) 62 km/hr.
+RRB NTPC 02.04.2016 Shift : 1
+
+Ans : (b) Distance covered by P in first hours = 50 km.
+
+Distance covered by P in second hour = 70
+
+Distance covered by P in third hour = 70 km.
+
+“. Average speed = Total an
+Total Time
+= 50470470 _ 190 | 63.33 Km/h.
+1+1+1 3
+
+148. If P travels the first half of his journey at 40
+km/h and the remaining distance at 50 km/h,
+then what will be the average speed of his total
+journey?
+
+(a) 44.44 Km_/hr. (b) 53.33 Km/hr.
+(c) 45 Km/hr. (d) 60 Km /hr.
+RRB NTPC 02.04.2016 Shift : 2
+
+Ans: (a) S; =40 Km/hr., S2 = 50 Km./hr.
+
+2xS, xS.
+Average speed =——1—*.
+Be spose S48,
+_2x40x50 _ 2x40x50 _ 400
+40+50 90 9
+= 44.44 Km./hr.
+
+149. A car completes the first half of the distance at
+a speed of 50 km/h and the remaining half of
+the journey at 60 km/h. What is the average
+speed of the car during the entire journey?
+
+(a) 54.54 Km./hr. (b) 36.36 Km/hr.
+(c) 50.5 Km/hr. (d) 45.45 Km/hr.
+RRB NTPC 02.04.2016 Shift : 3
+
+Speed, Time & Distance 39)
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0030_right.png =====
+2N,V,
+Ans: (a) A’ d of car =—+
+ns : (a) Average speed of car V+V,
+_ 2x50x60
+50+60
+8000 = 54.54 Km /hr.
+110
+150. A cyclist travels a distance of 8 km at the speed
+of 15 km/h and a distance of 4 km at a speed of
+20 km/h. Then what will be his average speed?
+(a) 16.8 (b) 16.36
+(c) 15.71 (d) 17.50
+RRB NTPC 28.03.2016 Shift : 2
+Ans :(b) If a person walks A km distance at a speed 0:
+x km/hr. and B km. distance at a speed of y km./hr.
+then
+A+B 8+4 12
+Average speed = AB 78 478 1
+=t= St +=
+x y 15 20 15 5
+= nS 16 36km/hr
+8+3 11
+15
+151. A person covers the first 176 km at a speed of
+16 km/h and the next 64 km at a speed of 32
+km/h. What would be the approximate average
+speed for the first 240 km of the journey?
+(a) 13 km/hr. (b) 27 km/hr.
+(c) 18.5 km/hr. (d) 21 km/hr.
+RRB NTPC 19.04.2016 Shift : 3
+Ans: (c) Time taken to travelled 176 km. distance =
+176 11 hours
+16
+. . — 64_
+Time taken to travelled 64 km. distance = a 2 hrs.
+Average speed = Total Distance Distance
+Total Time
+_176+64 _ 240
+1142 13
+= 18.5 Km//hr. (almost)
+152. A car travels 30 km at speed of 60 km/h at the
+begining, the next 20 km travels at a speed of
+80 km/h, find its average speed.
+(a) 65.67 Km/hr. (b) 65.33 Km/hr.
+(c) 66.33 Km./hr. (d) 66.67 Km/hr.
+RRB NTPC 06.04.2016 Shift : 1
+{ YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0031_left.png =====
+Ans: (d)
+Average speed of car = Total Distance
+Total Time
+— 30+20 Time = distance
+30 7 20 . speed
+60 80
+_ 50 _ 50 _50x4
+Lil 241 3
+24 4
+= # = 66.66 = 66.67(km./ hr.)
+
+153. Car P travels a certain distance in 11 hours ata
+speed of 66 km/h. Car Q travels a distance of
+242 km more than Car P in the same time.
+Find the average speed of Car Q.
+
+(a) 718 Km./hr. (b) 77 Km/hr.
+(c) 88 Km/hr. (d) 83 Km/hr.
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (c) Distance covered by P = 66x11 = 726 km
+Total Distance
+A d of Q =———————
+verage speed of Q Total Time
+
+Average speed of Q = Bee “8 =88
+
+Average speed of Q = 88 Km_/hr.
+
+154. Arjun travelled a distance of 1000 km from
+pune to Goa at a speed of 4 km/h and the
+return journey at a speed of 3 km/h. What was
+his average speed during the entire journey?
+(a) 3 Km/hr. (b) 3.43 Km/hr.
+
+(c) 3.5 Km/hr. (d) 5.4 Km/hr.
+RRB NTPC 28.04.2016 Shift : 2
+Ans: (b) Average speed =2NNa
+V+)
+_ 2x 4x3
+(443)
+=. 3.43 Km_/hr.
+7
+Type -5
+
+155. A certain distance is travelled at a certain
+speed. If half of the distance is travelled in
+double time. Find the ratio of both the moves.
+(a) 2:1 (b) 1:3
+(c) 4:1 (d) 3:2
+
+RRB JE - 23/05/2019 (Shift-I)
+
+Speed, Time & Distance 39:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0031_right.png =====
+Ans: (c) Let the certain distance = x km
+According to question,
+Time =t
+Speed = V,
+Vv, =P moi)
+According to second condition—
+Distance = x/2 km
+Time = 2t
+x/2_ x
+Speed V, = —— =—
+pee at
+x
+Miti4
+Vv, xX 1
+4t
+V,:V, =4:1
+156. The ratio of the speeds of two persons while
+travelling a certain distance is 18:12. Find the
+ratio of the time taken by them to travel the
+distance.
+(a) 2:1 (b) 2:5
+(©) 23 (d@) 3:
+RRB JE - 23/05/2019 (Shift-II1)
+Ans : (c) Given-
+Ratio of speed = 18 : 12
+Ratio of time = ames =2 3 = 23
+18 12 36 36
+157. A motor cycle driver covers a distance of 192
+km at a speed of 32 km/h. A car starts running
+from the same place after 2.5 hours the
+motorcyclist moves,but travels that distance 0.5
+hours before. What is the ratio of the speed of
+the car and the motorcycle?
+(a) 3:1 (b) 43
+(c) 2:1 (d) 1:2
+RRB JE - 28/05/2019 (Shift-I)
+Ans : (c)
+Time taken to cover the distance of 192 km by
+motorcycle = 192 =6h
+32
+and time taken by car = 6-(2.5+ .5)=3h
+Hence Speed of car = a = 64km/hr
+Hence speed of car : speed of motor cycle
+= 64:32=2:1
+J YCT
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0032_left.png =====
+158. Two motorists traveling in the opposite
+direction meet at some point in the middle.
+After this they take 9 and 16 hours respectively
+to reach their destination. What is the ratio of
+their speed?
+
+(a) 4:7 (b) 4:3
+(c) 5:3 (d) 5:4
+RRB JE - 28/05/2019 (Shift-I)
+Ans : (b) Let the speed is x and y
+Ratio of speed = & =%
+toy
+y Vo
+x_4
+y3
+xiy=4:3
+
+159. Mary takes 30 minutes to make one round of a
+rectangular garden Sila takes 45 minutes to
+make one round of the same garden. At 9 am
+both of them started walking in the same
+direction from the same point. What time will
+the both meet again at the starting point?
+
+(a) 10:45am (b) 10:00am
+(c) 11:00am (d) 10:30am
+RRB Group-D — 11/10/2018 (Shift-II)
+
+Ans : (d) Time taken to make a round of the rectangular
+
+garden by mary = 30 minutes.
+
+Time taken to make a round of the rectangular garden
+
+by Sila = 45 minute
+
+Time to start walking = 9 : 00 AM
+
+meeting time at the starting point
+
+=L.CM. of 9 : 00 AM + 30 and 45
+
+=9:00 AM + 90 minutes
+
+=9:00 AM+ 0 hours
+
+60
+
+= 10:30AM
+
+160. Car I travels a certain distance in a certain
+time. Car II travels half of the distance in
+double the time. Find the ratio of their relative
+speeds.
+
+(a) 1:2 (b) 1:4
+(c) 2:1 (dd) 4:1
+RRB NTPC 17.01.2017 Shift-2
+Speed, Time & Distance 39:
+
+
+===== Part 18 — Speed, Time & Distance (pp. 363–393)_page-0032_right.png =====
+Ans : (d) Let the distance is d and time is t.
+According to question,
+Speed for car I (S,)= -
+d/2_d
+Speed fc II (S,) == =—
+peed for car II (S,) tt at
+“8,28, =f,4 at =4:1
+t 4t 4
+161. A bus covers some distance at a certain speed.
+If a person covers one-third of that distance in
+thrice the time, then the speed of the person is
+the ratio of the speed of the bus.
+(a) 13 (b) 3:1
+(©) 19 (d) 9:1
+RRB RPF SI - 13/01/2019 (Shift-II)
+Ans : (c) Let the distance d is covered in time t by bus.
+speed of bus = ‘
+from question—
+d/3_d
+Speed of person = —— =—
+peso? 3 Ot
+Required Ratio =4.42 1:9
+ot t
+162. Two stations Mumbai and Pune which have a
+distance of 300 km. Two buses run opposite
+directions from Mumbai and Pune respectively
+and cross each other at a distance of 220 km
+from a station. What is the ratio of their
+speeds?
+(a) 13:9 (b) 10:3
+(c) 11:4 (d) 14:5
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (c) Total distance = 300 km
+Distance from first station = 220 km
+Distance from second station = 300 — 220 = 80 km
+Ratio of speed = 220: 80 =11:4
+163. The ratio of the speeds of two persons while
+travelling a certain distance is 24:30. Find the
+ratio of the time taken by them to travel the
+distance.
+(a) 2:1 (b) 3:5
+(c) 5:4 (d) 3:4
+RRB NTPC 28.04.2016 (Shift : II)
+Ans : (c) Given-
+Ratio of speed = 24 : 30
+Ratio of time = Jd; 74
+24 30
+3 YCT

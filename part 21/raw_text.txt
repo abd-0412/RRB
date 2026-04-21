@@ -1,0 +1,6968 @@
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0001_left.png =====
+21.
+————————
+Type -1
+1. In a right angle triangle, the perpendicular is 4
+cm larger than the base and the hypotenuse is 4
+em larger than the perpendicular. Calculate
+the length of the hypotenuse.
+(a) 12 cm (b) 10 cm
+(c) 20 cm (d) 8cm
+RRB RPF Constable — 18/01/2019 (Shift-II)
+Ans : (c)
+A
+x+8
+x+4 »
+B x Cc
+Pythagoras theorem
+Hypotenuse’ = perpendicular’ + base”
+(x+8P=(K+4P +x?
++644 16x =x? + 16+ 8x +x
+x°- 8x- 48 =0
+x? 12x +4x—48=0
+x(x — 12) + 4(x- 12) =0
+(x— 12) (x+4)=0
+It is x=12,x=-4
+So x = 12, x =—4 not possible
+“ Hypotenuse = 12 +8=20 cm
+2. The perimeter of an isosceles triangle is 32 cm.
+Its base is times of equal sides. Find the area
+of triangle.
+(a) 39cm? (b) 64cm
+(c) 48cm? (d) 57cm
+RRB JE - 22/05/2019 (Shift-II1) |.
+Ans : (c) Let the side of isosceles triangle is X.
+According to question-
+x+Xx +& =32
+5
+> 2x += =32
+> 10x + 6x = 32 x5
+aN x= 32x5
+16
+x=10
+A
+UN
+10, 10
+ty \
+B D Cc
++—12—>
+Mensuration 41%
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0001_right.png =====
+(Mensuration)
+
+TS
+
+Sides of isosceles triangle are 10, 10 and 12 cm
+respectively.
+
+AD? = AB? - BD?
+=10°-6
+
+AD =64=8 cm.
+
+Hence, height = 8 cm.
+
+Area of isosceles triangle = ; x base x height
+
+=Fx12x8=6 x 8=48 om?
+
+3. If the perimeter of a triangle is 28 cm. Its
+internal radius is 3.5 cm. Find the area of
+triangle.
+
+(a) 49 cm? (b) 28 cm?
+(c) 35 om’ (d) 42 cm?
+RRB JE - 22/05/2019 (Shift-IID)
+
+Ans : (a)
+
+(@) A
+
+Area of AABC = Area of AOBC + Area of AOAC +
+
+Area of AOAB
+
+aherxsctterxacedirx AB
+
+2 2 2
+
+= 5*1*(BC+AC+ AB)
+
+= 5x3.5x28=49 cm?
+
+4. The ratio of their corresponding sides of two
+similar triangles is 1:3 and the area of the
+larger triangle is 72 cm’. Find the area of
+smaller triangle.
+
+(a) 18 cm (b) 8 cm’?
+(©) 14cm () 9 cm?
+RRB JE - 29/05/2019 (Shift-I)
+
+Ans: (b) According to rule of similar triangle -
+
+(Area), _ (Side);
+
+Tarea) (adn?
+
+(Area), (Side)!
+
+(Area), 1
+
+72 9
+
+(Area), = 8 cm?
+
+So area of small A will be 8 cm’.
+
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0002_left.png =====
+5. The altitude of an equilateral triangle is 15 cm.
+Find the area of this triangle.
+(a) 60 cm? (b)  75¥3 cm?
+(c) 90 cm? (a) 60V3 cm?
+RRB RPF SI - 11/01/2019 (Shift-I11)
+Ans : (b) Let the equilateral Triangle is ABC which
+altitude AD = 15 cm
+/\
+A D c |
+*: Height of equilateral triangle (h) 4,
+[where AD = h= 15 cm]
+3B
+1s=~>
+7?
+a3
+3
+30
+where a=—=
+.. Area of triangle = Bye 3
+a’ =300
+=B..s00 = 15,3 em?
+
+6. The ratio of their corresponding sides of two
+similar triangles is 2:3 then find the ratio of
+their corresponding heights.
+
+(a) 2:3 (b) 3:2
+() 4:9 (@) 16:81
+RRB RPF SI - 06/01/2019 (Shift-I)
+Ans : (a) Let the height of similar triangle is h, and hy.
+Formula — Gide), oh
+(Side), h,
+2Lh
+3h,
+hy hy =2:3
+
+7. In a right angle triangle, the length of the
+hypotenuse is 2 meter less than twice the length
+of the shortest side. If the third side is 2 meters
+larger than the shortest side, what is the length
+of the hypotenuse of the triangle?
+
+(a) 10m (b) 13m
+(c) 12m (d) 7m
+RRB RPF SI - 05/01/2019 (Shift-I)
+Ans :(a) Let the smallest side of right angle triangle = x m
+According to Pythagoras theorem in right angle|
+AABC
+Mensuration 41!
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0002_right.png =====
+AC? = AB’ +BC?
+A
+
+(2x 2)m ‘ e+ 3)m
+
+c B
+> (2x-2) =(x+2) +x?
+=> 4x? +4-8x = x7 4444x 4x?
+=> 2x? -12x =4-4
+=> 2x(x-6)=0
+if x-6=0>x=6
+
+length of hypotenuse = 2x —2 = 2x6-2=10m.
+
+B. An equilateral triangle is formed by folding a
+rectangle whose dimensions are 4 cm and 5 cm.
+What will be the area of equilateral triangle so
+formed?
+
+(a) 9V3 cm? (b) 3V3cm?
+(c) 6V3 cm? (d) 28 cm?
+RRB RPF Constable — 18/01/2019 (Shift-I)
+
+Ans: (a) Perimeter of rectangle = 2(length + breadth)|
+
+Perimeter of rectangle
+
+= (5 + 4) = 18cm
+
+and perimeter of equilateral triangle = 3 x side = 3a)
+
+cm
+
+According to question
+
+Perimeter of rectangle = Perimeter of equilateral
+
+triangle
+
+18 = 3 x side = 3a
+“a=6
+
+So area of equilateral triangle = 4, 6x6 = 9V3 cm?
+
+. An equilateral triangle is formed by folding a
+rectangle whose dimensions are 4 cm and 2 cm.
+What will be the area of equilateral triangle so
+formed?
+
+(a) 4 V3 cm* (b) 6 3 cm?
+() a cm (@) 23 cm?
+RRB RPF Constable — 20/01/2019 (Shift-I}
+
+Ans : (a) Let the length of rectangle = 4 cm and
+
+breadth = 2 cm
+
+Perimeter of rectangle = 2(4 + 2) = 12 cm
+
++: Perimeter of equilateral triangle = 3 x Side
+*: Perimeter of equilateral triangle
+= Perimeter of rectangle
+
+-. Perimeter of equilateral triangle = 12 cm
+-. Side of equilateral triangle = 4 cm
+
+; . V3 cgae
+Area of equilateral triangle = va (Side)
+
+Bay Baas = 4,3 com?
+
+4 4
+
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0003_left.png =====
+10. Three sides of a triangle are 5 cm, 12 cm and 13
+cm. A smaller triangle is formed by joining the
+midpoints of these three sides of this triangle.
+What is the area of the smaller triangle?
+
+(a) 15 (b) 30
+(c) 7.5 (d) 32.5
+RRB Group-D — 16/10/2018 (Shift-I
+Ans. (c) : Biggest side of triangle = 13 cm.
+Other sides are - 5 cmand 12 cm
+“2 (13) = (12) +6)
+169 =169
+So it will be a right angle triangle
+Area of APQR joining the midpoint of three side o!
+triangle
+— AABC
+4
+A
+13cm
+Sem p} Q
+7 c
+oem
+1
+5X5x12 39
+Area of APQR = -2——. = = =7.5 cm?
+4 4
+
+11. What is the cost of leveling a triangular region
+of land at the rate of 20 paise per square meter
+whose sides are 72 m, 30 m and 78 m
+respectively?
+
+(a) Rs. 200 (b) Rs. 210
+(c) Rs. 216 (d) Rs. 220
+RRB Group-D — 17/09/2018 (Shift-II)
+Ans : (c) formula- s= axete
+(where a=72, b=30, c=78)
+_ 12+30+78 =90m
+2
+Area of triangle = ./s(s—a)(s— b)(s—c)
+= 90(90-72)(90- 30)(90-78)
+=V90x18x 60x12
+= V1166400 = 1080
+20 Paise =Rs. 22 = Rs.t
+100 5
+«. Cost price =1080x ; =Rs. 216
+12. The sides of a triangle are 16 m, 12 m and 20
+m. Find altitude of the triangle.
+(a) 9.2m (b) 9.6 m
+(c) 9.4 m (d) 9.8 m
+RRB Group-D — 09/10/2018 (Shift-I)
+Mensuration 420
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0003_right.png =====
+Ans. (b) :
+A 20m Cc
+12m , i J 16m
+B
+Area of the triangle = /s(s—a)(s—b)(s—c)
+Where s= athte
+s= 16+12+20 =24
+2
+v Area = ,/24(24—16)(24—12)(24—20)
+=V24x8x12x4
+=96m?
+-. The altitude (h) = 7224
+base
+_ 2x96
+20
+10
+13. Find the area of a triangle if its two dimensions
+and circumference are 9 cm, 11 cm and 34 cm
+respectively.
+(a) 17V12sq.cm (b) 12V15sq.cm
+(co) 12V17sq.cm (d)_ 15V17sq.cm
+RRB Paramedical Exam — 20/07/2018 (Shift-I
+Ans : (c) Let the side of triangle are a, b, c
+Then, a=9cm,b=11lcm,a+b+c=34cm
+9+ 11 +c=34,c= 14em, s=2tO*e_ 417
+2 2
+A=,/s(s—a)(s—b)(s—c)
+A= 17(17-9)(17-11) (17-14)
+A=V17x8x6x3 =V17x144
+=12v17em?
+So area of triangle =12V17 cm?
+14. Find the area of a triangle whose sides are 7.8
+cm, 5 cm and 11.2 cm.
+(a) 18cm? (b) 16.8 cm”
+(c) 17.4cm? (d) 12cm?
+RRB Group 'D' 07/12/2018 (Shift-.
+Ans : (b) Half perimeter (s) = ies = 3 =12
+Area of Triangle =./s(s—a)(s—b)(s—c)
+= /12(12-7.8)(12—5) (1211.2)
+=V12x4.2x7x.8
+= 282.24
+= 16.8 cm”
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0004_left.png =====
+15. AMNP is similar to ADEF. Area of AMNP is
+1024 cm? and area of ADEF is 144 cm’. If the
+longest side of AMNP is 64 cm then what is the
+longest side of ADEF?
+
+(a) 32cm (b) 28cm
+(c) 20cm (d) 24cm
+RRB Group-D — 05/12/2018 (Shift-I
+Ans: (d)
+M dD
+A MNP ~A DEF By the law of similarity
+Area of AMNP _(long side of AMNP)"
+Area of ADEF (long side of ADEF)’
+—, [i024 _ 64
+144 long side of ADEF
+32 64
+== =? __
+12 long side of ADEF
+=> long side of apEr= S82
+=2%x12=24cem
+
+16. Difference between the height and the base of a
+right angle triangle is 7 cm and the area of that
+triangle is 30 sq. cm. The perimeter of the
+triangle is:
+
+(a) 13cm (b) 12cm
+(c) 30cm (d) 25cm
+RRB Group-D — 05/11/2018 (Shift-II)
+Ans: (c) given
+A
+B c
+y
+
+Difference between height and base of triangle = 7
+
+x-y=7 wee (i)
+
+Area of Triangle = 30 cm?
+
+So, area of right angle triangle
+
+= ; base x height
+30=4 xy = xy = 60 wee (ii)
+xt+y=y (x-y) + 4xy
+=V49+240
+=V289
+xty=17..... (iii)
+Mensuration 42)
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0004_right.png =====
+From the equation (i) and (iii)
+
+x= 12cm.
+
+y=5em.
+
+According to Pythagoras theorem in triangle ABC
+
+AC? = AB? + BC?
+AC?= (12)? + (5)
+AC? = 144+ 25
+AC’ = 169
+
+AC = 13 cm.
+
+So, perimeter of triangle = 13+ 12+5 = 30 cm.
+
+17. The numerical value of the area of an
+equilateral triangle is two times the numerical
+value of its perimeter. Find the area of the
+above triangle.
+
+(a) 48 cm? (b) 24V3 cm?
+(c) 48V3 cm? (d) 36 V3 cm?
+RRB Group-D — 12/12/2018 (Shift-
+
+Ans. (c) Let the side of equilateral triangle is a cm.
+
+According to question
+
+Area of equilateral A = 2 x perimeter of Al
+3a?
+—— =(3a)x2
+47 Bax
+V3a_¢
+4
+24v3
+asi
+3
+a=83em
+
++. Area of equilateral A = By = Bese
+
+= 2x3x8V3 = 483 em?
+
+18. The areas of two similar triangles are 169 cm’
+and 121 cm’, If the longest side of the larger
+triangle is 26 cm then the longest side of the
+smaller triangle is :
+
+(a) 26cm. (b) 18cm.
+(c) 28cm. (d) 22cm.
+RRB NTPC 17.01.2017 Shift-2
+Ans : (d)
+Largest side of large triangle __ [169
+Largest side of small triangle 121
+5 26 _13
+Largest side of small triangle 11
+
+=> Largest side of small tiangle =" 26 = 22 cm.
+
+19. An equilateral triangle is constructed in such a
+way that the two vertices of the triangle lie on
+the diameter of a circle. If the area of the circle
+is 64m cm’, then what will be the side of the
+triangle?
+
+(a) 16 (b) 8
+(©) 163 @ 8v3
+RRB NTPC 04.04.2016 Shift : 3
+[ YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0005_left.png =====
+Ans : (a)
+
+Area of circle = 64 x
+
+mm = 641
+
+r =64 >r=8cm.
+
+length of equilateral triangle sides = the diameter of the
+
+circle = 2 x 8= 16cm
+
+20. The perimeter of a triangle is 100 cm. If its two
+sides are equal and the third side is 10 cm more
+than the equal sides. What is the length of the
+third side?
+
+(a) 30 (b) 25
+(c) 40 (d) 36
+RRB NTPC 03.04.2016 Shift : 3
+Ans :(c) *: Two sides of a triangle are equal
+~. Triangle will be isosceles
+a
+x+ 10
+
+Perimeter of Triangle = 100 cm
+
+x+x+x+10=100
+
+3x + 10= 100
+
+3x=90
+
+So length of third side = x + 10 = 30+ 10 =40 cm.
+
+21. ‘The area of a right angled triangle is 30 m’. If
+the height is 7 m more than the base, then find
+the base.
+
+(a) Sm (b) 12m
+
+(c) 7m (d) 9m
+
+RRB NTPC 02.04.2016 Shift : 1
+
+Ans : (a) Let the base = x m.
+height = (x +7) m
+~. Area of right angle triangle = 30 square meter
+1/2x base x height =30
+Fxxx(x47)=30
+
+xX +7x= 60
+
+xX +7x-60=0
+
+x’ + 12x-5x-60=0
+
+x(x+12) — 5(x + 12)=0
+
+(xt 12) &-5)=0
+
+2 x=5
+
+so base= 5 m.
+
+22. The perimeter of a triangle is 200 cm. If its two
+sides are equal and the third side is 20 cm more
+than the equal sides, what will be the length of
+the third side?
+
+Mensuration 42;
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0005_right.png =====
+(a) 60 (b) 50
+(c) 80 (d) 70
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (c) Let the first side = x
+second side = x
+Third side = x + 20
+Then, x+x+x+20= 200
+3x + 20 = 200
+3x = 180
+x= 60
+third side = 60 + 20 = 80 cm.
+23. If side of an equilateral triangle is 4 unit, then
+area of that triangle is :
+(a) WAG square unit (b) 43 square unit
+(c) K ‘B square unit (d) 3 square unit
+RRB NTPC 30.03.2016 Shift : 2
+Ans: (b)
+Area of equilateral triangle = 8 x(side)*
+= Bune =43 square unit
+24. Find the area of the triangle whose sides are 5
+cm, 12 cm and 13 cm.
+(a) 46 cm (b) 42 cm?
+(c) 30 cm (d) 38 cm?
+RRB NTPC 18.01.2017 Shift : 1
+Ans: (c)
+A
+lA
+5
+c 12 8
+Sides = 5, 12, 13
+5?+127=13"
+25 + 144 = 169
+169 = 169
+So this triangle will be right angle triangle
+So area of A ABC = ; height = base
+=FxSxl2 = 30 square cm.
+25. The area of a triangle is 456 cm’ and its height
+is 24 cm. Then the length of its base is:
+(a) 32 (b) 36
+(c) 34 (d) 38
+RRB NTPC 06.04.2016 Shift : 2
+, YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0006_left.png =====
+Ans : (d) Area of triangle = 456 cm?
+height = 24 cm
+base=?
+Area of triangle =5* base x height
+456 =x 24 x base
+base = 456 base = 38 cm.
+12
+
+26. The area of two similar triangles are 121 m’
+and 64 m2. If the median of the first triangle is
+12.1 m then the median of the second triangle is:
+(a) 64m (b) 84m
+() 88m (d) 92m
+
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (c)
+MA a [02
+M, VA, M, (64)
+Bit,
+M, 8'—
+
+27. Ina right angle triangle, the hypotenuse is 4 cm
+more than the perpendicular which is 4 cm
+more than the base. Find the length of the
+perpendicular.
+
+(a) 12 cm (b) 16 cm
+(c) 20 cm (d) 8cm
+RRB NTPC 27.04.2016 Shift : 3
+Ans: (b) Let the base of right angle triangle = x cm.
+then, perpendicular = (x + 4) cm
+hypotenuse = x + 8 cm.
+&
+x
+e (x +4)em.
+Xcm.
+According to pythagoras theorem .
+hypotenuse” = perpendicular’ + base”
+(x+8P=(x+4yP +x?
+
+=> x? + 64416x = x7+16+8x+x?
+
+=> x7 + 16x — x*-x?-8x=16-64
+
+=> x74 8x= 48
+
+=> x? - 8x = 48
+
+=> x’ 8x -48=0
+
+> x? 12x+4x -48=0
+
+=> x(x -12)+4(x - 12) =0
+
+=> (x +4) (x —12)=0
+
+=> x+4=0, x-12=0
+
+=> x =—4 (invalid)
+
+land x-12=0 (Valid)
+
+perpendicular = (x+4) cm. =12+4=16cm.
+
+Mensuration 42:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0006_right.png =====
+28. Find the area of the triangle whose sides are 11
+cm, 7 cm and 14 cm.
+(a) 7V22 (b) 11V8
+(c) 12V10 (a 13V3
+RRB NTPC 29.04.2016 Shift : 1
+Ans:(c)a=llem, b=7cm., c= 14cm.
+half perimeter (s) aatbte _M+7414 _ 32
+2 2 2
+s=16
+Area of triangle = ./s(s—a)(s—b)(s—c)
+= 16(16-11)(16-7)(16-14)
+= J16(5\(9)(2) = 12V10 cm?
+
+29. Ina right angle triangle, the hypotenuse is 2 cm
+more than the perpendicular and_ the
+perpendicular is 2 cm more than the base. Find
+the length of the base.
+
+(a) 6cm. (b) 9em.
+(c) 10cm. (d) 8cm.
+RRB NTPC 29.04.2016 Shift : 2
+Ans :(a)Let the length of base is x cm.
+
+According to question
+
+length of perpendicular = (x+2) cm.
+
+length of. hypotenuse =(x+4)cm.
+
+x+4
+xt+2
+B x Cc
+
+According to pythagoras theorem, In Tight angle AABC.
+
+hypotenuse” = (perpendicular) + (base)
+
+(x +4) = (x42) + x?
+
+X+164+8x=x°4+444x+x7
+
+=>x’-4x-12=0
+
+=> x’ 6x + 2x-12=0
+
+=> x (x-6) +2 (x-6)= 0
+
+=> (x-6) = 0, x+2=0
+
+x #—2 (It is not possible)
+
+30. ‘Ina right angle triangle, the hypotenuse is 2 cm
+more than the perpendicular and _ the
+perpendicular is 2 cm more than the base. Find
+the length of the perpendicular.
+
+(a) 6cm (b) 9 cm
+(c) 10 cm (d) 8 cm
+RRB NTPC 29.04.2016 Shift : 3
+Ans. (d) : Let the base of right angle triangle, = x cm.
+o perpendicular = ( x + 2) cm.
+hypotenuse =(x+ 4) 4
+xt4
+x
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0007_left.png =====
+v hypotenuse” = perpendicular’ + base”
+(x+4P =(x+ 27 +x?
+> X+164+8x=x° +4 44x47
+=>  ¥-4x-12=0
+=> 6x +2x-12=0
+> x (X-6) + 2 (x-6) =0
+> (x-6)(K+2)=0
+So, x=6
+~. Length of perpendicular (x + 2) =6+2=8 cm.
+
+31. What is the ratio of inner radius and the
+circum radius of an equilateral triangle with
+area of 16V3 sq. unit?
+
+(a) 1/2 (b) 1/4
+(©) 13 (d) 28
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (a) «." Area of equilateral A= By
+Bate
+4
+4
+a? =16V3x—
+B
+a=64 => a=8
+Radius of circle in equilateral A =—*—=—~
+4 23 23
+Radius of circumcircle of equilateral A =-3. =~
+" BS
+sz
+5 -2v3 _1
+Intended ratio = 8 =5
+3
+
+32. Three triangles are marked out of a large
+triangle at the three vertices such that each side
+of each of the small triangles is one-fourth as
+long as each corresponding side of the large
+triangle. The ratio of the area of the three small
+triangles taken together to that of the rest of
+the large triangle is:
+
+(a) 3:13 (b) 1:5
+(c) 3:16 (d) 4:15
+RRB ALP & Tec. (31-08-18 Shift-I
+Ans : (a) Let the side of equilateral triangle = 8x unit
+E F
+Ky
+2x 2x
+WA A
+2x 1 H 2x
+Area of equilateral triangle = 8 x (8x)?
+= 64x =16ix!
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0007_right.png =====
+Area of three small equilateral triangle
+=F xan! =3y3x?
+.. Area of Remainder equilateral triangle
+=16V3x? - 33x? = 13V3x?
+<. Intended Ratio =3V3x? :13V3x?= 3 : 13
+33. If each of the two equal angles of an isosceles
+triangle is twice the third angle, the measure of
+the third angle is:
+(a) 90° (b) 72°
+(c)_45° (@)_ 36°
+Ans: (d)
+A
+Let the third angle ZA =x
+then ZB=ZC=2x
+total of three angles of the triangle = 180°
+ZA + ZB + ZC= 180°
+x+2x+2x = 180°
+5x = 180°
+x=36°
+<. third angle x = 36°
+34. Three triangles are marked out of a large
+triangle at the three vertices such that each side
+of each of the small triangles is one-third as
+long as each corresponding side of the large
+triangle. The ratio of the area of the three small
+triangles taken together to that of the rest of
+the large triangle is :
+(a) 3:1 (b) 1:3
+() 1:9 (d) 1:2
+RRB ALP & Tec. (21-08-18 Shift-I)
+Ans: (b) Let the side of large triangle ABC is x cm.
+Area will be equal of A APQ, ABLM and ACRT.
+A
+P Q
+L
+B Mt Cc
+Side of each small triangle =; side of large triangle
+x
+=>em.
+3
+According to the question-
+. N3B(xY NB) 2 x?
+Ratio =3x—| — | :—= =x? = 13
+atio F(5) 7) 7
+7 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0008_left.png =====
+35. ABC is an equilateral triangle of side 6cm. If a
+circle of radius 1 cm is formed inside and along
+the sides of the triangle, the locus of the centre
+of the circle is an equilateral triangle of side is :
+(a) 4cm (6) (6-2V3)em
+(c) Sem @ (3+V3)em
+
+RRB ALP & Tec. (14-08-18 Shift-IID)
+Ans: (b)
+A
+D
+A
+%
+lem 4
+EKA \
+B c
+From AOEB |
+tan 30° = OE
+EB .
+eo
+V3. EB
+EB =3cm
+So, side of equilateral triangle formed from the locus}
+center in circle
+
+= AB — (EB + DA) = AB—2 EB= (6-2V3)em
+
+36. Three small triangles are so formed from the
+three corners of a large triangle in such a way
+that each side of the small triangle is equal to
+z times of the corresponding side of the large
+triangle. What is the ratio between the total |:
+areas of the three small triangle and the
+remaining area of the large triangle?
+
+(a) 12:13 (b) 1:5
+
+(c) 12:25 (d) 4:25
+
+RRB Group-D — 31/10/2018 (Shift-I
+Ans: (a)
+<— acm——_>
+Area of equilateral triangle ABC = Bee cm
+Area of Small equilateral AAEF, ABEG and ACFG
+2 2 2
+HG) G)-@)
+4 5 5 5
+
+Mensuration 42:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0008_right.png =====
+3¥3_ 4a? _ 33,
+=x =——a’cm
+4 25 25
+Area of AABC __v3/4a2
+Area of small threetriangles 33 /25a?
+Area of AABC -1-25_4
+Area of small three triangles 12
+Area of AABC — Area of A small three triangles
+Area of small three triangles
+_ 25-12
+12
+__Areaofremainced triangle _ 13
+Area of small threetriangles 12
+_ Area of small threetriangles _ 12
+Area of remainedtriangle 13
+Type -2
+37. The base of a parallelogram is twice its height.
+If the area is 392 sq.m. What is its height?
+(a) 14m (b) 28m
+(c) 12m (d) 24m
+RRB RPF Constable — 22/01/2019 (Shift-IID)
+Ans: (a) «- b=2h
+k— bl
+Area of Parallelogram = bxh
+392 = 2hxh
+196 = h?
+h= 14m
+38. The area of a field of trapezoidal shape is 1440
+sqm. The perpendicular distance between
+parallel sides is 24m. The ratio of the parallel
+sides is 5:3. Find the length of the largest
+parallel side.
+(a) 30m (b) 60m
+(c) 45m (d) 75m
+RRB JE - 30/05/2019 (Shift-II1)
+Ans : (d) Let the parallel sides of trapezium is 5x
+meter and 3x meter
+area of trapezoid= + (otal of parallel sides) x distance|
+between them
+1440 = $(5x +3x)x24
+1440x2 _ 8x
+24
+8x = 120
+x=15
+length of largest parallel sides of trapezoid = 5x m
+=5x15=75 m
+5 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0009_left.png =====
+39. A quadrilateral has two sides 16 cm and 12
+cm. and the angle between them is 90°. Its
+other two sides are Fem each. The other
+three angles of the quadrilateral are not the
+right angles. Find the area of the
+quadrilateral.
+
+(a) 202 cm? (b) 151 cm?
+(c) 193 cm? (d) 171 cm?
+RRB RPF SI — 10/01/2019 (Shift-I11) |
+
+Ans. (d)
+
+\2sem_—FD
+a
+1 |
+"| K<f :
+Bomtam >
+From AABC
+AC=VI16 +12?
+= V256+144
+= 400 = 20cm
+AADC in
+2
+ED= (3) -10°
+2
+_ [625-400 _ {225 _ 15
+“V4 V4 2
+Area of L] ABCD = Area of A ABC + Area of A ACD
+~5(16x12+.20)
+2 2
+= 16 x6 +15 x 5=96+75=171 om’
+
+40. ‘If one side of a rhombus and one diagonal are
+16 cm each, then the area in cm’ of the
+rhombus is:
+
+(a) 64V3 (b) 2563
+(c) 128 (d) 128V3
+RRB RPF Constable — 20/01/2019 (Shift-I
+Ans : (d) :
+A D
+DX le
+Side of Rhombus (ABCD) = 16 cm
+and a diagonal BD = 16 cm = d,
+in AAOB —
+AO= (AB) -(BO)"
+= (16) -(8)° = 256-64
+AO=¥192
+Mensuration 420
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0009_right.png =====
+AO =8y3 cm
+Second diagonal (d, ) = 8V3 + 8V3 = 16V3cm
+Area of Rhombus = +(4 xd,)
+1
+= 3 (lox 163)
+=128V3 cm?
+
+41. Area of a rhombus is 216 cm* and the length of
+its one diagonal is 24 cm. What is the length of
+each side of the rhombus?
+
+(a) 14cm (b) 13cm
+(c) 15cm (d) 12cm
+RRB Group-D — 20/09/2018 (Shift-II)
+
+Ans : (c) Given-
+
+Length of diagonal of Rhombus is (d;) = 24 cm, d) =?
+
+According to question,
+
+Area of Rhombus = 34 xd,
+
+A D
+px]
+AO= 12cm
+DO=9cm
+216-1 24xd,
+2
+d, = 18 cm
+
+in AAOD
+
+According to pythagoras theorem,
+
+AD? = 127+ 9? {Diagonal of rhombus
+
+AD? = 144+81 intersect at the angle of 90°
+
+AD? = 225 each other}
+
+AD = 15 cm.
+
+So length of rhombus each side will 15 cm.
+
+42. | What is the area of a piece of metal that is in
+the form of a parallelogram with a base of 20 m
+and a height of 5.4 m?
+
+(a) 108 sq.m. (b) 801 sq.m.
+(c) 180 sq.m (d) 810 sq.m.
+RRB Group-D — 20/09/2018 (Shift-I])
+
+Ans : (a) Area of parallelogram = (base x height)
+
+=20x« 5.4m?
+
+Area = 108 m?
+
+43. The length of each side of a rhombus is 5 m
+and the length of one of its diagonal is 2.8 m.
+Find the area of this rhombus.
+
+(a) 6.72 m? (b) 13.44 m?
+(©) 14m (@) 7m
+RRB Group-D — 20/09/2018 (Shift-I)
+p YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0010_left.png =====
+Ans: (b
+) S
+[xX Ic
+
+Diagonal = d; = 2.8m
+
+Each side = 5m.
+
+AAOD in,
+
+28
+AO=—=141
+200™
+
+AD =5m.
+
+Diagonal of rhombus intersect at the angle of 90° to
+
+each other
+
+According to Pythagoras theorem
+
+OD? = (5)°- (1.4)
+OD? = 23.04
+OD=4.8m
+So diagonal (d:) = 4.8 x 2=9.6 m.
+So area of rhombus = ; xd, xd,
+1
+==x9.6x2.8
+2 :
+Area = 13.44 m?
+
+44. The side of a rhombus is 37 cm and its area is
+840 cm’. Find the sum of the length of its
+diagonals.
+
+(a) 84cm (b) 94cm
+(c) 42cm (d) 47cm
+RRB Group-D — 26/09/2018 (Shift-I.
+Ans : (b) Area of rhombus = said,
+> daa, =840
+2
+did; = 1680 —------(i)
+d? +d} =(sideY x4
+d} +3 =37x37x4
+d? +43 =5476 —--~(ii)
+“ (d,+d,)° =d? +d? +2d,d,
+from the equation (i) and (ii) -
+=> (di + do)? = 5476 + 2 = 1680
+=> (dy+ dh)? = 5476 + 3360
+=> (di + do)’ = 8836
+=> (dy +p)’ = (94)"
+>
+
+45. The perimeter of a rhombus is 56 cm and the
+length of one of its diagonals is 26 cm. Find the |
+length of the other diagonal of the rhombus.
+
+(a) 6V7cm (b) 6V¥2cm
+(c) 6V3em (@) 65cm
+RRB Group-D — 10/10/2018 (Shift-II)
+Mensuration 42’
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0010_right.png =====
+Ans : (c)
+
+KA B
+
+OD = 13 cm
+
+Perimeter of rhombus = 56 cm
+
+4a=56
+
+Side (a) = 14cm
+According to Pythagoras theorem
+(AO)? = (AD) - (DOY
+(Aoy? = (14) — 13)"
+(AO)? = 196 — 169
+
+(AOY = 27
+
+AO= V27
+
+Diagonal (AC) = 2 x AO
+Diagonal (AC) = 2 « J27
+(AC) = 63 em
+
+46. The sides of a parallelogram are 12 m and 17
+m. If the length of one diagonal is 25m, then
+find the area of the parallelogram:
+
+(a) 190m (b) 150m?
+(c) 160m (@) 180m
+RRB Group-D — 16/10/2018 (Shift-III)
+Ans : (d)
+A B
+.——— 5
+
+Half perimeter of ABCD (s)= eee = s =27
+Area of ABCD = /s(s—a)(s-b)(s-c)
+
+= J27(27-12)(27-25)(27-17)
+
+=V27x15x2x10
+
+= V3x9x3x5x2x 2x5
+
+=9x 5x 2=90
+Area of parallelogram ABCD = 2 x ABCD
+
+= 90 x 2= 180 m*
+
+47. The diagonals of a rhombus are 12 cm and 16
+cm. The area of shape formed by joining the
+midpoints of all the sides of the rhombus is:
+
+(a) 192 cm? (b) 64 cm?
+(c) 48cm? (@) 96 cm?
+RRB Group-D — 25/09/2018 (Shift-I)
+
+y YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0011_left.png =====
+Ans: (c)
+D. S GC.
+& 50 R
+Al Dx
+(0) ‘B
+Area of rhombus = 3 d,xd,
+Area=+x12x16
+2
+Area=96 cm?
+A rhombus is formed by joining the midpoints of all the
+sides of the large rhombus and the area of this small
+. Area of larger rhombus
+
+thombus is area = nr
+
+Area= * =48 cm?
+
+48. The area of a rhombus is 216 m‘ and the length
+of one of its diagonal is 25m. What is the length
+of each side of the rhombus?
+
+(a) 12m (b) 18m
+(c) 15m (d) 30m
+RRB Group-D — 25/09/2018 (Shift-IIL
+Ans. (c) :
+:
+
+AC=18m
+
+[BD = 24m
+
+Area of rhombus = a ACxBD
+
+216 = * ACxBD
+3 ACK24= 216
+AC=18cm
+Length of each side of rhombus = (OC) + (OB)?
+= V9 +12?
+=V81+144
+= 1225 =15 Meter
+
+49. Find the distance between two parallel sides of
+a non- parallelogram. If the area of the non-
+parallelogram is 150 sqm and the length of the
+two parallel sides are 10 m and 15 m
+respectively.
+
+(a) 12m (b) 14m
+(c) 10m (d) 15m
+RRB Group-D — 22/10/2018 (Shift-III)
+Mensuration 423
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0011_right.png =====
+Ans: (a) Area of a parallelogram or trapezoid =
+= > (sum of parallel side x distance)
+= $00 + 15) x Distance
+150 = 525 x Distance
+Distance = 300 _ 12 meter
+25
+50. The area of a rhombus is 324 cm‘ and the
+length of one of its diagonal is 36 cm. What is
+the length of each side of this rhombus?
+(a) 10cm (b) 18V¥5cm
+(c) oS cm (@) 8V6cm
+RRB Group-D — 05/12/2018 (Shift-II1)
+Ans: (c)
+Atea of rhombus = 324cm?
+jj of a diagonal d,= 36cm
+B ‘A
+Area of rhombus = > d,xd,
+324= a 36xd,
+d, = 18 cm.
+According to figure (ABy’ = (OA)? +(OB)
+=9' +18?
+= 814324
+(AB)? = 405
+AB =95 cm.
+So length of each side of rhombus is oS cm.
+51. The side of the rhombus and one diagonals are
+14 cm each. Find the area of the rhombus.
+(a) 493 (b) 1963
+(©) 98V3 (@) 98
+RRB Group-D — 03/12/2018 (Shift-I1T
+Ans. (c) : The diagonals of a rhombus intersect each|
+other at 90° angle.
+D | |
+14m
+OB=0A = "em = Tem
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0012_left.png =====
+.. According to Pythagoras theorem-
+
+IDB? = OB? + OD?
+
+196 = 49 + OD?
+(OD? = 147
+OD = V3x7x7
+=WB
+DC =2x7N3 =14V3
+Area of rhombus = + ABxCD
+= pea = 98,3 em?
+
+52. The height of an equilateral triangle is equal to
+the diagonal of a square. Find the ratio of the
+areas of the triangle and the square.
+
+(a) V3:2 (b) 2:3
+(co) 3:4 (@) V3:V2
+RRB Group-D — 03/12/2018 (Shift-IIL.
+Ans. (b) : Let the side of square= a
+«. Diagonal of square = av2
+<. Height of equilateral triangle (h) = aV2
+A
+J
+B ¥ Dx C
+2 2
+In equilateral AABC,
+Let the side of A = x
+AD =ay2
+AD? = AC’ - DC?
+2a? =x? x |
+4
+2
+292 =
+4
+euda
+3
+Area of equilateral A = B, x
+V3 8 2
+=*=xia
+4 3
+22
+=a
+v3
+Area of square = a” !
+. 2
+Area of equilateral A : area of square =—~a" : a”
+eq | B
+=2:¥3
+Mensuration 42:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0012_right.png =====
+53. A rhombus was formed from a rectangle with
+sides 12 cm and 8 cm, whose perimeter was
+equal to that of the rectangle and one of its
+angle was 120°. Find the area of the rhombus.
+(a) 25/3cm? (b) 50V3cm?
+
+(c) 40V3cm? (d) 1003 ont
+RRB Group-D — 01/10/2018 (Shift-I
+Ans. (b) :
+Perimeter of rectangle = 2 (Length + breadth)
+=2(12+8)
+=40 cm.
+
+Given that
+
+Perimeter of rhombus = Perimeter of rectangles ...... (I)
+
+Let the side of rhombus is acm
+
+From equation (I),
+
+4a=40
+a=10
+In A ADE,
+A B
+ca 1207
+DE c
+singo? ="
+10
+v3_h
+> =
+2 10
+Height (h)=5V3em
+Area of rhombus = Base x Height
+=10x5¥3
+= 50V3 cm?
+
+54. If the diagonals of a rhombus are in the ratio
+5:4, then find the ratio of the area of the
+rhombus and the product of its diagonals.
+
+(a) 4:1 (b) 2:1
+(c) 1:2 (d) 1:4
+RRB Paramedical Exam — 21/07/2018 (Shift-IT
+Ans: (c) Let the diagonal of rhombus = 5x, 4x.
+Area of rhombus = 5 product of diagonal
+dese xx =108?
+2
+. Area of rhombus _ 10x? #122
+
+“* Product of rhombus diagonal 20x?”
+
+55. The height and the area of a parallelogram are
+7 cm and 161 cm’. Find the length of its base.
+(a) 25 cm (b) 23 cm
+(c) 21 cm (d) 19 cm
+
+RRB NTPC 05.04.2016 Shift : 2
+
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0013_left.png =====
+Ans : (b)*." Area of parallelogram = Base x Height
+
+161 = Base x 7
+
+.. Base= 23 cm
+
+56. The area of the trapezium is 18 sq. cm. Its
+height and base are 3 cm and 5 cm respectively.
+Find the length of the side parallel to base.
+
+(a) 4 cm (b) 6cm
+(c) 8 cm (d) 7 cm
+RRB NTPC 06.04.2016 Shift : 2
+Ans : (d) Let the length of side parallel base = x cm.
+height = 3 cm
+length of base = 5 cm
+area= 18 cm.
+Area of trapezium = 3 height x sum of parallel sides
+I8=5x3x(5+x)
+36= 15+ 3x
+3x =36-15
+3x=21
+x=7
+
+57. The length of one side of a rhombus is 17cm
+and one of the diagonals is 16 cm. Find the
+length of the other diagonal.
+
+(a) 30cm (b) 20cm
+(c) 32cm (d) 16cm
+RRB ALP & Tec. (31-08-18 Shift-II)
+Ans. (a) : In ABCD Rhombus
+AB = BC =CD=DA=17cm
+BD = 16 cm diagonal (AC) =?
+A B
+D c
+1 i
+so OB 7 BP 7% 16 8cm
+In right angle AAOB,
+(AB) = (AO) + (OB?
+(17) = (AO) + 8?
+(AOY’ = 289 - 64
+AO = 225 = 15 cm
+Then diagonal AC = 2 x AO
+AC =2 x 15 =30 cm.
+
+58. The length of one side of a rhombus is 61 cm].
+and its area is 1320 cm’. Find the sum of the
+lengths of its diagonals.
+
+(a) 120cm (b) 122cm
+(c) 142cm (d) 71cm
+RRB ALP & Tec. (30-08-18 Shift-I)
+Mensuration 43
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0013_right.png =====
+Ans : (c) If side of rhombus is 'a' and diagonal d, and d)
+So,
+a=61 cmand A= 1320 cm?
+a4 xd,
+so, 1320 =
+2
+or d) x dy = 2640
+2 2
+and, 617= GY (he
+2 2
+24g?
+3721 = di +dy
+4
+or d? +43 = 14884
+(d, + do)? = 14884 +2 x 2640
+(d; + dy)’ = 20164
+(d, + dy)? = (142)
+id, +d, =142 cm|
+
+59. A rectangle having 10 cm and 6 cm as its
+dimensions was reconstructed to make a
+rhombus having the same perimeter as that of
+the rectangle and 60° as one of its angles. The
+area of the rhombus, in cm’, is:
+
+(a) 24v3 () 8V3
+(ce) 16V3 (@) 323
+RRB ALP & Tec. (29-08-18 Shift-I
+Ans : (d) In following question—
+Perimeter of rectangle = 2 x (length x breadth)
+=2x (10 +6) =32 cm
+here perimeter of rectangle
+= Perimeter of rhombus= 32 cm
+Perimeter of rhombus = 4 x side = 32 cm
+or length of each side of rhombus = 8 cm.
+A 8cm
+B
+i\} “
+L\
+D 8cem CC
+‘shere is ZD = 60° so Triangle 'ADC' will be
+equilateral triangle.
+AreaofAADC = (2)
+= Bag? =H. 16V3cm?
+Now area of rhombus will be
+=> 2x16¥3 = 32V3em?
+
+60. The area of a rhombus is 24 m’ and the length
+of one of its diagonals is 8m. The length of each
+side of the rhombus will be:
+
+(a) 5m (b) 10m
+(c) 4m (d) 6m
+RRB ALP & Tec. (21-08-18 Shift-II)
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0014_left.png =====
+Ans: (a) Inrhombus ABCD '
+diagonal AC = x meter
+BD =8 meter
+A B
+D Cc
+area = ; x product of diagonal
+24= 1, 8xx
+2
+x=6m.
+
+AO=+AC Bo=Bp
+2 2
+
+Ao =1x6=3 m Bo=1x8=4m
+2 2
+
+in right angle AAOB
+
+(AB) = (OAY’ + (OB)
+(ABY = 37+ 4?
+AB =25
+AB=5m
+
+side of rhombus AB = 5 m.
+
+61. Find the length of one side of a rhombus whose
+area is 24 cm’ and the sum of the length of its
+diagonals is 14 cm.
+
+(a) 3cm (b) 6cm
+(c) 4cm (d) Sem
+RRB ALP & Tec. (17-08-18 Shift-IT
+Ans: (d) Let the length of diagonal AC = x cm.
+-. length of diagonal BD = (14 - x)
+A D
+B
+area of rhombus => ACxBD
+24 =Fxxx(14=x)
+48 =14x—x?
+= x? -14x+48=0
+x? -8x-6x+48=0
+(x-8)(x-6) =0> x=8,6
+In right angle ABOC— BC? = BO? +CO?
+2 2
+BC?= (2) (4S)
+2 2
+2 2
+pe? =(8) 4(S) =16+9=25
+2 2
+BC=5 cm.
+so length of side of rhombus = 5 cm
+Mensuration 43)
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0014_right.png =====
+62. The length of each side of a rhombus is 25 m
+and the length of one of its diagonals is 14 m.
+Find the area of the rhombus
+(a) 175 m* (b) 336m?
+(c) 168m? (d) 350m?
+RRB ALP & Tee. (14-08-18 Shift-IIT)
+Ans: (b) length of side of rhombus
+= 3a? +3
+where dj, d) is diagonal
+‘ 25-4 147 +43
+50x50 =147 +43
+d3 = 2500-196
+d} = 2304
+ay dy =48m
+So area of rhombus = za xd) = ra 14x48
+= 336 Square meter
+63. The length of one side of a rhombus is 41 cm
+and its area is 720 cm’. What is the sum of the
+lengths of its diagonals ?
+(a) 82cm (b) 90cm
+(c) 98cm (80cm
+RRB ALP & Tec. (13-08-18 Shift-I)
+Ans: (c) Area of rhombus = Product of Cagonst
+product of diagonal (d; xd ) = 2x 720 = 1440 cm?
+2 2
+“side (a) = ay fe
+2 2
+2 2
+=a? =(S1) (4
+2 2
+> 41x41x4 =d? +43
+d? +43 = 6724
+(4, +49)? = d? +43 +24, xd
+(4, +49)? = 6724+2%1440 = 9604.cm?
+or |d, +d =98 cm
+64. The length of one side of a rhombus is 13 cm
+and one of the diagonals is 10 cm. What is the
+length of the other diagonal ?
+(a) 24cm (b) 23cm
+(c) 25cm (d) 22cm
+RRB ALP & Tec. (13-08-18 Shift-I)
+[ YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0015_left.png =====
+Ans: (a) Side of rhombus (a) = 13 cm
+First diagonal (d\)=10 cm
+Second diagonal (d2)=?
+2 2
+Side of rhombus (a) = a + ao
+2 2
+2 2
+> 13 = 10 + ty
+2 2 '
+2
+=> 169 = 25 rs
+4
+=> 144x4 = d3
+> [atl
+Type -3
+65. The area of a circle is 616 sq.m. Find its
+diameter. (x = 22/7)
+(a) 7m (b) 14m '
+(c) 28m (d) 56m
+RRB RPF SI — 13/01/2019 (Shift-I11)
+Ans: (c) ‘ Area of circle = 616 sq.m.
+mr’ = 616
+7 = 916x712 196
+22
+r= 14m
+diameter = 2x14
+diameter = 28m.
+66. Find the area of the circular path, which is
+formed around a circle of circumference 440 m
+and whose width is 7 m.
+(a) 3856 sq.m. (b) 3234 sq.m.
+(c) 3900 sq.m. (d) 3204 sq.m.
+RRB JE - 27/05/2019 (Shift-II)
+Ans: (b) Circumference of a circle = 2nr
+nr = 440
+2 2 xr=440
+7
+i 440x7
+© 2x22
+r=70m
+Let r is the radius of the circle and the radius of the
+circle with circular Path is R.
+area of circular track = x(R? -r’)
+Mensuration 43:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0015_right.png =====
+2 2
+=n{(77)' (70) ]
+= n[5929- 4900]
+=nx1029
+2 x1029
+
+7
+= 3234 Square meter
+
+67. What is the circumference of a semicircle
+
+which diameter is 28 cm?
+
+(a) 36 cm. (b) 144 cm.
+
+(c) 72 cm. (d) 44 cm.
+
+RRB RPF Constable — 24/01/2019 (Shift-I
+Ans: (c) diameter = 28 cm,
+radius = diameter _ 28 _ 14cm
+2 2
+circumference of a semi circle = mr+2r =1(2+7)
+= 14(2022)= 14x36 =72 cm.
+7 7
+68. The radius of a circle is increased by 5%. Find
+the percentage increase in its area.
+(a) 10.25% (b) 21.5%
+(c) 10.5% (d) 25%
+RRB JE - 28/05/2019 (Shift-1
+Ans: (a) Let the radius of circle = x
+increase % in area of the circle
+2
+=| 2x+< |%
+100
+2
+=| 2x5+ Gy %
+100
+=(10+.25)%
+= 10.25%
+
+69. What will be the radius of inner circle of
+triangle whose sides are 7 cm, 24 cm and 25
+cm?
+
+(a) 4cm (b) 25cm
+(c) 3.5cm (d) 3cm
+RRB RPF SI - 12/01/2019 (Shift-I
+
+Ans : (d) The sides of the given triangle form a right
+
+angle triangle.
+
+Then,
+
+ON
+BSP item
+
+area of Triangle (A) = 3x24 x7 = 84 cm?
+
+semi perimeter (s) = ee +25+7] = 28
+
+Hence radius of inner circle (r) = A = 4 =3cem
+
+s 28
+, YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0016_left.png =====
+70. The cost of installing a paved floor in a circular |
+room is 1540 Rs. at the rate of 10 Rs. per
+square meter. What is the cost of fencing at the
+rate of 6 Rs. per meter?
+
+(a) Rs. 260 (b) Rs. 264
+(c) Rs. 250 (d)_ Rs. 265
+RRB Group-D — 24/10/2018 (Shift-I
+Ans: (b)
+Area of the circle = mr”
+*: 10Rs. per square meter cost = Rs. 1540
+. . 1540
+.. Area of circle = Te = 154
+mr = 154
+2 _154x7
+peo
+22
+P=49
+r=7m
+. _ 2200
+Perimeter of circle = 2ar= 2x x7 =44m
+Cost of fencing at the rate of Rs. 6 per meter |
+= 6x44 = Rs. 264
+
+71. ABCD is a quadrilateral inscribed in a circle
+(radius r). The bisectors of ZDAB and ZBCD
+intersect the circle at X and Y respectively.
+What is the length of the straight line X Y?
+
+(a) 2r (b) (r+2)
+2
+o> @ x
+RRB Group-D — 03/10/2018 (Shift-I
+Ans: (a)
+Y D
+B c
+
+In a cyclic quadrilateral, the bisector of the opposite
+
+angle will pass through the center.
+
+XY =AC
+
+and AC is the diameter of the circle
+
+72. The circumference of a circle is 15 m more}:
+then its diameter. Find the radius of the circle.
+(a) 7cm (b) 3.5cm
+(c) 4cm (d) 8cm
+
+RRB Group-D — 11/10/2018 (Shift-II)
+
+Ans: (b) According to question-
+
+2nr-2r=15
+2r(n-1)=15
+n(22-1)=15
+7
+(2) =15
+7
+2r=7
+Mensuration 43.
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0016_right.png =====
+73. The inner and outer circumference of the
+circular ring is 22 cm and 44 cm respectively.
+Find the thickness of the ring.
+(a) 55cm (b) 15cm
+(c) 3.5em (d) 25cm
+RRB Group-D — 16/10/2018 (Shift-IID)
+Ans : (c) Let internal radius of ring = 1;
+and outer radius =r)
+as per questions —
+2Qnr, = 22, 2nr, = 44
+Ixy 22, 2x22, = 44
+7 7
+n= 4 ora, r=7em
+2
+thickness of ring = 1-1
+=7- t= om = 3.5 cm
+2 2
+74. An outer circular path is built around a
+circular garden. If the outer and the inner
+perimeter of the path are 220 m and 44 m
+respectively. Find the area of the path.
+(a) 3960 m? (b) 3696 m*
+(c) 3069 m? (d) 3096 m*
+RRB Group-D — 26/09/2018 (Shift-III)
+Ans: (b) Let the outer radius = 1
+internal radius = r
+given,
+circumference of circle => 2nr, = 220, 2nrn = 44
+1, = 35m, m=7m
+Area of the garden with the path = 2nr,?
+= 23535 = 3850 m°
+2 22 2
+Area of garden = 2nry°= raetiell = 154 m’
+area of path = 3850 - 154 = 3696 m™
+75. The area of an equilateral triangle inscribed in
+a circle is9V3 cm?. What is the area of the
+circle?
+(a) 167 (ob) 12V3 0
+(c) 15V3 x (d) 12%
+RRB Group-D — 05/12/2018 (Shift-I
+Ans: (d)
+. Bo .
+Area of equilateral A = es where a = side of A
+B xa? =93
+4
+a” =36
+a=6
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0017_left.png =====
+A
+(ZS)
+Note- radius of circumcircle of equilateral triangle with
+. a 6 3
+the side a Bs x B
+=wW3
+area of circle = nr?
+= nx 23x23
+Hence area of circle = 127
+76. Avrace ground is in the form of a ring. Its inner
+and outer circumference are 88 m and 154 m
+respectively. What is the width of the race
+ground?
+(a) 12m (b) 15m '
+(c) 16.5m (d) 105m
+RRB Group-D — 03/12/2018 (Shift-IT.
+Ans : (d) Let the outer radius of the field = R
+Internal radius of the field =r
+Outer circumference of the field = 2nR
+2nR = 154
+mR=77
+R=49/2
+Internal circumference of the field = 2ar
+2m = 88
+m= 44
+r=14
+. 49
+Width of the field = R-r =7 74
+= 49-28 21 19 Sm |
+2 2 '
+77. If the diameter of a semicircle is 14 m. What
+will be the perimeter of the semicircle?
+(a) 44m (b) 22m
+(c) 36m (d) 58m
+RRB Group-D - 03/12/2018 (Shift-IID)
+Ans. (c) :
+ax
+*: Diameter of semicircle = 14m
+2r= 14
+r=7m
+Perimeter of semicircle = mr+2r
+=2, 7+14
+7
+=22+14=36m
+78. If the diameter of the wheel of a car is 56 cm,
+then how many times will the wheel of the car
+rotate during the journey of 88 km?
+Mensuration 43.
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0017_right.png =====
+(a) 500 (b) 50,000
+(c) 5,000 (d) 5,00,000
+RRB Group-D — 15/10/2018 (Shift-III)
+Ans. (b) : Diameter of wheel = 56 cm.
+d=56cm
+. d
+o T=>
+2
+56
+=—=28
+Tr 2 cm
+Let the wheel will rotate n time in the distance of 88 km
+nx 2nr =88km [ 1 km = 100000 cm]
+_ 88x 100000
+2x 22 x28
+7
+1 = 88x100000
+2x88
+n=50000
+79. A circular land of radius 7 m has 3.5 m wide
+path around it. Find the area of the
+22
+ath. | m=
+P | 7
+(a) 202 sq. m. (b) 154 sq. m.
+(c) 192.5 sq. m. (d) 346.5 sq. m.
+RRB NTPC 17.01.2017 Shift-2
+Ans: (c) Area of path = area with land of path — area|
+of land.
+=n(7+3.5) —n(7)
+-2/(105-7)(10.5+7)]
+7
+= 2 x175x35= 192.5 m?
+80. If the circumference of a circle is 187% cm, then
+the area of the circle is:
+(a) 187 sq. cm. (b) 187? sq. cm.
+(c) 817 sq. cm. (d) 97 sq. cm.
+RRB NTPC 05.04.2016 Shift-1
+Ans : (c) Given-
+Circumference of a circle = 187
+2nr= 182
+18
+r=—
+2
+r=9 cm
+“. area of circle = 717
+= 1x(9)'= 817 square cm
+81. If the diameter of a circle is 7 cm then find its
+area.
+(a) 49cm? (b) 38.5 cm
+(c) 154 cm? (d) 98 cm?
+RRB NTPC 04.04.2016 Shift : 2
+7 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0018_left.png =====
+Ans: (b) Radius of the circle (r) = - came )
+= om
+2
+area of circle =r?
+2
+= 22, (7) 27,7 27 3g som
+7 \2 7 22 2
+82. If the circumference of a circle is 22 cm, find
+the area of the semicircle.
+(a) 38.5 sq.cm. (b) 19.25 sq.cm.
+(c) 44 sq.cm. (d) 77 sq.cm.
+RRB NTPC 03.04.2016 Shift : 2
+Ans :(b) Circumference of the circle = 22 cm
+2nr = 22
+22 22x7 7
+nn r=+om
+2n 2x22 2
+. me __22x7x7
+area of semicircle = —— = ————_.
+2 2x7x2x2
+=1RT T1925 square cm.
+
+83. When a square is made by bending a wire then
+the area of the square is 484 cm’. If the same
+wire is bent as a circle then its area will be:
+
+(a) 264 sq. cm. (b) 616 sq. cm.
+(c) 488 sq.cm. (d) 492 sq. cm.
+RRB NTPC 02.04.2016 Shift : 3
+Ans: (b) Area of square = 484 square cm.
+(side) = 484 = (22)*
+side = 22 cm
+Perimeter of square = 4x side = 4x 22
+= 88cm
+Perimeter of circle = Perimeter of square
+= 88cm
+Ont = 88 > 2x Par=88
+>r= axt =14cm |
+2
+area of circle = m*
+= 2, (14) = tata
+7 7
+= 22x2«14 = 616 cm”
+
+84. The largest chord of a circle measures 10 cm
+and the shortest chord measures 4 cm. Find the
+radius of the circle.
+
+(a) 20 cm. (b) 5S cm.
+(c) 8 cm. (d) 2 cm.
+RRB NTPC 29.03.2016 Shift : 2
+Ans: (b) diameter of circle = length of the largest|
+chord of the circle = 10 cm
+«. radius of circle = ° = Sem
+Mensuration 43:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0018_right.png =====
+85. Find the area of a circular region whose
+circumference is 22 cm.
+(a) 22 sq. cm. (b) 11 sq.cm.
+(c) 44 sq. cm. (d) 38.5 sq. cm.
+RRB NTPC 29.03.2016 Shift : 2
+Ans : (d) Circumference of a circle = 2nr
+From the question—
+2nr = 22
+22
+ae
+2xn
+22x7
+r=——_ > |r=>
+2x22 2
+©. area of circle = mr
+22 (7Y
+=x}
+7 \2
+22.7.7
+=xix
+7 22
+= a = 38.5 Square cm.
+86. Find the increase in the circumference of the
+circle of radius 14 cm, if the radius is increased
+22
+by 7cem, | 7=—
+Y ( 7
+(a) 44 cm (b) 22 cm
+(c) 66 cm (d) 88 cm
+RRB NTPC 18.01.2017 Shift : 1
+Ans : (a) Circumference of a circle of radius of 14 cm)
+= 2nr
+=2xPatd= 88 em
+When increase 7 cm. in radius
+Then radius = 14+ 7=21
+Perimeter = ax 2x 21= 132 cm.
+intended increase = 132 — 88= 44 cm
+87. A piece of wire is folded and shaped into a
+square with a side of 44cm. Again the square is
+shaped into a circle. What is the radius of this
+circle?
+(a) 108 cm (b) 56cm.
+(c) 14cm. (d) 28cm.
+RRB NTPC 18.01.2017 Shift : 3
+Ans : (d) From the question,
+side of square = 44 cm
+Perimeter = 4 x side = 4 x 44 > 176 cm
+Perimeter of square = Circumference of a circle = 176
+cm
+* 2nr=176cem (= = 2)
+7
+Radius (r) = 1767 28 cm
+22x2
+5 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0019_left.png =====
+88. If the circumference of a circle is xd then what |
+is the area of the circle?
+(a) nd/4 (b) 2nd
+(c) xd?/2 (d)_ xd?
+RRB NTPC 12.04.2016 Shift : 1
+Ans : (a) Circumference of a circle = nd
+2ar=nd r= qd
+2
+: °
+2 2
+“. Area = 7(5) = nt
+2 4 .
+89. A cycle wheel completes 5000 revolution in 44
+km. What is the radius of the wheel?
+(a) 140 cm (b) 270 cm
+(c) 70 cm (d) 120 cm
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (a) Distance travelled = 44 km = 44000 m
+= 4400000 cm.
+revolution = 5000
+distance travelled in a revolution by wheel = 2 xr
+Hence 2 mr x 5000 = 4400000
+2x ex 1x 5000 = 4400000
+= 40000027, , r=140cm.
+2x22x5000
+90. What is the cost of the levelling a circular
+ground of 28 meters diameter at the rate of 125]
+Rs. per square meter? (x = 22/7)
+(a) Rs. 76,000 (b) Rs. 76,400
+(c) Rs. 76,800 (d)_ Rs. 77,000
+RRB NTPC 06.04.2016 Shift : 1
+Ans : (d) Radius of circular field(r) = 3 =14m.
+area = mr =2xtdxt4= 616m?
+cost on 1 m* = Rs.125
+cost on 616 m’ =125 x 616 = Rs. 77,000
+91. The diameter of a wheel is 84 cm. How many
+rounds will it take to cover a distance of 792
+meters? (1 = 22/7)
+(a) 298 (b) 300
+(c) 312 (d) 256
+RRB NTPC 19.01.2017 Shift : 2
+Ans (b) diameter = 84 cm.
+r= 42 cm.
+7 . 22
+circumference of circle = 2nr= aaa = 264cm
+distance travelled by in 1 round = 264 cm.
+[Number of revolution in distance of 729 m.
+79200
+>= =300
+264
+Mensuration 43
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0019_right.png =====
+92. If the radius (r) of a circle is increased by x
+units, how many units will increase in its
+circumference?
+
+(a) x (b) 20
+(c) 2nr (d) 2x
+RRB NTPC 27.04.2016 Shift : 2
+Ans: (d)
+
+radius of circle =r
+
+increases radius of circle =r+x
+
+increase in circumference of circle
+
+= 2n(r+x)-2nr
+
+increase in circumference = 2n(r+x—r) = 20x
+
+93. A square with a side of 120x cm is made from a
+piece of a wire. If a circle is made by bending
+the same wire, what will be the radius of the
+circle?
+
+(a) 30 cm (b) 120 cm
+(c) 240 cm (d) 60 cm
+RRB NTPC 28.04.2016 Shift : 3
+Ans :(c) Side of square = 120 cm
+
+Perimeter of square = 4 x 1207 = 4802 cm
+
++: A circle made by folding wire
+
+Hence it will be equal as perimeter of square and
+
+circumference of circle.
+
+=> 480 n= 2nr {r= radius of circle}
+
+>re “ r=240 cm
+
+54. In figure 'O' is the centre of a circle. The area
+of sector OAPB is a of the area of the circle.
+Find x.
+
+a B
+P
+(a) 120 degrees (b) 100 degrees
+(c) 125 degrees (d) 115 degrees
+RRB ALP & Tec. (31-08-18 Shift-III)
+5 : mx 25
+Ans : (b) According to question ——— = mr’ x——
+® ged 360° “18
+x
+—=5
+20°
+x= 100°
+
+95. The length of the are is z times of the
+circumference of the circle. What is the
+measure of the angle (in degrees) subtended by
+the arc at the centre of the circle :
+
+(a) 50 (b) 80
+(c) 60 (d) 30
+RRB ALP & Tec. (21-08-18 Shift-I)
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0020_left.png =====
+Ans: (b) Let the arc in circle is = AxB
+2nr0
+lor Are (Ax B)=——
+(AxB) =o
+—.
+‘A \,
+a |
+A
+x
+According to question 2x8 =2nrx 2
+360' 9
+(‘ 2nr = Circumference of Circle)
+— =2 0=80°
+360° 9
+|At the centre of circle the angle made by Arc
+(8) = ZAOB = 80°
+96. A copper wire when bent in the form of a
+square encloses an area of 121 cm’, If the same
+wire is bent into the form of a circle, find the
+area of the circle: (Use -2)
+(a) 154 cm? (b) 153 cm?
+(c) 155 cm? (d) 150 cm”
+RRB ALP & Tec. (09-08-18 Shift-IIT)
+Ans : (a) area of square = a
+According to the question,
+a = 121 cm
+“a=llem
+‘circumference of square = 4a = length of wire
+” Jength of wire = 11x 4 = 44cm
+circumference of circle = 27tr
+circumference of circle = perimeter of square
+“Om = 44
+“r=7cem
+C . 22 ay 2
+Area of circle = mr’ = aad) = 154 cm’
+Type -4
+97, The sum of the lengths of the edges of a cube is
+equal to four times the perimeter of a square. If
+one-fourth of the numerical value of the
+volume of the cube is equal to the numerical
+value of the area of the square, then the length
+of the side of the square is:
+(a) 27 unit (b) 10.5 unit
+9. 27
+c) = unit d) — unit
+(©) 4 (d) 16
+RRB RPF Constable — 17/01/2019 (Shift-III)
+Mensuration 43’
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0020_right.png =====
+Ans : (d) Let the length of the edge of cube = y unit
+Let the length of side of square = x unit
+rt =
+LV kex- Al
+The first condition —
+Sum of length of the edge of cube
+= 4 (Perimeter of square)
+sed f cube =12
+Ly = 4(4x) edges o cube
+Perimeter of square = 4x
+12y = 16x
+3y =4x
+4
+°
+second condition —
+numerical value of volume of cube _
+ry a area of square
+3
+Vuy?
+4
+y= 4x? sescesssesesees (2)
+Putting the value of y from equation (1) in equation (2)
+3
+(3 x) =4x?
+3
+4 x? =4x?
+27
+Woy
+27
+xe
+16
+. 27
+Hence side of square = 16 unit
+98. Find the area of a square made by touching its
+circumference inside a circle of radius 8cm.
+(a) 144 cm? (b) 128 cm?
+(c) 64 cm (ad) 136 cm
+RRB JE - 23/05/2019 (Shift-I
+Ans : (b)
+(4)
+Ne
+radius of circle = 8 cm, (given)
+diameter of circle = diagonal of square (According to)
+question)
+8 x 2= side (v2)
+side=8V2
+Area of square = (side)
+Area of square = (v2) =128 cm?
+] YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0021_left.png =====
+99, Find the embodied area between a circle and a
+square with side ‘a’ inscribed in it.
+(a) (a7/2)(n- 2) sq. unit
+(b) 2a? (m- 2) sq. unit
+(c) a’ (2-2) sq. unit
+(d) a°(2n- 1) sq. unit
+
+RRB JE - 26/05/2019 (Shift-I
+Ans: (a) Area of circle = 1R?
+2
+a’x2_2na> _ na?
+anxitis@ E
+4 4 2
+Area of square = (side)? = (a”) = a”
+2 2
+-. Contiguous area = * -a’= S(-2)
+
+100. A room is 15 feet long and 12 feet wide. A mat
+is to be laid on the floor of the room leaving a
+space of 1.5 feet from the walls. What is the
+cost of the mat at the rate of Rs. 3.50 per
+square feet?
+
+(a) Rs. 630 (b) Rs. 378
+(c) Rs. 472.50 (d) Rs. 496
+RRB JE - 30/05/2019 (Shift-I1)
+Ans : (b)
+— 15 +—\.
+15
+1.5
+According to the figure left at 1.5 feet
+length = 15 - (2 = 1.5) = 12 feet
+breadth = 12—(2 x 1.5)=9 feet
+.. Area ofroom = 12 x9
+= 108 Square feet
++: Cost of 1 square feet = Rs. 3.50
+«. Cost of 108 square feet = 3.50 x 108
+=Rs. 378
+
+101. The area of a square field is 24200 sqm. How
+long time will it take for a person walking at a
+speed of 4.4 kn/hr to cross it diagonally?
+
+(a) 3 minute (b) 4 minute
+(c) 2.5 minute (d) 2 minute
+RRB JE - 01/06/2019 (Shift-I)
+Ans : (a) As per question,
+Area of square = 24200 m
+a = 24200 nm?
+a=110V2 m
+distance travelled diagonally by person
+= av2 =10V2x/2 = 220m
+Mensuration 43%
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0021_right.png =====
++s Speed = 4.4 km/hour = — m/minute
+= =“ m/minute
+. distance 220 .
+So time = ———— = =——~=3 minute
+Speed 220/3
+
+102. The difference between the areas of the two
+squares is 32cm’. If the difference of their sides
+is 4cm. Find the value of the sides of both
+squares.
+
+(a) 6 cm., 2 cm. (b) 12 cm., 8 cm.
+(c) 4 cm., 4 cm. (d) 4 cm., 2 cm.
+RRB JE - 01/06/2019 (Shift-II1)
+
+Ans. (a) Let sides of squares is x, y
+
+area of first square = x”
+
+area of second square = y”
+
+xy = 32... (i)
+
+x-y=4...... (ii)
+
+from equation (i)-
+
+(x-y) (xty) = 32
+
+4 (xty) = 32
+
+x+y=8...... (iii)
+
+from equation (ii) and (iii)—
+
+xty=8
+
+x-y=4
+
+2x = 12
+
+x=6
+
+putting the value of x in equation (ii)
+
+x-y=4
+
+6-y=4
+
+y=2
+
+So, sides of squares is 6 cm and 2cm.
+
+103. The perimeter of a square is 32m and the other
+is 24m. Find the diagonal of the square whose
+area is equal to the area of these two squares.
+(a) 2V10m (b) 20m
+(c) 10V4m (@_ 10V2m
+
+RRB RPF SI - 16/01/2019 (Shift-I
+
+Ans. (d)
+
+a b p—l0_c
+
+Ct Ct
+
+a b A 10 B
+4a=32m 4b =24 area of ABCD
+
+a=8m b=6m Square = 64 + 36
+
+a= 64, b’=36 , AB « AB = 100 m?
+
+AB= V100
+AB=10m
+{- AB = AC}
+length of diagonal (AC) = V2a
+= ¥2x10 = 10V2m
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0022_left.png =====
+104, The sum of the lengths of the cores of the cube
+is the 3th of the perimeter of the square. If the
+numerical value of the volume of the cube is
+equal to the numerical value of the area of the
+square, then find the perimeter of the square.
+(a) 500 unit (b) 360 unit
+(c) 480 unit (d) 300 unit
+
+RRB Group-D — 19/09/2018 (Shift-IT)
+
+Ans. (a) : If length of each core of cube = a unit
+
+-. Sum of length core's in cube = 12 a unit
+If each side of square = b, then perimeter = 4b unit
+In first condition,
+12a= 3 x4b
+Ss
+b
+or a=—
+5
+then According to second condition, a° =b?
+3
+lor (3) =v
+5
+3
+or Pay
+125
+
+lor, [b=125
+
+Now perimeter of square =4b = 4125 =500 unit
+
+105. The middle area of a square room of 10 m sides
+is covered with square tank carpet and the
+remaining floor is covered with oil cloth. The
+carpet and the oil cloth are priced at Rs. 15 and
+Rs. 6.5 respectively, and their total price is Rs.
+1338.50. What will be the width of the oil cloth
+border?
+
+(a) 2m (b) Sm
+(©) 1m (@ 5m
+RRB Group-D — 08/10/2018 (Shift-IT)
+Ans : (d) Let the side of squarely tank = x m.
+- "
+— 10—
+7 Area of square shape tank (which cover with carpet)
+=x
+Area of oil cloth’s = 10 x 10-3"
+=100-x
+<. 15x? + 6.50 (100 — x”) = 1338.50
+15x? + 650 - 6.5 x” = 1338.50
+8.5 x’ = 688.50
+2 _ 688.5
+are
+8.5
+Mensuration 43!
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0022_right.png =====
+v=8l
+x=9
+. . . 10-x
+o Breadth of oil cloth's border = zz
+10-9 1
+=——=-m
+2 2
+106. Four equal circles are formed on the four
+vertices of a square in such a way that each
+circle touches two other circles. What will be
+the area outside the perimeter of the circles
+towards the middle of the square. If the length
+of each side of the square is 28 cm?
+(a) 168 cm? (b) 40 cm?
+(c) 42cm? (d) 32cm?
+RRB Group-D — 30/10/2018 (Shift-ID
+Ans: (a)
+Area of square = 28? = 784 cm”
+So area of Four radius section
+= 4x ge?
+360
+a ey rg x14
+360 7
+=616
+perimeter of middle of square = area of square — area of
+radius section
+= 784 - 616 = 168 cm
+107. The area of the square field is 31684 m* on
+which the wire has to be tied at 1, 2,3 and 4 m
+above the ground. If the length required for
+each wire is 5% more than the circumference
+of the field, then what length of the wire is
+required?
+(a) 2090 m (b) 2099 m
+(c) 2909 m (d) 2990.4 m
+RRB Group-D — 22/09/2018 (Shift-II1
+Ans. (d) : Let the side of square = am
+area of square (a?) = 31684 m?
+a=178m
+Circumference of square = 4a
+=4x178=712m
+as per question-
+- 105
+Length of 1 wire = 712 <T007 747.60
+Total length of four wire = 747.60 x 4
+= 2990.40 m
+108. A 0.5 cm line segment was cut from each
+corner of a square with an edge of 3 cm, the cut
+section has a vertex. What is the area of the
+octagon so formed?
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0023_left.png =====
+(a) 10V2cm and 8 cm?
+(b) 8cmand 8 cm
+(c) 8V2cm and 8 cm?
+(d) (8+ 2y2)om and 8.5 cm?
+RRB Group-D — 10/10/2018 (Shift-I
+Ans : (d)
+a EB
+scm Sem
+[7 NI:
+§ |8
+la fen
+J G
+Som IN vA, Sem
+DIST HFyC
+Ly (ly
+EF = GH=IJ=KL =,// —] +} —
+2 2
+a
+v2
+Perimeter of octagon= LE+EF+FG+GH+HI+UJ+JK+KL
+a24¢ter¢ tire tint
+v2 V2 2 2
+4
+=8+—
+V2
+= (8 +2N2 Jom
+Area of octagon = area of square - 4 x are of|
+triangular Part
+=Q) ~axd tt
+222
+=8.5 cm?
+
+109. The numerical value of the area of a square is
+equal to half the numerical value of each of its
+diagonals. What is the numerical value of
+diagonal?
+
+@1 () v2
+
+v2
+
+(©) 2 @)
+RRB Group-D — 06/12/2018 (Shift-IT.
+
+Ans.
+
+ns. (a) a
+a
+|As per question,
+Area of square = half of the diagonal of square
+2 aVdxt
+a’ =av2x—
+2
+Mensuration 44
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0023_right.png =====
+1
+a=——
+v2
+diagonal of square = a/2
+1
+=—=xv2=1
+v2
+
+110. The side of a square field is 110 m. Two routes
+5 m wide pass through the middle of the square
+field parallel to the sides, intersects each other.
+Find the area of the routes.
+
+(a) 1000 m? (b) 1100 m*
+(c) 1075 m? @) 975
+RRB Group-D — 27/11/2018 (Shift-ITI)
+Ans. (c)
+<— 11011—
+‘SS
+
+Area of square shape = 110 x 110 = 12100 m?
+
+Remaining area of after road = 105 x 105 = 11025 m?
+
+So area of road = 12100-11025 = 1075 m*
+
+111. A rectangular park measuring 30 m x 22 m has
+two footpath 2m wide. One from north to south
+and the other from east to west and they both
+intersect each other in the middle of the park.
+If the cost of construction of the road is Rs. 15
+per square meter, then calculate the total cost
+of construction to the road.
+
+(a) Rs. 1545 (b) Rs. 1560
+(c) Rs. 1490 (d) Rs. 1500
+RRB Group-D — 12/11/2018 (Shift-1
+Ans. (d)
++— 30m—>
+a
+
+area of path = 30 x 2 + 22 x 2—2 x 2 = 100 square
+
+meter
+
+total cost of | square meter = Rs. 15
+
+100 square meter = 15 x 100=Rs. 1500
+
+112. The sum of the length of the cores of a cube is
+equal to twice the perimeter of a square. If the
+numerical value of the volume of the cube is
+equal to the numerical value of the area of the
+square then what is the area of the square?
+
+(a) 10.5 unit (b) 27 unit
+(c) 13.5 unit (d) 12.5 unit
+RRB Group-D — 12/11/2018 (Shift-II1
+
+Ans : (c) Let the length of core of cube = a unit
+
+and length of side of square = b unit
+
+*” Number of core of cube = 12
+
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0024_left.png =====
+As per question,
+12a = (4b) x 2
+12a = 8b
+a= 25 unit
+3
+Volume of cube = area of square
+a =b*
+3
+& v) =b?
+3
+“b= Eis unit
+8
+So perimeter of square = 4x side = 4 x
+baax22a135 unit
+113. What will be the edge of the cube formed by
+melting the cubes with edges of 4 cm, 8 cm and
+10 cm?
+(a) 13 (b) 11
+(c) 12 (@) 14
+RRB NTPC 04.04.2016 Shift : 3
+Ans : (c) «- Volume of cube = a?
+Volume of three cubes = (6) +(8)' +(10)"
+= 216+512+1000 =1728 cm*
+side of new cube =(1728)'” = (12° y” =12 cm
+114. A wire is in the shape of a rectangle. Its length
+and width are 42.7 m and 21.8 m respectively.
+If this wire is bent again into a square shape,
+then what will be the measure of the side of the
+square?
+(a) 16.125 (b) 32.25
+(c) 11.35 (d) 22.70
+RRB NTPC 03.04.2016 Shift : 1
+Ans : (b) Perimeter of square = Perimeter of rectangle
+side x 4 = 2 (length + breadth)
+2 1
+side =—(42.7+21.8) =—(64.5
+ide = 7 ( ) = 5 (64.5)
+Side of square = 32.25 m
+115. If the length of the diagonal of a square is
+13,2 unit then what will be its area?
+(a) 104 sq. unit (b) 169 sq. unit
+(c) 338 sq. unit (d) 676 sq. unit
+RRB NTPC 29.03.2016 Shift : 3
+Ans : (b) Length of diagonal = 13V2 unit
+aV2 =13V2 a=I3
+.. Area of square = a= (13) = 169 Square unit.
+116. The length of the diagonal of a square is 26 cm,
+find the side (in cm) of the square.
+(a) 13V2 (b) +132
+©) 13 (d) 26V2
+RRB NTPC 11.04.2016 Shift : 3
+Mensuration 44)
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0024_right.png =====
+Ans : (a) Length of diagonal of square = av2 =26cm
+26 v2 |
+a =x side of square (a) =13V2 cm.
+Ba quare (a)
+117. The length of the diagonal of a square is 24 cm,
+find the side in cm of the square
+(@) 12v2 (by) +12y2
+(c) 12 (d) 24V2
+RRB NTPC 07.04.2016 Shift : 1
+Ans : (a) Length of diagonal of square =side x/2 =24
+side =24
+v2
+side =12V2
+118. The order of a rotational symmetry of a square
+is:
+(a) 2 (b) 6
+(c) 4 (d) 8
+RRB NTPC 07.04.2016 Shift : 3
+Ans : (c) The four sides of the square are equal and
+each angle is 90°. Hence is rational symmetry will be 4
+in order.
+119. Find the area of a square whose diagonal is
+half of 12 cm.
+(a) 18 sq.cm. (b) 64 sq.cm.
+(c) 36 sq.cm. (d) 72 sq.cm.
+RRB NTPC 19.01.2017 Shift ; 2
+Ans : (a) Diagonal of square = av2 (where a = side)
+as per question —
+12 V2
+—=aV2
+778
+aS
+v2
+area of square = a
+= (3v2) =18square cm
+120. Find the area of a square which is inscribed in
+a circle of radius of 13 cm.
+(a) 169 sq.cm. (b) 338 sq.cm.
+(c) 507 sq.cm. (d) 676 sq.cm.
+RRB NTPC 26.04.2016 Shift : 1
+Ans : (b) diagonal of square = 2 = radius
+=2x 13=26cm
+-. side of square = diagonal of square
+aay
+0.
+ars
+26 v2
+= 2x22 =13V2 cm.
+v2 V2
+2
+Area of square = (13V2) =169x2=338cm?
+i YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0025_left.png =====
+121. The area of a square field is 313600 m’, How
+long will it take for a woman to cross the field
+diagonally at the rate of 4/2 m/s.?
+
+(a) 3 minute (b) 2 minute 20 sec.
+(c) 2 minute 40 sec. (d) 3 minute 10 sec.
+RRB NTPC 28.04.2016 Shift : 3
+
+Ans : (b) Given-
+
+Area of square field = 313600 square meter
+
+(side) = 313600
+
+side = 4313600 = 560 meter
+
++. diagonal = sidexV2 = 560V2 meter (distance)
+
+Speed = 4,2 meter/second
+
+Hence time taken to cross the diagonal field =
+
+distance/speed
+
+= 5602 = 140 second = 2 minute 20 second
+42
+
+122. The sum of the lengths of the core of a cube is
+equal to half the perimeter of a square. If the
+numerical value of the volume of the cube is
+equal to one-sixth of the numerical value of the
+area of the square, then the length of one side
+of the square is :
+
+(a) 18 units (b) 36 units
+(c) 31.5 units (d) 27 units
+RRB ALP & Tee. (31-08-18 Shift-II)
+Ans, (b) : Let the core of cube = y
+and side of square = x
+as per question- |
+4x
+12y=—
+v5
+wl .
+y 6% seeeeeeee(i)
+as per second condition-
+sl.
+=ox
+ar
+(x ' aly from equation (i)
+6) 6 4
+J pila
+216 «6
+216
+xsl
+6
+x= 36
+
+side of square (x) = 36 unit
+
+123. The sum of the lengths of the core of a cube is
+equal to half the perimeter of a square. If the
+numerical value of the volume of the cube is
+equal to the numerical value of the area of the
+square, then the length of one side of the
+square is:
+
+(a) 108 units (b) 36 units
+(c) 216 units (d) 288 units
+RRB ALP & Tec. (29-08-18 Shift-I)
+Mensuration 44;
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0025_right.png =====
+Ans : (c) If length of each core of cube = a;
+and length of each side of square is = a) then —
+Sum of core's length of cube = Perimeter of square
+1a,=4%
+2
+or 12a; = 2a)
+a,
+a,=—
+a) _ a
+Now volume of cube =(a, y = (®) =
+6 216
+aa
+H tion, 22. =
+lence as per question, 7 =a)
+Hence length of intended side = 216 unit
+124. The area of the square field is 196 sq.m. Its
+each side is:
+(a) 16m (b) 17m
+(c) 14m (d) 13m
+RRB ALP & Tec. (10-08-18 Shift-ID)
+Ans : (c)
+area of the square field = (side)?
+196 = (side)’
+Side = V196 =v14x14
+Side = 14 m
+Type -5
+125. Find the length of the diagonal (in cm) of a
+rectangle whose length and breadth are 9 cm
+and 5 cm respectively.
+(a) 106 (b) +106
+(c) 214 (@) +2V14
+RRB RPF SI — 10/01/2019 (Shift-II)
+Ans : (a
+(a) D c
+Zh .
+3 A {9m B
+(diagonal) = 1) + (BY
+(AC)? = 9? +5
+(AC)? = 81 +25
+(ACY = 106 AC =¥106 cm
+126. The difference between the length and breadth
+of a rectangle is 6 m. If its perimeter is 64 m,
+then its area is:
+(a) 256 sq. m. (b) 247 sq. m.
+(c) 264 sq.m. (d) 238 sq.m.
+RRB RPF Constable — 19/01/2019 (Shift-III)
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0026_left.png =====
+Ans : (b) Let the length of rectangle = x m
+Breadth = (x-6) m
+*.* Perimeter = 64m
+2x +x-6) = 64
+2x-6= 32
+2x = 38
+x=19
+~. area of rectangle = x x (x -6)
+= 19 x (19-6)
+= 19 x13 = 247 Square meter
+127. Suresh took 15 seconds to cross a rectangular
+ground diagonally at a speed of 52 m/min. and
+Rajesh took the same time to cross the same
+ground by its sides at a speed of 68 m/min.
+Find the area of the ground.
+(a) 30 square m (b) 40 square m
+(c) 50 square m (d) 60 square m
+RRB JE - 26/05/2019 (Shift-II
+Ans : (d)
+D, 1 c
+ae
+b ss b
+A 7 Hp
+: 15
+Distance =52x—
+60
+las per question,
+15
+l+b=68x—
+60
+(+b=17)...........(i)
+diagonal of rectangle (d) =? +b”
+13=V0 +b?
+take both side of square
+169=0? +b?
+square on equation (i)
+(by = (17
+P +b? + 2lb = 289 “[P +b? =169]
+169 + 2/b = 289
+21b = 289 — 169
+21 = 120
+area of field |b = 60 square meter
+128. The perimeter of a rectangle is two times the
+perimeter of a square whose side is 18 units. If
+the breadth of the rectangle is 45 m then find
+its area.
+(a) 1360 square unit
+(b) 1050 square unit
+(c) 1215 square unit
+(d) 1152 square unit
+RRB JE - 23/05/2019 (Shift-I)
+Mensuration 44:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0026_right.png =====
+Ans : (c) given— side of square = 18 unit
+Breadth of rectangle = 45 m
+Perimeter of rectangle = 2 x perimeter of square
+2 (Length + breadth) =2 x 18x 4
+2 (Length + 45)=2x 72
+L = 72-45 =27
+Area = Length x breadth = 27 x 45
+Area = 1215 square unit
+129. What will be the cost of gardening at the rate
+of Rs. 10 per square meter in a 1 m wide space
+around a rectangular plot whose perimeter is
+340 m?
+(a) can not be determined
+(b) 3440
+(c) 3400
+(d)_ 1700
+RRB JE - 23/05/2019 (Shift-1
+Ans : (b) Given-
+i
+Ar—74qR
+[| ’
+DE-——C
+Perimeter of rectangular plot = 340 m
+2 (1+ b) = 340
+(/+b)=170m
+New perimeter = 2 (/+ 1+b +1)
+=2(1+b+2)
+=2(170 +2)
+=2(172)
+= 344m
+cost of gardening = 344 x 10 =% 3440
+130. The diagonal of the floor of a rectangular room
+is 7.5 feet. The smaller side of the room is 4.5
+feet. Find the area (in sq. feet) of the room.
+(a) 27 foot? (b) 13.5 foot?
+(c) 37 foot (a) 5.25 foot?
+RRB RPF SI — 05/01/2019 (Shift-II
+Ans : (a) Diagonal floor of rectangular room= 7.5 foot
+Small side of rectangular room (breadth)
+= 4.5 foot
+BA
+a 9074
+.. Large of rectangular room (length)
+= (759 -(45)
+= ¥36 = 6 foot
+©. Area of the room = (x b = 6 x 4.5 = 27 foot”
+131. The length of a rectangular plot is three times
+of its width. If the area of rectangular plot is
+867 m’, then what is the length of rectangular
+plot?
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0027_left.png =====
+(a) 34m (b) 17m
+(c) Slm (d) 68m
+RRB JE - 25/05/2019 (Shift-ID)
+[Ans : (c) Let the breadth of rectangular Plot (b) = x|
+meter
+Length of rectangular Plot (/) = 3x meter
+area of rectangular plot = /.b
+867 = 3x xx
+867 = 3x7
+289 =x?
+length of rectangular plot (/) = 3x =3 x 17
+=Slm
+132. The area of a rectangular carpet is 120 m° and
+its perimeter is 46 m. Find the length of its
+diagonal.
+(a) 15m (b) 16m
+() 20m (@) 17m
+RRB JE - 29/05/2019 (Shift-IIT.
+Ans : (d) Area of rectangle = ¢ x b
+x b=120 ny)
+Perimeter of rectangle = 2 (¢ + b)
+(¢+b)=23 sesseen (ii)
+diagonal of rectangle = V/? +b?
+from equation (i) and (ii)—
+(6+ bP = 0? +b? +20xb
+(23y = 2 +b? +2x 120
+529-240 = 7 + b?
+289 = 0? + b?
++ b’ = 289
+diagonal = 17 m
+133. A circular wire of radius 7 cm is folded to form
+a rectangle whose sides are in the ratio of 4:7.
+Find the area of the rectangle so formed.
+(a) 56 cm (b) 60 cm?
+(c) 112 cm? (d) 84 cm
+RRB JE - 31/05/2019 (Shift-I
+Ans : (c) 2nr = 2 (/ + b)
+axZx7=2 (7x + 4x)
+22= 11x
+x=2
+Area of rectangle = 7x x4x
+Area of rectangle = 28x” = 28 x 4 = 112 cm”
+134, Find the area of the jogging track which has
+a width of 2m and is built around a rectangle
+with dimension 20m x 18m.
+(a) 200 m? (b) 140 m?
+(c) 136m (d) 168 m?
+RRB JE - 31/05/2019 (Shift-II1)
+Mensuration 44
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0027_right.png =====
+Ans. (d)
+f2m
+lism
+Bm} f
+H
+
+Area of rectangle = 20 x 18 = 360 Square meter
+
+Area of rectangle with jogging track =24 x 22 = 528 m?
+
+Area of jogging track = 528 — 360 = 168 m*
+
+135. Find the length (in cm) of the diagonal of a
+rectangle whose length and breadth are 5 cm
+and 6 cm respectively.
+
+(a) V6I (b) +V61
+(«) V0 (d) +VI1
+RRB RPF Constable — 24/01/2019 (Shift-IIT.
+Ans : (a) diagonal of rectangle = VP +b?
+=V5? +6? =V25+36 = V61
+
+136. Ina rectangular park of 72 m x 48 m, 2m wide
+paths Nehru Road and Zoo Park Road
+intersect each other at right angles in the centre
+of the park. Each path is parallel to one of the
+dimensions of the park. What will be the cost of
+constructing the road at the rate of Rs. 150 per
+square meter?
+
+(a) Rs. 35, 300 (b) Rs. 35, 350
+(c) Rs. 35, 395 (d) Rs. 35, 400
+RRB RPF SI - 12/01/2019 (Shift-I
+Ans. (d) ‘A bo P
+Pook
+|
+D KL c
+Area of path
+= area of EFHG + Area of IJKL - Area of MNOP
+= 72x2+2x48-2x2
+= 2 (72+48)-4 = 2x120-4 = 236
+Hence cost of path= 236x150
+= % 35,400
+
+137. Shrinesh wants to upgrade his office floor,
+which is made of 2800 marble tiles. Each tile is
+3 cm long and 5 cm wide. Calculate the total
+cost of polishing the floor at the rate of Rs. 25
+per square meter.
+
+(a) Rs. 100 (b) Rs. 115
+(c) Rs. 125 (d) Rs. 105
+RRB Group-D — 16/10/2018 (Shift-I)
+} YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0028_left.png =====
+Ans. (d) : Length of each tile = 3 cm.
+and breadth = 5 cm.
+So tile is a rectangle.
+area of tiles = 3x5cm? =15cm?
+15cm? = ae
+100x100
+area of floor = —/>_x2g00m?
+100x100
+=4.2m?
+cost of polishing floor at the rate of Rs. 25 per square|
+meter. = 4.2 x 25=Rs.105
+138. The sides of a rectangular plot of a land are
+given 35 m and 25 m in the nearest integer.
+What is the maximum value of the perimeter
+of a rectangular plot?
+(a) 60m (b) 122m
+(c) 120m (d) 61m
+RRB Group-D - 29/10/2018 (Shift-IIT)
+Ans : (b) Taking minimum integer of side of
+rectangular plot-
+length = 35.5 m, b = 25.5 m
+maximum value of perimeter of plot
+= 2 (length + breadth)
+= 2(35.5+25.5)
+= 2x6l
+= 122m
+139. The area of a rectangle is 12.46 m’. If the
+length of the rectangle is 3.5 m then find the
+breadth (in m) of the rectangle.
+(a) 3.56 (b) 3.58
+(c) 3.62 (d) 3.54
+RRB Group-D — 10/10/2018 (Shift-I
+Ans : (a) Given—
+area of rectangle = 12.46 m
+length (J) = 3.5 m
+breadth = 12.46 _ 3.56m
+3.5m
+140. The dimensions of a rectangular plot is given to
+28 m and 22 m to the nearest integer. What is
+the minimum possible perimeter of a
+rectangular plot?
+(a) 49m (b) 100m
+(c) 50m (d) 98m
+RRB Group-D - 11/10/2018 (Shift-IID)
+Ans : (d) Perimeter of rectangular plot = 2 (/ + b)
+length and breadth of rectangular plot is minimum 28 m
+and 22m
+Then perimeter = 2 (28 + 22)
+=2x50=100m
+minimum Perimeter will be 98 m of rectangular plot
+which is predecessor of 100 m.
+Mensuration 44
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0028_right.png =====
+141. The ratio of length and breadth of a
+rectangular field is 4:3. If the area of the field is
+1452 m’, then find the cost of making the
+boundary of the field at the rate of Rs. 12 per
+meter.
+(a) Rs. 1,858 (b) Rs. 1,848
+(c) Rs. 1,845 (d)_ Rs. 1,868
+RRB Group-D — 22/10/2018 (Shift-IT)
+Ans : (b) Given-
+length and breadth of rectangular field is 4x m and 3x m
+As per question- 4x x 3x = 1452
+=> 12x? = 1452
+=>x=121
+=>x=lIlm
+So, length = 4x.
+=4x11=44m
+breadth = 3x = 3 x 11=33m
+Perimeter of rectangular field = 2 (¢ + b)
+=2(44 +33)
+=2x(77)
+=154m
+Hence cost of making boundary of rectangular field
+= 154 12
+=Rs. 1848
+142. A farmer has a rectangular field 250 m long
+and 380.5 m wide. He expects to sow different
+types of rice which will yield 30 quintals per
+hectare and he will sell it in the market at Rs.
+620 per quintal. Calculate his expected income.
+(a) Rs. 716932.5 (b) Rs. 179632.5
+(c) Rs. 176923.5 (d) Rs. 176932.5
+RRB Group-D — 30/10/2018 (Shift-III)
+Ans. (d) 1 hectare = 10000 square meter
+income = area of field X30 quintal X 620 quintal
+— 250x380.5x30x 620
+10,000
+=F 176932.5
+143. The side of a square flower garden is 1 m 80 cm
+long. It is extended by digging a 20 cm wide
+border from all side. Find the area of extended
+flower garden.
+(a) 4.81 m? (b) 4.82 m*
+(c) 4.84 m? (d) 4.8m
+RRB Group-D — 30/10/2018 (Shift-III)
+Ans. (c) It is extended by digging 20cm width from
+each side
+Then 20 + 20=40 cm
+Total increased part = (180 + 40) cm = 220 cm
+area of square = (side)?
+= (220?
+= 48400 cm?
+= 4.84 m?
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0029_left.png =====
+144. In the following figure, five congruent
+rectangles are given, each of which has a
+largest side x m. If the total area of the figure is
+6000 sq.m, then find the value of x.
+
+(@) 302 (b) 40¥3
+(©) 40 (d) so
+RRB Group-D — 07/12/2018 (Shift-IIL.
+Ans : (a)
++> +> i t
+ox
+
+It is clear from the figure
+
+2x =3y
+
+as per question
+
+Sxy = 6000
+
+sx = 6000
+
+x? = 1800 = 30/2
+
+145. A carpet is 5 m long and 1.2 m wide. It has a 30
+em wide printed border on all flour sides.
+What will be the cost of printing the border at
+the rate of Rs. 225 per square meter?
+
+(a) Rs. 854 (b) Rs. 1,027
+(c) Rs. 756 (d) Rs. 902
+RRB Group-D — 05/12/2018 (Shift-I11)
+Ans: (c)
++—— 5m ———>
++—4.40m—> |
+area of carpet = 5m x 1.2 m- 6m
+area of remain carpet left of border = 4.40 m x 0.60m
+= 2.64 m?
+
+area of border = 6 — 2.64 = 3.36
+
+cost of borders print = 3.36 x 225 =Rs. 756
+
+146.
+The abeve rectangle has five congruent
+rectangles. Each of which has a largest side x
+m. If the total area of the figure is 7500 m,
+then find the value of x.
+
+Mensuration 44
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0029_right.png =====
+(a) 15V10 (b) 10V10
+(c) 10V15 @ tovls
+RRB Group-D — 03/12/2018 (Shift-II)
+Ans. (a) : Let the small side = ym
+area of large rectangle = area of five congruent
+rectangle
+[it
+J
+XP
+2x x (x + y) = Sxy
+2x + 2y = Sy
+2x = 3y
+wya2y
+AYES
+but
+5xy = 7500
+5x 3 x= 7500
+x’ = 2250
+x=15V10m
+147, The area of a rectangle is 2x° +3x + 1 and its
+length is 2x +1. Find its breadth.
+(a) 2x +2 (b) x +1
+(c) x-2 (d) x-1
+Ans. (b) : area of rectangle = length x breadth
+2x? + 3x +1 = (2x+1)x b
+=> (2x? + 3x+1)=(2x+1)xb
+=> (2x? +2x+x+1)=(2x+1)xb
+> 2x(x+1)+1(x+D=Q2xt+1)xb
+=> (2x +1) xb =(x+1)2x+1)
+b=(x+)
+148. 150 cm wide carpet is to be laid on the floor of
+a rectangular hall. If the hall is 20 m long and
+18 m wide, what will be the required cost of
+carpet at the rate of Rs. 12 per meter?
+(a) Rs. 3,280 (b) Rs. 2,280
+(c) Rs. 2,880 (d)_ Rs. 2,480
+RRB Group-D — 05/10/2018 (Shift-III)
+Ans. (c) As per question,
+length of hall = 20m
+breadth of hall = 18 m
+area of hall = 20 x 18 [ 150cm = 1.5m]
+= 360m?
+breadth of carpert = 1.5m
+cost = Rs. 12 per meter
+360
+cost of carpet 150 x12
+=Rs. 2880
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0030_left.png =====
+149, The breath of a rectangular field is 60% of its
+length. If the perimeter of the field is 800 m,
+then find the area of the field.
+
+(a) 18750 m? (b) 37500 m?
+(c) 40000 m? (d) 48000 m?
+RRB Paramedical Exam — 20/07/2018 (Shift-I
+
+Ans. (b) Let the length of rectangular field = x
+
+breadth of rectangular field = x x 60 _3x
+
+100 5
+
+perimeter of field = 800
+
+afx + >) = 800
+5
+
+2( 223) =800
+5
+
+8x = 400 x 5
+
+x = 250 m
+
+length of field x = 250
+
+breadth of field = * 2. 150m
+
+area of field = 250 x 150 = 37500 m?
+
+150. A square of the side 2 m inside a rectangle of
+length 5 m and breadth 2 m is shaded. What is
+the ratio of the area of the shaded square and
+the area of the unshaded region of the
+rectangle?
+
+(a) 3:2 (b) 2:3
+(©) 5:2 (d)_ 2:5
+RRB NTPC 17.01.2017 Shift-2
+Ans : (b) area of rectangle = 5 x 2 = 10m‘
+area of shade square = 2 x 2= 4m?
+area of unshaded square = 10 — 4 = 6m”
+
+Intended ratio = area of square : area of unshaded|
+
+rectangle
+
+Intended ratio = 4 :6=2:3
+
+151. The length of the diagonal of a rectangle and
+its perimeter are 11 cm and 13 cm respectively.
+Find the area of the rectangle.
+
+(a) 12 square cm. (b) 48 square cm.
+(c) 36 square cm. (d) 24 square cm.
+RRB NTPC 05.04.2016 Shift-1
+Ans : (d) A 5
+NJ
+D s Ic
+
+Given—
+
+Semi perimeter (/ + b) = 13 em. «0.02... @)
+
+diagonal of rectangle (ve +b? ) = lem
+
+=> P+b?=121cem = length, b= breadth
+
+=> ([+b)? -2/=121 from equation (i)
+
+=>(13)° - 2! =121
+
+> 2h =169-121= 48
+
+> 1b = 48/2
+
+>1b=24 Square cm.
+
+area of rectangle = 24 Square cm.
+
+Mensuration 44
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0030_right.png =====
+152. The perimeter of a rectangle is 28 cm. If its one
+side is 4 cm then find other side of the
+rectangle.
+
+(a) 24 cm (b) 7 cm
+(c) 10 cm (d) 8 cm
+RRB NTPC 04.04.2016 Shift : 1
+Ans: (c) Let be length of second side = x cm
+
+* perimeter of rectangle = 28
+
+2x (x+4)=28
+
+x+4=14 x= 10cm.
+
+153. The area of a rectangle is 42 sq. cm and its
+length is 7 cm. Find its perimeter.
+
+(a) 14cm. (b) 21 cm.
+(c) 26 cm. (d) 24 cm.
+RRB NTPC 03.04.2016 Shift : 2
+Ans :(c) Area of rectangle = ¢ x b = 42
+Tx b= 42
+b=6 cm.
+Perimeter of rectangle = 2 (¢ + b)
+= 2(7+ 6) = 2x 13 = 26 cm.
+
+154, The length of a rectangle is 6 times its breadth.
+If the perimeter of a rectangle is 56 cm then
+find the area of the rectangle.
+
+(a) 48 square cm. (b) 96 square cm.
+(c) 144 square cm. (d) 64 square cm.
+RRB NTPC 03.04.2016 Shift : 3
+
+Ans : (b) Let be breadth of rectangle = x cm
+
+Then length of rectangle = 6x cm
+
++: Perimeter of rectangle = 2 (¢ x b)
+
+56=2(x+6x) 28=7x [x=4]cm
+So area of rectangle = £ x b = 6x x x
+= 6x’ = 6 (4)°= 6 x 16 = 96 square cm
+
+155. The perimeter of a rectangle and its diagonal
+are 34 cm and 13 cm respectively. Find its area
+(a) 987 square cm. (b) 240 square cm.
+(c) 120 square cm. (d) 60 square cm.
+
+RRB NTPC 31.03.2016 Shift : 1
+
+Ans : (d) If length and breadth of volume will be ¢
+
+cm and b cm then................
+
+diagonal of rectangle = 13 cm
+
+VOC +b? =13
+
+P+b?=169....... (1)
+
++: Perimeter of rectangle = 34 cm
+
+2(/+b) = 34
+
+1+b=17.......... (2)
+
++: (BbY =P +b? +2
+
+(17) = 169 + 2/b
+
+289-169=2/b
+
+2Ib=120
+
+..area of rectangle = 60cm.
+
+y YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0031_left.png =====
+156. The length of a rectangular field is 125 m and
+breadth is 75 m. There is a 3 m wide footpath
+in the middle of the field. What is the area of
+the field without the footpath?
+
+(a) 9375 square m. (b) 9000 square m.
+(c) 9750 square m. (d) 8625 square m.
+RRB NTPC 31.03.2016 Shift : 2
+VLLLYLLLL 15
+k#— 125M ——
+area of field without foot path
+= 125 x 75-125 x3
+= 125 x (75-3)
+= 125 x 72
+= 9000 square m.
+
+157. What is the length of diagonal, if area of a
+rectangle is 168cm’ and breadth is 7em?
+(a) 24cm (b) 15cm
+(c) 17cm (d) 25cm
+
+RRB NTPC 30.03.2016 Shift : 1
+
+Ans : (d) «- Area of rectangle = 168 Square cm
+
+«length x breadth = 168
+
+as per question
+
+7 x length = 168
+
+length = “ =24cem
+<. length of diagonal = V/? +b?
+
+= (24) +(7)
+
+= V576 + 49 = V625 = 25 cm.
+
+158. The perimeter of a rectangle is 28 cm. If the
+length is 5 times of the breadth, then find the
+length and breadth of the rectangle.
+
+(a) 90 and 5 (b) 10 and 4
+(c) 6 and 7 (d) 11 and 3
+RRB NTPC 29.03.2016 Shift : 1
+Ans : (b) As per question
+length of rectangle = 3x Breadth
+Perimeter of rectangle = 28
+2(L+ B)=28
+5 28 |
+>B+B)=—=14
+G ) 2
+7
+2 B=14 > B=4cm
+sL=3x4=100m
+So length and breadth of rectangle is 10 cm and 4 cm.
+Mensuration 443
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0031_right.png =====
+159. If the perimeter of a rectangle is 24 cm and the
+length is twice of the breadth, then find its
+area.
+
+(a) 24 square cm. (b) 32 square cm.
+(c) 28 square cm. (d) 36 square cm.
+RRB NTPC 28.03.2016 Shift : 2
+
+Ans : (b) Perimeter of rectangle = 24 cm
+
+Let be length=2x breadth =x
+
+Perimeter of rectangle = 2(/ + b)
+
+2(2x + x) =24
+2*3x=24 => x= tna
+
+L=2x=2*4=8cm
+
+B=x=4cm
+
+Area of rectangle = ¢ x b
+
+=8x4=32cm
+
+160. Ankita stands at the corner of a rectangular
+field of 40 m length and 30 m breadth. If
+Ankita runs only along then diagonal and
+returns to the starting point, then what is the
+total distance covered by Ankita?
+
+(a) 100m (b) 80m
+(c) 140m (d) 120m
+RRB NTPC 28.03.2016 Shift : 3
+Ans : (a) Length of rectangle's diagonal
+= (407 +Goy
+= ¥1600 +900 = 42500 = 50m
+.. Total distance covered by Ankita
+=2 x 50 = 100m
+
+161. The length of a rectangular board is 4 times its
+breadth, if the area of the board is 256 sq. m,
+then find its length?
+
+(a) 8m (b) 16m
+(c) 24m (d) 32m
+RRB NTPC 18.01.2017 Shift : 1
+
+Ans : (d) Let be breadth = b
+
+£=4b, Area = 256
+
+-.4b x b = 256
+
+b?=64,b=8
+
+2 L =4b=4 x 8=32m
+
+162. The order of the rotational symmetry of a
+rectangle is:
+
+(a) 1 (be) 4
+(c) 2 @) 0
+RRB NTPC 11.04.2016 Shift : 1
+
+Ans : (c) The order of the rotational symmetry of the
+
+rectangle is 2.
+
+163. Find the length of the diagonal of a rectangle
+whose length and breadth are 5 cm and 3 cm
+respectively.
+
+(a) 34 (ob) +V34
+(c) 4 (d) +4
+RRB NTPC 11.04.2016 Shift : 1
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0032_left.png =====
+Ans : (a)
+‘ scm 5
+I] “
+B c
+Length of diagonal (AC) = oy +)
+=V25+9 =V34 em
+164. The length of a rectangle is 24 cm more than its
+breadth. If the perimeter of a rectangle is 112
+cm then find its length.
+(a) 40cm (b) 16cm
+(c) 24cm (d) 32cm
+RRB NTPC 10.04.2016 Shift : 3
+Ans : (a) Let be breadth of rectangle = x cm
+-. length = (24 +x) cm
+[Now perimeter of rectangle = 2 (length + breadth)
+112=2(x+24+x)
+112=2 (2x + 24)
+112=4x+ 48
+4x = 112-48
+4x=64,x=16
+hence length of rectangle = (24 + x) =24+ 16=40cm
+165. Find the length (in cm) of the diagonal of a
+rectangle whose length is 2 cm and breadth is
+4 cm respectively.
+(a) 25 (bo) +2V5
+() 23 (@) 42V3
+RRB NTPC 07.04.2016 Shift : 2
+Ans : (a) According to the question-
+D Cc
+~ \
+Al B
+2m.
+length of diagonal (BD) = VAD? + AB?
+=v(4y +2Y
+=V16+4 = 20
+= 25
+Hence the length of diagonal of rectangle = 2V5 cm
+166. Find the length of the diagonal of rectangle
+whose length is 6 cm and breadth is 2 cm.
+(a) 2vi0 (b) +2V10
+() 4v2 (@) +4V2
+RRB NTPC 07.04.2016 Shift : 3
+Mensuration 44
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0032_right.png =====
+Ans : (a)
+D Cc
+|
+A B
+6
+Length = 6 cm
+breadth = 2 cm
+(diagonal)” = (length)* + (breadth)*
+(diagonal)? = (6)° + (2)°
+(diagonal)? = 36+4
+diagonal = /40 = 210
+167. A footpath of 2.5 m breadth is built around a
+rectangular garden having a length of 10 m
+and breadth of 8 m. Find the area of the
+garden which includes the footpath.
+(a) 130.25 squarem. (b) 131.25 square m.
+(c) 195.00 squarem. (d) 162.50 square m.
+RRB NTPC 06.04.2016 Shift : 1
+Ans : (c)
+<— 15m —~>
+<—o0m-p I
+\"
+a | |
+Area of the garden includes the footpaths =15x13 =195
+Square meter
+168. The one side of a rectangle is 12 m and its
+diagonal is 13 m, then find its area.
+(a) 60 square m. (b) 55 square m.
+(c) 50 square m. (d) 45 square m.
+RRB NTPC 06.04.2016 Shift : 2
+Ans : (a) Triangle ABC in AC? = AB? + BC?
+D Cc
+(13)? = (12)? + BC?
+BC’ = 169 - 144
+BC = 25
+BC=5cm.
+A 12cm B
+Area of rectangle = AB x BC = 12 x 5= 60 square cm.
+169. Find the length of the diagonal of a rectangle
+whose length and breadth are 9 cm and 6 cm
+respectively.
+(a) 3Vi3 (b) 43Vi3
+(©) 3v5 (@) 33N5
+RRB NTPC 22.04.2016 Shift : 2
+Ans : (a) Length of rectangle = 9 cm
+b=6cm
+diagonal = V/? +b*
+= (0) +(©? = v81+36 = VI17 =3Vi3
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0033_left.png =====
+170. Find the area of a rectangle whose diagonal
+
+and breadth are 15 m and 9 m respectively.
+
+(a) 42 square m. (b) 144 square m.
+
+(c) 108 square m. (d) 225 square m.
+RRB NTPC 26.04.2016 Shift : 1
+
+Ans : (c) diagonal of rectangle AC = 15 m. and BC = 9
+
+m.
+
+D c
+{= |
+A B
+ina ABC,
+AB= VAC? - BC? > 15? -9?
+= 225-81
+=v144
+AB=12m
+length of rectangle = 12m
+area of rectangle = length x breadth
+=9 x 12= 108 m?
+
+171. Find the length of the diagonal of a rectangle
+whose length and breadth are 6 cm and 6 cm
+respectively.
+
+(a) 6V2 (b) +6V2
+© 0 (@) v2
+RRB NTPC 26.04.2016 Shift : 3
+Ans: (a)
+
+diagonal of rectangle = y (length) + (breadth)?
+
+=¥(6) +(6)? = 36436 =V6x6x2 = 6V2
+
+172. The area of a rectangle is 448 sq. m. If its
+length is 12% more than its breadth, then find
+its breadth.
+
+(a) 14m (b) 16m
+(c) 18m (d) 20m
+RRB NTPC 27.04.2016 Shift : 2
+Ans : (d)
+Let the breadth =x
+xx112_112x
+r =A"
+ene 00 100
+area of rectangle=length x breadth
+. xx112x
+As ti 448 = —_—
+S per question 100
+= 2 _ 448x100
+112
+x’ =400
+x=20
+
+So breadth = 20m
+
+173. Find the maximum area of a rectangular field
+which is surrounded by a rope of 400 m
+(a) 5000 m* (b) 6250m*
+
+(c) 4000m (d) 10000m?
+RRB NTPC 27.04.2016 Shift : 3
+
+Mensuration 45
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0033_right.png =====
+Ans : (d) We know that the area of a rectangle will be
+maximum when the length of the rectangle is equal to}
+its width
+
+.. For maximum area
+
+2(L + B) = 400 (- L= B)
+
+length = “ =100m
+
+area = length x breadth
+
+= 100 x 100 = 10,000 m?
+174, Find the maximum area of a rectangular field
+enclosed by a 40 m long rope?
+(a) 160 m (b) 180 m?
+(c) 200 m (d) 100 m*
+RRB NTPC 30.04.2016 Shift : 2
+
+Ans : (d) Let be length = a
+
+breadth = b
+
+According to question,
+
+2(a+b)=40
+
+a+b=20
+
+“ab = maximum
+
+-.a=10,b=10
+
+so maximum area of field = ab = 10 x10 = 100 m*
+
+175. If the surface area of a cube is 3750 cm’, then
+find its volume?
+
+(a) 14255 cm (b) 16625 cm
+(c) 12225 cm (d) 15625 cm
+RRB JE - 23/05/2019 (Shift-III)
+Ans : (d) Surface area of the cube = 6a”
+As per question
+6a’ = 3750
+=> a’ = 625
+a=25
+Volume of cube = (side)®
+= 25 x 25 x 25
+= 15625 cm?
+176. The sum of all the sides of a cube is 48 cm. Find
+its volume?
+(a) 27cm? (b) 216 cm?
+(c) 64cm? (d) 36cm’
+RRB JE - 23/05/2019 (Shift-II1)
+Ans : (c) Let each side of cube = a cm
+As per question
+12a=48
+a=4
+
+Volume of cube = (a)’ = (4) = 64cm?
+
+177. Numerical values of surface area and volume
+of a cube are equal. Find the volume of the
+cube?
+
+(a) 512 cube unit (b) 276 cube unit
+(c) 216 cube unit (d) 162 cube unit
+RRB JE - 25/05/2019 (Shift-I)
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0034_left.png =====
+Ans : (c) Surface area of the cube = 6a”
+
+volume of cube = a?
+
+|As per question
+
+6a = a>
+
+a=6
+
+Hence volume of cube = a° = 6°
+
+= 216 cube unit
+
+178. If the length of each side of a cube is increased
+by 3 times, then how much of its volume will be
+the actual volume?
+
+(a) 9 times (b) 2 times
+(c) 3 times (d) 27 times
+RRB RPF SI - 11/01/2019 (Shift-I
+Ans. (d) Let side of first cube = a
+Volume of first cube = a°
+
+Side of second cube = 3a
+
+Volume of second cube = (3a) = 27 a°
+
+‘The volume of the first cube will be 27 times the
+
+volume of the second cube.
+
+179. The sum of the sides of a cube is equal to one-
+eight of the perimeter of a square. If the
+numerical values of the volume of the cube and
+the area of the square are equals then what will
+be the length of the cube core?
+
+(a) 288 units (b) 366 units
+(c) 432 units (d) 576 units
+RRB Group-D — 26/09/2018 (Shift-I.
+Ans : (d) Let the length of cube's core = a unit
+length of squares side = b unit
+As per first condition
+a= Po b=24a (i)
+
+As per second condition a° = b? => a = 24 x 24 x a?
+
+hence length of cube's core = 576 unit
+
+180. If the sides of a cube are doubled then its
+volume increased by how many times of its
+actual volume?
+
+(a) 3 (b) 4
+(c) 8 (d) 6
+RRB Group-D — 10/10/2018 (Shift-ID
+Ans : (c) Let side of cube = a unit
+volume of cube = a° cubic unit
+doubling the cube side = 2a
+New volume = (2a)? = 8a° cubic unit
+
+So its volume will increase by 8 times its actual
+
+volume.
+
+181. The length of the edge of a cube is 80 cm. A
+circle is painted yellow on each surface of that
+cube. If the area covered by the circle is as large
+as possible, then what will be the total area of
+the surface of the cube which is not painted?
+
+(a) 8,200.14 cm? (b) 8,528.57 cm?
+(c) 8,228.57 cm? (d)_ 8,127.14 cm?
+RRB Group 'D' 07/12/2018 (Shift-I)
+
+Mensuration 45)
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0034_right.png =====
+Ans : (c) Given
+80 _
+r= = 40cm, r=80cm
+area of not painted layer = 6a” — {6 x (nr’)}
+= 6 x (80)’— {6 x 240}
+= 38400 — {6 x 5028.57}
+= 38400 - 30171.42
+= 8228.58 om? = 8228.57 cm”
+
+182. The length, breadth and height of a rightangled
+parallel hexagon are 3.6 m, 2.5 m and 1.8 m
+respectively, many cubes are made by melting
+this metal, measurement of each side is 0.3 m of
+each cube. How many such cubes are made?
+
+(a) 60 (b) 6000
+
+(c) 600 (d) 60,000
+RRB Group-D — 11/12/2018 (Shift-I11)
+Ans : (c) Let the number of new cubes is n
+n= right angled parallel hexagon metal volume
+
+melting volume of cube
+_ 3.6x2.5x1.8
+0.3x0.3x0.3
+=12x50=600
+
+183. How many times the volume of a cube is
+
+reduced by halving its sides?
+1 1
+a) — b) =
+(a) 4 (b) 8
+1 1
+= d) —
+Os @® 5
+RRB Group-D — 11/10/2018 (Shift-I)
+Ans : (b) Volume of cube with sides 'a'=a x ax a=
+a
+a ay 1
+Volume of cube with sides — = *) =ax—
+2 \2 8
+so by halving the sides of the cube, Its volume
+will be reduced by ; times.
+
+184. If one side of a cube is extended by 1 cm, the
+volume will increase by 169 cm’, Find the each
+side of the cube?
+
+(a) 8cm (b) 7cm
+(c) 6cm (d) 9cm
+RRB Group-D — 05/10/2018 (Shift-IIT
+
+Ans. (b) Let edge of cube = acm
+
+So, volume of cube = a*
+
+As per question,
+
+(a+ 1)-a?= 169
+
+a +1+3a(a+1)—a° = 169
+
+3a? + 3a- 168 =0
+
+a +a—56=0
+
+a + 8a—7a—56=0
+
+a(a + 8)-7 (a+ 8)=0
+
+(a+ 8)(a-7)=0
+ve a=7cm a=-8 (invalid)
+nn Co
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0035_left.png =====
+185. The sum of the lengths of the edges of a cube is
+equal to the perimeter of a square. If the
+numerical value of the volume of the cube is
+equal to the numerical value of the area of the
+square, then the length of one side of the
+square is:
+
+(a) 30 units (b) 9 units
+(c) 27 units (d) 12 units
+RRB ALP & Tec. (21-08-18 Shift-IID
+
+[Ans : (c) Let side of cube = y unit and side of square}
+
+=x unit
+
+|As per question
+
+12y=4x,y 3 sesseeeee(i)
+land y=x
+
+From equation (i)
+
+3
+3
+x=27
+
+Side of square x = 27 unit
+
+186. If the edge of a cube is increased by 3 cm, the
+volume will increases by 657 cm’. Then what is
+the original length of each edge of the cube?
+
+(a) 7cm (b) 8cm
+(c) 6cm (d) 9om
+RRB ALP & Tee. (20-08-18 Shift-IT
+Ans: (a) Let length of the edge of cube =a
+
+so volume = a°
+
+As per question length increase in 3 em
+
+So length of new cube's edges = a +3
+
+So new volume =(at3) |
+
+As per question (a+3)°—a® = 657
+
+a’ + 27+ 9a (a+3)—a° = 657
+27+ 9a? +27a = 657
+9a? + 27 a= 657 — 27 = 630
+9a" +27 a= 630
+&+3a= 20-79
+
+9
+a’ +3a-70=0
+a’ + 10a-7a-70=0
+a(a+10)—7(a+10)=0
+
+> (a+ 10) (a-7)=0
+
+So intended length of a cube's edge = 7 cm
+Type -7
+187. The sides of a cuboid are in the ratio of 1:2:3. If
+its surface area is 88 cm’, find its volume.
+(a) 48cm° (b) 120 cm?
+(c) 64cm? (d) 24cm?
+RRB JE - 25/05/2019 (Shift-II)
+
+Ans : (a) Let the length of cuboide = (/)
+
+breadth (b) and height (h) is x, 2x and 3x
+
+area of cuboid surface = 88 cm?
+
+2 (Lb+ b.h + hl) = 88 cm?
+
+2 (x. 2x + 2x. 3x + 3x. x) = 88cm?
+
+2 (2x? + 6x? + 3x?) = 88
+
+Mensuration 45:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0035_right.png =====
+22x? = 88
+
+x =4
+
+length of cuboid (I) =x =2cm
+
+breadth of cuboid (b) = 2x =2 x 2=4cm
+
+height of cuboid (h) = 3x =3 x 2=6cm
+
+Volume of cuboid = ¢.b.h
+
+=2x4x6
+=
+
+188. Find the volume of the cuboid whose length,
+breadth and height are 24 cm, 18 cm and 16
+cm.?
+
+(a) 7142 cm? (b) 5184 cm’®
+(c) 7089 cm* (@) 6912 cm?
+RRB RPF Constable — 20/01/2019 (Shift-IID
+Ans: (d) length = 24 cm, breadth = 18 cm,
+height = 16
+
+«. Volume of cuboid = length x height x breadth
+= 24 x 16 x 18
+= 6912 cm’
+
+189. Cuboid of dimensions / x b x h is cut into the
+form of the frames of dimensions / x 0.5 b x 0.4
+h. Find the number of frames.
+
+(a) 4 (b) 5
+
+(c) 20 (d) 10
+
+RRB JE - 27/05/2019 (Shift-1)
+Ans : (b)
+number of getting seats = Yolume of large cuboid
+Volume of small cuboide
+
+___¢xbxh
+© €x0.5bx0.4h
+_ i
+© 05x04
+_ 1 _100_ 5
+~0.20 20
+
+190. Find the area of the cardboard required to
+
+make a box of 10 cm x 8 cm x 4cm.
+(a) 388 cm? (b) 412 cm?
+(c) 488 cm? (d) 304 cm*
+RRB JE - 28/05/2019 (Shift-I)
+
+Ans : (d) Area of 10 cm x 8 cm x 4cm=
+
+= 2(/b+bh+h/)
+
+= 2 (10x8+8x4+4x10)
+= 2 (80+32+40)
+
+= 2x152 = 304 om’,
+
+191. A wooden box measures 20 cm x 12 cm x 10
+cm. The thickness of the wood is 1 cm. Find the
+volume of the wood used to make the box.
+
+(a) 1120 cm? (b) 2400 cm’*
+(c) 519 cm? (d) 960 cm’*
+RRB JE - 29/05/2019 (Shift-I1)
+
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0036_left.png =====
+Ans : (d)
+
+}Wooden box measurement =20 cm x 12 cm x 10 cm
+
+= 2400 cm’
+
+*« wood thickness is 1 cm
+
+-". internal measurement of wooden box
+= (20-1 x 2) x (12-1 x 2) x (10-1 x 2)
+= 18 10x 8 = 1440 cm?
+
+.. volume of wood used for making box
+= 2400 - 1440 = 960 cm’
+
+192. The length, breadth and height of the box of
+each rectangular panel are 12 cm, 8 cm and 10
+cm respectively. Find the total surface area of
+the box.?
+
+(a) 592 Square cm. (b) 376 Square cm.
+(c) 524 Square cm. (d) 482 Square cm.
+RRB JE - 30/05/2019 (Shift-I1T.
+
+Ans : (a) Given
+
+7= 12cm
+
+b= 8 cm
+
+h= 10cm
+
+Total surface area of rectangular panel
+
+= 2 (2b + bh + hi)
+
+=2(12x8+8x 10+ 12x 10)
+
+= 2 (96 +80+120)
+
+= 2 x 296
+
+= 592 square centimeter
+
+193. The dimensions of a luggage box are 80 cm, 60
+em and 40 cm. How many square cm of fabric
+will be required to cover the box?
+
+(a) 10400 Squarecm. (b) 20800 Square cm.
+(c) 20400 Squarecm. (d) 10200 Square cm.
+RRB RPF SI — 06/01/2019 (Shift-IT
+Ans : (b) Need quatity of cloth =All surface of box
+=2 (80x 60+ 60x 40+40x80)
+= 2(4800 + 2400 +3200) = 2x10400
+= 20800 Square cm.
+
+194, The surface area of a cuboid is 1372 sq. cm. Its
+dimensions are in the ratio of 4:2:1. Find the
+length?
+
+(a) 24 cm (b) 7 cm
+(c) 28 cm (d) 12cm
+RRB JE - 30/05/2019 (Shift-IID
+Ans : (c) Let cuboid dimensions 4x, 2x, x cm.
+Surface area of cuboid = 2[/b + bh + h/)
+1372 = 2 [4x x 2x + 2x x x + 4x x x]
+1372 =2 [8x? + 2x? + 4x]
+1372 =2 [14x"]
+2 _ 1372
+eet
+28
+x =49
+x=7
+length of cuboid = 4x
+=4x7=28 cm.
+Mensuration 45.
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0036_right.png =====
+195. The ratio of the length, breadth and height of a
+room is 3:3:4, If the length is two times, width
+is two-third and the height is halved then by
+what percentage will the cost of painting the
+four walls of the room be reduced?
+
+3 1
+(a) 307 (b) 335
+(c) 32 (d) 284
+RRB Group-D — 12/11/2018 (Shift-
+Ans. (b) : Let length of room = 3x
+breadth = 3x
+height = 4x
+area of room = 2(L + B) xh
+= 2(3x + 3x) x 4x
+= 48x?
+When the length is doubled, breadth is two-thirds and|
+height is halved, then the new area obtained
+= 2 3.324312)
+3) 2
+= 2(6x + 2x) x 2x
+= 16x x 2x = 32x"
+Decrease = 48x” — 32x” = 16x”
+2
+Decrease % = 16x" 5100 = 100 _ 3310,
+48x 3 3
+
+196. 0.25 cm’ square is cut from each corner of a
+square plate of each side 7 cm. The remaining
+part is made with cut to form a cuboid. What
+will be the volume of this cuboid with its top
+open?
+
+(a) 20 (b) 16
+(c) 21 (d) 18
+RRB Group-D — 03/10/2018 (Shift-I
+Ans : (d)
+Aries p
+C]
+Side of square = v.25 cm?
+=05cm
+
+So
+
+height of cuboid = 0.5 cm
+
+length of cuboid = 6 cm
+
+breadth of cuboid = 6 cm
+
+Volume of cuboid = /bh
+
+=0.5x6x6
+= 18cm?
+
+197. The measurement of a rectangular box is in the
+ratio of 2:3:5. If the total surface area is 6200
+cm’, find the dimensions of the cuboid.
+
+(a) 20cm x 40cm x 50cm
+(b) 20cm x 30cm x 40cm
+(c) 30cm x 40 cm x 50cm
+(d) 20cm x 30cm x 50cm.
+RRB Group-D — 03/10/2018 (Shift-III)
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0037_left.png =====
+Ans ; (d) Let sides is 2x cm. 3x cm., and 5x cm then
+total surface of area or all surface of cuboid
+= 2(/b + bh + hi)
+2([b + bh + h/) = 6200
+2(2x x 3x + 5x x 3x + 5x x 2x) = 6200
+2. ( 6x? + 15x? + 10x”) = 6200
+31x’ = 3100
+x =100>
+So dimension or sides of cuboid—
+2x =2 x 10=20cm
+3x=3 x 10=30cm
+5x=5 x 10=50cm
+198. Two cubes of 343 cm” volume are added at
+their edges. The total floor area of the cuboid
+so formed is?
+(a) 436 square cm (b) 466 square cm
+(c) 346 square cm (d) 490 square cm
+RRB Group-D — 08/10/2018 (Shift-I.
+Ans : (d) Area of cube = 343 cm?
+then side of cube = 7 cm
+Tom Tem
+Tem
+Tom
+Tem
+Tem Tom
+area of cuboid = 2 (Ib + bh + hl)
+as per question
+= 7+7=14, b= 7,b=7
+.. area of cuboid
+= 2(14x7+7x7+7x14) =490 square cm
+199. A water tank is 5 m long, 3 m wide and 1 m
+deep. How much litre of water can be filled in
+it?
+(a) 810L (b) 15,000 L
+(c) 729L (d) 720L
+RRB Group-D — 12/10/2018 (Shift-I1T
+Ans : (b)
+Volume of water tank =/ x b x h
+=5x3x1l=15m
+=15x1000L = (1 cubic m = 1000 L)
+= 15000L
+200. The area of the three faces of a cube including
+the top is 25 m’, 32 m’ and 32 m’. What is the
+volume of the cube?
+(a) 184m? (b) ¥3024m?
+(c) 92 m* (d) 160m*
+RRB Group-D — 24/09/2018 (Shift-I
+Ans : (d) Area of cuboid's first panel(/b) = / x b >
+=25 m
+area of cuboid's second panel (bh) = b x h = 32 m
+area of cuboid's third panel (h/) = h x /= 32 m
+Now,
+Volume of cuboid = V/bxbhx/h
+= (5x3IXTD
+= V5x5x16x2x16x2
+=5x4x4x2=160
+Hence volume of cuboid = 160 m*
+Mensuration 45:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0037_right.png =====
+201. The pieces of 0.25 cm” square have been cut
+from a square plate of each side of 4 cm and
+the remaining plate is joined with cut edges
+from an open cuboid. What will be the volume
+of this open cuboid?
+
+(a) 34 (b) 30
+(c) 36 (d) 32
+RRB Group-D — 26/11/2018 (Shift-I1I)
+Ans: (d)
+Apeme-Sem—>.Semy,
+Sem} Sem
+- r
+0.5cem
+BI Cc
+
+Side of cut square = 25 =.Sem
+
+-. Volume of open top cuboid = 8 x 8 x 0.5 = 32 cm?
+
+202. Two cubes each volume 216 cm’ are joined end
+to end. The total surface area of the resulting
+cuboids is?
+
+(a) 360 cm? (b) 380 cm?
+(c) 330 cm? (@) 340 cm?
+RRB Group-D — 08/10/2018 (Shift-II)
+
+Ans : (a)
+
+Let side of cube acm
+
+Volume of cube = (side)®
+
+216=a°
+
+a=4216
+
+a=6cm
+
+related both cube-
+
+1=12,b=6,h=6
+
+Surface area of cuboid = 2(/b + bh + hi)
+
+= 2 (12x6 + 6x6 + 6x12)
+=2(72+36+72)
+= 2 (180) = 360 cm”
+
+203. Four squares of 5 cm side are cut from the
+corners of a 45 cm long and 35 cm wide
+rectangular sheet and an open box is made
+from the remaining sheet. Find the volume of
+the box?
+
+(a) 1200 cm? (b) 875 cm>
+(c) 1325 em3 @) 4375 m3
+RRB NTPC 02.04.2016 Shift : 1
+Ans : (d)
+Tl
+5
+bres >
+—5——
+for open box
+7=35 cm. b=25 cm. h=Scm.
+". volume of open box = 35 x 25 x 5 = 4375 cm*
+} YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0038_left.png =====
+204. A rectangular reservoir has 4200 litres of |
+water. Find the depth of water in reservoir if
+the measure of the base of this reservoir is 6m
+x35 m,
+
+(a) Im (b) 2.5m
+(c) 3m (d) 2m
+RRB NTPC 18.01.2017 Shift : 2
+Ans: (d) Given,
+
+length of reservoir 6 m
+
+breadth of reservoir = 3.5 m
+
+let height or depth is (h)
+
+|As per question,
+
+Volume of rectangular reservoir = 42000 ¢
+Ix bx h=42000/
+> 6x3.5xh = 22000 2 (im = 1000 ¢)
+1000
+42
+> h= a
+> h=2m
+
+205. The ratio of the length, breadth and height of a
+room is 3:2:1. If its volume is 3072 m’, then
+find its width?
+
+(a) 18m (b) 16m
+(c) 24m (d) 12m
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (b) Ratio = 3: 2:1
+
+Let length of room = 3x
+
+b = 2x
+
+h=x
+
+volume of cuboid = / x bxh = 3072
+
+3x x 2x x x = 3072
+
+6x'=3072 => x= 512
+
+x=¥512
+x=8
+
+hence, b = 2x = 2x8 = 16m
+
+206. The surface areas of three faces of a cuboid
+sharing a vertex are 20 m’, 32 m’ and 40 m’.
+What is the volume of the cuboid?
+
+(a) 92m?
+(b) 3024 m?
+(c) 160m?
+(d) 184 m*
+RRB ALP & Tec. (09-08-18 Shift-ID
+Ans : (c) Let length, breadth and height of cuboid is
+¢, band h.
+fb x bh x Ch= 40 x 20 x 32
+(¢bh)’ = 25600
+(bh = 160m?
+Hence the value of the volume of the cuboid (bh) will
+be 160 cuboic meter.
+Mensuration 45:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0038_right.png =====
+Type -8
+207. Find the ratio of the volume of a cylinder of
+radius r and sphere of radius r and height 2r?
+(a) 2:3 (b) 3:2
+(c) 5:4 (d) 3:5
+RRB JE - 22/05/2019 (Shift-I
+Ans : (a) Circle radius = r
+Cylinder radius = r
+height of cylinder = 2r
+43
+So Volume of circle _ 3
+Volume of cylinder — ar’h
+43
+3m 2
+mx2r 3
+«volume of circle : volume of cylinder = 2 : 3
+208. What will be the total surface area of that solid
+cylinder? whose radius is half of the radius of
+the circle having an area of 154 square meters
+and the height is equal to its radius?
+(a) 231m (6) 123m?
+(c) 312m (d) 132m?
+RRB JE - 25/05/2019 (Shift-I
+Ans : (a) Area of circle = 154 m?
+m= 154
+7
+P= 154x—=7x7
+22
+r=7
+As per question,
+height of cylinder = 7 m
+radius of cylinder = i m
+Curve surface area = 2ar (h+r)
+=2x 22 x Z 7+ 2)
+7 2 2
+=22x21
+2
+=231
+209. The ratio of the radius of two cylinders is 2 : 3.
+The ratio of their heights is 5 : 3. If the volume
+of one cylinder is 160 cube, find the volume of
+the other cylinder?
+(a) 216 cubic unit (b) 400 cubic unit
+(c) 240 cubic unit (d) 243 cubic unit
+RRB JE - 26/05/2019 (Shift-ID
+Ans : (a) Let radius of first cylinder (1) = 2r
+and radius of second cylinder (rz) = 3r
+Similarly, height of first cylinder (h,) = 5h
+and height of second cylinder (hj) = 3h
+As per question,
+volume of first cylinder = 160 cubic unit
+5 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0039_left.png =====
+Volume of cylinder = mh
+
+mr h = 160
+
+mx 2rx2rx 5h =160
+
+nx 20r°h = 160
+
+Phe 160
+x20
+
+rh= 8 0)
+ba
+
+Volume of second cylinder = nr;h,
+
+= mx 3r x 3r x 3h
+
+= 2 277h
+
+= 0x 27x8x 1 {equation from (i)}
+T
+
+= 27 x 8=216
+
+So volume of second cylinder = 216 cubic unit
+
+210. A wire made by melting a metal sphere with
+radius of 6 cm., The length of the wire whose
+radius of the transverse section is 8 cm?
+
+(a) 4cm (b) 3.5 cm
+(©) Sem (d) 45cm
+RRB JE - 26/05/2019 (Shift-I11
+
+Ans : (d) Let length of wire is / cm
+
+|As per question-
+
+.. Volume of sphere = Volume (cylinder) of wire
+$x 6x6x6 = nx 8x8
+(= ROXOx6 Sem,
+
+3x8x8
+
+211, Find the area of the outer curve surface of a
+metal pipe of radius 21 cm. and length 90 cm.?
+(a) 11480 Squarecm. (b) 10880 Square cm.
+(c) 12880 Squarecm. (d) 11880 Square cm.
+
+RRB JE - 27/05/2019 (Shift-I1T
+
+Ans: (d) radius (r) = 21 cm
+
+height (h) = 90 cm
+area of external curved of pipe = 2arh
+=2x 2 x21x90
+
+= 2 x 22 x 3 x 90 = 11880 Square cm.
+
+212. Find the total surface area of semi sphere
+mounted on a cylinder while both have the
+same radius, and the height of the cylinder is
+twice its radius?
+
+(a) 8m? (bo) 4nr°
+(c) 7x? (d) (2nrh+ 2 ar
+RRB JE - 29/05/2019 (Shift-ID
+[Ans : (c) Radius of semicircle = radius of cylinder
+height of cylinder (h) = 2r
+.. Total curve surface area = curve surface area of|
+
+cylinder + curve surface area of semi sphere + area 0:
+
+base of cylinder = 2arh + 2ar’+ m1”
+
+= ar x Qn + 37
+
+= 4a” + 3a” = Tar?
+
+Mensuration 450
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0039_right.png =====
+213. Find the radius of the cylinder whose volume is
+3850 cm and height is 25 cm.?
+(a) 7 cm (b) 14cm
+(c) 3.5 cm (d) 10.5 cm
+RRB RPF SI — 12/01/2019 (Shift-I
+Ans : (a) volume of cylinder (V) = 3850 cm’
+h=25 cm
+r=?
+V=arh
+3850 = Bar x25
+Pe 3850x7 =49
+22x25
+r=7cm
+214. the capacity of a cylindrical tank is 3080 cubic
+meters. The radius of its base is 7 meters. So
+find the depth of the tank?
+(a) 10m (b) 25m
+(c) 15m (d) 20m
+RRB JE - 02/06/2019 (Shift-IIT
+Ans : (d) base radius (r) = 7 m
+capacity or volume of cylinder and tank =3080 cubic m.
+mh = 3080
+22 7? xh= 3080
+7
+Th= 3080
+22
+h= 140 _ 20m
+7
+215. If the height 'H' of a cylinder is equal to the
+circumference of its base. Find the area of its
+curved surface in terms of H?
+(a) (b) 2h/3
+(c) 3h? @
+RRB JE - 02/06/2019 (Shift-I)
+Ans : (d) circumference (27r) =h
+curved surface of cylinder = 2arh [2nr = h)
+=hxh=h?
+216. The length of a rectangular seat equal to twice
+its breadth. If the volume of the cylinder is V,,
+V. when the seat is folded relative to its length
+and breadth, Find the ratio of V, and V2?
+(a) 1:1 (b) 1:3
+(c) 2:1 (d) 2:3
+RRB JE - 27/06/2019 (Shift-1
+Ans : (c)
+On related to length —
+Circumference of first cylinder (2m) =2, hy, = 1
+net
+a
+On related to width —
+Circumference of second cylinder (2mr)=1, h,=2
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0040_left.png =====
+pet
+On
+u 1
+Vomvh Oe oy
+V, yh, a, ly
+4n
+217. The total surface area of a solid cylinder is 462
+cm’. Its curve surface is one third of the entire
+surface area, Find its volume?
+(a) 964 cm?® (b) 810 cm?
+(c) 539 co’ (d)_ 1024 cm’
+RRB JE - 27/06/2019 (Shift-I11
+Ans : (c) Given
+Total Surface area of cylinder = 462 cm?
+nr (h+r) = 462 ----(i)
+(Curved surface area of cylinder = 462%4
+2nrh = 154. cm ----(ii)
+from equation (i) and (ii)-
+2ar(h+r) 462
+2ath 154
+(h+r) _ 3
+h
+h+r=3h
+r= 2h ----(iii)
+from equation (ii)-
+2nrh = 154
+2x Path =154
+4x 2, h? =154
+7
+wi?
+4
+new
+2
+from equation (iii)—
+r= 2h
+r= 2x 1. Tem
+2
+Volume of cylinder (77h) =
+27x Tx ba 11x49 =539 om?
+7 2
+218. Find the volume of a cylinder whose radius is
+one-third of the radius of a circle with an area
+of 1386 cm. and the height is twice its radius?
+(a) 3246 cm? (b) 3562 cm?
+(c) 2156 cm? (d) 2584 cm’
+RRB RPF Constable — 18/01/2019 (Shift-IIT
+‘Ans. (c) Area of circle = nR?
+2. TR°= 1386
+22R? =1386
+7
+Mensuration 45’
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0040_right.png =====
+R= 1386x7 =63x7
+22
+R= V63x7 =3x7
+R=2lcm
+As per question,
+Radius of cylinder = 21 ¢ =7cem
+height of cylinder = 7 x 2= 14cm
+Volume of cylinder = mh
+= Ba To T14 = 2156 em
+219. A solid cylindrical metal with a diameter of 14
+cm and a height of 15 cm is melted to form a
+solid wire whose length is 60 meters. Find the
+diameter of the wire.
+(a) 7mm (b) 14 mm
+(c) 3.5 mm (d) 35 mm
+RRB RPF Constable — 22/01/2019 (Shift-IT)
+Ans. (a) Diameter of cylindrical metal = 14cm
+2r= 14cm
+r=7em
+The length of the wire shape
+= 60m
+Cylinder is melted to form of a wire, so the length ot
+the wire.
+h = 60m = 6000cm
+Volume of solid cylinder = Volume of wire
+my hy = 1 hy
+7x 7x 15=r x 6000
+7x7 _7
+T= ,/—~— =— cm
+400 20
+r= Ztomm
+20
+So diameter = 2r= dxa = 7mm
+220. To measure the volume of an irregular shaped
+stone, peter place the stone in a 5 cm semi-
+diameter container filled with water. If the
+water level of the box increases from 10 cm to
+17 cm, then what is the volume of the stone.
+(a) 500 cm’ (b) 450.cm*
+(c) 550 cm? (d) 400 cm*
+RRB Group-D — 25/10/2018 (Shift-I1)
+Ans: (c) ** Semi diameter of box (r) = 5 oh
+Water level in the compartment 10 cm Greater than 17
+cm.
+hence height = 17-10 = 7 cm
+Thus the box will be in the form of cylinder
+Thus, the volume of cylinder = mr’h
+= 2x57 x7 =22 25 =550 em?
+y YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0041_left.png =====
+221. 42 cm diameter solid metal sphere is melted
+and made then a wire which has a diameter
+7mm find the length of the wire.
+
+(a) 1008m (b) 1008 cm
+(c) 2016 cm (d) 2016m
+RRB Group-D — 28/09/2018 (Shift-IID)
+
+Ans : (a) diameter of circle = 42 cm
+
+Radius == = 210m =21*10?m
+diameter of wire (cylinder) = 7 mm
+
+Radius (r) = Zon = z x10?
+Volume of circle = Volume of cylinder (wire)
+
+4 mR? = ar7h
+
+3
+
+2
+
+4 ix102y -(Fxw>) xh
+
+3 2
+
+4 coat axto =25 210% xh
+
+3 22
+
+4. 21x21x21x4
+h=—x——————_
+3 Tx7
+
+h= 16x3x21
+
+h= 1008 m.
+
+So, length of wire (h) = 1008 m
+
+222. The diameter of the hemisphere connected to
+both ends of a cylinder with a diameter of 10
+cm is a height of 7 cm. Find the surface area of
+this solid shape.
+
+(a) 374cm (b) 1056 cm?
+(c) 594cm? (d) 836 cm?
+RRB Group-D — 27/09/2018 (Shift-IID)
+
+Ans : (a) Surface are of solid shape =
+
+Surface area of cylinder + area of circle (on both side)
+
+=2nr(h+r)+2ar?
+=2nr[(h+r)+r]
+-2x2J{(107)+7]
+7 2 2) 2
+=22| [2 + 7
+2 2
+=11 x 34
+=374 cm
+
+223. The length of a hollow cylinder is 84 cm and its
+outer diameter is 72 cm and the inner diameter
+is 24 cm. If the of substance is 10 grams/cm’,
+what will be the weight of the hollow cylinder?
+(a) 295680 kg (b) 329680 kg
+(c) 295.68 kg (d) 329.68 kg
+RRB Paramedical Exam — 21/07/2018 (Shift-I11)
+
+Ans : (c) Height of a hollow cylinder = 84 cm
+
+external diameter = 32 cm
+
+external radius (R) = 16 cm
+
+internal diameter = 24 cm
+
+internal radius (r) = 12 cm
+Density of substance of cylinder = 10 gt/em?
+Mensuration 45
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0041_right.png =====
+Density substance of cylinder = 0. = kgjem
+1000 100
+Volume of hollow cylinder = th (R’-1’)
+_ 22 2 2
+= Sx84{(16) -(12)}
+=22x 12x 28x4
+= 88 x 12 x 28
+= 29568 cm’
+Hence weight substance of hollow cylinder = volume x
+. _ 29568
+density = ——— = 295.68 kg.
+100
+224. The outer and inner diameters of a hollow
+sphere are 12 cm and 8 cm respectively. It is
+melted to give the shape of a cylinder whose
+base diameter is 10 cm. what will be the height
+of the cylinder?
+(a) 3.33 cm (b) 4.33 cm
+(c) 3.17cm (d) 4.17cm
+RRB Group-D — 05/12/2018 (Shift-I.
+Ans : (c) given-
++: External and internal diameter of hollow circle is
+12cm and 8cm.
+.. External radius of hollow circle (R) = 6 cm
+and internal radius (r)) = 4 cm
+diameter of cylinder (2r) = 16 cm
+16
+m= —=8cm
+2
+As per question-
+Volume of hollow sphere = volume of cylinder
+Sn(R? -1) =nryh
+4 3 3 2
+31 - (4) ]=n(8) xh
+$n[216-64] = 64h
+$[152]=16n
+=> 50.667 =16h > h=3.17cm
+225. The capacitance of a cylindrical tank is 20790
+m’, If its radius is 10.5 m, find its depth.
+(a) 60m (b) 120m
+(c) 30m (d) 75m
+RRB Group-D — 03/12/2018 (Shift-II1)
+Ans. (a) : Capacitance of cylindrical tank = 20790 m
+So, mh = 20790
+2x (10.5)? xh = 20790
+2 105x10.5xh =20790
+22 105 105 = 20790
+7 10 10
+222121 xh = 20790
+Tx2x2
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0042_left.png =====
+we xh = 20790
+h= 20790x2
+11x63
+h=60m
+So depth = 60m
+226. The radius of a sphere is three times the radius
+of the base of a cylinder. The height of a
+cylinder is 9 times the radius of its base. It the
+total surface area of the cylinder and the
+numerical value of the volume of the sphere are
+equal, so what is the height of the cylinder.
+(a) 3 unit (b) 4.5 unit
+(c) 5 unit (d) 2.25 unit
+RRB Group-D — 10/12/2018 (Shift-I
+Ans. (c) : let radius of cylinder = r
+then radius of circle (r2) = 3r
+height of cylinder (h) = 9r
+as per question
+‘Volume of circle = Surface area of cylinder
+Salt )’ =2nr(h+r)
+4 3
+> 373") = 2nr(9r+r)
+> Saar? = 20m?
+r= 3 unit
+9
+h=9r = 9x2
+9
+Ih=5
+So height of cylinder = 5 unit
+227. A rectangular Aluminium sheet with dimensions
+22m x 10m is rolled into a cylinder so that the
+smaller side becomes the height of the cylinder.
+What is the volume of the cylinder formed
+(a) 385m? (b) 370m
+(c) 380m? (d) 375°
+RRB Group-D — 08/10/2018 (Shift-I1T.
+Ans : (a) When the rectangular aluminum sheet is
+folded into a cylindrical form, the width (smaller side)
+will change as the height of the cylinder and the length
+will become the circumference of the base.
+«. height of cylinder (h) = 10m
+circumference's base of cylinder = 2ar = 22m.
+> 2x By r=22
+7
+7
+r=—m
+2
++: Volume of cylinder (V) = a’h
+oe ve2 lL
+7 22
+V=11x7x5=385 mM
+Mensuration 45!
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0042_right.png =====
+228. What will be the volume of an perpendicular
+cylinder of radius 1 cm and height 2 cm. in
+cubic cm (cm’).
+
+(Tate T= 2)
+7
+@ 2 () 2
+7
+(c) 44 @
+7
+RRB NTPC 17.01.2017 Shift-1
+Ans: (d) Volume of perpendicular cylinder = 1?h
+22 2
+= x(1) x2
+7 x(l) x
+= 2, 2= 4 cm
+7 7
+
+229. A perpendicular cylinder whose radius is 7 cm
+and height is 2 cm. Their volume will be in cm’,
+(Tate T= 2)
+
+7
+(a) 308 (b) 308/21
+(c) 308/7 (d) 310
+RRB NTPC 17.01.2017 Shift-3
+
+Ans: (a) Radius of cylinder (r) = 7 cm, height (h) = 2
+
+cm then
+
+Volume of cylinder= mh
+
+=2 Px?
+7
+=22 x 7x 2=308 com>
+
+230. What will be the volume of an perpendicular
+cylinder if its radius is 2.5 cm and height is 2
+cm.
+
+(a) 275 (b) 275/21
+(c) 275/2 (a) 275/7
+RRB NTPC 19.01.2017 Shift : 1
+Ans: (d) volume of cylinder = ah
+= 2 «(2.5)°x2
+7
+
+231. What is the volume of a perpendicular cylinder
+whose radius is 2 cm and height is 2 cm.
+(5)
+
+r=—
+7
+(a) 175/7 (b) 176/21
+(c) 176/7 (d) 176
+RRB NTPC 19.01.2017 Shift : 3
+Ans: (c) Volume of cylinder = mrh = 2. 2x2x2
+7 7
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0043_left.png =====
+Type -9
+232. A circle sector with radius 21 cm and center is
+turned into a cone by turning 120°. Find the
+radius of the cone thus formed.
+(a) 42cm (b) 21cm
+(c) 7 cm (d) 7.5cm
+RRB JE - 29/05/2019 (Shift-I)
+Ans: (c) Let radius of cone = Rem
+Radius of sector = 21cm
+Angle = 120°
+se whi le will
+from, Angle = Are , w ere ang| le wi
+radius bein radian
+120°xZ_ = Are
+180° 21
+ony, 21=are
+3
+Circumference of cone base circle = length of arc.
+2nR = jn, 21
+3
+233. A solid semi-sphere of metal is melted and is
+formed into the same radius of 'R' as a cone if
+the height of the cone is 'H' then.
+(a) H=R (b) H=R/2
+(c) H=2R (d@) H=R3
+RRB JE - 27/05/2019 (Shift-I)
+‘Ans: (c) We know that
+volume of semi circle = dan
+volume of come = jah
+|As per question,
+273_1 3 = =I
+37 =gmh (r=R) (h=H)
+2 aR? <1 aR?H
+3 3
+234, There are two cones that have a ratio of
+volume to 1 : 10 and a ratio of height to 2 : 5.
+Find the ratio of their base radius.
+(a) 2:1 (b) 5:2
+(c) 7:25 (d) 1:2
+RRB JE - 28/05/2019 (Shift-I)
+Mensuration 46
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0043_right.png =====
+Ans: (d)
+V,:V2=1:10
+hy: hp =2:5
+V2 jah
+1 _yx2
+10 3x5
+1_ x2
+2 4x1
+235. The size of a solid is like a hemispherical with
+the same radius mounted on a cone of radius 2
+cm and the height of the cone is equal to its
+radius. Find the volume of this solid.
+(a) 2ncm?® (b) 6ncm?
+(c) 8xcm> @) 4xcm?
+RRB JE - 30/05/2019 (Shift-I
+Ans: (c)
++: height of cone is equal to radius of cone
+.'. total volume = Volume of semicircle + volume of|
+cone
+aca 4 tah (h=r]
+3 3
+3
+aa gig 3
+3 3 3
+=x (2) [r =2 cm]
+=8nem?
+236. Find the total surface area of the cone with
+oblique height 2 / and radius r/2.
+(a) 2arl (ob) m[/+(/4)]
+(c) 2ar(/+1) (d) m(/+r)
+RRB RPF SI - 11/01/2019 (Shift-ID
+Ans : (b) Total surface area of cone = ar (/ +1)
+where r= radius of cone
+7 = oblique height of cone
+As per question
+Total surface area = nxi(a1)
+2 2
+=m ali+ (E
+2 4
+let)
+4
+237. Numerical values of the volume and surface
+area of a cone are equal. If 'h' and 'r' represent
+the height and base radius of the cone, find the
+value of (1/h” ) + (1/r’)
+(a) 2/9 (b) 1/9
+() 13 (d) 3
+RRB JE - 28/05/2019 (Shift-I)
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0044_left.png =====
+Ans : (b) Volume of cone = surface area of cone
+pr =r , where, / = oblique height of cone
+ih =] r— Radius, h — height
+fil
+31h
+Square on both side,
+lr .
+rr oP
+1_h oe
+land 7 oF seeeee(ii)
+lon equation (i + ii)
+A,r
+ror oP OP
+Advert
+ror oP
+1,1_P prac
+pis (-? = +r)
+4,421
+hor 9
+238. The ratio of the area of the curved surface of
+two cones is 2 : 1. Their oblique height is in the
+ratio of 1 : 2. Find the ratio of their radius.
+(a) 1:1 (b) 1:3
+(c) 1:4 (d) 4:1
+RRB JE - 01/06/2019 (Shift-I
+Ans: (d)
+Curve surface area of first cone
+curve surface area of second cone
+me, _2
+ml, 1
+given- ratio of oblique height (¢,:¢,)=1:2
+qxl 2
+x2 1
+Ir, = 412
+hf
+a
+Ratio of radius (1 :1™)=4:1
+239. A tent is in the shape of a cylinder and a cone
+has been established above it, the radius and
+height of the cylindrical part are 10 meters and
+25 meters respectively. The radius is 10 meters
+of conical portion and the oblique height is 15
+meters. calculate the amount of canvas
+required for the construction of this tent,
+taking an additional canvas of 20 percent for
+sealing, ete.
+(a) 3783.26 m? (bo) 4714.43 m?
+(c) 3772.14 m? (d) 2451.40 m?
+RRB JE - 26/06/2019 (Shift-II1)
+Mensuration 46)
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0044_right.png =====
+Ans : (d)
+JZ
+i
+10
+aa °
+——
+Area of tent = mh + m/
+area of tent = 1x 10x 10x15 + 2x10x15 = 5002 + 1507
+= 6500 m
+increased area = 650x 220 2
+100 7
+= 780x22 _ 17160 _ 5451 49 mm
+7 7
+
+240. Some circular cone shaped chocolates were
+made from a circular solid chocolates of radius
+6 cm. Both the radius and height of this cone
+are 2 cm. The chocolate is kept in a 12 x 9
+configuration in a square box. The height of
+the box is 2 cm. The box were filled with honey
+to keep the chocolate edible for a long time.
+The volume of honey in the box is what
+percentage of the total volume.
+
+(a) 73.81 (b) 75.46
+(c) 70.45 (d) 71.23
+RRB RPF SI — 13/01/2019 (Shift-II1}
+Ans. (a) Given—
+length of box = 4 x 12=48 cm
+breadth of box = 4 x 9= 36 cm
+Number of cone = 12 x 9= 108
+
+Volume of honey = Volume of box — Number of cone
+
+x Volume of one cone
+
+= 4833621085 x x2 x2
+
+= 3456 - 905.14
+
+= 2550.87
+
+2550.857
+
+Honey' tage = ———_— x 100
+
+loney's percentage 3456"
+= 73.809%
+= 73.81%
+
+241. The height and oblique height of a
+perpendicular circular cone are 24 cm and 25
+cm respectively. Find the curved surface area
+of the cone, assuming the value of x is 22/7.
+
+(a) 572 cm? (b) 528 cm?
+(c) 539 cm? (a) 550 cm?
+RRB Group-D — 17/09/2018 (Shift-II)
+
+Ans : (d) According to the question, the height of the
+
+perpendicular cone is 24 cm and the oblique height is
+
+25cm.
+2 h=24
+formula- [? = h? +1? om
+1=25em
+(25) ?= (24) +1?
+{ YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0045_left.png =====
+625 =576+17
+49=77
+Curve surface area of cone = mr/
+= 27x25
+7
+= 22x25
+= 550 cme
+242. The diameter and slant height of a conical tent
+are 16 meters and 5.6 meters respectively. If
+the width is to be maintained at 4 meters, how
+much cloth will be required for the
+construction of the tent.
+(a) 35m (b) 32m
+(c) 32.5m (d) 35.2m
+RRB Group-D — 24/09/2018 (Shift-I)
+Ans: (d) Given- diameter of tent(d) = 16m
+breadth = 4 m
+NN
+u \
+Q R
+: A 7 = d
+.. Radius (OR =OQ)=8m wteD
+Slant height of cone (J) = 5.6 m
+curve surface of cone = mr
+= 2x 8x56= 0.8x8x 22 =140.8m?
+So require quantity of cloths for making tent
+_ Curve page of cone
+breadth
+= 408 353m
+4
+243. Curve surface of cone X is 5 times that of
+Curve surface of cone Y. Slant height of cone Y
+is 5 times slant height of cone X. what will be
+the ratio of the area of the base of the cone X
+and the cone Y.
+(a) 5:1 (b) 125:1
+(c) 625:1 (d) 25:1
+RRB Group-D — 05/12/2018 (Shift-II1)
+Ans: (c) Curve surface area of cone = al
+Curve surface of X cone = Curve surface of y cone x5
+ml, = ml, x5
+1], =n), xS........()
+5x oblique height of cone x = oblique height of cone y
+on keeping /, value in equation (1)
+Mensuration 46:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0045_right.png =====
+1, =1,x51,x5
+£2
+y ol
+
+Ratio of base area of cone X and cone Y =
+mm (25)
++ 23) ) = 625:1
+m, (1)
+
+244, The oblique height and diameter of a cone are
+15 cm and 28 cm respectively. The volume of
+the cone is. (x = 22/7)
+
+(a) SS 38cm" (b) 2 JaBem*
+(©) SS acm" (d) 3 Bem"
+RRB Group-D — 04/12/2018 (Shift-IIT)
+
+Ans, (a) As per question,
+
+Slant height (¢) = 15cm
+
+diameter of cone = 28cm
+
+2r= 28cm
+r= 14cm
+h=VvC-r
+h= J(5y -04"
+h= 4225-196
+h= ¥29
+then volume of cone = ; mh
+= 12 raxtax J29
+3°07
+_ 22x2x7x14xV29
+3x7
+= 44x14 By
+3
+= SS 38cm’
+
+245. A solid round metal ball of 36 cm diameter is
+melted and small solid cones 12 cm in diameter
+and 12 cm high are made from it. Describe the
+number of cones made using this molten metal.
+(a) 52 cone (b) 60 cone
+(c) 48 cone (d) 54 cone
+
+RRB Group-D — 11/12/2018 (Shift-II1)
+
+Ans: (d) diameter of solid sphere ball = 36 cm
+
+radius of solid sphere ball (R) = 18 cm
+
+diameter of cone = 12 cm
+
+radius of cone (r) = 6 cm
+
+height of cone (h) = 12cm
+
+Suppose the number of cones formed by
+melting the solid sphere ball is n, then
+
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0046_left.png =====
+n= the volume of the solid sphere ball
+volume of cone
+4 oR?
+n= 3
+smh
+3
+pw 42182 18x18
+6x6x12
+n= 54 cone
+So the number of cone's of melted metal = 54 cone
+246. A tent as such that its lower part is like a
+cylinder of 24 m height having 126 m diameter.
+Its apex is cone shaped with a base of the same
+diameter of 126 m and is 80 m slant high. Its
+canvas is 8 m wide. Calculate the length of
+canvas required to construct the tent.
+(a) 3296 m (b) 3020 m
+(c) 3168 m (d) 3190 m
+RRB Group-D — 10/12/2018 (Shift-.
+Ans. (c) We know that r= > = ue = 63m.
+VAN
+Z——\
+T= 63
+L_-+—J
+|
+curve surface of tent = 2arh + ar/
+=m(2h+/)
+= 2 <63(2x24+80)
+= 198 (48 + 80)
+= 198 (128)
+= 25344 m’
+area of canvas = (/ x b) = 25344
+1x 8 = 25344
+ules 25344
+8
+length of require canvas = 3168 m
+247, The following structure is formed by
+connecting two perpendicular cones with their
+bases. The radius of each base is 5 cm. And the
+total length of this structure is 24 cm the total
+volume of this structure will be in cubic
+centimeters. (x =3.14)
+H—— 24cm ———
+(a) 240 (b) 628
+(c) 314 (d) 376.8
+RRB Group-D — 08/10/2018 (Shift-I)
+Mensuration 46.
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0046_right.png =====
+Ans. (b) : Volume of cone = aah
+radius = 5 cm
+height = 12 cm
+Volume of given figure = 2 x volume of one
+perpendicular cone
+Volume of figure = (Fxsdxsisita)2
+[where x = 3.14]
+= 1884 68cm
+3
+248. What is the entire surface area of a cone, If 'r'
+is the radius and 'J' is the oblique height?
+(a) m(/+r) (b) 2nr(/+r)
+(c) al (d) 2m?
+RRB NTPC 29.04.2016 Shift : 3
+Ans: (a)
+J
+Total surface area of cone
+= area of base + area of curve surface
+sm +nre  =nr(r+2)
+Type - 10
+249. What will the radius of a sphere which is
+formed, by melting a cylinder. Whose radius is
+6 cm. and height is 9 cm.
+(a) 3/9 (b) 433
+©) 33 (a) 27
+RRB RPF Constable — 24/01/2019 (Shift-II1)
+Ans. (a) According to question,
+Volume of solid cylinder = Volume of molten sphere
+mh= 4 oR?
+3
+4
+6) x9= =R?
+(6) 3
+36x9x3 _ R?
+4
+R=¥9x9x3
+R=¥3x3x3x3x3
+radius of sphere (R) = 349
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0047_left.png =====
+250. Two perpendicular cones of height 16.4 cm and
+17.2 cm respectively whose base radius is 8.4
+cm Both these cones are melted and formed
+into a sphere. Find the diameter of the sphere.
+(a) 8.6 cm (b) 8.2 cm
+(c) 84cm (d) 16.8 cm
+
+RRB JE - 22/05/2019 (Shift-IIT)
+Ans : (d) Given radius of both cone r) = r, = 8.4 cm
+height h, of first cone = 16.4 cm
+height h, of second cone = 17.2 cm
+
+Suppose radius of sphere = R
+
+‘Volume of both cone = Volume of sphere
+
+din?h, + dah, =4aR
+
+3 3 3
+
+Fran, +17h, |= Sar?
+
+[say x16.4+(8.4)" x 172] =4R°
+(8.4) [16.4+17.2]=4R°
+eee =R?
+
+R= 8.4 x 84x 8.4
+
+R= 8.4
+
+diameter of sphere (d) = 2R
+
+=2x84
+=16.8cm
+
+251. Find the surface area of a semicircular bowl of
+thickness ‘d' and internal radius 'r'.
+
+(a) n(4r2+6rd+3d?) — (b) 4? + 4rd + 3d?
+(c) n(41r? +3rd+d?) (d) 4m? + 6nrd +3d?
+RRB JE - 25/05/2019 (Shift-ID)
+
+Ans : (a)
+
+S&S
+7)
+
+Internal radius of semi-bowl sphere = r
+
+thickness (d)=R-r
+
+external radius of semi-bowl = R=d+r
+
+surface area of semi-bowl sphere
+
+= 2nR? +2 ar + 2(R’-P)|
+= 2m {(d+r)} + 2 a? + x{(d41)-r}
+
+= 2m {d?-41°+2dr} + 2 ar? + n{d?-+1°+2rd — 7}
+
+= 2nd? + 2c? + Anrd + 2nr + nd? + 2nrd
+
+= 3nd? + dar? + 6mrd
+
+= n(4r° + 6rd + 3d’)
+
+252. The height of a cone is 32 cm and the radius of
+its base is 8 cm. It is melted and converted into
+a sphere. Find the radius of that sphere.
+
+(a) 65cm (b) 2.5cm
+(c) 4cm (d) 8cm
+RRB JE - 26/05/2019 (Shift-II1)
+Mensuration 46
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0047_right.png =====
+Ans : (d) According to the question the volume of|
+sphere = volume of cone
+> BR? 2d cnx 8x8%32
+3 3
+pe = 8%8%32
+4
+R°=512
+R=8cm
+-. Tadius of sphere= 8 cm
+253. A semi sphere with maximum volume is cut out
+from a cube of side 6 cm. Find the remaining
+volume.
+(a) 36—(3n/3) (b) [2742 1/3) x 6]
+(c) 216-120 (d) 216-180
+RRB JE - 29/05/2019 (Shift-IIL
+Ans: (d) cube volume of 6 cm side = (6) = 216 cm?
+Volume of semi sphere = Sar = En(3) a 2Ixn
+intended difference = 216— : x27x 0
+=216-182
+254. The volume of a sphere divided by its surface
+area gives the answer 27 cm. Find the radius of
+the sphere.
+(a) 243 cm (b) 81 cm
+(©) 27 cm (d) 9 cm
+RRB JE - 02/06/2019 (Shift-I1)
+Ans. (b) Volume of sphere = fat
+Surface area = 4nr*
+fae
+3 7 = 27 cm.
+4nr
+r= (27 x 3)cm.
+= 81 cm.
+255. Find the volume of the sphere whose surface
+area is 1386 m’.
+(a) 3850 m° (b) 4851
+(c) 4651 m (dd) 5711 m?
+RRB JE - 01/06/2019 (Shift-I
+Ans: (b) Given, surface area of sphere = 1386 m
+Ant’? = 1386
+4x 2x 1 =1386
+4xP=63x7
+4xP=7x3x3x7
+Tx 7x3x3
+r=,"
+4
+7x3
+r=
+2
+21
+r=—m
+2
+7 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0048_left.png =====
+volume of sphere = fae
+4 22 21 21 21
+=oxxtxtxe
+3.7 2 2 2
+=21x21xIl
+= 4851 m?
+
+256. A solid cylinder made of glass is 1 m high and
+the diameter of its base is 1.5 m wide. It is
+melted and turned into a solid sphere. The
+diameter of the sphere is.
+
+(a) 1.5m (b) lm
+(©) 0.5m (d) 2.5m
+RRB Group-D — 30/10/2018 (Shift-
+Ans : (a) Volume of cylinder = nr7h
+2
+=n 1s x1 = 2258 cubic meter
+2 4
+Volume of cylinder = Volume of molten sphere
+4 3
+pen 225%3
+16
+_3x3x3x0.5x0.5 3?
+2x2x2x2 2x2
+R= 3 m
+4
+So diameter of sphere = 2R
+=2x3 3 m=1.5m
+4 2
+
+257. How many balls of 1 cm radius can be made
+from a steal sphere with a radius of 6 cm.
+(a) 64 (b) 216
+(©) 27 (d) 126
+
+RRB Group-D — 28/09/2018 (Shift-I
+Ans: (b) Volume of steel sphere in 6 cm radius
+4, 4 3
+=omr =—xnx(6
+3m =x (6)
+= 4 xnmx216
+3
+Volume of steel sphere in 1 cm radius = $x a
+4 3
+==nx(1
+£xx(1)
+o4nxl
+3
+Intended number of balls =VoWume of large sphere
+Volume of small sphere
+$nx216
+7 oe 216
+=mxl1
+3
+= 216 (balls can be made)
+Mensuration 46:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0048_right.png =====
+258. What is the surface area of the sphere of radius
+7]
+lem. | 7=—
+7
+(a) 89/7 (b) 89/21
+(c) 88/21 (4) 88/7
+RRB NTPC 17.01.2017 Shift-1
+Ans : (d) Surface area of sphere = 4nr”
+22
+=4x=x(1)?
+7 0)
+88,
+Surface area of sphere = zm
+259. What will be the area of the surface of a solid
+sphere whose radius is 3.5 cm. (given that
+7
+(a) 154/7 cm* (b) 154 cm?
+(c) 54cm? (d@) 54/7 om?
+RRB NTPC 17.01.2017 Shift-3
+Ans : (b) Surface area of solid sphere = 471°
+=4x 23.5435
+= 4x22x0.5x3.5 = 154 om?
+260. The diameter of a cylinder is 6 cm and it is
+filled with water to a height of 10 cm. If a
+spherical ball is put in it, then the water level
+increase by 0.5 cm. Find the diameter of the
+ball.
+(a) 3 (b) 15
+(c) 2.4 (d) 2.8
+RRB NTPC 03.04.2016 Shift : 3
+Ans :(a) Increase of water volume by 0.5 cm in the
+cylinder = Volume of ball
+nx(3)x05= Sener"
+pa 27x05 _ 27 1=3/2cm
+4 8
+«. diameter of ball = 2r = 2 x 3/2 =3 cm
+261. What would be the surface area of a solid
+sphere its radius is 1.5 cm.? (7= 2 )
+(a) 190/21 (b) 190/7
+(c) 198/7 (d) 198/21
+RRB NTPC 19.01.2017 Shift : 1
+Ans : (c) Surface area of soild sphere = 4nr°
+22
+r=1.5cem., t=
+7
+= 4x22 (1.57 = 18 square cm.
+7 7
+262. Find the area of a solid sphere whose radius is
+2m. (Given a -2 )
+(a) 352/7 (b) 350/21
+(c) 352/21 (4) 350/7
+RRB NTPC 19.01.2017 Shift : 3
+5 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0049_left.png =====
+Ans : (a) Area of sphere = 4nr” = 4xZx(2) |
+=—— =|——em
+7 7
+
+263. A spherical glass vessel has a cylindrical upper
+part 7 cm long and 4 cm in diameter. The
+diameter of the spherical part is 21cm. Find the
+quantity of water it can hold in cm’,
+
+(a) 4932 cm? (b) 4939 cm?
+(c) 4930 cm? (d) 4929 cm?
+RRB ALP & Tec. (17-08-18 Shift-IID)
+
+Ans : (b)
+
+ty =2
+—
+Intended quantity of water
+= Volume of cylinder + Volume of sphere
+43 243
+=myph+—ay= a) yp h+—r
+pnt 3m intsh
+3
+-2) 92 <1+4,{21)
+7 3 \2
+= 4939 cubic cm.
+
+264. The area of the base of a cone is 64x cm‘ while
+its slant height is 17 cm. This cone is remolded
+to obtain a solid sphere. The radius of this
+sphere will be
+(a) 2330cm (b) 23/40 cm
+(c) 8¥30.cm (65cm
+
+RRB ALP & Tec. (14-08-18 Shift-ID
+
+Ans : (a) Given—
+
+base area of cone =647 square cm.
+
+=> mr = 640
+
+> r=8cm
+
+Slant height of cone (/) = 17 cm
+
+o height of cone (h) =? -1*
+=y(I7) -(87
+= 289-64 =V225
+= 15cm.
+
+According to question > Volume of cone = Volume o:
+
+sphere
+
+=> din = 4 aR!
+
+3 3
+
+=> 64x15 =4R?
+
+>  240=R°
+
+=> R=¥240
+
+= 8x30 = 2430 em.
+Mensuration 460
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0049_right.png =====
+Type - 11
+265. The base of a right pyramid is a square with a
+16 unit diagonal. Its one slant edge is 17 units.
+Find its vertical height.
+(a) 30 (b) 12
+(©) 25 (d) 15
+RRB JE - 24/05/2019 (Shift-IIT.
+Ans : (d)
+h=y(17) -(8)
+h= 289-64
+h=¥225
+h=15 unit
+266. The base of a triangular prism is a triangle
+with 8, 15, 17 unit sides and its height is 20
+units. Find its total surface area.
+(a) 920 (b) 1020
+(c) 960 (d) 940
+RRB JE - 02/06/2019 (Shift-I)
+RRB RPF Constable — 17/01/2019 (Shift-I
+Ans : (a) Given,
+Sides of triangular prism is 8, 15, 17 (unit)
+height (h) = 20 unit
+Total surface area = perimeter of base x height + 2 x
+area of base
+=(8+ 15+ 11) 2042%5%8 x15
+= 40 x 20 + 120 = 920 square unit
+267. The base of the pyramid is a rectangle whose
+length and width are 16 cm and 12 cm
+respectively. If all the lateral edges passing
+through the top of the right rectangular
+pyramid are 26 cm in length, find the volume
+of the pyramid in cubic centimeters.
+(a) 1536 (b) 1024
+(c) 718 (d) 2072
+RRB Group-D — 03/10/2018 (Shift-1
+Ans : (a)
+E
+A B
+2%
+12
+D 16 ©
+Diagonal of rectangle
+= (16) +(12)° => V400 = 20cm
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0050_left.png =====
+We draw the perpendicular from the Vertex E at the
+base of the pyramid which is at point F. And the height
+of the pyramid is h and the hypotenuse is 26 cm.
+
+height (h) = /(26)’ -(10)" = /576 = 24 em
+
+Volume of pyramid = Fa area of rectangle x height
+
+= > 16x12x24
+= 1536 cm?
+
+268. Ratio of the sides of the base of a symmetrical
+triangular prism 8 : 15 : 17 is. If the height of
+the prism is 21 cm and the sum of the area of
+the lateral surfaces is 840 cm’, Find the volume
+of the prism in cubic centimeters.
+
+(a) 1200 (b) 1260
+
+(c) 1280 (d) 1240
+RRB Group-D — 12/10/2018 (Shift-I)
+RRB Group-D — 01/10/2018 (Shift-IT.
+
+[Ans : (b) Suppose bases of prism are 8x, 15x and 17x.
+
+total area of lateral surfaces = 840 cm
+
+lateral surface area = perimeter of base (right triangular)
+
+xh
+
+840 = (8x + 15x + 17x) x 21
+
+840 =40x x 21
+
+840
+x=———_=]
+40x21
+So sides of triangular is 8cm, 15 cm, 17 cm
+Triangle (base of prism) is right angle triangled
+©. (17 = (8)? + (15)
+
+289 = 289
+
+Volume of prism = area of base x height
+
+= 5x 8x15%21 = 60 X21 = 1260 om?
+Type - 12
+
+269. Find the percentage of material wasted in
+converting a cylinder of base diameter 10 cm
+and height 20 cm into same base but double the
+height of a cone.
+
+(a) 25% (b) 20%
+(c) 35% (d) 33.3%
+RRB JE - 23/05/2019 (Shift-I
+
+Ans: (d)
+
+Cylinder Cone
+Sem
+Volume of cylinder = mr*h = 2x 25x20
+= 500ncm*
+Mensuration 46
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0050_right.png =====
+Volume of formed cone = prR'H
+H=2h) .
+jiven
+r=R 8
+1
+=—mx 25x40
+3
+— 10007
+3
+quantity of waste materials = 500x— wer = on
+5007
+
+Percentage of waste materials % = —_x100
+
+500m
+= 33.3%
+
+270. The ratio of the radii of the bases of a cylinder
+and cone is /3:V/2and the ratio of their
+heights is J2: V6, then find the ratio of their
+volume.
+
+@) 3:3 (b) 3V3:2
+© vB:v2 @ w3:v2
+RRB JE - 23/05/2019 (Shift-I1)
+Ans: (b)
+Volume of cylinder R?h, _ st Ry J ‘hy } _y
+Volume of cone yn, R,) \h,) V,
+v,_»{B) (v2)_,.3.1
+—1=3) =| x| = |=3x =x
+v, (v2) (Wo) 2 NB
+ENE!
+Vv, 2
+wV,:V, =3N3:2
+271. Find the area of the hexagon of side 6 cm.
+(a) 72\3 em (b) 64V3 cm
+(c) 1083 cm? (a) 54V3 cm
+RRB JE - 24/05/2019 (Shift-I11)
+Ans : (d) formula : area of regular hexagon
+= 63. (side)*
+4
+3
+=6——x6x6
+48%
+= 54V3 cm?
+
+272. How much material is wasted when a solid
+cylinder of 6 cm. radius and 6 cm. height is
+made from a cone of 24 cm. height and 8 cm.
+radius?
+
+(a) 57.8% (b) 37.5%
+(c) 52% (d) 64%
+RRB RPF SI - 16/01/2019 (Shift-II)
+
+y YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0051_left.png =====
+Ans: (a) Volume of cylinder = x?
+=1x6x6x6
+=216n
+Volume of cone = inh
+= Fax8x8x24
+=512n
+; (512n-216n)x100
+Wasted material % = ————_,_——_—_.
+5121
+— 296n = [781%]
+= Sag 100= 57.81%
+273. The volume of a cone, hemisphere and cylinder
+with equal radius and equal height are P, Q
+and R respectively. Find the value of P: Q: R.
+(a) 1:3 :2 (b) 3:4:2
+(c) 2:1:3 (d) 1:2:3
+RRB JE - 27/05/2019 (Shift-I
+Ans: (d)
+Volume of cone = tmh
+Volume of hemisphere = 2ar
+Volume of cylinder = arh
+P:Q: R= tap Zap sar (-r=h)
+274, A square sheet of paper is fold into a cylinder
+by turning is side. Find the ratio of the side of
+the square and the radius of the base of the
+cylinder.
+(a) 2n:1 (b) 1:40
+(c) lin (d) 1:20
+RRB JE - 29/05/2019 (Shift-I1T.
+Ans : (a) Suppose side of square = x
+radius of cylinder =r
+from question—
+Circumference of the base of cylinder = side of square
+2nur=x
+X_2n
+rol
+xir=2a:1
+275. What is the ratio between the volume of a cube
+and the volume of a sphere that will fit
+perfectly in the cube?
+(a) 3:0 (b) 6:0
+(c) 3:4 (d) n:1
+RRB JE - 30/05/2019 (Shift-IIT.
+Ans : (b) diameter of sphere = side of cube
+2r=a
+a
+r=2
+2
+Mensuration 46:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0051_right.png =====
+Volume of cube a’
+Volume of sphere 4 (2)
+2,2
+3: \2
+2?
+4a
+ayt
+38
+ate6:n
+z
+6
+276. The height of a cube and a sphere is the same.
+Find the ratio of their volume.
+(a) 6:0 (b) 4:0
+(c) 2:2” (d) 3:2
+RRB JE - 28/05/2019 (Shift-I1)
+Ans : (a) Height of sphere = height of cube
+2r=a
+a
+r=—
+2
+Volume of cube a
+> OO
+Volume of sphere 4_ 3
+=m
+3
+a a
+=—_ =,
+4 (2) Sax ®
+3 2 3 8
+=a’x =6:n
+ma
+277. The area of a rectangle is 9/20 times the area of
+a square. If the length and breadth of the
+rectangle are in the ratio 5 : 4, find the ratio of
+the perimeter of the rectangle and the square.
+(a) 25:48 (b) 27:20
+(c) 27:40 (d) 25:45
+RRB JE - 31/05/2019 (Shift-I11.
+Ans. (c) Let length of rectangle is 5x and breadth is 4x
+area of rectangle = 5x x 4x = 20x"
+According to the question
+Area of square x = = area of rectangle
+Area of square x 2s 20x?
+20
+2
+Area of square = ~~
+Side of square = =
+Perimeter of rectangle _ 2x (5x +4x)
+Perimeter of square 4x 20%,
+3
+_ 18xx3_ 27
+80x 40
+Required ratio = 27 : 40
+3 YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0052_left.png =====
+278. How many carpets of 6 m, 4 m will be required to
+lay on the floor of a room measuring 40 m x 24 m?
+(a) 40 (b) 12
+(c) 18 (d) 15
+RRB JE - 02/06/2019 (Shift-I11
+Ans : (a) area of room's floor _ number of carpet
+area of | carpet
+40x24 _ Number of carpets
+6x4
+Number of carpets = 40
+279. The length of a room is 5.5 meters and the
+breadth is 3.75 meters. Find the cost of laying
+slab at the rate of Rupees 800 per m? on the
+floor.
+(a) Rs. 15550 (b) Rs. 15600
+(c)_ Rs. 16500 (d)_ Rs. 15000
+RRB Paramedical Exam — 21/07/2018 (Shift-
+Ans : (c) Given- length of room = 5.5m
+breadth of room = 3.75 m
+area of room = area of floor = 5.5 x 3.75 = 20.625 m*
+cost of laying slab on the floor = 20.625 = 800
+=Rs. 16500.00
+280. The capacity to fill water in a drum is 0.6.
+when 38 liters of water is taken out, then it is
+0.125 full. What will be the capacity of the
+drum in liters?
+(a) 40 (b) 120 (c) 80 (d) 160
+RRB RPF Constable — 19/01/2019 (Shift-II1)
+Ans : (c) Let capacity of drum is x litre
+then, According to question,
+0.6x — 38 = 0.125x
+=> 0.6x — 0.125x = 38
+= 0.475x = 38
+x= 28 _ 3821000 =.= 80 litres
+0.475 415
+281. If only diagonal measurements are given,
+which of the following quadrilateral can be
+constricted.
+1, Square 2. Rectangle 3. Rhombus
+(a) 1 and 3 (b) 1 and 2
+(c) only 1 (d) only3
+RRB JE - 01/06/2019 (Shift-I
+‘Ans : (a) Square and rhombus are geometric figures}
+which have the same four sides.
+We know, diagonal of square = ay2
+iA
+C 'D
+With this, the side of the square can be known and the
+square can be constructed.
+The diagonals of the rhombus intersect each other at
+90°. Hence side of the rhombus will be known, so the
+thombus can be constructed.
+Mensuration 46:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0052_right.png =====
+282. The ratio of length, breadth and height of room
+is 5:3: 2. If the length is 2 times, the breadth
+is one third and the height is halved, then the
+percentage of expenditure incurred in painting
+the four walls of the room will be reduced by
+what percentage?
+
+(a) 32 (b) 28.75
+(c) 31.25 (d) 30.75
+RRB RPF SI — 13/01/2019 (Shift-I11
+Ans. (c) Let length = 5x
+breadth = 3x
+height = 2x
+area of room = 2 (1+ b) xh
+= 2(5x + 3x) x 2x
+= 32x
+The length is doubled, breadth is one third and height is|
+halved, then the new area obtained
+= 2(10x +x) x x = 22x?
+Percentage reduction in expenditure
+(32x? -22x7)
+= +100
+32x
+2
+= uses = 500 _ 31 95%
+32x 16
+
+283. The volume of right circular cone whose base
+radius is equal to 5/9 of its height and equal to
+the volume of the sphere then what is the ratio
+of the radius of the cone and the sphere?
+
+(a) W433 (b) ¥4 32
+(&) Ll (d) ¥60:3
+RRB RPF SI - 12/01/2019 (Shift-ID)
+Ans. (d) Let height of cone =h, radius =r
+-. Radius (1) =2h
+9
+he 2,
+5
+Let radius of sphere = rm
+
++s Volume of cone = Volume of sphere
+
+sah = Say
+2,9 3
+WH xs = 45
+
+[are eee)
+
+3
+
+Ai) -20
+
+n 9
+7 _ [203 _ Yoo
+bh 9x3 3
+
+SIRS ¥60:3
+
+284. A right circular cylindrical jar with a radius of
+14 cm has some water. If a solid spherical ball
+of radius 5.6 cm is dropped in the jar and ball
+is fully submerged, then calculate the
+approximate rise in the height of the water
+length in the jar.
+
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0053_left.png =====
+(a) 12cm (b) l.lem
+(c) 9.0cm (d) 10cm
+RRB Group-D — 03/10/2018 (Shift-I11.
+Ans : (a) Let water level will raise to the height of h in
+the jar.
+Radius of circular cylinder = 14 c.m.
+Radius of circular ball = 5.6 c.m
+Volume of circular cylinder = Volume of circular ball.
+4 4
+mm, h= ym > Fh= 3B
+14x14xh =$5.6%5.6%5.6
+4 5.6x5.6x5.6
+heox2eees)
+3 14x14
+h=1.194=1.2 cm
+285. How many bricks of 20 cm x 10 cm size would
+be required for a 16 m long and 10 m wide
+floor?
+(a) 8400 (b) 9000
+(c) 8500 (d) 8000
+RRB Group-D — 20/09/2018 (Shift-II1
+Ans : (d) Number of bricks = Floor area of hall
+area of bricks
+_ 16x100x10x100
+20x10
+= 8000
+286. If the perimeter of a circular plot is equal to
+the perimeter of a square plot, what will be the
+ratio of their area?
+(a) 6:11 (b) 14:11
+(c) 12:11 (d) 7:11
+RRB Group-D — 22/09/2018 (Shift-I)
+RRB Group-D — 29/10/2018 (Shift-I1T.
+Ans : (b) Given-
+circumference of a circle = perimeter of square
+2nr = 4a
+ar
+a=—
+2
+2 2
+Ratio of areas oa Lae Lak
+a wr 22 «ll
+4
+287. The size of a brick is 20 cm x 12 em x 8 cm.
+How many bricks will be required to build a
+wall 16.8 m height, 2.5 m wide and 12 cm thick.
+(a) 2652 (b) 6252
+(c) 5262 (d) 2625
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (d) Number of bricks
+_ 16.8x100x2.5x100x12
+20x12x8
+_ 1680x250x12 _ 210x250
+20x12x8 20
+= 52500 _ 2625
+20
+Mensuration 47
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0053_right.png =====
+288. A bowl of wood that is 1.8m long, 1.5 m wide
+and 4 m high is filled with an iron cube that is 6
+cm wide. Find the number of iron cubes that
+can be fit in the basket.
+
+(a) 13,500 (b) 15,000
+(c) 14,500 (d) 14,000
+RRB Group-D — 28/09/2018 (Shift-I1)
+Ans. (b) Number of iron cubes
+— 1.8x100x1.5x100x1.2x100
+6x 6x6
+
+_ 180x150x120 =15000
+6x6x6
+
+289. The volume of a right circular cone whose base
+radius is one third of its height is equal to the
+volume of a hemisphere. Then what is the ratio
+of the radii of the cone and hemisphere?
+
+(a) 2:3 (b) 42:43
+© %:2 @ 22:1
+RRB Group-D — 28/09/2018 (Shift-I)
+Ans. (b) : Let cone's radius is R and height H
+given,
+H a
+3 (i)
+
+Let semi sphere's radius is r
+
+As per question
+
+Volume of cone = Volume of semi sphere
+
+Ln=2en
+3 3
+om (i) @ R=#
+3
+Lar a2e
+3 3
+Ri 2
+an)
+RY _2
+r 3
+R £
+er
+r 3
+
+290. The top of the rocket is shaped like an elliptical
+cone with a height of 3m while its lower part is
+cylindrical with a radius of 3m and height 10m.
+To make room for the engine, the base of the
+rocket is cut in a semicircular shape from
+inside, whose radius is also 3m. Find the total
+volume of the rocket in cubic meters.
+
+(a) 72n (b) 90x
+(c) 1007 (d) 8in
+RRB Group-D — 29/10/2018 (Shift-III)
+) YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0054_left.png =====
+Ans: (d)
+e |
+7
+10m
+Sn”
+Volume of rocket = Volume of cone + Volume of
+cylinder — volume of semi circle
+1 aya ata?
+=sm’ht+arH-Lar =n’ (h+3H-2r
+3 3 3 ( )
+= 473% 3(34+3x10-2%3)
+=3n(33-6)
+=3nx27=8Incubic meter
+291. A sphere was divided in the ratio 2 : 3. The
+larger part is inserted as a cone whose height is
+equal to the radius of its base, while the smaller
+part is inserted as a cylinder, whose height is
+equal to the radius of its base. What will be the
+ratio of the radii of the base of the cone to the
+height of the cylinder?
+(a) 3:1 (bo) ¥9:¥2
+() ¥9:1 @ 1:33
+RRB Paramedical Exam — 20/07/2018 (Shift-I11)
+Ans : (b) large part of sphere -3
+small part of sphere =2
+in cone r,=h
+1 43 4 =|
+Volume of cone =— mh ==x—ar
+3 5 3
+Volume r, small part of cylinder of sphere r, =h
+mh= 2 fae >h= Se di)
+5.5 25
+On dividing equation (i) into equation (ii)
+12.15
+etx
+ho 5 8
+ae
+he 2
+h 2
+roh= ¥9 : 42
+option (b) will be correct answer
+292. What will be the ratio of the area of a hexagon
+with the same perimeter and the area of 1
+square?
+(a) 2:3 (b) 1:v3
+() 4:3V3 (@) V3:2
+RRB Group-D — 28/09/2018 (Shift-I)
+Mensuration 47)
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0054_right.png =====
+Ans: (d) A circumference = equal perimeter
+Let side of right hexagon X and side of square y
+Then perimeter = 6x = 4y
+x4
+y 6
+x2
+y 3
+NB.)
+Ratio of square area = 2
+(y)
+EXEMPN
+272) 63 wi wa 2
+(ay 9 3 VBxV3 V3
+Intended ratio = 2:./3 a V3 :2
+293. A company plans to pack spherical thin hollow
+balls in long circular cylinder shape cartons.
+where there is no lid on either side of the box.
+If the ball and box are made of the same
+material, calculate the ratio of the shell and the
+material used in the box.
+ud
+= b) 1
+@ > (b)
+(c) a (d) 2x
+RRB Group-D — 07/12/2018 (Shift-II1)
+Ans : (b) Let sphere's radius is r
+Area of sphere = 4ar° veel)
+Area of made boxes for keeping sphere = Curve page of,
+boxes
+2arh = 2arx2r
+=4nr° wii)
+from equation (i) and (ii)
+area of sphere _ 4nr” -1
+area of Boxes 4qy2
+294. A tent is such that its lower part is like a
+cylinder of 12 meters height with a diameter of
+112 meters. Its top is like a cone with a base of
+the same diameter of 112 meters. Its top is like
+a cone with a base of the same diameter of 112
+meters and is 60 meters slant height. And its
+canvas is 4 meters wide. Calculate the required
+length of the canvas to make the tent.
+(a) 3276m (b) 3696 m
+(c) 4686 m (d) 4096 m
+RRB Group-D — 04/12/2018 (Shift-IID)
+Ans. (b)
+Ll
+{ YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0055_left.png =====
+‘Total area of tent
+= Surface area of cylinder + Surface area of cone
+= 2nrh + marl
+= 2 56(2%12+ 60)
+= 22 x 8x 84= 14784 Hh?
+Let length of canvas =/m
+So area of canvas = area of tent
+4x (= 14784
+a C= 3696m
+
+295. A solid sphere of 5 cm radius is melted to from
+a solid marigold with a maximum possible
+number of 1 cm radius. If the balls are placed
+optimally in a cubic box, what percentage of
+the space will be used in the box?
+
+(a) 52.38% (b) 55.76%
+(c) 72.53% (d) 47.62%
+RRB Group-D — 01/12/2018 (Shift-IT)
+
+Ans: (d) Side of cube = 10 cm (diameter of sphere)
+
+radius of sphere = 5 cm
+
+as per question
+
+Empty place in box = volume of cube — Volume of|
+
+sphere
+
+=10x10x10-3nx5?
+= 1000—523.80
+= 476.19cm*
+. 476.19 100
+P tt f empty pl: boxes =
+ercentage of empty place in boxes 1000
+= 47.619 = 47.62%
+
+296. The area of the cross section of a pipe is 10.4
+cm’ and water flowed through it at a rate of 54
+km/h. If the pipe is always filled with 60%
+flow, then in 5 minutes find the volume of
+water passing through the pipe.
+
+(a) 2808 (b) 2008
+(c) 2010 (d) 2101
+RRB Group-D — 28/11/2018 (Shift-I
+Ans: (a) Volume of taking water by any pipe = cross
+section area x Velocity of water
+=10-4em? x $4km/hx5 minx 22
+100
+42 5 60
+=10.4x10™ m* x54x—m/secx 5x 60secx —
+18 100
+
+= 10.4 x 104m? x 15 x 5 x 36
+
+= 28080 x 10‘m*
+
+= 28080 x 10% x 1000 ¢ .. 1m*= 1000 ¢
+
+= 28080 x 104 x 10° ¢
+
+= 2808 ¢
+
+297. The height of an equilateral triangle is equal to
+one third of the diagonal of a square. What is
+the ratio between the area of the triangled and
+the square?
+
+Mensuration 47:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0055_right.png =====
+(a) V3:v2 (b) 2:9V3
+(c) 3:4V3 (d) V3:6
+RRB Group-D — 26/11/2018 (Shift-IID)
+Ans: (b)
+A A__b_oB
+B a c Db Cc
+height of equilateral triangle = diagonal of square 5
+By - pd = a2
+2 3° bow
+Bye v3
+= atea of equilateral triangle _ 4? _ 4. x22 «2
+area of square b 3y3 x33
+=2:9)3
+298. If the ratio of the area of two squares is 1 : 3,
+what will be the ratio of the perimeter of these
+squares?
+@ 1:3 (b) 1:4
+(©) 1:3 (d) 1:2
+RRB Group-D — 16/11/2018 (Shift-IID)
+Ans. (a) : Area ratio of both squares = 1 : 3
+side's ratio= 1: V3
+Perimeter of square = 4a
+Ratio of both perimeter of square
+=4x1:4xy3 =1:¥3
+299.
+P
+A |7 NX IB
+;
+DZ.
+Rectangle PQRS is formed by cutting two pairs
+of equilateral triangles from the square ABCD
+in the given figure. The total area of the
+severed part is 288 meters’. what will be the
+length of PR in meters?
+(a) 24 (b) V288
+(c) v512 (d) 48
+RRB Group-D — 12/11/2018 (Shift-1
+Ans. (a):
+@) a Pb
+A B
+hs y \ b
+Q Ss
+ca na ©
+Let in ABCD square,
+AP=AQ=CS=CR=am
+PB = BS =DQ=DR=bm
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0056_left.png =====
+According to the question
+Total area of part side = 288 m?
+daxattcaxattxbxb+txbxb=a? +b? =288
+2 2 2 2
+So in PQRS rectangle
+Diagonal (PR) = yP@ +RQ? =V2xa?+2xb?
+= J 2(a? +b*) = ¥2x 288 = /576 = 24m
+300. A wall 4.84 meters long and 3.1 meters high is
+covered for 22 cm x 10cm tiles. If the value of
+each tile is Rs. 1.50, Find the total value of the
+tiles.
+(a) Rs. 1,025 (b) Rs. 1,023
+(c) Rs. 1,022 (d)_ Rs. 1,020 .
+RRB Group-D — 05/11/2018 (Shift-I11.
+Ans. (b) : Length of wall = 4.84 m= 484 cm
+Height of wall = 3.1 m=310 cm
+. 484x310
+Number of tiles = —~—— = 682
+lumber of tiles 2x10
+Cost of a tile = Rs. 1.50
+Total cost of tiles = 682 x 1.50
+=Rs. 1023
+301. A cylindrical container with no lid is to be
+made from a rectangular seat of metal
+measuring 2.2 m x 2 m. The diameter and
+height of the container to be made is the same.
+The cost of manufacturing a container is Rs.
+50. If the diameter of the container is to be
+made 14 cm, Find the total cost price to make
+the full container.
+(a) 3,000 (b) 5,000
+(c) 3,750 (d) 2,500
+RRB Group-D — 02/11/2018 (Shift-II)
+Ans. (a) area of rectangular sheet = ¢ x b
+=2.2 x 100 x 2.1 x 100
+= 220 x 210
+= 46200 square cm.
+According to the question diameter of container is equal]
+to their height So height is = 14 cm. and diameter 14)
+cm. then radius = 7em.
+area of container = surface area of container + area o}
+base of container.
+2nrh+ mr? = 2x Daal 2x7 x7
+=616+154=770 square cm
+Then number of making containers to given seat
+— 46200 _, 60
+770
+So manufacture cost of 60 container from according to
+Rs. 50 per container = 60 x 50 = 3000
+302. The circumference of an equilateral hexagon is
+72 cm. what is its area in cm.?
+(a) 144V3 (b) 216¥3
+(©) 108V3 (4) 363
+RRB Group-D — 02/11/2018 (Shift-II)
+Mensuration 47.
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0056_right.png =====
+Ans. (b) Perimeter of right hexagon = 72cm
+
+6a= 72cm
+
+a= 12cm
+
+area of right hexagon = 6 x By
+
+3
+
+= 6x~=x(12)?
+4 x (12)
+
+= 6x By 144
+4
+
+= 6% 363
+
+= 2163 em?
+
+303. 4 cows are tied on four corners of a 35m square
+area so that he can reach each other which part
+of the area is left from the graze?
+
+(a) 252.5 sqm (b) 162.5sqm
+(c) 262.5 sqm (d) 260.5sqm
+RRB Group-D — 12/11/2018 (Shift-ID
+Ans: (c)
+nay
+
+AB =BC=CD=AD=35m
+
+side of square = 35m
+
+radius of radius section = =
+
+. . md "
+
+So 4 x area of radius section = Axc (6 =90")
+
+2 0
+area of four radius section = 4x 2 x (2 x a
+7 2 360
+22,35 35 1
+=4x=x=x=x-—
+7 2 2 4
+_ 55x35
+2
+=55x 17.5
+= 962.5 m?
+area of square = side?
+= G5)
+= 1225 m°
+grazing left part by cow
+= area of square — area of four radius section
+= 1225.0 — 962.5
+= 262.5 m?
+
+304. If the cost of painting of an 8 meter x 4.5 meter
+wall is Rs. 4500. Find the cost per square
+meter.
+
+(a) Rs. 150 (b) Rs. 125
+(c) Rs. 175 (d) Rs. 160
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (b) area of wall = 8x4.5 = 36.0 Square m
+4500
+cost square per m. va = Rs. 125
+J YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0057_left.png =====
+305. Find the cost of covering a room of 60 dm x 30],
+dm at the rate of Rs. 45 square meter.
+(a) Rs. 877.50 (b) Rs. 87750
+(c) Rs. 87.75 (d)_ Rs. 8775
+RRB NTPC 03.04.2016 Shift : 1
+Ans : (a) Area of room= 65 dm x 30 dm
+= 6.5m. x 3.0m.
+= 19.5 m? (.. 1m= 10 dm)
+«Cost to cover the room = 19.5 x 45 = Rs. 877.50
+306. A closed wooden rectangular box is made of
+one cm thick wood whose outer dimensions are
+as follows length 22cm, breadth 17cm and
+height 12cm. It is completely filled with cement
+what will be the amount of cement in the box?
+(a) 1488 cube cm (b) 3000 cube cm
+(c) 4488 cube cm (d) 2880 cube cm
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (b) length of the wood = 22 cm
+breadth = 17 cm
+height = 12 cm
+rectangular wood is | cm thick So,
+length of cement = 22-2 =20cm
+breadth = 17-2= 15 cm
+height = 12-2 = 10 cm
+quantity of cement = 20 x 15 x 10 = 3000 cubic cm :
+307. How many time will it take for Ramesh to walk
+around a 50 meter square park if he runs at the
+rate of 18 km/h?
+(a) 40 sec (b) 20 sec
+(c) 80 sec (d) 160 sec
+RRB NTPC 18.04.2016 Shift : 1
+Ans : (a) given- Side of square shape park = 50 m
+Perimeter of square shape park = 4 x 50
+= 200 m
+Speed of Ramesh = 18 Knv/h
+= 18x > meter/second
+18
+= 5 meter/second
+Rotate one time of park by Ramesh
+time = = 40 second
+308. The base of a triangle is one-third of the base of a
+parallelogram having the same area as that of the
+triangle. The ratio of the corresponding heights of
+the triangle to the parallelogram will be:
+(a) 3:2 (b) 4:1
+() 3:1 (dd) 6:1
+RRB ALP & Tec. (29-08-18 Shift-I
+Ans : (d) Let base of parallelogram is a and height h,
+again let height of contiguous triangle is hy.
+As per question,
+area of triangle = area of Parallelogram
+La sax hy
+23
+= et
+h, 6
+So height of triangle : height of parallelogram = 6 : 1
+Mensuration 47
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0057_right.png =====
+309. The base of a triangle is five-sixth of the base of a
+parallelogram having the same area as that of the
+triangle. The ratio of the corresponding heights of
+the triangle to the parallelogram will be:
+
+(a) 12:5 (b) 5:12
+(c) 5:3 (d) 6:5
+RRB ALP & Tec. (29-08-18 Shift-IID)
+Ans : (a)
+/ \
+h,
+ED
+ke— Fx
+
+6 —S>—
+
+Let base of Parallelogram = x
+
+then base of A triangle -3x
+
+According to the question,
+
+Sx Sxxh, =xxh,
+5
+
+hah
+
+hy: hy =12:5
+
+310. A well of diameter 3m and depth 14 m is dug.
+The earth, taken out of it, has been evenly
+spread all around it in the shape of a circular
+ring of breadth 4m to form an embankment.
+Find the height of embankment.
+
+1 9
+a) =m b) =m
+(a) 3 (b) 3
+(c) Zim (d) 3m
+RRB ALP & Tee. (21-08-18 Shift-II)
+Ans : (b)
+(es
+1
+h=14,r=2,R=443=21
+2 2 2
+According to the question
+: . mh
+height of the pier (H)= —- >
+ig pier (H) xR) me
+_ mh _3/2)'x14
+m(R’-17) (11/2) - (3/2
+9/4x14 9x14 9
+H=r9 >a? Baym
+4 4
+
+311. From a solid cube of side 7em, a conical cavity
+of height 7 cm and radius 3 cm is hollowed out.
+Find the volume of remaining solid?
+
+(a) 270 cm’® (b) 277 cm*
+(c) 300 cm’ (@) 272 cm’
+RRB ALP & Tec. (20-08-18 Shift-I)
+
+: YCT
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0058_left.png =====
+Ans : (b) volume of cube = (side)*
+Volume of cone = ym
+Volume of left solid = Volume of cube — Volume of cone
+Cube
+A
+OA=h=7cm
+OB=OC=r=3
+= (1) -2n8)°x7
+3
+3 3431 2 303x7 .
+3.7
+=343-66 = 277m’
+
+Volume of left solid = 277 cm’
+
+312. The volume of a right circular cone, whose
+radius of the base is half of its altitude, and the
+volume of a hemisphere are equal. The ratio of
+the radius of the cone to the radius of the
+hemisphere is:
+
+(a) V2: (bo) 42:1
+(©) 1: (d) 2:1
+RRB ALP & Tec. (20-08-18 Shift-I)
+Ans : (c) Let height of right circular cone =h
+
+According to question base radius (r) = a h
+
+2r=h
+
+Volume of cone = Volume of hemisphere
+
+Lith = 2 ae
+3 3
+(3) xh = 21
+2
+2
+(*) x2r = 2p
+3
+r=p> Sel
+q
+
+313. The volume of a right circular cone, whose
+radius of the base is same as its altitude, and
+the volume of a sphere are equal. The ratio of
+the radius of the cone to the radius of the
+sphere is :
+
+Mensuration 47:
+
+
+===== Part 21 — Mensuration (pp. 418–475)_page-0058_right.png =====
+(a) 1:1 (bo) ¥4:1
+() V2:1 (@d) 93:32
+RRB ALP & Tee. (14-08-18 Shift-III)
+Ans : (b) Let radius and height of right circular cone =r,
+and radius of sphere = r,
+-. volume of cone = volume of sphere
+Ly, ata
+3m xn = 3m
+hd
+“ an
+ote Bc =¥4:1
+mH 1
+314, The volume of a right circular cone, whose
+radius of the base is same as one-third of its
+altitude, and the volume of a sphere are equal.
+The ratio of the radius of the cone to the radius
+of the sphere is :
+(a) 1:1
+() 43:42
+(©) ¥4:1
+@) V4.3
+RRB ALP & Tec. (09-08-18 Shift-I)
+Ans : (d) If height of right circular cone is h and radius
+of cone's base r), and sphere's radius r. then—
+Volume of right circular cone =pmih
+- . 4,
+According to the question = 3m
+h .
+i nas h=3n seeeeeeee(i)
+According to the question
+Volume of cone = Volume of sphere.
+putting h = 3r, from equation (i)
+> mi x3n= : 7m
+p 4
+> 452
+5B 3
+5) 4
+> +)=<s
+ia 3
+> nin= V4:%3
+5 YCT

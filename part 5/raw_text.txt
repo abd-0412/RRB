@@ -1,0 +1,3166 @@
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0001_left.png =====
+05.
+Lowest !
+°
+Hig]
+__
+Type - 1
+1. The LCM of 14, 42 and 77 is:
+(a) 168 (b) 308
+(c) 462 (@) 154
+RRB RPF Constable -18/01/2019 (Shift-I
+Ans : (c) Finding the LCM by common division
+method,
+2 114, |42,) 77
+3 n
+Tf [i
+iff. fa
+1
+LCM. =2%3 7x 1
+=6x77
+= 462
+2. Find the LCM of ab’c’, a’be and a°b°c”
+(a) a°b’c? (b) abc
+(c)_ ab*c? (d)_ a’b’c?
+RRB JE - 23/05/2019 (Shift-II)
+Ans ; (c) Finding the LCM by using prime factorization
+method,
+ab’c? = axbxbxexe
+abe =axaxbxc
+a’b’c? = axaxaxbxbxbxexe
+ILCM_= a°b’c?
+3. Find the LCM of (2? x 3? x 5 x 7), (2?x3x5?x7)
+and (2 x3 x 5x7),
+(a) 6300 (b) 7200
+(c) 9000 (a) 8400
+RRB JE - 24/05/2019 (Shift-II1)
+Ans : (a) Finding the LCM by using prime factorization|
+method,
+2 x 3? 5x 7= 1260
+Px 3x5? x7=2100
+2x3x5x7=210
+ILCM = 2x2x3x3x5x5x7=6300
+4, Find the LCM of 60, 120 and 225.
+(a) 360 (b) 1800
+(c) 600 (d) 900
+RRB RPF SI -06/01/2019 (Shift-II)
+LCM & HCF 100
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0001_right.png =====
+°
+Common Multiple &
+1est Common Factor
+—
+Ans : (b) Finding the LCM by using common division
+method,
+2| 60, 120, 225
+2/30, 60, 225
+2/15, 30, 225
+3/15, 15, 225
+3) 5, 5, 75
+5/5; 5 25
+sj;1 1 5
+1 1, 1
+The required LCM
+=2x2x2x3x3x 5x 5=1800
+5. Find the LCM of 6 (xy — y), 8(x"y-xy).
+(a) 24xy (x41) (b) 24(x°=1)
+(c) 24 xy @ @& xy
+RRB JE - 26/05/2019 (Shift-I11)
+Ans : (a) Finding the LCM by prime factorization|
+method,
+6(xy-y) = 6y (x-1) = 2x3 xy (x-1)
+8(x¢y — xy) = 8xy (x? -1)
+= 8xy (x-1) (x?+x+1)
+¢. LCM = 2x2x2x3xy (x-1) (x? + x+1)
+= 24xy (x1)
+6. The LCM of 2.05, 1.05, 2 is equals to what
+among the following?
+(a) LCM of 205/100, 105/100 and 200/100
+(b) LCM of 205, 105 and 200
+(c) LCM of 21/20, 41/20 and 20/20
+(d) LCM of 205, 105 and 200/10
+RRB JE - 30/05/2019 (Shift-Il)
+Ans : (a) From the question,
+2.05 = 205
+100
+1.05 = 105
+100
+2= 200
+100
+So, the LCM of 2.05, 1.05, 2
+= ve or (285 05 20)
+100 100° 100
+J YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0002_left.png =====
+7. The LCM of 36 and K is 72. Find the possible
+value of K.
+(a) 24 only (b) 8, 24,72
+(c) 24,72 (d) 8only
+RRB JE - 27/06/2019 (Shift-I11
+Ans : (b) Given,
+The LCM of 36 and K = 72.
+From options,
+The possible value of K will be = 8, 24 and 72.
+8. The LCM of 112, 72 and 90 is?
+(a) 3780 (b) 7560
+(c) 2520 (d) 5040
+RRB Group-D — 19/09/2018 (Shift-ID)
+Ans. (d) : By using prime factorization method,
+112=2x2x2x2x7
+72=2xX2x2x3x3
+90=2x3x3x5
+7. LCM =2x2x2x2x3x3x5x7=5040
+9 What is the LCM of 72 and 84?
+(a) 12x6x7 (b) 6x2x7
+(c) 12x7x3 (d) 72x84
+RRB Group-D — 03/10/2018 (Shift-I
+Ans : (a) By using prime factorization method,
+72>2x2x2x3x3
+84>2x2x3x7
+LCM=2x2x2x3x3x7=12x6x7
+10. What is the LCM of the two corresponding
+numbers, x and y?
+@ xv w
+x
+©) 1 @ y
+RRB Group-D — 05/10/2018 (Shift-IT
+Ans : (a) The LCM of the numbers x and y= x y
+[Note:- The LCM of the corresponding numbers is its
+product.
+11. The LCM of 36, 27 and 72 is:
+(a) 108 (b) 432
+(©) 324 (d) 216
+RRB Group-D — 31/10/2018 (Shift-ID
+Ans: (d) Finding the LCM by using common division
+method,
+2 |36,] 27,| 72
+2 18
+3 9
+3 [o.[3
+ENE
+1, Jl ft
+Hence, the required LCM = 2x2x2x3x3x3 = 216
+12. The LCM of 16, 24, 36, 52 and 54 is:
+(a) 5616 (b) 5216
+(c) 432 (d) 5618
+RRB Paramedical Exam — 20/07/2018 (Shift-I)
+LCM & HCF 10’
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0002_right.png =====
+Ans : (a) Finding the LCM by using common division
+method,
+2)16, 24, 36, 52, 54
+2] 8, 12, 18, 26, 27
+2) 4, 6, 9, 13, 27
+2/2, 3, 9, 13, 27
+3/ 1, 3, 9, 13, 27
+3] 1 1, 3, 13, 9
+3, Lb I . 1, 3
+Bl. ot ta 1
+1, 1, 1, L 1
+Hence, the required LCM
+= 2x2x2x2x3x3x3x13 = 5616
+13. Find the LCM of 20, 40, 25 and 30:
+(a) 800 (b) 500
+(c) 600 (d) 400
+RRB Group-D — 10/10/2018 (Shift-II)
+Ans : (c) Finding the LCM by using common division
+method,
+2 120, 40, 25, 30
+2 110, 20, 25, 15
+2 15, 10, 25, 15
+3 15, 5, 25, 15
+5 15, 5, 25, 5
+5 1, 1, 5, 1
+lol, i, 1
+Hence, the required LCM = 2x2x2x3x5x5 = 600
+14. The HCF of 290 and 660 is 10. What is their
+LCM?
+(a) 38280 (b) 9570
+(c) 19140 (d) 191400
+RRB Group-D — 10/11/2018 (Shift-I)
+Ans : (c) As we know,
+First number x second number = LCM x HCF
+290 x 660 = LCM x 10
+LCM = 290 x 66
+LCM = 19140
+15. What is the LCM of 21 and 280?
+(a) 560 (b) 1120
+(c) 840 (d) 1680
+RRB Group-D — 05/12/2018 (Shift-I1)
+Ans. (c) Finding the LCM by using common division)
+method,
+2 21,280
+2 21,140
+2 21,70
+3 21,35
+5 7,35
+7 7,%
+1,1
+Hence, the required LCM = 2x2x2x3x5x7 = 840
+y YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0003_left.png =====
+16. What is the LCM of 120 and 280? ;
+(a) 840 (b) 1680
+(c) 1120 (d) 720
+RRB Group-D — 12/12/2018 (Shift-1
+Ans. (a) Finding the LCM by using common division|
+method,
+2 |120,280
+2 | 60,140
+2 30,70
+3 15,35
+5 5,35
+7 1,7
+1,1
+Hence, the required LCM = 2x2x2x3x5x7 = 840
+17. What is the LCM of 94, 188 and 235?
+(a) 940 (b) 705
+(c) 470 (d)_ 1880
+RRB Group-D — 15/10/2018 (Shift-II)
+Ans : (a) Finding the LCM by using common division
+method,
+2 [94, 188, 235
+2 | 47, 94, 235
+5 | 47, 47, 235
+47| 47, 47, 47
+lL olol
+LCM =2 x2 x 5x 47=940
+18. The LCM of 15x° y" and 12x’y’is:
+(a) 60x? y* (b) 25x°y°
+(c) 12x y° (d)_ 15x° y°
+RRB Group-D — 23/09/2018 (Shift-I1)
+Ans : (a) Finding the LCM by using prime
+factorization method,
+15x3y* =3x5xx?xy*
+12xy> =2x2x3xx? xy?
+So, the required LCM
+= 2x2x3x5xx3 xy) = 60x3y9
+19. Find the LCM of 24, 96 and 36.
+(a) 576 (b) 216
+(c) 288 (d) 144
+RRB NTPC 17.01.2017 Shift-2
+Ans: (c) Finding the LCM by using common division|
+method,
+2|24, 96, 36
+2/12, 48, 18
+2/6, 24, 9
+2/3, 12, 9
+2] 3, 6, 2
+3/3, 3, 9
+3] 1, 1, 3
+1 0
+The required LCM = 2 x 2 x2 x2 x2 x3 x 3=288
+LCM & HCF 10!
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0003_right.png =====
+20. Find the LCM of 15, 25 and 29.
+(a) 2335 (b) 3337
+(c) 2175 (d) 2375
+RRB NTPC 02.04.2016 Shift : 2
+Ans : (c) Finding the LCM by using prime
+factorization method,
+15> 1x3x5
+25 1x5x5
+29> 1x 29
+Hence, the required LCM = 1 x 3 x 5 x 5 x 29=2175
+21. Find the LCM of 18, 33 and 37?
+(a) 2442 (b) 7326
+(c) 814 (d) 1221
+RRB NTPC 28.04.2016 Shift : 2
+Ans : (b) Finding the LCM by using common division
+method,
+3|18, 33, 37
+6, 11, 37
+a Hence, the LCM = 3 x 6 x 11 x 37 = 7326
+22. The LCM of 14, 35 and 56 is:
+(a) 280 (b) 140
+(c) 210 (d) 560
+RRB ALP & Tec, (29-08-18 Shift-I,
+Ans : (a) Finding the LCM by using prime factorization
+method,
+14=2x7
+35=5x7
+56=2x2x2x7
+Hence, the required LCM =7 x 5 x 2x2 x2=280
+23. Find the LCM of 34, 51 and 68.
+(a) 238 (b) 204
+(c) 136 (d) 102
+RRB ALP & Tec. (21-08-18 Shift-II)
+Ans : (b) Finding the LCM by using prime
+factorization method,
+34= 2x17
+51= 3x17
+68= 2x2x17
+Hence, the required LCM = 2 x 2 x3 x 17=204
+24. The LCM of 15, 18 and 24 is:
+(a) 540 (b) 3
+(c) 6 (d) 360
+RRB ALP & Tec. (20-08-18 Shift-I)
+Ans : (d) Finding the LCM by using prime
+factorization method,
+15=3x5, 18 = 2x3 x3,
+24 =2x2x2x3
+So, the required LCM =2 x2x2x3x3x5=360
+25. The LCM of the three numbers 16, 28 and 42
+is:
+(a) 168 (b) 2
+(c) 252 (d) 336
+RRB ALP & Tec. (14-08-18 Shift-I)
+3 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0004_left.png =====
+Ans : (d) Finding the LCM by using common division
+method,
+2 | 16 | 28) 42
+2}2 [pal
+s[ [7 [ai
+7[1 [7] 7
+1}1 I
+So, the required LCM = 2 x2x2x2x3x7=336
+26. The LCM of 48 and 54 is:
+(a) 6x8x9 (b) 48x54
+(c) 6x2x9 (d) 6x8x3
+RRB ALP & Tee. (13-08-18 Shift-I
+‘Ans. (a) Finding the LCM by using prime factorization
+method,
+48 = 3x2x2x2x2
+54 = 3x3x3x 2
+So, the required LCM = 3x2x2x2x2x3x3 = 6x8x9
+Type - 2
+27. Find the least number which divided by 16, 24,
+36 and 54, leaves remainder 12, 20, 32 and 50
+respectively?
+(a) 432 (b) 444
+(c) 428 (d) 452
+RRB RPF SI -11/01/2019 (Shift-I1I)
+Ans : (c) According to the question,
+16-12 =4,24-20=4
+36-32=4 ,54-50=4 :
+2 |16, 24, 36, 54
+2 |8, 12, 18, 27
+2 |4, 6, 9, 27
+2 2, 3, 9, 27
+3 |l, 3, 9, 27
+3, 1 3, 9
+a1, 1 1, 3
+1, 1, 1, 1
+So, the required number = (LCM of 16,24,36 and 54)-4
+= 2x2x2x2x3x3 = 432-4 = 428
+28. The largest five digit number, which divided by
+5, 6 and 7, gives remainder 2 in each case.
+What is the number?
+(a) 99958 (b) 99972 .
+(c) 99858 (d) 99962
+RRB RPF Constable -19/01/2019 (Shift-II)
+Ans. (d) : The largest five digit number = 99999
+LCM of 5, 6 and 7 = 5x6x7 = 210
+LCM & HCF 10!
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0004_right.png =====
+So,
+476
+210)99999
+840
+1599
+1470
+1299
+1260
+39
+Remainder = 39
+Hence, the required number = 99999 — 39 = 99960
+But in each condition remainder is 2, so the required
+number = 99960 + 2 = 99962
+29, Find the smallest number that leaves the
+remainder 13, 41 and 29 on being divided by
+20, 48 and 36 respectively.
+(a) 727 (b) 720
+(c) 713 (d) 187
+RRB JE - 30/05/2019 (Shift-1
+Ans : (c) According to the question,
+(20 — 13) = (48 - 41) = (36 — 29) =7
+So, the required number = (LCM of 20, 48 and 36) — 7
+2 | 20 | 48 | 36
+2 18
+2 9
+a 9
+3 9
+3 3
+s[s [a [i
+1 1}1
+L.C.M. =2 x2 x2x2x3x3x5=720-7=713
+30. Find least number which divided by 12, 15, 20
+and 54 leaves a remainder 8 in each case?
+(a) 540 (b) 556
+(c) 532 (d) 548
+RRB JE - 02/06/2019 (Shift-ID
+Ans. (d) The required number = (LCM of 12, 15, 20)
+and 54)+8
+2 | 12] 15 | 20] 54
+2/6 [is [10[77
+3 9
+ss] s[3
+5 i
+rfifijai
+(2x2x3x3x3x5)+8
+= 540 +8 = 548
+31. | What is the smallest number which divided by
+6, 7, 8, 9, and 12, gives remainder 2 in each
+case?
+(a) 508 (b) 608
+(c) 502 (d) 506
+RRB Group-D — 24/10/2018 (Shift-I)
+) YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0005_left.png =====
+Ans: (d) LCM of 6, 7, 8, 9, and 12. .
+2 | 6,7,8,9,12
+2| 3,7,4,9,6
+2) 3;7,2,9,3
+3] 3,7,19,3
+3} 17,13,1
+7) 17,111
+11411
+LCM =2x2x2x3x3x7=504
+gives remainder 2 in each case
+So, the required number = 504 + 2 = 506
+32. What is the smallest number which divided by
+4, 6, 10 and 15, gives remainder 3 in each case? |.
+(a) 58 (b) 126
+(c) 37 (d) 63
+RRB Group-D — 02/11/2018 (Shift-IT.
+Ans. (d) LCM of 4, 6, 10 and 15.
+2 | 4,6,10,15
+2) 2,3,5,15
+3] 1,3,5,15
+5] 1,1,5,5
+LLb1
+LCM  =2x2x3x5=60
+So, the required number = 60 + 3 = 63
+33. What is the greatest number smaller than 5000
+which divided by 5, 6 and 7 respectively, leaves
+remainders of 4, 5 and 6?
+(a) 4830 (b) 4829
+(c) 4845 (d) 4831
+RRB Group-D — 23/10/2018 (Shift-I
+Ans. (b) : According to the question,
+Remainder = 5-4 =1,6-5=1,7-6=1
+ILCM of 5, 6 and 7 = 5x6x7 = 210
+So,
+23
+210)5000
+420
+“800
+630
+170
+Hence, the required number = 5000 — 170 — 1 = 4829
+34. What is the smallest number greater than 3000
+which divided by 4, 7 and 10 respectively,
+leaves remainders of 3, 6 and 9?
+(a) 3079 (b) 3080
+(c) 3081 (a) 3101
+RRB Group-D — 23/10/2018 (Shift-II)
+Ans. (a) : According to the question,
+Remainder = 4-3 =1, 7-6=1, 10-9=1
+LCM of 4, 7 and 10=2 x 2x5x7=140
+Let the number = 140 k -1
+On, putting k = 22,
+‘The required number = 140 x 22 — 1 = 3079
+LCM & HCF 1
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0005_right.png =====
+35. There is a group of 8 children and a dozen
+packets of pencils for distribution. What is the
+minimum number of packets to be distributed
+for each child to get the equal number of
+pencils?
+
+(a) 4 (b) 3
+(c) 2 qd 1
+RRB NTPC 31.03.2016 Shift : 1
+
+Ans: (c) According to the question,
+
+LCM of 12 and 8 = 2x2x2x3 = 24
+
+So, the number of pencils = 24.
+
+Hence, the least number of packets = a =2
+
+36. Find 150% of X, if X is the least number which
+divided by 6, 7, 8, 9 and 12 leaves remainders 2,
+3, 4, 5 and 8 respectively.
+
+(a) 750 (b) 500
+(c) 1000 (d) 1200
+RRB NTPC 18.04.2016 Shift : 1
+Ans : (a) ‘.. The number when divided by 6, 7, 8, 9 and
+12 leaves remainders 2, 3, 4, 5 and 8 respectively.
+6-2=4
+7-3=4
+8-4=4
+9-5=4
+12-8=4
+The number = (LCM of 6, 7, 8, 9 and 12) -4
+2/6|7|8| 9 {12
+2p [72/9 [3
+3[3[7[1]9]3
+GOED
+TJ1/7/; 1) 1}
+1}ijajiya
+= (2x2x2x3x3x7) — 4= 504 — 4 = 500
+So, 150% of the number = 500x 150
+100
+= 5x150= 750
+
+37. Find the smallest number which divided by 12,
+15, 18 and 27, leaves the remainders 10, 13, 16
+and 25 respectively.
+
+(a) 540 (b) 538
+(c) 542 (d) 552
+RRB NTPC 16.04.2016 Shift : 1
+
+Ans : (b) According to the question,
+
+12-10=2
+
+15-13 =2
+
+18-16 =2
+
+27-25=2
+
+Hence, the required number
+
+= (LCM of 12, 15, 18 and 27)-2
+
+) YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0006_left.png =====
+12 =2%2x3
+15=3x5
+18 = 2x3x3
+27 = 3x3x3
+LCM of 12, 15, 18 and 27 = 2x2x3x3x3x5 = 540
+= 540-2 =538
+38. Find the least number which divided by 11, 16,
+21, 25 and 28, leaves remainder 3 in each case.
+(a) 92400 (b) 92597
+(c) 92403 (d) 92000
+RRB NTPC 22.04.2016 Shift : 3 |
+Ans: (c) The required number = (LCM of 11, 16, 21,
+25 and 28) +3
+2 |11 | 16] 21| 25 | 28
+T{IL] 4] 21] 25] 7
+11] 4] 3 425] 1
+=2x2x«x7x IL x 4x 3x 25=92400
+So, the required number = 92400 + 3 = 92403
+39. A natural number when divides by 5, 6, 7 or 8,
+leaves a remainder of 4 in each case. What is
+the smallest of all such numbers?
+(a) 214 (b) 424
+(c) 844 (d) 1264
+RRB ALP & Tec. (21-08-18 Shift-111)
+Ans: (c) LCM of 5, 6, 7, and 8 = 5x7x2x3x4 = 840
+According to the question,
+The required least number = 840 + 4=844
+40. A natural number, when divides by 4, 5, 6 and
+7, leaves a remainder of 3 in each case. What is
+the smallest of all such numbers?
+(a) 63 (b) 423
+(c) 843 (d) 213
+RRB ALP & Tec. (14-08-18 Shift-I])
+Ans : (b)
+The required least number = (LCM of 4, 5, 6 and 7)+3
+= 420+3
+= 423
+41. Find the least number which divided by 20, 25,
+35 and 40 leaves remainder 14, 19, 29 and 34].
+respectively?
+(a) 1364 (b) 1394
+(c) 1384 (@) 1374
+RRB ALP & Tec. (14-08-18 Shift-I)
+Ans: (b) According to the question,
+20-14=6
+25-19=6
+35-29=6 .
+40-34 =6
+Hence, the required number
+LCM & HCF 1h
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0006_right.png =====
+= (LCM of 20, 25, 35 and 40) - 6
+2 | 20 | 25 | 35 | 40
+2 [10] 25 [35 [20
+5 5
+5
+i
+1 1 1} 1
+= (2x2x2x5x5x7)-6 = 1400 — 6 = 1394
+42. What is the smallest number which, divided by
+15 and 20, leaves remainder 9 in each case?
+(a) 60 (b) 65
+(c) 69 (d) 309
+RRB ALP & Tee. (28.08.2015, SHIFT I
+Ans :(c) LCM of 15 and 20
+. 15=3x|5
+, 20=4x|5
+LCM = 3x4x5=60
+So, the required number = 60 + 9 = 69
+Type -3
+43. What is the HCF of 45, 240 and 315?
+(a) 3 (b) 15
+(c) 45 (d) 5
+RRB RPF SI -16/01/2019 (Shift-I
+Ans. (b) : Multiples of given numbers,
+‘S45 =3x3x5=3? x5
+240 = 2x2x2x2x3x5=24 «3x5
+315 =3x3x5x7=3°x5x7
+So, HCF =3 x 5=15
+44. The product of two co-prime numbers is 117.
+Find their HCF.
+(a) 117 (b) 7
+(c) 1 (@ 13
+RRB JE - 25/05/2019 (Shift-I
+Ans : (c) Co-prime numbers Pair of such numbers
+whose HCF is | are called co-prime numbers.
+117 = 13x9
+HCF (13, 9) =1
+45. Find the HCF of 2x3°x5", 5x3x2° and 5°x3x2°,
+(a) 150 (b) 30
+(c) 60 (d) 90
+RRB JE - 25/05/2019 (Shift-ID}
+Ans : (b) On finding the HCF,
+2x Px?
+5x3x2
+Lx3x?
+HCF = 2x 3 x 5=30
+46. Find the HCF of a°b’c’, a’b’c’, abe and a’be.
+(a) a‘bict (b) a°b?c?
+(c) ab’c? (d)_ abe
+RRB JE - 27/06/2019 (Shift-II1)
+[ YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0007_left.png =====
+Ans : (d) On finding the HCF,
+ab’c’=axaxaxbxbxbxexcxe
+abe? =axaxbxbxexe
+abe =axbxe
+abe=axaxbxe
+HCF =axbxc
+Note- For finding the HCF of any expression, always] ||
+take the least power of numbers. )
+47, Find the HCF of 3341 and 3328.
+(a) 257 (b) 337
+(c) 13 (d) 31
+RRB RPF SI -13/01/2019 (Shift-IID)
+Ans: (c) On doing factorization,
+3341 = 13 x 257
+3328 =2x2x2x2x2x2x2x2x 13
+So, the required HCF = 13
+48. What is the HCF of 148 and 370?
+(a) 148 (b) 37
+(c) 74 (d) 2
+RRB RPF Constable -20/01/2019 (Shift-I
+Ans. (c) On finding HCF of 148 and 370,
+148 = 74 x 2
+370 = 74 x 5
+Hence, the required HCF = 74
+49. What is the HCF of 343, 217 and 455?
+(a) 9 (b) 7
+(c) ll (d) 13
+RRB Group-D — 27/11/2018 (Shift-I1T.
+Ans. (b) 343 = 7X7x7
+217 = 7x31
+455 = 5x7x13
+H.CF. =7 }
+50. What is the HCF of 140 and 196? )
+(a) 14 (b) 28
+(c) 21 (d) 42
+RRB Group-D — 06/12/2018 (Shift-IIT
+Ans. (b) : Finding the HCF by factorization method,
+140=2*x2x5x7
+196=2x2x7x7
+So, the required HCF =2 x 2x 7=28
+51. The HCF of 64, 28 and 96 is:
+(a) 1 (b) 8
+(c) 4 (d) 2
+RRB Group-D — 20/09/2018 (Shift-IIT
+Ans : (c) HCF of 64, 28 and 96,
+64 = 2x2x2x2x2x2
+28 = 2x2x7
+96 = 2x2x2x2x2x3
+So, the required HCF = 2x2=4
+52. The value of half of the HCF of 36 and 144 is: |
+(a) 144 (b) 18
+(c) 36 (d) 72
+RRB Group-D — 17/09/2018 (Shift-II1)
+LCM & HCF IL
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0007_right.png =====
+Ans. (b) : On finding the HCF,
+36=2«x2x3x3
+144=2x2x2x2x3x3
+So, the HCF = 2 x 2 x 3 x 3 =36
+So, the required value -% =18
+53. Find the HCF of 306, 204 and 136.
+(a) 54 (b) 68
+(c) 34 (d) 17
+RRB Group-D — 20/09/2018 (Shift-I
+Ans. (c) : On finding the HCF of 306, 204 and 136,
+306 =2 3x3 17
+204=2x2x3x17
+136=2*2x2x17
+So, the required HCF = 2 x 17 = 34
+54. What is the HCF of 30, 42 and 96?
+(a) 8 (b) 6
+(©) 4 (d) 2
+RRB Group-D — 05/10/2018 (Shift-I
+Ans. (b) : On finding HCF of 30, 42 and 96 by division|
+method,
+42
+30) 37 (I
+30
+- ) 24 e
+G) 12 (2
+ar
+6 yet 6
+36
+36.
+XX
+So, the required HCF =6
+55. What is the HCF of 44, 88 and 154?
+(a) 8 (b) 11
+(c) 44 (d) 22
+RRB Group-D — 05/10/2018 (Shift-I
+Ans. (d) : On finding the HCF of given numbers,
+44 =2x2xl1l
+88 =2x2x2x Il
+154=2x 11x7
+So, the required HCF = 2x11 =22
+56. Find the HCF of (5° x 4°), (3° x 5° x 4°) and (3
+x5 x 4),
+(a) 340 (b) 328
+(c) 230 (d) 320
+RRB Group-D — 16/11/2018 (Shift-I
+Ans. (d) HCF of given expression,
+(5° x 4°), (3° x 5? x 44) and (3? x 5 x 4)
+HCF =5x4
+= 5x 64= 320
+57. Find the HCF of 2349, 2835 and 3078.
+(a) 81 (b) 9
+(c) 27 (d) 3
+RRB Group-D — 22/10/2018 (Shift-III)
+J YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0008_left.png =====
+‘Ans : (a) On finding HCF by division method,
+2835)3078
+2835
+243)2835 (11
+243,
+405
+243
+1627243 -U
+162
+81) 162 (2
+162
+xx
+81)2349(29
+162
+729 '
+29
+Xxx
+So, it is clear that the required HCF is 81.
+58.  59x29=1711, then what is the HCF of 6844
+and 354?
+(a) 236 (b) 118
+(c) 177 (d) 59
+RRB Group-D — 15/11/2018 (Shift-1
+Ans. (b) : On finding HCF by division method,
+354 )6844(19
+354
+3304
+3186
+118 y ( 3
+“33h
+XXX
+So, the required HCF = 118
+59. Find the HCF of (3°* 5°x 6), (3°x 3° x56),
+(3° x 3° 5 x 6°)
+(a) 1560 (b) 1600
+(c) 1280 (d) 29160
+RRB Group-D — 15/11/2018 (Shift-III) |
+Ans : (d) : From given expressions,
+Bx x O=> 3x Sx 6
+3? x 3° x 5? x 6 => 37x 5? x 6F
+BxPxSxGwHx5xo
+So, the required HCF = 3° x 5 x 6 =27x 5 x 216
+= 29160
+60. 245 and 343 guests will come on Sohrab’s
+birthday. Chocolate is to be offered to each
+guest. The seller said that she would pack the |,
+chocolate in the carton and take back the
+unopened carton, but she will add the packing
+cost for the carton she has to pack. In this
+situation, how much chocolate should Sohrab
+hold in each carton?
+(a) 77 (b) 7
+(©) 21 (d) 49
+RRB Group-D — 12/11/2018 (Shift-I)
+LCM & HCF 1k
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0008_right.png =====
+Ans. (d) :
+
+The number of the chocolates in each carton = HCF ot
+
+245 and 343
+
+So, on finding the HCF by division method,
+
+245) 343(1
+245
+98) 245( 2
+196
+49) 98(2
+98
+xx
+
+So, the required HCF is 49.
+
+61. The number of students in a school in 4", 5"
+and 6" grade was 188, 282 and 423. If the class
+is divided into sections and each section had the
+same number of students, so what was the total
+minimum number of sections of these three
+classes?
+
+(a) 20 (b) 18
+(c) 19 (d) 17
+RRB Group-D — 12/11/2018 (Shift-IIL
+Ans : (c) On finding the HCF of 188, 282 and 423 by
+division method,
+188 282 (1 94) 423 (4
+188 376
+94) 188 (2 47) 94 (2
+188 94,
+XXX xX
+
+So, HCF = 47
+
+So, the number of students in each section of each class
+
+=47
+
+188 = 4, 282 = 6, 423 =9
+47 47 47
+
+Hence, the total minimum number of sections of three
+
+classes = 4+6+9=19
+
+62. | What is the HCF of 40, 36, 15 and 24?
+
+(a) 1 (b) 5
+() 3 (d) 2
+RRB Group-D — 24/10/2018 (Shift-IID)
+Ans. (a) : On finding HCF by factorization method,
+40=2x2x2x5
+36=2x2x3x3
+15=3x5
+24=2x2x2x3
+So, the required HCF = 1
+63. | What is the HCF of 156, 312 and 195?
+(a) 78 (b) 3
+(c) 13 (d) 39
+RRB Group-D — 11/10/2018 (Shift-I
+Ans : (d) On finding HCF by factorization method,
+156=2*2x*3x 13
+312=2x2x2x3x 13
+195=3x5x 13
+So, the required HCF = 3 x 13 =39
+3 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0009_left.png =====
+64. If HCF of 2x” + 5x - 12 and x’ + x 12 is (xta),
+then find the value of a.
+(a) 3 (b) 2
+() 4 (@) 5
+RRB NTPC 16.04.2016 Shift : 1
+Ans : (c) First term,
+2x? + 5x - 12
+= 2x? — 3x + 8x- 12 |
+=x (2x-3) +4 (2x-3)
+= (x+4) (2x-3)
+Second term,
+=x°+x-12
+=x? +4x—3x-12
+=x (x+4)-3 (x+4)
+=(x +4) (x-3)
+So, from both terms the HCF = (x + 4)
+And, on comparison (x+4) with (x+a) ,=>[a=4]
+65. Find the HCF of 1757, 2259.
+(a) 231 (b) 241
+(c) 251 (d) 261
+RRB NTPC 11.04.2016 Shift : 1
+Ans : (c) On finding the HCF by division method,
+1757 ) 2259 (1
+1757
+$02) 1757 (3
+1506 |
+251) 502 (2
+502
+ered
+So, the required HCF = 251.
+
+66. Sheeba has 24 chocolates, 36 biscuits and 60 ice
+creams to distribute to her classmates. She
+wants each of her classmates to get the same
+number of each thing. What is the maximum
+number of classmates in which she can
+distribute completely without saving a single
+thing? :
+(a) 6 (b) 18
+() 12 (15
+
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (c) According to the question,
+The number of chocolates, biscuits and ice creams is 24,
+36 and 60 respectively.
+So, the number of students = HCF of 24, 36 and 60
+24 = 2x2x2x3
+36 = 2x2x3x3
+60 = 2x2x3x5
+HCF = 2x2x3 =12
+67. What is the HCF of 2189 and 2587?
+(a) 3 (b) 197
+(c) 199 (d) 198
+RRB NTPC 30.04.2016 Shift : 3
+LCM & HCF 1k
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0009_right.png =====
+Ans : (c) On finding the HCF by division method,
+2189 ) 2587 (1
+2189
+398 ) 2189 (5
+1990
+199 ) 398 (2
+398.
+ETE
+So, the required HCF is 199.
+68. The HCF of 56, 140 and 168 is:
+(a) 28 (b) 7
+(c) 14 (d) 4
+RRB ALP & Tec. (30-08-18 Shift-I.
+Ans : (a) On finding the HCF by factorization method,
+56=2x2x2x7
+140=2x2x5x7
+168 =2x2x2x7x3
+So, the HCF =2 x 2x 7=28
+69. The HCF of 162, 54 and 135 is:
+(a) 9 (b) 1
+(c) 27 (d) 3
+RRB ALP & Tee. (21-08-18 Shift-ID)
+Ans : (c) On finding the HCF by division method,
+sa13s2 27) 162( 6
+108 162.
+“27) 54 (2 =
+gc
+x
+So, the required HCF is 27.
+70. The HCF of 24, 60 and 90 is :
+(a) 3 (b) 6
+(c) 12 (d) 4
+RRB ALP & Tec. (20-08-18 Shift-IID)
+Ans : (b) On finding the HCF by division method,
+24)60(2 12)90(7
+48 84
+12)24(2 6)12(2
+24 2
+x x
+So, the required HCF is 6.
+71. The HCF of 20, 28 and 48 is:
+(a) 8 (b) 2
+(ce) 1 @ 4
+RRB ALP & Tec. (14-08-18 Shift-
+Ans : (d) On finding the HCF by factorization method,
+20=2x2x5
+28=2x2x7
+48=2x2x2x2x3
+So, the required HCF =2 x 2=4
+72. The HCF of 36, 54 and 108 is:
+(a) 6 (b) 9
+(c) 18 (d) 12
+RRB ALP & Tec. (14-08-18 Shift-ID)
+Ans : (c) On finding the HCF by factorization method,
+36 = 2x2x3x3
+54 = 2x3x3x3
+108 = 2x2x3x3x3
+So, the required HCF = 2x3x3 = 18
+7 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0010_left.png =====
+73. What is the HCF of 36, 72 and 126?
+(a) 18 (b) 36
+(©) 9 (d) 12
+RRB ALP & Tec. (13-08-18 Shift-ID
+Ans : (a) On finding the HCF by factorization method,
+36= 2x2x3x3
+T2= 2x2x2x3x3
+126=2 x3x3x7
+So, the required HCF = 2 x 3x 3=18
+Type - 1
+74. Find the largest possible length that can be
+used to measure the length of 2m 76cm, 5m
+52cm and 11m 96cm.
+(a) 92cm (b) 11.96cm
+(c) 92m (d) 1196 cm
+RRB RPF SI -12/01/2019 (Shift-IIT)
+Ans: (a)
+2m 76cm = 2x100+76 = 276cm
+5m 52cm = 5x100+52 = 552cm
+Lm 96cm = 11100+96 = 1196em |
+So, the largest possible length = HCF of 276, 552 and
+1196.
+552)1196 (2
+1104
+~92)552(6 92)276 (3
+552 276
+— Xxx
+Xxx
+HCF = 92cm
+75. Find the largest four digit number which}
+divided by 8, 12 and 16, gives remainder 2.
+(a) 9984 (b) 9985
+(c) 9986 (d) 9987
+RRB RPF Constable -22/01/2019 (Shift-ID
+Ans : (c) LCM of 8, 12 and 16
+2/8 12, 16
+2/4, 6 8
+2/2, 3, 4
+2/1 3, 2
+3/1 3, 1
+1 lol
+LCM= 2x2x2x2x3=48
+The largest 4-digit number = 9999
+48 3999 (208
+399
+384
+xI5 .
+So, the largest 4-digit number divisible by 48
+= 9999 — 15 = 9984
+According to the question, the remainder is 2.
+So, the required number = 9984 + 2 = 9986
+LCM & HCF 11
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0010_right.png =====
+76. Find the largest number, which divides 1580
+and 3800, so that the remainder is 8 and 1
+respectively.
+
+(a) 262 (b) 131
+(c) 65.5 (d) 393
+RRB NTPC 19.04.2016 Shift : 2
+
+Ans : (b) The required number = HCF of (1580 — 8)
+
+and (3800 — 1)
+
+So, the HCF of 1572 and 3799
+
+1572)3799 (2
+3144
+“eS5)i57O(2
+1310
+“262)655(2
+524
+131)262(2
+262
+peered
+
+So, the required number is 131.
+
+77. Find such greatest number which gives equal
+remainders in each case when divides 76, 151
+and 226.
+
+(a) 69 (b) 60
+(c) 75 (d) 70
+RRB Group-D — 16/10/2018 (Shift-ITI)
+Ans : (c) If the remainder is same, then
+226-151=75 x1
+151-76 =75 x 1
+226 — 76 = 75 x 2
+So, the required number = HCF of 75, 75 and 150.
+=75
+
+78. What is the largest number which divides 1657
+and 2037, gives remainders 6 and 5
+respectively?
+
+(a) 150 (b) 125
+(c) 127 (d) 130
+RRB Group-D — 05/10/2018 (Shift-I.
+Ans. (c) : 1657 —6 = 1651
+2037 — 5 = 2032
+
+So, the HCF of 1651 and 2032,
+
+1651)2032 (1
+1651
+NTA)
+
+1524
+
+"127)381(3
+381
+xxx
+
+So, the required number is 127.
+
+79. Find the largest number which divides 200 and
+432, gives remainders 2 and 3 respectively.
+
+(a) 24 (b) 8
+(c) 33 (d) 44
+RRB Group-D — 26/11/2018 (Shift-III)
+5 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0011_left.png =====
+Ans: (c) According to the question,
+200-2 = 198
+432-3 =429
+So, the HCF of 198 and 429 is the required number,
+198)429 (2
+396
+“33)198(6
+198
+Xxx
+
+So, the required number is 33.
+
+80. What is the largest number which, divides 63, :
+77 and 98, gives remainders 3, 5 and 2
+respectively?
+
+(a) 10 (b) 9
+(©) 6 (d) 8
+RRB Group-D — 05/11/2018 (Shift-ID
+Ans : (c) According to the question,
+63-3 =60
+71-5=72
+98-2=96
+So, the required number = HCF of 60, 72 and 96.
+60 = 2x2x3x5
+72 = 2x2x2x3x3
+96 = 2x2x2x2x2x3
+HCF = 2x2x3 =12
+
+(While 12 is not in the option but 12 will be divisible by 6. ||}
+
+81. Find the greatest length which can be used to |
+measure exactly three cloth pieces of length
+1.26 m, 1.98 m and 1.62 m respectively.
+
+(a) 12 cm (b) 14 cm
+(c) 16cm (d) 18cm
+RRB NTPC 31.03.2016 Shift : 2
+Ans : (d) The required length = HCF of 126cm,
+198cm and 162 cm.
+126)198 (1 18)162 (9
+126 162
+“72)126(1 Xxx
+72
+“54)R2(1 ,
+54
+18)54(3
+54
+xx
+
+So, the HCF = 18cm.
+
+Hence, the greatest length = 18cm
+
+82. 50 pens, 80 pencils and 65 scales were
+distributed among some students and found
+that five out of each item were not distributed.
+Find the number of students.
+
+(a) 5 (b) 20
+(c) 15 (d) 10
+RRB NTPC 31.03.2016 Shift : 3
+LCM & HCF Al
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0011_right.png =====
+Ans : (c) According to the question,
+50-5 =45
+80-5 =75
+65-5=60
+So, the required number of students = HCF of 45, 75
+and 60.
+45 = 3x3x5
+75 = 3x5x5
+60 = 2x2x 3x5
+So, HCF = 3x5 =15
+83. You have 20 big and 16 small diaries and want
+to make gift packs containing both in each
+pack. What is the maximum number of gift
+packs you can make without any left over?
+(a) 5 (b) 4
+(©) 3 qd) 2
+RRB NTPC 29.03.2016 Shift : 3
+Ans : (b) the maximum number of gift packs = HCF of
+20 and 16.
+16)20(1
+16
+4)16(4
+16
+xx
+So, HCF = 4,
+So, 4 maximum gift packets can be made.
+84. Find such greatest number which gives equal
+remainders in each case when divides 270, 675
+and 1215.
+(a) 45 (b) 135
+(c) 270 (d) 75
+RRB NTPC 19.04.2016 Shift : 3
+Ans : (b) According to the question,
+675-270 = 405 = 3x3x3x3x5
+1215-675 = 540 = 2x2x3x3x3x5
+1215-270 = 945 = 3x3x3x5x7
+HOF = 3x3x3x5 = 135
+So, the required number is 135.
+85. Find such greatest number which gives equal
+remainders in each case when divides 60, 150
+and 285.
+(a) 30 (b) 25
+(c) 45 (d) 55
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (c) HCF of 60, 150 and 285,
+60 = 2x2x3x5
+150 = 2x3x5x5
+285 = 3x5x19
+HICF = 3x5 =15
+So, the number will be 15k where k = 1, 2, 3, ......
+Take k = 3, The required number = 15x3 = 45
+J YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0012_left.png =====
+> 60 = I quotient + 15 remainder
+45
+> ° = 3 quotient + 15 remainder
+> * = 6 quotient + 15 remainder
+«Remainder is same.
+So, the required number is 45. !
+86. Find the greatest number which on dividing
+391 and 318 leaves remainders 7 and 6
+respectively.
+(a) 20 (b) 23
+(c) 24 (d) 32
+RRB NTPC 27.04.2016 Shift : 2
+Ans : (c) According to the question,
+391-7 = 384
+318-6 = 312
+The HCF of 384 and 312,
+384 = 2x2x2x2x2x2x2x3
+312 = 2x2x2x3x13
+© HCF = 2x2x2x3 = 24
+So, the required number is 24.
+Type - 1
+87. What is the HCF of 34 85 and 8
+9 18 45
+17 34
+a) — b) —
+(a) 45 (b) 9
+17 1
+a d) —
+(©) 90 (d) 0
+RRB RPF Constable -25/01/2019 (Shift-I
+Ans: (c) HCF of 34 85 8
+9°18 45
+34 _ 2x17
+9 3x3
+85__ 5x17
+18 3x3x2
+68 _ 2x2x17
+45 3x3x5
+- The HCF of numerator _ 17
+HICF of fractions = The LCM of denominator 90
+88. Find the LCM and HCF of 1.75, 5.6 and 7.
+(a) 24, 0.2 (b) 28, 0.25
+(c) 28, 0.35 (d) 24, 0.35
+RRB JE - 23/05/2019 (Shift-I
+‘Ans: (c)
+_ 175 560 700
+[LCM of 1.75, 5.6 and 7 = LCM of 700" 100 100
+_ The LCM of numerator
+Lom = The HCF of denominator
+LCM & HCF iW
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0012_right.png =====
+— 2800 _ 28
+100
+175 560 700
+HCF of T00°100°100
+— _The HCF of numerator _ 35 _ 035
+The LCM of denominator 100 ~~
+Hence, LCM and HCF = 28 and 0.35
+89. Find the LCM of 36/225, 48/150 and 72/85.
+(a) 144/5 (b) 72/85
+(c) 140/1 (d) 150/22
+RRB JE - 23/05/2019 (Shift-IIT.
+Ans : (a) LCM of given numbers
+— _The LCM of numerator
+The HCF of denominator
+__LCM of 36,48,72
+~ HCF of 225,150,85
+it
+5
+90. Find the GCD of 1.08, 0.36 and 0.9.
+(a) 0.03 (b) 18
+(c) 0.18 (d) 1.8
+RRB JE - 24/05/2019 (Shift-1
+Ans : (c) GCD of 1.08, 0.36 and 0.9
+_ 108 36 90 _ GCD of 108,36,90
+= GCD or HCF of + oq +199" 100 = LCM of 100,100,100
+=18. 0.18
+100
+91. Find the LCM of 1.05 and 2.1.
+(a) 2.1 (b) 0.6
+(c) 1.25 (d) 4
+RRB JE - 26/05/2019 (Shift-1
+Ans : (a) From given numbers,
+1.95 = 105 _ 21
+100 20
+21=2t
+10
+21 21_ The LCM of numerator
+LOM of 20° 10 The HCF of denominator
+a 21
+10
+92. Find the LCM of 2/3 and 6/7.
+(a) 6 (b) 6/21
+(c) 12/21 (d) 2/21
+RRB RPF SI -10/01/2019 (Shift-I
+Ans: (a)
+2 6_ The LCM of numerator
+The LCM of 3.7 “The HCF of denominator
+66
+1
+93. Find the HCF of 36/75, 48/50 and 72/30.
+(a) 144/50 (b) 144/45
+(c) 12/75 (d) 12/150
+RRB JE - 27/05/2019 (Shift-II1)
+y YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0013_left.png =====
+‘Ans: (d)
+36 48 72__ The HCF of numerator
+The HCF of =539°30 ~ The LCM of denominator
+— HCF of 36,48,72 _ 12°
+LCM of 75,50,30 150
+94. LCM ofa set of fractions is:
+(a) LCM of numerators/ HCF of denominators
+(b) HCF of numerators/ LCM of denominators
+(c) LCM of numerators/ LCM of denominators
+(d) HCF of numerators/ HCF of denominators
+RRB JE - 30/05/2019 (Shift-I)
+Ans: (a)
+A The LCM of numerator
+LCM ofa fraction = The HCF of denominator
+95. Find the HCF of 1.43, 1.87 and 20.9.
+(a) 0.011 (b) 0.10
+(©) 11 (d) 0.11
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (d) From given numbers,
+143
+1.43 = 55
+1.37 = 187 '
+100
+2090
+20.9 ==
+09 100
+_— _ The HCF of numerator
+So, HCF of numbers = The LCM of denominator
+ll
+HCF=—— =0.11
+100
+96. Find the HCF of 0.32, 2.72, 12.8 and 14.4.
+(a) 16 (b) 1.6
+() 0.16 (d) 2.72
+RRB NTPC 16.04.2016 Shift : 2
+Ans : (c) From given numbers,
+032-2 | 123-28
+100 10
+22-22, 144-14
+100 10
+So, the HCF of given numbers =
+The HCF of numerator
+The LCM of denominator
+_ HCE of 32,272,128,144 16 _ 5 16
+~"LCM of 100,100,10,10 — 100
+97. The HCF of 28 10 and 32.
+3°9°27 81
+160 160
+a) — b) —
+(a) 3 (b) 81
+2 2
+Onn dp —
+(©) 3 ) 81
+RRB Group-D — 17/09/2018 (Shift-I)
+LCM & HCF ils
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0013_right.png =====
+Ans: (d) HCF of given numbers,
+= _The HCF of numerator
+The LCM of denominator
+=2,8 10 32
+3°9°27'81
+a
+81
+98. What is the HCF of, 2 and & 2
+5°10 25
+3 3
+— b) =
+@® > oF
+18
+c) 18 d=
+(©) qd) 30
+RRB Group-D — 29/10/2018 (Shift-III)
+Ans: (a) The HCF of given fractions,
+38 ong &
+3°10" 25
+—_ The HCF of numerator
+The LCM of denominator
+__HCF of 3,9,6 _ 3.
+LCM of 5,10,25 50
+99. Find the LCM of 0.63, 10.5, 2.1 and 4.20.
+(a) 63 (b) 0.63
+(c) 6.30 (d) 6300
+RRB NTPC 16.04.2016 Shift : 1
+Ans : (a) According to the question,
+0,63= 3 19,5 = 105 9.1 =! 4.29 = 420 2
+100 10 10 100 10
+63 105 21 42
+So, the LCM of Too’ 10° 10° 10
+_ LCM of 63,105,21,42
+HCF of 100,10,10,10
+_21x3x5x2 _ 630 _ 63
+10 10
+100. Find the LCM of 223 and,
+257 17
+(a) 6 (b) 18
+(c) 24 (d) 12
+RRB Group-D — 25/09/2018 (Shift-I
+Ans : (d) LCM of fractions
+= The HCF of numerator
+The LCM of denominator
+= LCM of 1,246 12 _ 15
+HCF of 2,5,7,17 1
+101. Find the HCF of 747.
+915 10
+7 7
+— b) ——
+® 3 © FB
+7 14
+_ d) —
+O 4% @ 4
+RRB Group-D — 05/11/2018 (Shift-II1)
+3 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0014_left.png =====
+Ans. (a) HCF of given fractions
+= The HCF of numerator
+The LCM of denominator
+HCE of 7,14,7 7
+* LCM of 9,15,10 90
+102. What is the HCF of Bw and 40.
+14:35 49
+1 3
+= by)
+5 ® 490
+1 1
+— d) —
+© 400 © 9
+RRB Group-D — 25/10/2018 (Shift-1)
+Ans : (c) The HCF of given fractions,
+— HCF of 15,12,40
+LCM of 14,35,49
+So, HCF of 15, 12 and 40,
+15 = 3x5
+12 =2x2x3
+40 = 2x2x2x5
+HCF =1
+And LCM of 14, 35 and 49,
+14=2x7
+35 =5x7
+49 =7x7
+LCM =7x2x5x7 = 490
+. 1
+So, the required HCF = 40
+103. What is the LCM of 9 ; 5 and2 ?
+8 16 40
+135
+a) 135 b) —
+(a) (b) 80
+7 3
+c) 16— d) 33—
+(©) 8 @) 337
+RRB Group-D — 23/10/2018 (Shift-IIl)
+Ans: (c) LCM of 9, 15 and 27 = 135
+HCF of 8, 16 and 40 = 8
+F _ The LCM of numerator
+So, the required LCM = The HCF of denominator
+— 135_ 467
+“3 7/88
+104, Find the LCM of 17/31, 34/62 and 48/93.
+(a) 816/31 (b) 802/31
+(c) 912/31 (d) 804/31
+RRB NTPC 04.04.2016 Shift : 3
+Ans : (a) The LCM of given fractions,
+LCM of 17, 34 and 48,
+LCM & HCF 11!
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0014_right.png =====
+17 =1x17
+34 =1x2x17
+48 = 1x2x2x2x2x3
+LCM =1x2x2x2x2x3x17 = 816
+HCF of 31, 62 and 93,
+31=1x31
+62 = 1x2x31
+93 = 1x3x31
+HCF =1x31=31
+: The LCM of numerator
+So, the required LCM = =r TICE of denominator
+= 816
+31
+105. Find the LCM of the following.
+2/3, 8/9, 16/27, 32/81
+(a) 32/81 (b) 81/32
+(c) 323 (d) 11/41
+RRB NTPC 12.04.2016 Shift : 3
+Ans : (c) According to the question,
+2 8 16 32_ LCM of 2,8,16and32
+LCM of 5 -9°27°81 HCF of 3,9,27and81
+22
+3
+2 20 4 8
+106. Find the LCM of —,—,—,—,
+me eOf= 30" 40 5060
+40 2
+a b) =
+® 300 ® i
+1
+© 4 @ 4
+RRB NTPC 11.04.2016 Shift : 3
+Ans: (d) LCM of the fractions
+_ _The LCM of numerator
+The HCF of denominator
+= LCM of 2,20,4,8 _ 40 _ 4
+~ HCF of 30,40,50,60 10 —
+107. Find the LCM of 13/31, 23/62 and 48/93.
+(a) 14352/31 (b) 14452/31
+(c) 15432/31 (4) 12534/31
+RRB NTPC 10.04.2016 Shift : 3
+Ans: (a) LCM of the fractions
+_ _The HCF of numerator
+The LCM of denominator
+_ LCM of 13,23,48 _ 14352
+HCF of 31,62,93. 31
+108. Find the LCM of 42 and>
+53 7
+(a) 25 (b) 20
+(c) 40 (d) 30
+RRB ALP & Tec. (09-08-18 Shift-III)
+) YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0015_left.png =====
+Ans : (b) LCM of the fractions
+_ The LCM of numerator
+~ The HCF of denominator
+= ECM of 42,5 _ 20 _ 44
+HCF of 5,3,7. 1
+Type - *
+109. Find the HCF and the LCM of 570 and 1425.
+(a) 285, 2750 (b) 285, 2850
+(c) 289, 2650 (d) 185, 2850
+RRB RPF Constable -19/01/2019 (Shift-II)
+Ans : (b) HCF of given numbers,
+570 = 2x3x5x19
+1425 = 3x5x5x19
+HCF = 3x5x19 = 285
+LCM of given numbers,
+2 |570 1425
+3] 285 1425
+5 | 95 475
+5| 19 95
+19 | 19 19
+1 1
+LCM = 2x3x5x5x19 = 2850
+110. The HCF and LCM of two numbers are 12 and
+720 respectively. How many possible pairs are
+of these numbers?
+(a) 3 (b) 4
+(c) 2 (1
+RRB RPF SI -05/01/2019 (Shift-I)
+_ LCM
+Ans. (b) : Product of co-factors = CE
+= 7206
+12
+Possible pairs - (1, 60), (4, 15), (3, 20), (5, 12)
+So, the number of possible pairs is 4.
+111. Find the LCM and HCF of inverse of 18 and
+24,
+(a) 1/6. 1/4 (b) 72.6
+(c) 1/72. 1/6 (d) 1/6.1/7
+RRB JE - 22/05/2019 (Shift-I)
+Ans : (c) Inverse of 18 = i
+1
+Inverse of 24 = oy
+1 1_ LCMof11 _1
+LCM of 1§-34" HCF of 18,24 6
+1 1_ HCFofl1 _1
+HCF of 7g +24 LCM of 18,24 72
+LCM & HCF 12
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0015_right.png =====
+112. Two numbers are in a ratio 3:5. Their LCM is
+75. Find their HCF.
+(a) 3 (b) 5
+(c) 4 (d) 15
+RRB JE - 22/05/2019 (Shift-IIT.
+Ans : (b) Let the numbers be 3x and 5x.
+So, LCM of 3x and 5x = 15x
+According to the question,
+15x = 75
+75
+x=—
+15
+x=5
+So, both the numbers will be,
+3x=3x5=15
+5x=5x5=25
+So, the HCF of 25 and 15 =5
+113. The LCM and the HCF of two numbers are
+693 and 11 respectively. If one is 99, find the
+other number.
+(a) 77 (b) 79
+(c) 12 (d) 34
+RRB JE - 26/05/2019 (Shift-I11
+Ans: (a)
+LCM x HCF = First number x Second number
+693 x 11=99 x Second number
+So, the second number = ed =77
+114. Three numbers in the ratio 3:4:5 have the
+LCM 2400. What is the HCF?
+(a) 80 (b) 40
+(c) 120 (d) 200
+RRB JE - 27/05/2019 (Shift-1
+Ans : (b) Let the numbers are 3x, 4x and 5x.
+So, the LCM of 3x, 4x and 5x = 60x.
+=> 60x = 2400
+=> x= 40
+So, the numbers = 120, 160, 200
+HCF of 120, 160, 200
+120 >2x2x2x3x5
+160 >2x2x2x2x2x5
+200 > 2x2x2x5x5
+Hence, HCF =2x2x2x5=
+115. The LCM and the HCF of two numbers are
+2400 and 16 respectively. If one is 480, find the
+other number.
+(a) 40 (b) 60
+(c) 90 (d) 80
+RRB RPF SI -06/01/2019 (Shift-II1)
+Ans : (d) According to the question,
+LCM = 2400
+HCF = 16
+First number = 480
+: LCM x HCF = First number x Second number
+2400 x 16=480 x Second number
+2400x16
+Second number = > 80
+) YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0016_left.png =====
+116. The product of two numbers is 2772 and their
+LCM is 462. Find the HCF of these numbers.
+(a) 18 (b) 21
+(c) 6 (d) 42
+RRB RPF Constable -19/01/2019 (Shift-IID)
+Ans : (c) Product of two numbers = LCM x HCF
+2772 = 462xHCF
+cr = 272
+462
+=6
+117. The HCF of two numbers in the ratio 15:11 is
+13. Find their LCM.
+(a) 4290 (b) 2145
+(c) 27885 (d) 165
+RRB JE - 02/06/2019 (Shift-IIT.
+Ans : (b) Let the numbers are 15x and 11x.
+HCF =x
+x=13
+So, the numbers are 15x13 =195, 11x13 =143.
+So, the LCM of 195 and 143,
+195 = 3x5x13
+143 = 11x13
+LCM = 3x5x11x13 = 2145
+118. The sum of the LCM and the HCF of two
+numbers is 372. If LCM is equal to 92 times of
+HCF and one number is 368, find the other
+number.
+(a) 360 (b) 4
+(c) 92 (d) 96
+RRB JE - 01/06/2019 (Shift-IIL
+Ans. (b) Let HCF = x
+Then LCM = 92x
+ILCM + HCF = 372
+92 x +x = 372
+372
+xort
+93
+x=4
+[LCM x HCF = First number x Second number
+92xxx = 368x Second number
+92xxxx  92x4x4
+Second number = 368 368 = 4
+119. The product of two numbers is 3192 and their
+LCM is 56, then find their HCF.
+(a) 58 (b) 59
+(c) 56 (d) 57
+RRB RPF Constable -17/01/2019 (Shift-I
+Ans: (d) Product of the numbers = 3192
+LCM = 56
+_ Product of numbers
+So, HCF = —T7
+3 Loy
+56
+LCM & HCF 12)
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0016_right.png =====
+120. The LCM of two positive integers x and y (x >
+y) is xy. What is the HCF of both the numbers?
+(a) 1
+(b) x+y
+(c) Cannot be determined
+(d) x-y
+
+RRB Group-D — 03/12/2018 (Shift-IID)
+Ans. (a) : LCM x HCF = First number x Second
+number
+xy x HCF =xxy
+\ HCF =1
+
+121. The LCM of two numbers is 2604 and HCF is
+12. If one from them is 84, then find the other
+number.
+
+(a) 327 (b) 273
+(c) 372 (d) 237
+RRB Group-D — 25/09/2018 (Shift-II1)
+Ans. (c) : According to the question,
+LCM = 2604 and HCF = 12
+First number = 84
+Let the other number is x.
+Formula—
+LCM x HCF = First number x Second number
+2604 x12 =84x x
+x = 260412 _ 2604 _ 47,
+84 7
+
+Hence, the other required number is 372.
+
+122. The HCF and LCM of two numbers are 29 and
+1015 respectively. If one from them is 145, then
+what is the other number?
+
+(a) 203 (b) 319
+(c) 361 (d) 377
+RRB Group-D — 05/12/2018 (Shift-II.
+Ans : (a) Let the other number is x.
+LCM x HCF = First number x Second number
+29x 1015 =145 xx
+291015 _ 29435
+x15 ras 73
+
+Hence, Second number = 203
+
+123. The LCM of two numbers is 2268. If their HCF
+is 12 and one of them is 324 then, what is the
+other number?
+
+(a) 189 (b) 84
+(c) 7 (d) 27
+RRB Group-D — 27/11/2018 (Shift-II.
+Ans. (b) Let the other number is x.
+LCM x HCF = First number x Second number
+x x 324 = 2268 x 12
+2268 x12
+x= seen’
+324
+27216
+x= fe’
+324
+x= 84
+So, the other required number is 84.
+[ YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0017_left.png =====
+124. The HCF of 560 and one other number is 70
+and their LCM is 2800. The other number is:
+(a) 840 (b) 350
+(c) 700 (d) 280
+RRB Group-D — 16/11/2018 (Shift-I1)
+Ans. (b) :
+First number x Second number = HCF x LCM
+560 x Second number = 70 x 2800
+Second number = =
+560
+= 2800 _ 350
+8
+125. The HCF of 296 and other number is 74 and
+their LCM is 2072. The other number is:
+(a) 1036 (b) 518
+(c) 592 (d) 148
+RRB Group-D — 15/11/2018 (Shift-1
+‘Ans: (b) As we know,
+First number x Second number = LCM x HCF
+296 x Second number = 2072 x 74
+2072 x 74
+Second number 296
+2072
+4 518
+126. The LCM of two numbers is 42 times their
+HCF. The sum of LCM and HCF is 602. If one
+from them is 84, then find the other number.
+(a) 98 (b) 78
+(c) 87 (d) 89
+RRB Group-D — 15/11/2018 (Shift-ID)
+Ans: (a) LCM = HCF x 42
+LCM + HCF = 602
+HCF x 42 + HCF = 602
+HCF (42 + 1) = 602
+HCF = 602 14
+43
+So, First number x Second number = LCM x HCF
+84 x Second number = 14 x 42 x 14
+Second number = ween =98
+127. Find the HCF and the LCM of 60 and 72
+respectively.
+(a) 16 and 360 (b) 12 and 260
+(c) 12 and 360 (d) 10 and 360
+RRB Group-D — 05/11/2018 (Shift-I
+Ans. (c) : On finding HCF by factorization method,
+60=2x2x3x5
+72 =2x2x2x3x3
+HCF = 2x2x3 = 12
+And finding the LCM by factorization method,
+60=2x2x3x5
+72 =2x2x2x3x3
+ILCM=2x 2x 2x 3x 3x 5=360
+So, the HCF is 12 and the LCM is 360.
+LCM & HCF 12:
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0017_right.png =====
+128. The HCF of two numbers is 110 and their
+product is 290400. The LCM of these numbers
+is:
+
+(a) 1980 (b) 3960
+(c) 1320 (d) 2640
+RRB Group-D — 05/11/2018 (Shift-III)
+Ans. (d) :
+LCM x HCF = First number x Second number
+LCM x 110 = 290400
+290400
+LCM = =———
+c 110
+= 2640
+
+129. The ratio of two numbers is 7:11 and their
+HCF is 8. What is the LCM of these numbers?
+(a) 1540 (b) 924
+(c) 616 (d) 308
+
+RRB Group-D — 05/11/2018 (Shift-I1])
+
+Ans. (c) : According to the question,
+
+Ratio of the numbers = 7:11
+Let the numbers are 7x and 11x
+HCF of 7x and 11x =x
+HCF = 8
+x=8
+So, the numbers = 56, 88.
+: LCM x HCF = First number x Second number
+LCM x8 = 56 x88
+Lco = 56%88
+8
+= 56x11
+=616
+
+130. The LCM and HCF of two numbers are 171360
+and 14 respectively. If one from them is 2142
+then find the other number.
+
+(a) 12240 (b) 4128
+(c) 1120 (d) 80
+RRB Group-D — 25/10/2018 (Shift-ID
+Ans : (c) LCM HCF = First number x Second number
+171360 x 14 = 2142 x Second number
+— 17136014
+Second number 14
+=1120
+
+131. If the LCM and HCF of two integers are 2184
+and 2 respectively, and one from them is 78,
+then find the other number.
+
+(a) 78 (b) 56
+(c) 34 (d) 68
+RRB Group-D — 24/10/2018 (Shift-III)
+Ans. (b) : Let the other number is x.
+Product of the numbers = LCM x HCF
+78 x x=2184x2
+_ 2184 x2 _ 56
+78
+J YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0018_left.png =====
+132. If the product of two numbers is 3026 and their
+LCM is 89 then, their HCF is:
+(a) 33 (b) 34
+(c) 35 (d) 29
+RRB NTPC 17.01.2017 Shift-1
+Ans: (b) From formula,
+Product of two numbers = LCM x HCF
+3026 = 89 x HCF
+3026
+HCF = <n
+=34
+133. If the product of two numbers is 4941 and their
+LCM is 81 then, what is their HCF?
+(a) 60 (b) 59
+(c) 35 (d) 61
+RRB NTPC 17.01.2017 Shift-3
+‘Ans : (d) From formula,
+Product of two numbers = LCM x HCF
+4941= 81 HCF
+4941
+HCF = 3 61
+134, The ratio of two number is 8:9 and their HCF
+is 6. Their LCM will be:
+(a) 432 (b) 54
+(c) 48 (d) 423
+RRB NTPC 17.01.2017 Shift-3
+Ans: (a) According to the question,
+HCF of both numbers = 6
+And their ratio is 8:9,
+So, the First number = 8 x 6 = 48
+Second number = 9 x 6 = 54
+[LCM x HCF = First number x Second number
+48 x 54=6 x LCM
+LOM = as
+LCM = 432
+135. The LCM and HCF of two numbers are 616
+and 2 respectively. If one is 22 then, find the
+other number.
+(a) 87 (b) 56
+(c) 116 (d) 36
+RRB NTPC 03.04.2016 Shift : 3
+Ans : (b) Let the other number is y.
+From formula,
+LCM x HCF = First number x Second number
+22 x y=616 x2
+_ 616x2
+ars)
+y=56
+136. The HCF and LCM of two numbers are 7 and
+252 respectively. If one is 28 then, find the
+other number.
+(a) 252 (b) 63
+(c) 126 (d) 56
+RRB NTPC 02.04.2016 Shift : 1
+LCM & HCF 12:
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0018_right.png =====
+Ans : (b)
+LCM ~x HCF = First number x Second number
+7 x 252 = 28 x Second number
+Second number = Tes = 63
+137. The HCF and LCM of two numbers are 3 and
+2730 respectively. If one is 78 then, find the
+other number.
+(a) 107 (b) 103
+(c) 105 (d) 102
+RRB NTPC 02.04.2016 Shift : 2
+Ans : (c) According to the question,
+HCF =3
+LCM = 2730
+N|=78
+N,=?
+from formula,
+N,= LCM x HCF
+N
+N= 2730x3
+78
+N2 = 105
+138. HCF of two numbers is 19 and their LCM is
+665. If one is 95, then find the other number.
+(a) 19 (b) 133
+(c) 190 (d) 77
+RRB NTPC 16.04.2016 Shift : 3
+Ans : (b) Let the other number is N.
+From formula,
+LCM x HCF = First number x Second number
+95 x N= 19 x 665
+N= 19x 665
+95
+N= 665
+5
+N= 133
+139. The LCM and HCF of two numbers are 3 and
+2001 respectively. If one is 69, then find the
+other number.
+(a) 58 (b) 87
+(c) 29 (d) 23
+RRB NTPC 10.04.2016 Shift : 3
+Ans : (b) from question,
+First number x Second number = LCM x HCF
+69 x Second number = 2001*3
+Second number = 003 _ 87
+69
+Hence, Second number = 87
+140. The product of two numbers is 3276 and LCM
+is 63, then find their HCF.
+(a) 54 (b) 51
+(c) 53 (d) 52
+RRB NTPC 07.04.2016 Shift : 2
+3 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0019_left.png =====
+Ans: (d) As we know,
+First number x Second number = LCM x HCF
+3276 = 63 x HCF
+3276
+HCF = 63 52
+141. Find the HCF and LCM of 16 and 24.
+(a) 8, 48 (b) 4, 12
+(c) 2, 24 (d) 4, 48
+RRB NTPC 06.04.2016 Shift : 1
+Ans : (a) On doing factorization,
+16 =2x2x2x2
+24=2x2x2x3
+So, HCF =2x2x2=8
+And LCM = 2x2x2x2x3=48
+142. The ratio of two numbers is 21:29 and HCF is
+8, then their LCM is:
+(a) 4872 (b) 168
+(c) 232 (d) 4782
+RRB NTPC 26.04.2016 Shift : 2
+Ans : (a) Let the numbers are 21x and 29x.
+HCF = 8
+So, first number = 21 x 8 = 168
+Second number = 29 x 8 = 232
+On, finding the LCM by factorization method,
+168 = 2x2x2x3x7
+232 = 2x2x2x29
+LCM = 2x2x2x3x7 x29 = 4872
+143. The LCM of three numbers is 4752 and the
+HCF is 6. If two numbers are 48 and 66, find
+the third number.
+(a) 54 (b) 56
+(c) 58 (d) 52
+RRB NTPC 29.04.2016 Shift : 3
+Ans. (a) : Let the third number is x.
+According to the question,
+-: HCF of all three numbers is 6.
+The number in options which is divisible by 6 will be
+the third number.
+So, from options, only 54 is divisible by 6.
+144, If the product of two numbers is 3276 and their
+LCM is 63, then find their HCF.
+(a) 32 (b) 76
+(c) 52 (d) 53
+RRB NTPC 30.04.2016 Shift : 3
+Ans : (c) Product of numbers = LCM x HCF
+Product of numbers
+HCF = —TeM
+3276
+HCF = 63
+HCF =52
+LCM & HCF 12.
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0019_right.png =====
+145. The ratio of two numbers is 5:7, and their HCF
+is 33, what is their LCM?
+(a) 1155 (b) 165
+(c) 231 (d) 1515
+RRB NTPC 30.04.2016 Shift : 3
+Ans : (a) According to the question,
+HCF = 33
+The ratio of numbers = 5:7
+So, the first number = 5 x 33 =165
+And the second number = 7 x 33 = 231
+231x165
+LCM = —3:~O 1155
+146. The HCF of two numbers is 12 and their LCM
+is 72. If one of them is 24, then the other
+number is:
+(a) 48 (b) 60
+(c) 36 (d) 72
+RRB ALP & Tec. (21-08-18 Shift-II)
+Ans : (c)
+LCM ~x HCF = First number x Second number
+72 x12 = 24 x Second number
+12x72
+Second number = var
+=36
+147. The ratio of two numbers is 14:9 and their
+HCF is 15. What is the LCM of these numbers?
+(a) 1890 (b) 2520
+(c) 1260 (d) 630
+Ans. (a) : Let the numbers are 14x and 9x
+HCF = 15
+So, the first number = 14x 15=210
+The second number = 9x 15 = 135
+-s LCM x HCF = First number x Second number
+LCM x15 = 210x135
+210 x 135
+LCM = “5
+= 1890
+148. The product of two numbers is 30. If one from
+them is 1.25, then what is the other number?
+(a) 18 (b) 24
+(c) 20 (d) 21
+RRB Paramedical Exam — 21/07/2018 (Shift-I])
+Ans : (b) Let the other number is x.
+According to the question,
+1.25 x x=30
+= 30. _ 3000
+1.25 125
+x= 24
+} YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0020_left.png =====
+149, Find the ratio of the LCM and HCF of the
+numbers 99 and 15.
+(a) 165:1 (b) 3:55
+(c) 165:3 (d) 1: 165
+RRB JE - 28/05/2019 (Shift-IT
+Ans : (a) LCM of 99, 15
+3 | 99,15
+3 | 33,5
+5 11,5
+i] itt
+11
+ILCM = 3 x 3x 5x 11 =495
+HCF of 99, 15
+99 = 3x3x11
+15 = 3x5
+HCF = 3
+. .. _ LCM _ 495
+So, the required ratio = HCE 37 165:1
+150. Two numbers are in a ratio 4:5. Their LCM is
+180. Find their sum.
+(a) 70 (b) 90
+(c) 72 (d) 81
+RRB JE - 24/05/2019 (Shift-I1T.
+Ans : (d) Let the numbers are 4x and 5x.
+The LCM of 4x and 5x = 20x
+According to the question,
+20x = 180
+x=9
+So, the numbers are 36 and 45.
+Hence, the required sum = 36 + 45 = 81
+151. Which number is a factor of all numbers?
+(a) 2 (b) 1
+() -l (d) 0
+RRB JE - 25/05/2019 (Shift-IL
+[Ans : (b) 1 is a factor of all numbers.
+/Example-
+12=1x2x2x3
+15=1x3x5
+152. Two numbers are in a ratio 4:5 and their LCM
+is 100. Find their difference.
+(a) 20 (b) 25
+(c) 5 (d) 10
+RRB RPF SI -11/01/2019 (Shift-IIT)
+Ans : (c) Let the numbers are 4x and 5x.
+According to the question,
+The LCM of 4x and 5x = 20x
+20x = 100
+x= 5
+So, the required difference = 5x —-4x=x=5
+LCM & HCF 12:
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0020_right.png =====
+153. If two numbers, whose HCF is 9, are in a ratio
+5:7, then find their difference.
+(a) 12 (b) 18
+(c) 8 (d) 24
+RRB JE - 28/06/2019 (Shift-IIL.
+Ans. (b) Let the numbers are 5x and 7x.
+HCF of 5x and 7x =x
+Ve x=d
+So, the required difference = 7x — 5x = 2x
+=2x9=18
+154. The ratio of two numbers is 5:6 and their LCM
+is 150. Find their sum.
+(a) 50 (b) 55
+(c) 60 (d) 54
+RRB Group-D — 16/10/2018 (Shift-II1)
+Ans : (b) Let the numbers are 5x and 6x respectively.
+LCM of 5x and 6x = 30x.
+According to the question,
+30x = 150
+x=5
+So, the numbers = 25 and 30
+So, the required sum = 25 + 30 = 55
+155. The LCM of two numbers is 120 and the sum
+of their squares is 289. The sum of these
+numbers is:
+(a) 23 (b) 28
+(c) 32 (d) 26
+RRB Group-D — 22/10/2018 (Shift-II1)
+Ans : (a) Let the numbers are a and b.
+a’ +b? = 289
+ab = 120
+a=15
+b=8
+at+tb=15+8=23
+156. The division of two numbers gives 6 and their
+product is 96. Find the product of the sum and
+the difference of these numbers.
+(a) 540 (b) 560
+(c) 592 (d) 9180
+RRB Group-D — 24/10/2018 (Shift-IT.
+Ans. (b) Let the numbers are x and y.
+According to the question,
+*=6=x=6y-----()
+y
+xy =96---—~(ii)
+On putting the value of equation (i) in equation(ii),
+6y.y =96
+by? =96
+y? =16
+y=4
+2X =6x4=24
+So, the required value,
+(x+y)(x-y)=(24+4)x(24-4)
+=28x20=560
+5 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0021_left.png =====
+157. Which is the second greatest factor of 56 and
+84?
+(a) 23 (b) 18
+() 14 (d) 24
+RRB Group-D — 26/10/2018 (Shift-IIL
+Ans : (c) On doing factorization,
+56=2x2x2x7
+84=2x2x3x7
+
+The first greatest factor = 7 x 2 x 2=28
+
+The second greatest factor = 7 x 2= 14
+
+158. What is the smallest number with 7 factors
+exactly?
+
+(a) 100 (b) 36
+(c) 64 (d) 16
+RRB Group-D — 03/12/2018 (Shift-IID
+
+Ans. (c) The number of factors of a* x bY x c”
+
++ (x+1)x(y+1)x(z+1) where a, b, c are prime numbers.
+
+So,
+
+100 = The number of factors of 2?x5? = (2+1) (2+1) =9
+
+36 = The number of factors of 2?x3? = (2+1) (2+1) =9
+
+64 = The number of factors of 2° = (6+1) =7
+
+16 = The number of factors of 2*= (4+1) =5
+
+So, it is clear that the required smallest number 7 factors|
+
+exactly is 64.
+
+159. The LCM of two numbers is 78. And the ratio
+of these numbers is 2:3. Find the sum of these
+numbers.
+
+(a) 60 (b) 26
+(c) 65 (d) 39
+RRB NTPC 30.03.2016 Shift : 2
+Ans : (c) Let the numbers are 2x and 3x.
+So, the LCM = 78
+2x3xx=78
+x= 13
+
+So, the required sum = (5x) = 5x13 = 65
+
+160. What is the highest common factor of 360 and
+450?
+
+(a) 90 (b) 45
+() 10 (d) 9
+RRB NTPC 29.03.2016 Shift : 3
+
+Ans ; (a) Note- The greatest factor of two numbers is
+
+their HCF.
+
+So, on finding the HCF by division method,
+
+360)450 (I
+360
+90)360(4
+360
+Xxx
+
+So, the HCF is 90.
+
+161. If P is the largest number which, when divides
+60, 150 and 285, gives the same remainder in
+each case, then find the sum of digits of p.
+
+(a) 7 (b) 5
+() 4 (@ 9
+RRB NTPC 19.04.2016 Shift : 3
+LCM & HCF 120
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0021_right.png =====
+Ans : (d) The required number = The HCF of (150 -
+60), (285 — 150) and (285 - 60)
+90=2«3x3x5
+135=3x3x3x5
+225=3x3x5x5
+HCF = 3 x 3 x 5=45
+So, the required sum =4+5=9
+162. The ratio of three numbers is 2:3:6 and their
+HCF is 45, Find the sum of the numbers.
+(a) 405 (b) 455
+(c) 495 (d) 525
+RRB NTPC 18.04.2016 Shift : 2
+Ans : (c) The given ratio = 2:3:6
+And HCF = 45
+.. Numbers > 2 x 45 = 90
+=> 3x 45= 135
+=> 6 x45 =270
+So, the required sum = 90 + 135 + 270 = 495
+163. The LCM of two numbers is 66. The ratio of
+the numbers is 2:3. The sum of the numbers is:
+(a) 60 (b) 55
+(c) 50 (d) 65
+RRB NTPC 06.04.2016 Shift : 1
+Ans : (b) The ratio of the numbers is 2:3.
+Let the numbers are 2x and 3x.
+The LCM of 2x and 3x = 2x3xx = 6x
+According to the question,
+6x =66>x=I11
+So, the required sum = 2x +3x =5x =5x11=55
+164. The LCM of two numbers is 48. The ratio of
+both the numbers is 1:2, Find the sum of the
+numbers.
+(a) 60 (b) 40
+(c) 20 (d) 45
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (b) Let the numbers are 3x and 2x.
+According to the question,
+LCM = 48
+6x = 48
+x=8
+So, the numbers = 24, 16
+So, the required sum = 24 + 16 = 40
+165. The HCF of two numbers is 16 and their
+difference is 16. Find the number.
+(a) 64,80 (b) 72, 88
+(c) 80, 100 (d) 96, 120
+RRB NTPC 29.04.2016 Shift : 2
+Ans : (a) Solve this type of questions from options.
+From option (a),
+The difference of 80 and 64 = 16
+And HCF of 64 and 80 is also 16.
+From option (b),
+The difference of 88 and 72 is 16 but their HCF is not 16.
+From option (c),
+The difference of 80 and 100 is 20.
+From option (d),
+The difference of 96 and 120 is 24.
+J YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0022_left.png =====
+166. The sum of two numbers is 30 and their LCM
+is 25. Find the larger number.
+(a) 55 (b) 25
+(©) 1 (d) 15
+RRB NTPC 30.04.2016 Shift : 1
+Ans.: (b) Let the larger number is x and greater,
+number is y.
+According to the question,
+xty=30 wo (D)
+And the LCM of x and y = 25,
+From given options,
+Ifx = 25, then y=5 ............. from option (b)
+Then, the LCM of 25 and 5 = 25
+And the sum = 25 + 5 = 30
+
+167. What is the length of the side of the largest
+square tile, which is used for constructing the
+floor of tile of 13.92m length and 5.22m
+breadth.
+
+(a) 58cm (b) 1m16cm
+(c) 1m74cm (d) 87cm
+RRB Group-D — 24/10/2018 (Shift-II1)
+
+Ans. (c) : The side of the largest square tile = HCF of|
+
+13.92m and 5.22m,
+
+On finding the HCF by division method,
+
+522)1392 (2
+348)503 (I
+348,
+174)348 (2
+348
+Xxx
+So, the HCF is 174.
+Hence, the length of the side = 174cm = 1m 74cm,
+Type - 10
+
+168. Four alarm clocks ring at intervals of 3, 4, 5
+and 8 minutes respectively. If they are rung
+together at 6:00 am, then what time will they
+ring together?
+
+(a) 8:00am (b) 10:00 am
+(c) 12:03 pm (d) 09:00 am
+RRB RPF SI -13/01/2019 (Shift-II1)
+Ans : (a)
+LCM of 3, 4, 5 and 8 = 2x2x3x5x2=120min
+6+ 120 =6+2=8
+60
+
+So, at 8:00 am they will ring together.
+
+169. Three bells ring at intervals of 10, 15 and 20
+minutes. If they are rung together at 5:00 pm,
+what time will they ring together?
+
+(a) 5:20 pm. (b) 5:30 pm.
+(c) 5:40 pm. (d) 6:00 pm.
+RRB RPF Constable -24/01/2019 (Shift-II1)
+
+LCM & HCF 12’
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0022_right.png =====
+Ans : (d) The LCM of 10, 15 and 20 = 60
+
+The required time = 5:00 pm + 60 min
+
+= 5:00 pm + 1 hour = 6:00 pm
+
+So, the required time is 6:00 pm.
+
+170. Alarms from three different clocks ring after 2,
+4 and 6 hours respectively. If the clocks are
+started at the same time, how many times do
+the alarms ring simultaneously in 3 days?
+
+(a) 6 (b) 3
+(c) 2 (d) 9
+RRB Group-D — 27/09/2018 (Shift-I)
+
+Ans. (a) The time taken by all three clocks to ring)
+
+together again
+
+LCM of 2,4 and 6 = 12 hours
+
+The number of alarms ring in three days (72 hours) =|
+
+72 .
+De 6 times.
+
+171. Traffic lights at any cross section change at 48
+sec, 72 sec and 108 sec. If they change together
+at 9:15:00 am, when will they change together
+again next time?
+
+(a) 9:22:12 a.m. (b) 9:21:07 a.m.
+(c) 9:24:27 a.m. (d) 9:23:17 a.m.
+RRB Group-D — 05/10/2018 (Shift-I)
+
+Ans. (a) : LCM of 48 sec, 72 sec and 108 sec
+
+2| 48, 72, 108
+
+2|24, 36, 54
+
+2412, 18, 27
+
+2|6, 9, 27
+
+3| 3, 9, 27
+
+3/1, 3, 9
+
+3/1, 1 3
+
+1 1 1
+
+so, the LCM = 2x2x2x2x3x3x3 = 432
+= 432 sec
+=7min 12 sec
+
+So, the traffic lights will change together next time =
+
+9:15:00 + 0: 07:12
+= 9:22:12 a.m.
+
+172. Three bells ring at intervals of 15, 20 and 30
+minutes respectively. If they ring together at
+11:00 am, then when will they ring together
+again?
+
+(a) 11.30 a.m. (b) 12 noon
+(c) 12.30 pm (d) 1.00 pm
+RRB NTPC 28.03.2016 Shift : 1
+Ans : (b) LCM of 15, 20 and 30 = 60
+So, all the three bells ring together at the interval of|
+
+60 minutes = 1 hour.
+
+So, the bells will ring together at 11:00 + 1:00 = 12:00)
+
+noon.
+
+y YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0023_left.png =====
+173. Ina temple, four bells ring together at intervals
+of 12, 16, 24 and 36 minutes respectively. If
+they start ringing at regular intervals from
+6:00 an when will they ring together again?
+
+(a) 8:24am (b) 5:24am
+(c) 7:24am (d) 6:24am
+RRB Group-D — 31/10/2018 (Shift-1
+Ans: (a) LCM of 12, 16, 24 and 36,
+2|12, 16, 24, 36
+2/6, 8 12, 18
+2|3, 4 6 9
+2|3, 2, 3, 9
+3/3, 1 3, 9
+3/1, L ol 3
+1,44 ii
+LCM = 2x2x2x2 x3 x3 = 144
+So, 144 min = 2 hours and 24 minutes
+So, the first interval = 6:00 + 2:24=8:24am
+
+So, at 8:24 am the bells will ring together.
+
+174. Four bells ring at intervals of 16, 24, 36 and 42
+minutes respectively. If they were last ring
+together at 6:00 am, then after how many
+minutes will they ring together again?
+
+(a) 842 minute (b) 964 minute
+(c) 886 minute (d) 1008 minute
+RRB NTPC 18.01.2017 Shift : 2
+Ans: (d) The bells will ring together again = LCM o:
+all numbers
+LCM of 16, 24, 36 and 42.
+2 | 16, 24,36, 42
+2 | 8, 12,18,21
+2) 4, 6,9, 21
+2.| 2; 3; 9, 21
+3] 1,3, 9, 21
+3} 1, 1, 3,7
+7/1,1, 1,7
+1,1, 11
+
+ILCM = 2x 2x2x2x3x3x7= 1008
+
+Hence, after 1008 minutes they will ring together.
+
+175. Three clocks are designed to alarm in every
+hour, two hours and three hours respectively.
+If they all alarmed together three hours before,
+then after how many hours will they next
+alarm together?
+
+(a) 3 hours (b) 6 hours
+(c) 2 hours (d) 1 hours
+RRB NTPC 27.04.2016 Shift : 3
+
+Ans : (a) The clocks will ring together = LCM of 1, 2
+
+and 3 =6
+
+So, they will ring together after 6 hours again.
+
+Hence, after 3 hours later they will alarmed together
+
+LCM & HCF 12!
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0023_right.png =====
+176. The traffic lights at four different road
+crossings change after every 15 sec, 18 sec, 27
+sec and 30 sec respectively. If they all change
+simultaneously at 6:10:00 hours, then at what
+time will they again change simultaneously?
+
+(a) 6:14:30 hours (b) 6:40:00 hours
+(c) 6:14:00 hours (d) 10:40:00 hours
+RRB NTPC 16.04.2016 Shift : 3
+Ans. : (a)
+Traffic lights will again change simultaneously
+= LCM of 15, 18, 27 and 30
+On finding the LCM by common division method,
+2}15, 18, 27, 30
+3/15, 9, 27, 15
+3/5, 3, 9, 5
+3/5, 1, 3, 5
+5/5, 1, 1, 5
+1, tt
+LCM =2*3x3x3x5=270
+So, after 270 seconds = 4 min 30 sec,
+= 6:10:00 + 00:04:30 = 6:14:30
+
+177, Three alarms ring at intervals of 10, 15 and 30
+minutes respectively. If they ring together at
+9:00 am, then when will they ring together
+again?
+
+(a) 9:00 am (b) 10:00 am
+(c) 10:30 am (d) 11:00 am
+RRB NTPC 30.04.2016 Shift : 1
+Ans : (a) LCM of 10, 15 and 30
+2}10 15 30
+3} 5 15 15
+5s] 5 5 5
+111
+LCM =2x3x5=30
+
+So, all the three bells will ring together again after 30)
+
+minutes.
+
+Hence, the required time is 9:00 + 30 = 9:30 am
+
+178. Three clocks are designed to ring after every 1
+hour, 2 hours and 3 hours respectively. If they
+ring together then after how many hours will
+they ring together?
+
+(a) 3 hours (b) 6 hours
+(c) 4 hours (d) 12 hours
+RRB NTPC 29.04.2016 Shift : 2
+Ans: (b) According to the question,
+
+The interval for ringing three clocks’ alarm together =
+
+LCM of | hour, 2 hours and 3 hours = 6
+
+So, they will ring the alarm together after 6 hours.
+
+179. Three bells ring at intervals of 15, 30 and 45
+minutes respectively. At what time will they
+ring together again, if they rang simultaneously
+at 8.00 AM?
+
+(a) 8.30AM (b) 9.30 AM
+
+(c) 9.00 AM (d) 845 AM
+RRB ALP & Tee. (31-08-18 Shift-II])
+3 YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0024_left.png =====
+Ans : (b) All the three bells will ring together again =
+
+LCM of 15, 30 and 45
+
+On finding the LCM by common division method,
+
+2} 15, 30, 45
+3|15, 15, 45
+3) 5, 5, 15
+s{5, 5, 5
+lL il, i
+LCM = 2x3x3x5=90min
+So, the required time = 8:00 + 90 min = 9:30 AM
+Type - 11
+
+180. How many factors of 512 are perfect squares?
+(a) 6 (b) 4
+(c) 3 (d) 5
+
+RRB Group-D — 28/09/2018 (Shift-I
+
+Ans : (d) On doing the factors of 512
+
+=1,2,4, 8, 16, 32, 64, 128, 256, 512
+=1, 4, 16, 64, 256 are perfect squares
+
+So, the total number of perfect squares factors is 5.
+
+181. Which is the smallest positive integer or
+natural number, when divides 1920 so that the
+number of factors of quotient is odd?
+
+(a) 40 (b) 10
+(c) 20 (d) 30
+RRB Group-D — 12/12/2018 (Shift-1
+
+Ans. (d) From options,
+
+1920 _,o_ 4
+on =48 =Number of factors in 2° x 3
+= (441)(1+1) = 10(Even)
+
+we =192 =Number of factors in 2° x 3
+= (6+1)(1+1) = 14 (Even)
+
+wn =96 =Number of factors in 2° x 3
+= (5+1)(1+1) = 12 (Even)
+
+ea =64 =Number of factors in 2°
+
+= (6+1)=7(Odd)
+
+182. How many factors of the number
+
+2" x3°x5* x75 are divisible by 2160?
+(a) 180 (b) 336
+(c) 504 (d) 560
+RRB Group-D — 11/12/2018 (Shift-IIL
+Ans : (c) Factors of 2160 = 2* x 3° x 5!
+Let the total factors are n.
+aL Xe XS XT
+~ x3 x5!
+n=2°x 3x 5°x 7
+
+So, the total number of factors = (6+1)(3+1)(2+1)(5+1)
+
+=7x4 x3 x 6=504
+
+LCM & HCF 12!
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0024_right.png =====
+Type - 12
+183. Find the smallest number that is exactly
+divisible by each of the numbers 12, 15, 20 and
+27.
+(a) 540 (b) 510
+(c) 530 (d) 520
+RRB JE - 26/05/2019 (Shift-I1)
+Ans : (a) The required number = LCM of 12, 15, 20]
+and 27
+On, finding the LCM by common division method,
+3 | 12,15,20,27
+5|4, 5,20,9
+4\4, 14,9
+9}1, 11,9
+1, iii
+LCM =3 x5x4x9=540
+So, the required number is 540.
+184. Find the smallest three-digit number that is
+exactly divisible by 12, 15 and 24.
+(a) 180 (b) 120
+(c) 360 (d) 240
+RRB JE - 26/05/2019 (Shift-II1)
+Ans : (b)
+The required number = LCM of 12, 15 and 24
+On finding the LCM by factorization method,
+12=2x2x3
+15=3x5
+24=2x2x2x3
+LCM =2x2x2x3x5=120
+185. Three cans of milk are of 36 liters, 45 liters and
+72 liters measurement. Find the greatest
+measurement, which can measure all of them
+exactly.
+(a) 15 liter (b) 8 liter
+(c) 7 liter (d) 9 liter
+RRB JE - 28/05/2019 (Shift-1
+Ans : (d) The required measurement = HCF of 36, 45
+and 72
+On finding the HCF by division method,
+36)45 (1 9)72(8
+36 72
+“9)36(4 xx
+36
+xx
+So, the HCF is 9.
+186. Find the largest number that will divide exactly
+the product of four consecutive integers.
+(a) 12 (b) 8
+(c) 6 (d) 24
+RRB JE - 02/06/2019 (Shift-I1)
+) YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0025_left.png =====
+Ans. (d) The product of four consecutive integers
+=2x3x4x5=120
+Which is exactly divisible by 12, 6, 8 and 24. But 24 is}
+the largest of all.
+187. Find the smallest perfect cube number that is
+exactly divisible by 2, 3, 4 and 6.
+(a) 1728 (b) 360
+(c) 216 (d) 512
+RRB JE - 01/06/2019 (Shift-I
+Ans : (c) LCM of 2, 3, 4 and 6 = The required number
+On, finding the LCM by common division method,
+2 | 2,3,4,6
+2 | 1, 3,2,3
+341,313
+L141
+LCM =2x2x3=12
+So, the required perfect cube number = 2x2x2x3x3x3
+=216
+188. Find the greatest 3-digit number, which is
+exactly divisible by 12, 15 and 20.
+(a) 115 (b) 240
+(c) 180 (d) 120
+RRB JE - 27/06/2019 (Shift-1
+Ans : (d) On finding the LCM of 12, 15 and 20
+2|12 15 20
+2/6 15 10
+3/3 15 5
+S}1 5 5
+1 11
+ILCM = 2x 2x3x5=60
+The smallest three digit number is 100.
+So,
+60) 100 (1
+60
+40
+So, the required number = 100 + (60 — 40) = 120
+189. What is the largest 4-digit number, divisible by
+6, 9, 12, 13 and 15?
+(a) 9326 (b) 9100
+(©) 9360 (d) 9240
+RRB Group-D — 11/12/2018 (Shift-ID)
+Ans : (c) On finding the LCM of 6, 9, 12, 13 and 15
+2|6, 9, 12, 13, 15
+2/3, 9, 6 13, 15
+3|3, 9, 3, 13, 15
+3|1, 3, 1, 13, 5
+5/1, 1, 1, 13, 5
+13}1, 1, 1, 13, 1
+1,1, 1, 1, 1
+LCM = 2x2x3x3x5x13 = 2340
+LCM & HCF 131
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0025_right.png =====
+The largest four digit number = 9999
+2340)9999(4
+639
+So, the required number = 9999 — 639 = 9360
+190. Find the number between 300 and 500 which
+will be exactly divisible by 6, 8, 10 and 12:
+(a) 320 (b) 340
+(c) 490 (d) 360
+RRB Group-D — 23/10/2018 (Shift-I)
+Ans. (d) LCM of 6, 8, 10 and 12,
+6=2x3
+8=2x2x2
+10=2x5
+12=2x2x3
+LCM =2x2x2x3x5=120
+So, the required number
+= Multiples of 120 between 300 and 500.
+= 360 and 480.
+191. Find the least square number among the
+following, which is exactly divisible by 6, 9, 12,
+13 and 15.
+(a) 621000 (b) 456000
+(c) 173000 (d) 152100
+RRB Group-D — 08/10/2018 (Shift-I)
+Ans. (d) From options, only 152100 is a perfect square,
+other numbers are not perfect squares.
+LCM of 6, 9, 12, 13 and 15 = 2340
+So,
+152100 _ 65 (Total divisible number)
+2340
+So, the required number is 152100 which is the square
+of 390.
+192, Find the smallest square number which is
+exactly divisible by 4, 9 and 14.
+(a) 1008 (b) 252
+(c) 1764 (d) 504
+RRB NTPC 17.01.2017 Shift-2
+Ans : (c) LCM of 4, 9 and 14
+2|4, 9, 14
+2/2, 9, 7
+7/1, 9, 7
+3/1 9, 1
+3}1, 3, 1
+11 i1
+LCM =2 x 2x3 x3 x 7= 252
+252 is not a square number. But its multiple 1764 is a
+square number.
+So, from options 1764 is the required number.
+nS 3
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0026_left.png =====
+193. What is the smallest 5-digit number which is
+exactly divisible by 12, 24, 48, 60 and 96?
+(a) 10000 (b) 10024
+(c) 10160 (d) 10080
+RRB NTPC 03.04.2016 Shift : 1
+Ans : (d) LCM of given numbers,
+2|12, 24, 48, 60, 96
+2/6, 12, 24, 30, 48
+2} 3, 6, 12, 15, 24
+2/3, 3, 6, 15, 12
+2/3 3 3 15, 6
+3/3, 3 3 15, 3
+S}l LL 5, 1
+L & & § 1
+LCM = 2X2x2x2x2x3x5 = 480
+The smallest 5-digit number = 10000
+480)10000(20
+9600
+400
+So, the required number = 10000 + (480 — 400)
+= 10080
+194, Which is the largest 3-digit number which is
+exactly divisible by 15, 25 and 30?
+(a) 900 (b) 930
+(c) 960 (d) 975
+RRB NTPC 28.03.2016 Shift : 2
+Ans :(a) LCM of 15, 25 and 30 = 150
+The largest three digit number = 999
+150) 999 (6
+900
+x99
+So, the required number = 999 — 99 = 900
+195. Find the largest four digit number which is
+totally divisible by 12, 20, 32 and 44.
+(a) 5200 (b) 4719
+(c) 6800 (d) 5280
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (d) LCM of 12, 20, 32 and 44
+2|12 20 32 44
+2/6 10 16 22
+3°95 8 I
+LCM =2x2x3x5x8x11=5280
+The largest 4-digit number = 9999
+5280)9999(1
+5280
+419
+So, the required number = 9999 — 4719 = 5280
+LCM & HCF 13
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0026_right.png =====
+196. Find the largest number which is totally
+divisible by 15, 18, 27 and 30.
+(a) 870 (b) 900
+(c) 810 (d) 780
+RRB NTPC 12.04.2016 Shift : 3
+Ans : (c) LCM of 15, 18, 27 and 30
+15=3x5
+18=2%3x3
+27=3x3x3
+30=2%x3x5
+LCM =2*3x3x3x5=270
+So, the required number should be divisible by 270.
+From options, only 810 is divisible by 270.
+197. Which is the smallest number, when doubled is
+exactly divisible by 4, 6, 9, 12 and 14?
+(a) 126 (b) 252
+(c) 504 (d) 63
+RRB NTPC 19.01.2017 Shift : 2
+Ans : (a) Let the required number is x.
+According to the question,
+LCM of 4, 6, 9, 12 and 14
+4=2x2
+6=2x3
+9=3x3
+12=2x2x3
+14=2x7
+LCM = 2x 2x3x3x7= 252
+So, 2x = 252
+x = 126
+198. Find the smallest number which, when doubled
+is exactly divided by 14, 35, 28 and 91.
+(a) 14 (b) 1820
+(c) 910 (d) 1260
+RRB NTPC 22.04.2016 Shift : 3
+Ans : (c) According to the question,
+LCM of 14, 35, 28 and 91
+2 | 14, 35, 28, 91
+7| 7, 35,14, 91
+1, 5, 2, 13
+LCM =2x 7x5 x2 13 = 1820
+So, the required number = 10 =910
+[ YCT
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0027_left.png =====
+199. Find the smallest number which, when divided
+by 10, 15, 20 and 25, gives remainder 3 in each
+case.
+
+(a) 300 (b) 303
+(c) 306 (d) 309
+RRB NTPC 26.04.2016 Shift : 1
+‘Ans : (b) LCM of 10, 15, 20 and 25,
+2/10 15 20 25
+2;5 15 10 25
+3}5 15 5 25
+5|5 5 5 25
+S5;1 1 1 5
+Hy
+LCM =2 x2 x3x5x5=300
+So, the required number = 300 + remainder
+= 300 + 3 = 303
+200. Find the smallest number which is exactly
+divisible by 6, 8, 12 and 16.
+(a) 48 (b) 24
+() 64 (d) 80
+RRB NTPC 27.04.2016 Shift : 3
+
+Ans : (a) The required number = LCM of 6, 8, 12 and
+
+16
+
+On finding the LCM by common division method,
+
+2/6, 8 12, 16
+2/3, 4 6, 8
+2/3, 2, 3, 4
+2/3, 1, 3, 2
+3/3, 1, 3, 1
+11, 1, 1
+LOM =2*2*x2x2x3=48
+
+201. Find the largest number which, when divides
+1250 and 1615, gives remainder 4 and 5
+respectively.
+
+(a) 13 (b) 14
+() 16 (@) 18
+RRB NTPC 28.04.2016 Shift : 1
+Ans : (b) According to the question,
+1250-4 = 1246
+1615-5 =1610
+HCF of 1246 and 1610,
+ICM&HCFt—~—“i‘CSO™S™C™C™*~*;*;*‘*R:
+
+
+===== Part 5 — LCM & HCF (pp. 106–132)_page-0027_right.png =====
+1246)1610 (1
+1246
+"364)1246 (3
+1092
+“T54)364(2
+308
+~56)154(2
+112
+“42)56(1
+42
+14)42(3
+42
+xX
+HCF = 14
+202. What is the least consisting of five digits that is
+exactly divisible by 12, 18, 20 and 25?
+(a) 10000 (b) 10800
+(c) 11250 (d) 10680
+RRB ALP & Tee. (31-08-18 Shift-II)
+Ans. (b) : On finding the LCM of given numbers,
+2}12 18 20 25
+2}6 9 10 25
+3/3 9 5 25
+3[1 3 5 25
+5} 1 1 5 25
+S{1 1 1°55
+111 1
+LCM = 2x2x3x3x5x5 = 900
+900 is the required three-digit,
+so the product of 900 which is smallest
+5-digit number = 900 x 12 = 10800
+203. Find the smallest square number from among
+the given option which is divisible by each of 8,
+15 and 20.
+(a) 3600 (b) 6400
+(c) 14400 (d) 4900
+RRB ALP & Tee. (13-08-18 Shift-I)
+Ans : (a) LCM of 8, 15 and 20.
+8=2x2x2
+15=3x5
+20=2x2x5
+LCM =2x2x2x3x5=120
+From options, only (a) 3600 is such which is square of 60
+and divisible by 120 which is LCM of 8, 15 and 20.
+J YCT

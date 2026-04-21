@@ -1,0 +1,3113 @@
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0001_left.png =====
+01.
+————————
+Type -1
+1. Find the least number that is divisible by 12,
+18, 21, and 30.
+(a) 1060 (b) 1260
+(c) 1620 (d) 1020
+RRB JE - 25/05/2019 (Shift-IM}) |
+Ans : (b) LCM of the numbers 12, 18, 21 and 30 = 420
+So the smallest number = 420 k
+where k = 1, 2, 3, -------------
+‘When taking the number k = 3
+[Number = 420 x 3 = 1260
+2. A student divided a number by 12 instead of 21
+and received 35. Find the correct answer.
+(a) 20 (b) 15
+(c) 26 (d) 25
+RRB JE - 26/05/2019 (Shift-I
+Ans : (a) Let the number be x.
+According to the question,
+dividing by 12
+X35
+12
+x= 35 x 12
+x = 420
+The number is 420
+Dividing 420 by 21-
+420 _ 20 '
+21
+Hence, the correct answer = 20
+3. Find the least number to be added to 231228 to
+make it exactly divisible by 33.
+(a) 3 (b) 4
+(c) 2 qd) 1
+RRB JE - 27/05/2019 (Shift-IIL
+Ans : (a)
+7006
+33)231228
+231 ’
+x x x228
+198
+30
+Hence, the required number = 33 - 30 =3
+4. Find the greatest number that will exactly
+divide 25, 35, 40 and 30.
+(a) 35 (b) 15
+(c) 20 qd) 5
+RRB JE - 01/06/2019 (Shift-II)
+Number System 15
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0001_right.png =====
+Number System
+TS
+Ans : (d) HCF of the numbers 25, 35, 30 and 40
+
+25=5x5
+
+35=5x7
+
+40=5x8
+
+30=5x6
+HCF = 5
+Hence, the required number will be 5.
+
+5. Which of the following numbers is not divisible
+by 8?
+(a) 12676 (b) 11504
+(c) 12832 (d) 12360
+RRB RPF Constable -24/01/2019 (Shift-IT
+Ans : (a)
+(a) un =1584.5
+oy 11504 _ 13g
+8
+(c) ae = 1604
+(d) ue =1545
+Hence, the number 12676 is not divisible by 8.
+Note: Divisibility rule by 8- If the last three digits of a
+number is divisible by 8, the number will be divisible
+by 8.
+6. 276x1, is divisible by 3. What is the sum of the
+possible values of x?
+(a) 18 (b) 21
+(c) 12 (d) 15
+RRB RPF SI-12/01/2019 (Shift-I
+Ans. (d) If the sum of all digits of a number is divisible|
+by 3, the number will be divisible by 3.
+276x1, is divisible by 3.
+2+7+6+x+1=16+x
+The number will be completely divisible by 3, by
+putting the possible values of x 2, 8, and 5.
+Hence, the sum of the possible values of x = 2+8+5 =15
+7. By dividing 14528 by a certain number, Suresh
+gets 83 as quotient and 3 as remainder. What is
+the divisor?
+(a) 165 (b) 185
+(c) 195 (d) 175
+RRB RPF SI -06/01/2019 (Shift-II)
+Ans : (d) Let the divisor is ‘x’.
+Given- Dividend = 14528
+Quotient = 83
+Remainder = 3
+Dividend = (Divisor x Quotient + Remainder)
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0002_left.png =====
+=> 14528 = (x x 83) +3
+=> 83x = 14528 - 3
+=> 83x = 14525
+=> x = M825 x 2175
+83
+8. Find the smallest number which, when added
+to 20000, the sum is divisible by 12,15 and 25.
+(a) 180 (b) 150
+(c) 200 (d) 100
+RRB RPF Constable -17/01/2019 (Shift-I
+Ans : (d) LCM of 12, 15 and 25 = 300
+Remainder = 20000 _ 200
+300
+The required number which should be added to 2000
+= (300-200) = 100
+9. Find the smallest cube number more than 1000,
+that is divisible by 2, 4, and 6.
+(a) 1296 (b) 5832
+(c) 1728 (d) 4096
+RRB RPF Constable -19/01/2019 (Shift-I
+Ans. (c) : LCM of 2, 4 and 6 = 12
+Hence, the cube of the number 12 = (12) = 1728
+10. ‘If the number X4461 is divisible by 11, find the
+value of x.
+(a) 2 (b) 4
+(c) 3 qd) 5
+RRB Group-D — 17/09/2018 (Shift-I
+Ans : (d) Rule of divisibility by 11- if the difference
+between sum of even places of the number and the sum
+of digit odd places and the result is 0 or any number
+divisible by 11, then the number will also be divisible
+by ll.
+The number - x 4461
+x+4+1-(4+6)=0
+x+5-10=0
+x=5
+11. Which number is divisible by 9?
+(a) 56112 (b) 89445
+(c) 49653 (d) 58556
+RRB Group-D — 03/10/2018 (Shift-II)
+Ans : (c) If the sum of all the digits of a number is
+divisible by 9, the number will also be completely
+divisible by 9.
+Hence, from option-
+(a) The sum of the digits of 56112 = 15 (x)
+(b) The sum of the digits of 89445 = 30 (x)
+(c) The sum of the digits of 49653 = 27 (v)
+(d) The sum of the digits of 58556 = 29 (x)
+Hence, the number divisible by 9 = 49653
+12. Which of the following numbers is perfectly
+divisible by 4?
+(a) 6542176 (b) 7253566
+(c) 5632654 (d) 4187290
+RRB Group-D — 17/09/2018 (Shift-II1)
+Number System 16
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0002_right.png =====
+Ans. (a) : Rule of divisibility by 4-
+
+If the number formed with last two digit of a number, is
+
+divisible by 4, the whole number will be divisible by 4.
+
+From option (a)-
+
+19
+476
+4
+
+36
+36
+1x
+
+13. If a natural number is divided by 4, 5, 6 or 7,
+leaves remainder 1 in each case. Find that
+smallest number.
+
+(a) 421 (b) 61
+(c) 841 (d) 211
+RRB Paramedical Exam — 20/07/2018 (Shift-ID)
+
+Ans : (a) LCM of 4,5,6 and 7 = 420
+
+The required number = 420 + 1 = 421
+
+Hence, each condition 421 leaves remainder 1, when
+
+divided by 4, 5, 6 and 7.
+
+14. Which of the following is the largest such
+number, which leaves remainder 9 and 20,
+when divides 105 and 164 respectively?
+
+(a) 36 (b) 48
+(c) 24 (d) 96
+RRB Group-D — 22/10/2018 (Shift-I1)
+Ans : (b) 105-9=96 and 164-20 = 144
+1
+96) 144
+96
+48)96(2
+96
+xx
+
+Hence, so that largest number = HCF of 96 and 144 = 48
+
+15. | Which is the largest such number which leaves
+remainder 2 and 3, when divides 258 and 323
+respectively?
+
+(a) 40 (b) 24
+(c) 64 (d) 132
+RRB Group-D — 30/10/2018 (Shift-III)
+Ans. (c) : 258 — 2 = 256
+323 — 3 = 320
+
+320 — 256 = 64 that is HCF
+
+Hence, the required number is 64.
+
+So dividing of 258 and 323 will give the remaining 2
+
+and 3 respectively.
+
+16. | Which of the following numbers is divisible by
+(¥4
+(a) 12378 (b) 12363
+(c) 12370 (d) 12388
+
+RRB Group-D — 05/12/2018 (Shift-I)
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0003_left.png =====
+Ans : (a) Divisibility rule by 6 — If a given number is
+divisible by 2 and 3, then the number will also be
+divisible by 6.
+
+Divisibility rule by 2 — If the unit digit of a given
+
+number is divisible by 2, then the number will also be
+
+divisible by 2.
+
+Divisibility rule by 3 — If the sum of all the digits of the
+
+number is divisible by 3, then the number will also be
+
+divisible by 3.
+
+From option (a)-  1+2+3+7+8=21
+
+=2l_,
+3
+
+Hence, the number 12378 is divisible by 6.
+
+17. Choose the missing digit 'x' from the options
+given for the number 987x54, so that the
+number is completely divisible by 6.
+
+(a) 2 (b) 5
+(©) 3 (1
+RRB Group-D — 18/09/2018 (Shift-I)
+
+Ans. (c) : The given number will be divisible by 6 if it}
+
+‘is divisible by 2 and 3.
+
+Divisibility rule by 2 — If the unit digit is divisible by 2,
+
+then the number will also be divisible by 2.
+
+Divisibility rule by 3 — If the sum of all the digits of the
+
+given number is divisible by 3, then the number will
+
+also be divisible by 3.
+
+option (c) is
+
+9+8+74+x4+54+4  334+x
+=>
+3 3
+
+Hence, the value of x will be 3.
+
+18. What number should be deducted from 1265 to
+make it divisible by 29 exactly?
+
+(a) 15 (b) 16
+(c) 18 (d) 17
+RRB NTPC 05.04.2016 Shift : 3
+Ans : (c) To get the number divide 1265 by 29.
+43
+29)1265,
+116
+x105
+87
+18
+
+Hence, 18 should be subtracted out of 1265 to make it
+
+completely divisible by 29.
+
+19. What number, from the following, should be
+deducted from 1184 to make it exactly divisible
+be 21?
+
+(a) 15 (b) 12
+() 8 (@) 7
+RRB NTPC 31.03.2016 Shift : 2
+Number System 17
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0003_right.png =====
+Ans.: (c) To get the required number divide 1184 by 21.
+56
+21)1184
+105
+x134
+126
+xx8
+
+Hence, 8 should be subtracted from 1184 to make it
+
+exactly divisible by 21.
+
+20. Find the least number to be added to 1739 so
+that it is exactly divisible by 11.
+
+(a) 11 (b) 2
+(©) 1 (d) 10
+RRB NTPC 30.03.2016 Shift : 1
+Ans : (d) To get the required number divide 1739 by 11
+then deduce the remainder from the divisor.
+158
+11)1739°
+11
+x63
+55
+x89
+88
+“x1
+
+Hence, the required number will be 11 - 1 = 10.
+
+21. Find the least number which should be added
+to 1456 so that it is divisible by 6, 5 and 4
+without leaving a remainder.
+
+(a) 6 (b) 61
+(c) 44 (d) 16
+RRB NTPC 18.01.2017 Shift : 1
+Ans : (c) LCM of 6, 5 and 4 = 60
+For the least number,
+1456 _ 5416
+60 60
+
+Hence, the required number = 60 — 16 = 44
+
+By adding 44 in 1456 we get 1500 that is divisible by 6,
+
+5 and 4.
+
+22. Find the remainder, when 3" is divided by 7.
+(a) 4 (b) 3
+(c) 5 (d) 6
+
+RRB NTPC 18.04.2016 Shift : 3
+Ans : (a) 31° = 3x3x3x3x3%3x3%3x3%3
+= 59049
+aa a“ = 4 remainder
+
+23. Which of the following numbers is divisible by 12?
+(a) 93412 (b) 63412
+(c) 73412 (d) 83412
+
+RRB ALP & Tee. (31-08-18 Shift-I])
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0004_left.png =====
+Ans. (d) : The number which is divisible by 12, should)
+be divisible by 3 and 4 also.
+If the sum of all the digits of a number is divisible by 3,
+the number will also be divisible by 3.
+If the last two digit of a number are divisible by 4, the
+number will also be divisible by 4.
+From option (d),
+Then 8+3+4+1+2 = 18, Which is divisible by 3.
+The last 2-digit of the number are 12, Which is also
+divisible by 4.
+Hence, the number 83412 is divisible by 12.
+24. Which of the following numbers is divisible by 9?
+(a) 56765 (b) 47862
+(c) 54321 (d) 87654
+RRB ALP & Tec. (30-08-18 Shift-IIT)
+Ans : (b) If the sum of all the digits of a number is
+divisible by 9, the number will be divisible by 9.
+Hence, from option (b),
+47852 => 4+7+8+6+2 = 27, which is divisible by 9.
+Hence option (b) will be true.
+25. If 3x’ + ax + 4 is perfectly divisible by x — 5,
+then the value of a is:
+(a) -12 (b) -5
+(c) - 15.8 (d) - 15.6
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (c) According to the question,
+3x? + ax +4=0 --------- (i)
++: equation (i), is divisible by (x-5 )
+Hence,
+=> x-5=0
+> x=5
+Putting the value of x in equation(i),
+3(5 tax 54+4=0
+75+ 5a+4=0
+Sa=-79
+a=-158
+26. The sum of three consecutive odd numbers is
+more than first number of it by 20. Find the
+largest number among them.
+(a) 13 (b) 9
+() 1 (d) 7
+RRB JE - 28/06/2019 (Shift-IIL
+Ans. (c) Let the three consecutive odd numbers are x, x|
++2, x +4.
+According to the question,
+X+xt2+xt4=x+20
+3x+6=x+20
+2x= 14
+x=7
+Hence, the required number = x + 4=7+4=11
+Number System 18
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0004_right.png =====
+27. If 3/11 < x/3 < 7/11, which of the following can
+be value of 'x'?
+(a) 0.5 (b) 1
+(c) 2 (d) 3
+RRB JE - 23/05/2019 (Shift-1
+
+Ans : (b) From option,
+
+When X = ..5 then .272 < .166 < .636 (False)
+
+When X = | then .272 < .333 < .636 (True)
+
+When X = 2 then .272 < .666 < .636 (False)
+
+When X = 3 then .272 < 1 < .636 (False)
+
+Hence, It is clear that the value of X will be 1.
+
+28. The product of 4 consecutive numbers is
+always divisible by which of the following
+numbers?
+
+(a) 10 (b) 22
+(c) 24 (d) 48
+RRB RPF SI -05/01/2019 (Shift-I
+
+Ans : (c) Let 4 consecutive numbers are n, (n+1), (n+2)
+
+and (n+3) respectively.
+
+According to the question,
+
+The Product of four consecutive numbers
+
+= n(n+1)(n+2)(n+3)
+
+Where n = 1,2,3,.......
+
+Putting n= 1,
+
+Product,
+
+= 1(1+1) (1+ 2) (1 +3)
+
+=1x2x3x4=24
+
+Putting n= 2,
+
+Product,
+
+= 2x3x4x5 = 24x 5= 120
+
+Hence, the product of 4 consecutive numbers is always
+
+divisible by 24.
+
+29. If the first number and the second number is
+25% and 50% more than the third number
+respectively, find the ratio between the first
+and second number.
+
+(a) 5:6 (b) 2:1
+(c) 6:5 (d) 1:2
+RRB JE - 27/05/2019 (Shift-I
+Ans : (a) Let the third number be 100.
+Then the first number = 125
+And the second number = 150
+First number : Second number = 125 : 150
+=
+
+30. Three times the first of three consecutive odd
+integers is 3 more than two times the third.
+Find the third integer.
+
+(a) 15 (b) 13
+() 11 (d) 9
+RRB JE - 26/06/2019 (Shift-IID)
+Ans : (a) Let three consecutive odd integers = x, x+2,
+x+4
+3x = 2(x + 4) +3
+3x =2x+8+3
+x=1l
+Hence, the third integer =x + 4=11+4=15
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0005_left.png =====
+31. How many total tens digit in the calculation
+from series 1 to 99?
+(a) 98 (b) 90
+(c) 99 (d) 100
+RRB RPF Constable -17/01/2019 (Shift-II)
+Ans : (b) The number of tens from 1 to 10= 1
+The number of tens from 11 to 90 = 80
+The number of tens from 91 to 99 = 9
+Hence, the total number of tens from series 1 to 99
+=1+80+9=90
+32. Find the 10" number in the series 12, 19, 26, 33
+(a) 89 (b) 75
+(c) 82 (d) 68
+RRB Group-D — 25/10/2018 (Shift-I1)
+Ans : (b) The given series 12, 19, 26, 33 ........ belongs]:
+ito A.P.(Arithmetical progression)
+Hence, the first term ‘a’ = 12, common difference ‘d’ =|
+19 — 12 =7 and the number of terms ‘n’ = 10
+Hence, the nv" term of the series,
+T, =a+(n-l)d
+Tyo= 12+ (10-1)x 7 =12+63=75
+33. If the rational numbers 4752 are
+9 18 -6 3
+arranged in ascending order. Which number
+will be placed the first?
+4 -7 .
+_ b)
+(a) <9 (b) 18
+5 -2
+2 d)
+oO @ 5
+RRB Group-D — 02/11/2018 (Shift-II)
+Ans. (c)
+Given rational numbers a4 5 al ; = and 2
+9° 18° -6 3
+4-044
+-9
+aa 0.38
+18
+oo 0.83
+-6
+2 = 0.66 |
+3
+The first number, when arranged in ascending order
+=- 0.83 = =
+—6
+34. How many terms in the series 7, 14, 21, 28,
+seeeeeeee Sum Of 952?
+(a) 16 (b) 17
+(c) 18 (d) 19
+RRB NTPC 28.04.2016 Shift : 1
+Number System 19
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0005_right.png =====
+Ans : (a) The given series- 7, 14, 21, 28, .........
+
+Let the sum of n terms = 952
+
+7414421428 4..........= 952
+
+>7(1+24+3444.........)=952
+
+= 14243444.0000.....= 136
+
+= A+) 136
+2
+
+. _n(n+l)
+
+*:The sum of n consecutive numbers a
+
+=>n+n=272
+
+=> +n-272=0
+
+=>? +17n-16n-272=0
+
+=> (n-16) (n+ 17)=0
+
+n-16=0>n=16
+
+Hence, the sum of 16 terms is 952.
+
+35. Find two consecutive numbers where thrice the
+first number is more than twice the second
+number by 5.
+
+(a) 5 and 6 (b) 6 and 7
+(c) 7 and 8 (d) 9 and 10
+RRB NTPC 28.03.2016 Shift : 1
+Ans :(c) Let the consecutive numbers be x and x+1.
+According to the question-
+3x =2(x+1)+5
+=> 3x =2x+7
+>x=7
+
+Hence, the required consecutive numbers will be 7 and 8.
+
+36. Find the value of 6+ 11+ 16+21+....+71
+(a) 539 (b) 561
+(c) 661 (d) 639
+
+RRB NTPC 19.04.2016 Shift : 2
+
+Ans : (a) Given series-
+
+64+11+164+214+.......+71
++: This is an arithmetical progression in which-
+a=6,d=5,/=71
+vl=a+(n-ld
+>71=6+(r1)5
+>(r-l)=13
+=>n=14
+
+Hence, the required sum of the series S, = F(a +0)
+
+=Hh(6+71)= 7x77 =[539]
+
+37. If 11, 17, 23........... be im an arithmetical
+progression. Find it’s 12" term.
+
+(a) 77 (b) 83
+(c) 71 (d) 89
+RRB NTPC 29.04.2016 Shift : 3
+Ans. (a) : 11, 17, 23, ........
+a=l11
+d=17-11= 6
+” T,=a+(n-l).d
+T= 114+ (12-16
+=11+11x6=77
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0006_left.png =====
+38. Which of the following numbers is prime?
+(a) 263 (b) 243
+(c) 253 (d) 273 .
+RRB RPF Constable -17/01/2019 (Shift-IIT.
+Ans : (a) Identifying the prime number
+To identify a prime number, compare the given number
+with its nearest square. For example option (a), 263
+(Which is between the squares of 16 and 17)
+16? = 256 |
+17? =289
+Then, divide all the prime numbers by 16 and 17. If the
+number is not divisible by any number then it is a prime
+number.
+=> 263 (is less than the square of 17)
+Which is not divisible by 2,3,5,7, 11 and 13.
+Hence, it is a prime number.
+39. Find the largest two-digit prime number.
+(a) 93 (b) 89
+(c) 91 (d) 97
+RRB JE - 23/05/2019 (Shift-ID
+Ans : (d) The number which is only | and divided itself]
+is called prime number.
+Hence, It is clear that the largest two digit prime
+number = 97
+40. What will be the product of the smallest prime
+number (except 0) and any whole number?
+(a) Always 0 (b) Always 1
+(c) Always even number
+(d) Always odd number .
+RRB RPF Constable -20/01/2019 (Shift-IL
+Ans : (c) The smallest prime number = 2,
+The result of the product of any whole number(except
+0) and 2 is always an even number.
+41. Find the sum of the prime numbers between 50
+and 80.
+(a) 392 (b) 390
+(c) 463 (d) 396
+RRB RPF Constable -18/01/2019 (Shift-I) |
+Ans : (c) Sum of prime numbers between 50 and 80 =
+53 +59 +61 +67+71+73 +79 = 463
+42. | Which four odd prime numbers sum of 34?
+(a) 1,3,5,7 (b) 3,5,7,9 |
+(c) 3, 5, 11, 13 (d) 3, 7, 11, 13 '
+RRB NTPC 04.04.2016 Shift : 2
+Ans : (d) From option- (d)
+3+7+11+13=34
+43. How many times does the digit 2 come in place
+of tens in counting from 1 to 100?
+(a) 20 (b) 1
+(c) 10 (d) 19
+RRB NTPC 31.03.2016 Shift : 1
+Number System 20
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0006_right.png =====
+Ans : (c) From 11 to 20 = 1 time
+From 21 to 30 = 9 times
+From 31 to 100 = 0 times
+«Total number = 1 + 9= 10
+44. Ina prime number.........
+(a) There are more than two divisors.
+(b) Divided by itself and 1.
+(c) It has no divisor.
+(d) Is not a positive integer.
+RRB NTPC 30.03.2016 Shift : 2
+Ans : (b) A prime number is divided by itself and 1
+only.
+45. How many times does the digit 5 come in the
+counting from 1 to 100?
+(a) 21 (b) 22
+(c) 20 (d) 19
+RRB RPF SI-16/01/2019 (Shift-I
+Ans : (c) The total numbers in which 5 comes from 1
+to 49 =5
+And from 50 to 60, such number = 11
+And from 61 to 100, such number = 4
+Hence, total required number = 5 + 11+4=20
+46. How many total prime numbers are in first 200
+odd natural numbers?
+(a) 45 (b) 49
+(c) 50 (d) 46
+RRB Group 'D' 07/12/2018 (Shift-I
+Ans : (a) Total prime numbers in first 200 odd natural
+numbers = 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43,
+47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107,
+109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167,
+173, 179, 181, 191, 193, 197, 199, = 45
+47. | Which of the following pairs are co-primes?
+(a) 348, 296 (b) 114,213
+(c) 59,97 (d) 3025, 4920
+RRB Group-D — 20/09/2018 (Shift-II)
+Ans : (c) Such two numbers are called co-prime whose
+HCF is 1.
+From option (c),
+59, 97 is the appropriate co-prime pair in the
+alternatives.
+48. Which of the following numbers is divisible?
+(a) 719 (b) 709
+(©) 729 (d) 739
+RRB Group-D — 20/09/2018 (Shift-I)
+Ans. (c) The number- 729 is divisible by 3, 9 and 81.
+49. How many prime numbers are in first 100
+natural numbers?
+(a) 25 (b) 27
+(c) 24 (d) 26
+RRB Group-D — 26/11/2018 (Shift-II1)
+Ans : (a) Prime numbers in first 100 natural numbers =
+2, 3,5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53,
+59, 61, 67, 71, 73, 79, 83, 89, 97
+Therefore, total such numbers are 25.
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0007_left.png =====
+50. Find out which of the following sets form co- |.
+prime numbers.
+(a) (12,7) (b) (21,42)
+©) 6,9) (4) (43, 129)
+RRB NTPC 18.01.2017 Shift : 1
+[Ans : (a) Co-prime numbers- The set of two such}
+numbers which HCF 1, is called co-prime numbers.
+.. In option (a) (12, 7), HCF of the numbers = 1
+51. Which of the following is an odd composite
+number?
+(a) 13 (b) 17
+(c) 12 (d) 15 )
+RRB NTPC 18.01.2017 Shift : 2
+52. Find the sum of first 8 odd prime numbers.
+(a) 77 (b) 98
+(c) 75 (d) 100
+RRB NTPC 19.04.2016 Shift : 2
+Ans : (b) First 8 odd prime numbers = 3, 5, 7, 11, 13,
+17, 19, 23
+Sum of the numbers = 3+ 5+7+11+13+17+19+23
+=98
+53. How many prime numbers are between
+positive integers 60 and 100? |
+(a) 9 (b) 6
+(c) 7 (d) 8 ;
+RRB NTPC 06.04.2016 Shift : 1
+[Ans : (d) The prime numbers between 60 and 100 = 61,}
+167, 71, 73, 79, 83, 89, 97
+Hence, Total 8 prime numbers will be between 60 and|
+100.
+54. Which of the following numbers is a prime
+number?
+(a) 121 (b) 141
+(c) 181 (d) 161
+RRB ALP & Tec. (21-08-18 Shift-II)
+Ans : (c) Prime numbers are divisible by 1 and itself
+only. :
+Example:- 5,11,13,19
+From options,
+Factors of the numbers,
+181 =1, 181
+121=1, 11, 121
+141 = 1, 3,47, 141
+161 = 1, 7, 23, 161
+55. | Which of the following pairs is NOT a pair of
+twin primes?
+(a) 11, 13 (b) 71,73
+(c) 131, 133 (d) 191, 193
+RRB ALP & Tec. (21-08-18 Shift-IT
+Ans : (c) 131 and 133 does not have 133 prime number,
+because the factors of 1, 9, 7, 133. ;
+From option (c),
+Factors of 133 = 1, 7, 19, 133.
+Hence, this pair is not a pair of twin primes.
+Number System 21
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0007_right.png =====
+56. Which of the following is the prime number
+series from 1 to 20?
+(a) 3,5,7, 11, 13, 17, 19
+(b) 2,5, 7,9, 11, 13,17, 19
+(c) 2,3,5,7, 11, 13,17, 19
+(4) 1,2,3,5,7, 11, 13, 17, 19
+RRB ALP & Tec. (20-08-18 Shift-I.
+Ans : (c) Prime numbers:- The number divisible by 1
+and itself only.
+Hence, from options, the required series will be
+2,3,5,7,11,13,17,19.
+57. Which of the following number is not
+composite?
+(a) 209 (b) 203
+(c) 161 (d) 109
+RRB ALP & Tec. (14-08-18 Shift-I)
+Ans : (d) The number is called composite, which is
+formed by multiplying whole numbers.
+Hence, 209 = 11 x 19
+203 =7 x 29
+161 =7 x 23
+But, 109 cannot be expressed in the form of factors
+(except 1).
+58. If x + y = 11, then (-1)"+(+1)” is equal to .......
+(where x and y are whole numbers).
+(a) -1 (b) 1
+(©) 2 (d) 0
+RRB JE - 23/05/2019 (Shift-1
+Ans : (d) Given —
+xty=11
+(-1)*+(-1)" =?
+Note- When the sum of two whole numbers is an odd
+number then one will be even and second will be odd.
+Hence,
+(revo + (C1yeren = 9
+59. From a cloth of 30 m long, 12 pieces each
+measuring 225 cm are cut and sold. How much
+is left of the original length?
+(a) 1/3 (b) 1/9
+(c) 1/10 (d) 3/10
+RRB JE - 23/05/2019 (Shift-IID)
+Ans : (c) The total length of the cloth = 30 m [1m = 100)
+cm] = 3000 cm
+Total length of the cloth that is sold = 225 x 12 = 2700)
+cm
+The length of the remaining cloth = 3000 — 2700 = 300)
+cm
+The remaining part aes fraction
+3000 10
+60. If 1/7 of a number is subtracted from the
+number, the result is 30 less than the number.
+Find the number.
+(a)_105 (b) 140
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0008_left.png =====
+(c) 120 (d) 210
+RRB JE - 24/05/2019 (Shift-II1)
+Ans : (d) Let the number be x.
+x-%=x-30
+7
+Sat x-30
+7
+
+6x = 7x—210
+
+x=210
+
+61. If the product of two numbers is 24, and their
+
+square’s sum is 52, then find their sum.
+(a) 5 (b) 10
+(c) 15 (d) 20
+RRB RPF Constable -24/01/2019 (Shift-I
+Ans :(b) Let the numbers be x and y.
+According to the question,
+x.y = 24..........(1)
+x+y =$2......(2)
+“Oct yan? y+ 2ay |
+=52+2x24
+=52+48= 100
+x+y=¥100 =10
+
+62. If 10 is subtracted from the 5 times of a
+number, then that number will be equal to the
+number found when adding 8 to 4 times that
+number, what is that number?
+
+(a) 15 (b) 18
+(c) 22 (d) 21
+RRB RPF Constable -25/01/2019 (Shift-IID
+Ans. (b) : Let the number be x.
+According to the question,
+5x-10=4x+8
+x=18 '
+Hence, the required number will be 18.
+
+63. When 8 times of a number is added to 4, the
+result obtained is the smallest 3-digit number.
+What is that number?
+
+(a) 12 (b) 10
+(c) 15 (dd) 8
+RRB RPF Constable -22/01/2019 (Shift-II)
+
+Ans : (a) Let the number be x,
+
+-s The smallest 3-digit number = 100
+
+According to the question,
+
+8x +4= 100
+
+8x = 96
+
+x= 36 =12
+8
+
+Hence, the required number will be 12.
+
+64. The sum of two numbers is 22. Five times of
+one number is equal to 6 times the other. Find |
+the larger of the two numbers.
+
+(a) 12 (b) 15
+(c) 10 (d) 16
+RRB JE - 25/05/2019 (Shift-I)
+Number System 22
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0008_right.png =====
+Ans : (a) Let the numbers are x and y,
+
+According to the question
+
+x+y=22.....(i)
+
+and 5x = 6y .......(ii)
+
+x=Sy
+5
+Putting the value of x in equation (i) -
+6
+5 yty=22
+1
+5 y=22
+22x5
+y= 7" 10
+y=10
+x= Sa0=12
+5
+
+Hence, the larger number is 12.
+
+65. If doubling a number and adding 20 to the
+result gives the same answer as multiplying the
+number by 8 and subtracting 4 from the
+product, find the number.
+
+(a) 3 (b) 4
+(c) 6 (d) 2
+RRB JE - 25/05/2019 (Shift-I)
+Ans : (b) Let the number be = x
+According to the question,
+2x+20=xx 8-4
+2x +20=8x-4
+24 = 6x
+
+66. The product of two numbers is 9375. The
+quotient, when the largest number is divided
+by the smallest number the quotient is 15. Find
+the sum of these numbers.
+
+(a) 400 (b) 380
+(c) 425 (d) 395
+RRB JE - 30/05/2019 (Shift-I1)
+Ans : (a) Let the smaller number be = x
+a Larger number = 15x
+According to the question,
+x x 15x = 9375
+15x? = 9375
+x= 625
+x = 25 first number
+o 15x = 15 x 25 = 375 second number
+
+Hence, the sum of the numbers = 375 + 25 = 400
+
+67. If 2/3™ of 1/4" of a number is 32. Find the
+number.
+
+(a) 202 (b) 198
+(c) 196 (d) 192
+RRB RPF-SI -13/01/2019 (Shift-III)
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0009_left.png =====
+Ans : (d) Let the number be x, )
+xt x2 32
+43
+x =32 x 6=192
+68. If the sum of two numbers is 13 and the sum of
+their squares is 97, what is their product?
+(a) 72 (b) 36
+(c) 110 (d) 84
+RRB JE - 28/06/2019 (Shift-IIL.
+Ans. (b) Let both numbers are X and Y.
+Given,
+xt+y=13, x+y’ =97, xy=?
+te (Kt yP ax? ty? Ft 2xy (i)
+Putting the value in equation (i),
+(13)? =97 + 2xy
+169 =97 + 2xy
+2xy = 169 - 97
+x= 2
+a)
+xy = 36
+69. Which of the fractions given below, when
+added to 2 gives 1? |
+48 7
+_— b) -—
+(a) 30 (b) 5
+28 8
+2 d) -—
+(©) 10 (d) 5
+RRB Group-D — 19/09/2018 (Shift-IT.
+Ans. (a) : Let the unknown fraction be x.
+According to the question,
+13
+x+=l1
+5
+x=1-2
+5
+-8
+x=—
+5
+—8x6 _ -48
+lor, X=—— = ——
+5x6 30
+70. Find the answer of 441+141,1,1
+6 12 20 30 42 56
+11 3
+— b) =
+@ a ®% 3
+7 13
+— d) =
+(©) 16 (d) 28
+RRB Group-D — 03/10/2018 (Shift-II)
+Ans : (b) From the question,
+1,1,1,1,1,1
+st—t+—4+—4+— 4+ —
+6 12 20 30 42 56
+11,1 1,1 1,1 1,1 1,1 1
+So -st-—4+—-=4+2-Sts-s4ta-=
+23344556677 8
+all 4-1 23
+2 8 8 8
+Number System 23
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0009_right.png =====
+71. Shalini, Tanvir and Rashid shared a cake.
+Shalini had 2 part of it, Tanvir had i part of
+it and Rashid had the remaining part. What
+was fraction of Rashid’s cake?
+
+5 3
+2 b) =
+@ | o) |
+13 7
+aid d +
+© 5 @) 2
+RRB Group-D — 31/10/2018 (Shift-I)
+Ans : (d) Shalini’s share of the cake = jpart
+Tanvir’s share of the cake =4 part
+Total share of Shalini and Tanvir’s cake
+1,1 243 5
+so¢oeS = a
+6 4 12 12
+way 5/7
+Hence, Rashid’s share of the cake = 1-— =|—] part
+12° 12
+72. The sum of two numbers is 9. The sum of their
+reciprocals is 1/2. One of the number is.
+(a) 2 (b) 4
+(c) 5 (d) 6
+RRB Group-D — 17/09/2018 (Shift-III)
+
+Ans. (d) : Let the first number be x and the second]
+
+number be y.
+
+According to the question,
+
+xty=9 (i)
+1,1 1 .
+Sto.
+xy 2 (ii)
+From equation (i),
+x+y=9
+y=9-x
+From equation (ii)
+1,101
+—+o==
+x y 2
+x+y_1
+xy 2
+9x2 _ 1
+xy
+2x9=xy
+Putting the value of y,
+18 =x (9-x)
+18 =9x—x?
+x’-9x+18=0
+x’ — 6x—3x+ 18=0
+x(x — 6) — 3(x-6) =0
+(x-3) (x-6)=0
+(x-3)=O0orx=3
+(x-6)=0or x=6
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0010_left.png =====
+73. There are a total of 200 students in a school, of |
+which a are boys. Find the number of girls in
+the school.
+
+(a) 80 (b) 60
+(c) 40 (d) 120
+RRB NTPC 17.01.2017 Shift-3
+Ans : (b) The number of boys in the school
+= total students x
+10
+7
+=200x 0 =140
+.. The number of girls in the school = 200-140 = 60
+
+74, If the sum of two numbers is 26 and their
+difference is 12. Find the difference of their
+squares.
+
+(a) 296 (b) 312
+(c) 324 (d) 336
+RRB NTPC 05.04.2016 Shift : 2
+
+Ans ; (b) Let the numbers be x and y.
+
+xty=26
+
+x-y=12
+
+-. The difference of the squares,
+=x-y
+=(xt+y)(x-y)
+=26 x 12=312
+
+75. If the product of two numbers is thrice of their
+sum, if 1° number is 12 find the 2" number.
+
+(a) 2 (b) 3
+() 4 (d) 5
+RRB NTPC 04.04.2016 Shift : 1
+
+Ans : (c) Let the 2 number be x.
+
+xx 12=(x+12)x3
+12x = 3x + 36 |
+9x = 36
+
+Hence, x =4
+
+76. If the sum of two digits is 15 and difference is 3.
+The digits are-
+
+(a) 8 and7 (b) 6 and 9
+(c) 5 and 10 (d) 3 and 12
+RRB NTPC 31.03.2016 Shift : 1
+
+Ans: (b) Let the digits be x and y.
+
+Then, x+y=15...... (1)
+
+x-y=3.......(2)
+
+Solving equation (1) and (2),
+
+x=9
+y=6
+
+77. The sum of three consecutive even numbers is
+42. Find the middle number.
+
+(a) 12 (b) 18
+
+(c) 16 (d) 14
+RRB NTPC 29.03.2016 Shift : 3
+Ans : (d) Let three consecutive even numbers are x, x +
+
+2 and x+4
+
+OXtxt2+x+4=42
+3x = 36
+x=12
+
+--middle number = 12+2=14
+
+Number System 24
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0010_right.png =====
+78. Two partners M and N buy a car. M pays his
+share of 3e of the total cost of the car. M pays
+31,540 as compared to N. What is the cost of
+the car?
+
+(a) %2,32,680 (b) %2,03,175
+(c) %2,20,780 (d) %1,85,780
+RRB ALP & Tec. (31-08-18 Shift-IID)
+Ans : (c) Let the cost of the car is x rupee
+According to the question,
+M’s share = 3x
+7
+N’s share = 231540
+Then, 3% 431540428 =x
+7 7
+x = 31540x7
+x = %2,20,780
+79. If é part of a pizza costs Rs. 300, then part
+of a pizza will cost:
+(a) 180 (b) 2250
+(c) %225 (d) %270
+RRB ALP & Tec. (30-08-18 Shift-I
+
+Ans : (d) The cost of 2/3 part of the pizza = %300
+
+Then, the cost of | share of the pizza ee 3450
+
+The cost of 3/5" share of the pizza = 450 2
+
+= 90x3 = %270
+
+80. When 472 pieces of plywood, each 0.23 cm
+thick, are placed on top of each other, what
+would be the height of the pillar in metre?
+
+(a) 10.856 (b) 1.0856
+(c) 108.56 (d) 1.856
+RRB ALP & Tec. (29-08-18 Shift-IID}
+Ans : (b) The required height of the pillar,
+= 023x472 _ 0856 metre
+100
+
+81. 15 small rods, each of length 232m are joined
+to make a big rod. What then is the length of
+the big rod?
+
+3 1
+a) 349-m ‘b)  349-m
+(a) 7 (b) 7
+2 5
+(©) 3495m (@) 3492m
+RRB ALP & Tec, (21-08-18 Shift-
+Ans : (c) The length of each rod = 232 = ° m
+In this way, the length of all 15 rods = I5xt
+= 2445 _ 3492 m
+7 7
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0011_left.png =====
+82. Calculate the difference between the largest
+and the smallest two-digit prime number.
+(a) 82 (b) 83
+(c) 84 (d) 86
+RRB RPF Constable -17/01/2019 (Shift-L
+Ans : (d) The largest two digit prime number = 97
+The smallest two digit prime number = 11
+Hence, the required number = 97 — 11 = 86
+83. Find the largest number of four digit that is
+completely divisible by 49.
+(a) 9998 (b) 9994
+(c) 9992 (d) 9996
+RRB RPF-SI -10/01/2019 (Shift-I1)
+Ans : (d) The largest 4-digit number is 9999.
+499999 (204
+98
+199
+196
+3
+Hence, the required number = 9999-3 = 9996, which is
+exactly divisible by 49.
+84. Find the greatest 4-digit number that is}
+divisible by 15, 25, 40 and 75.
+(a) 9200 (b) 9600
+(c) 9400 (d) 9000
+RRB JE - 24/05/2019 (Shift-I
+Ans : (b) The largest 4-digit number = 9999
+LCM of 15, 25, 40 and 75 = 600
+600)9999 (16
+600
+3999
+3600
+399
+Hence, the largest 4-digit number that is divisible by 15,
+25, 40 and 75 = 9999 — 399 = 9600
+85. What should be added to 135642 to get the
+largest six digit number?
+(a) 864350 (b) 863357
+(c) 864357 (d) 864347
+RRB Group-D — 29/10/2018 (Shift-II
+Ans : (c) From option, Let the required number is x.
+Adding x to 135642 gives a largest six digit number
+“. 135642 + x = 999999
+x = 999999 — 135642
+x = 864357
+86. Find the largest 4 digit number that is
+completely divisible by 88.
+(a) 9944 (b) 9844
+(c) 9768 (d) 8894
+RRB JE - 02/06/2019 (Shift-I)
+Number System 25
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0011_right.png =====
+Ans : (a) The largest 4 digit number = 9999
+113
+88)9999
+88
+119”
+88
+319
+264
+55 Remainder
+Hence, the required number = 9999 — 55 = 9944
+86. Find the largest number of four digits that is
+completely divisible by 27, 18, 15 and 12.
+(a) 9730 (b) 9710
+(c) 9700 (d) 9720
+RRB JE - 26/06/2019 (Shift-I11)
+Ans : (d) LCM of 12, 15, 18 and 27 = 540
+540) 9999 (18
+540
+4599
+4320
+279
+Hence, the required number = 9999 — 279 = 9720
+88. What is the largest four-digit number that is
+completely divisible by 49?
+(a) 9992 (b) 9994
+(c) 9998 (d) 9996
+RRB Group-D — 18/09/2018 (Shift-II)
+Ans. (d) : The largest 4 digit number = 9999
+49)9999 (204
+98
+199
+196.
+xx3
+Hence, the largest 4 digit number completely divisible
+by 4 = 9999 — remainder = 9999 — 3 = 9996
+89. Find the smallest four digit number divisible by
+47.
+(a) 1200 (b) 1025
+(c) 1034 (d) 1360
+RRB Group-D — 22/09/2018 (Shift-II1)
+Ans. (c) : The smallest four digit number = 1000
+21
+47)1000
+94
+~60
+47
+13
+Hence, the smallest four digit number divisible by 47,
+= 1000 + (47-13) 1000+34 = 1034
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0012_left.png =====
+90. Find the largest 3-digit number that is |
+completely divisible by 10, 8 and 12.
+(a) 940 (b) 960 '
+(c) 980 (d) 999
+RRB Group-D — 26/09/2018 (Shift-IID)
+Ans : (b) LCM of 10, 12 and 8
+2{10, 8, 12
+2|5, 4, 6
+2)5, 2, 3
+3/5, 1 3
+5/5, Lo1
+, Lol
+LCM = 2 x2x2x3x5 = 120
+The largest 3-digit number = 999
+According to the question-
+8
+120)999
+960
+39
+Hence, the required number = 999 — 39 = 960.
+91. Find the smallest four digit number which is a |
+perfect square.
+(a) 1000 (b) 1024
+(c) 1081 (d) 1064
+RRB NTPC 04.04.2016 Shift : 1
+Ans : (b) The smallest 4 digit number = 1000
+32
+3 | 1000
++3] 9
+62} 100
+2} 124
+—24
+Hence, the smallest 4 digit number = 1000 + 24 = 1024 |]:
+92. Find the least 6 digit number that is a multiple
+of 18.
+(a) 100000 (b) 999900
+(c) 100008 (d) 100006
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (c) The smallest 6 digit number = 100000
+5555
+18)100000
+90
+100
+90
+Too”
+90
+100
+90
+10
+The remainder is 10, hence 8 is added to the number
+will make it divisible totally.
+Hence, the required number = 100000 + 8 = 100008
+Number System 26
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0012_right.png =====
+Type - 6
+93. Which from the following is not a rational
+number?
+(a) V1728 (b) x
+(c) 2.487627287 (d) 8.36712846781
+RRB RPF-SI -05/01/2019 (Shift-I.
+Ans : (b) Irrational numbers is a real number cannot be
+expressed as p/q. where p and q are integers and q is not 0.
+It means, irrational number cannot be expressed as
+fractions. From example the square root of 2 7 are
+irrational number.
+94. Which from the following is not irrational?
+(a) V5428 (b) 6084
+(c) & (d) V7652
+RRB RPF Constable -18/01/2019 (Shift-IIT)
+Ans. (b) : The real numbers which cannot be expressed)
+as p/q, where p and q are integers and q is not 0, are
+called irrational numbers. These numbers are
+represented by Cor Q.
+For example- ¥2,1+/3,1
+6084 =/78x 78 =78 (Rational number)
+95. Denote 0.125 as a rational number.
+(a) 119/993 (b) 113/990
+(c) 125/999 (d) 100/999
+RRB JE - 25/05/2019 (Shift-I)
+Ans : (c) Let x = 0.125
+x= 0.125125 ......... (i)
+1000x = 125.125125 ....... (ii)
+From equation (ii)- equation (i) —
+999x = (125.125125.......)— (0.125125...)
+999x = 125.0
+125
+x=
+999
+96. Denote 5.025 as a fraction:
+203 1
+@ 7 (b) 5—
+40 40
+1 1
+© 5- @ 5s
+4 8
+RRB JE - 29/05/2019 (Shift-I)
+Ans : (b) 5.025 = 3025
+1000
+= 201 sd
+40 40
+97. Find the smallest fraction.
+(a) 3/4 (b) 11/13
+(c) 5/7 (d) 9/11
+RRB JE - 27/06/2019 (Shift-I11)
+Ans : (c) (a) 3/4 =0.75
+(b) 11/13 = 0.84
+(c) 5/7 =0.71
+(d) 9/11 = 0.81
+Hence, the smallest fraction will be 5/7.
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0013_left.png =====
+98. Find the value of the denominator of —_1_
+(s+¥3)
+in rational number.
+(5-3) G
+YT b) 5422
+(a) D (b) 5+ D
+8 (8-3)
+5-— d) +——
+© > 39 @
+RRB Group-D — 29/10/2018 (Shift-III)
+Ans : (a)
+According to the question-
+1 (s-v3)
+Ba PE B)
+(s-¥3)
+(5) -(v3)
+(5-3) (5-3)
+__25-3 _ 2
+99. Which of the following square roots is
+irrational?
+(a) 21025 (b) 18025
+(c) 13225 (d) 15625
+RRB Paramedical Exam — 21/07/2018 (Shift-I)
+‘Ans. (b) : 421025 = V5x5x29x29
+= 145 (Rational number)
+18025 = ¥5x5x7x103
+= 135.257 (Irrational number)
+V13225 = V5x5x 23x23
+= 5x23=115 (Rational number)
+V15625 = V5x5x5x5x5x5
+= 5x$x5=125(Rational number)
+Hence, it is obvious that the square root of 18025 is|
+irrational number.
+100. Find the rational value of the denominator of
+1/2+43).
+(@) 2+ 3 (b) 2-v3
+© 1 (@) 4+ 8
+RRB Group-D — 22/10/2018 (Shift-IIL
+Ans : (b) Rationalizing the denominator of ——= ,
+Md ; 243
+1 2-v3
+243 2-v3
+= 2253
+> 2
+2-(¥3)
+2-3
+=o =2-3
+4-3
+Number System 27
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0013_right.png =====
+101. Find the rational value of the denominator of
+1
+(+23)
+6-23) (5-2/3)
+a — (ob) ——
+12 13
+w3 23
+5-—— d) 5+
+© 5-33 @ S55
+RRB Group-D — 25/10/2018 (Shift-IT)
+Ans : (b) Rationalizing the denominator of the given|
+fraction,
+__ 1 6-23)
+(5+2V3)  (5-2V3)
+(5-2v3) 242
+= (atb)(a-b) = a*-b
+(5° -(2v3 ;
+_ 5-23 _ 5-23
+25-12 13
+3
+102. (4)? =?
+(a) 1/4 (b) 8
+() 1/8 (d) 4
+RRB NTPC 07.04.2016 Shift : 3
+3 3
+Ans :(c) (4)? =(2)"
+11
+===
+2 8
+103. From the given options, find the rational
+number between the range 2/4 and 0.6.
+ll 21
+— b)
+® 45 ©) fo
+3 ll
+2 d) —
+(©) 4 qd) 4
+RRB NTPC 19.01.2017 Shift : 2
+Ans : (b) The rational number between 3- 0.5 and 0.6)
+21
+=— =0.525
+40
+Hence, 0.5< 0.525< 0.6
+104. Which of the following numbers is irrational?
+(a) 64 (o) V64
+© 64 (@) fea
+RRB ALP & Tec. (30-08-18 Shift-I
+Ans : (d) From options,
+1 1
+{64 = (64)3 = (4) = 4 (Rational number)
+1 1
+V64 = (64)? =(8°)? =8 ( Rational number)
+i 1
+464 = (64)8 = (2° iy =2( Rational number)
+64 = 416 x 4 =2x 4/4 = (Irrational number)
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0014_left.png =====
+105. Among the following which is a rational
+number?
+(@) 2 )
+(©) V4 @ v2
+RRB ALP & Tec. (13-08-18 Shift-III)
+Ans : (b) Rational number can be written as p/q ;(q # 0).
+From option (b), is rational number
+¥B=2
+106. Which of the numbers given below is NOT
+rational number?
+(a) Vea (b) 64
+© @ v8
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (d) ¥64 =8 (Rational number)
+64 =4 (Rational number)
+Ww =2 (Rational number)
+V8 =2V2 (Irrational number)
+Hence 2V2 is not number a rational
+A number which we can write as p/q where p and q
+both are integers but q # 0 is called rational numbers.
+107. Allirrational number are---------numbers.
+(a) Integers (b) Imaginary
+(c) Whole (d) Real
+RRB NTPC 19.01.2017 Shift : 3
+‘Ans: (d) All irrational numbers are real numbers.
+|As- V2
+108. Which from the following is irrational?
+(a) 1000000 (b) 3/1000000
+(c) 1000000 (d) 41000000
+RRB Group-D — 08/10/2018 (Shift-IT)
+Ans : (d) From option-
+(a) ¥1000000
+100 100x100 =10x10x10=1000 (Rational)
+(b) 91000000 =(100° ys =100 (Rational)
+(©) 1000000 =(10° ye =10 (Rational)
+(d) 41000000 = 104/100 (Irrational)
+109. Which from the following is an irrational
+number?
+(a) V4 )
+(© vi6 @
+RRB Group-D — 22/09/2018 (Shift-IID
+(Ans. (a) : Irrational number — The number which}
+cannot be expressed as p/q. Example- V3,V6....../4
+Number System 28
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0014_right.png =====
+Note- 7 is an irrational number while 22/7 is a rational
+number.
+According to the question,
+9/8 =3/2x2x2=2 (Rational number)
+V6 = V2x2x2x2 =2x2=4 (Rational number)
+{1 =1 (Rational number)
+110. Which from the following is a_ rational
+number?
+(a) ¥2-2 (ob) ¥-2
+() ¥4+4 @ = Vi241
+RRB Group-D — 25/09/2018 (Shift-1
+Ans : (b)
+Rational number — Such numbers which can be
+expressed as p/q ;(q #0), are called rational numbers.
+Example:- 38, V4 etc;
+Irrational number — Such numbers which cannot be
+expressed as p/q. Example:- 2,92,/2 etc;
+From options,
+(b) 8-2 =0 is a rational number while others
+42-2 > ¥f4 +4 are irrational numbers.
+111. Which from the following is an irrational
+number?
+(a) 1024 (b) 'Y1024
+() 1024 (@ 1024
+RRB Group-D — 27/09/2018 (Shift-I
+Ans. (a) From option,
+(a) (1024 = 44/4 (Irrational number)
+(b) 11024 =2 (Rational number)
+(c) V1024 =32 (Rational number)
+(d) {1024 = 4 (Rational number)
+112. Which from the following is not a rational
+number?
+(a) 32 () 64
+(32 (@ 427
+RRB Group-D — 28/09/2018 (Shift-1
+Ans : (c) from options,
+%B2= 2(Rational)
+364 = 4 (Rational)
+27 =3 (Rational)
+432 = 24/2 (Irrational)
+113. Which from the following is a_ rational
+number?
+(@) i551 (>) ¥i331
+() Vi221 (@ 41441
+RRB Group-D — 11/10/2018 (Shift-IL
+Ans : (b) A rational number can be written as p/q ;(q #0).
+Hence, ¥1331=¥11x1xI1=11
+Therefore, 11/1 is a rational number.
+Note- All other numbers cannot be written as p/q. So
+they are irrational.
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0015_left.png =====
+114. Whose square root from the following numbers
+is a rational number?
+(a) 576 (b) 512
+(c) 480 (d) 544
+RRB Group-D — 07/12/2018 (Shift-IID)
+Ans : (a) From the options, the square root of 576 is
+rational.
+V576 = 24
+512 =16V2
+480 = 4/30
+544 = 4,34
+Hence, square root of 576 is 24, which is a rational
+number.
+115. Whose square root from the following numbers
+will be rational?
+(a) 46232 (b) 46233
+(c) 14448 (d) 34225
+RRB Group-D — 06/12/2018 (Shift-IT.
+Ans. (d) : The square root of 34225 is 185, which is a}
+rational number.
+116. Whose square root from the following numbers
+is irrational?
+(a) 5184 (b) 4465
+(c) 3025 (d) 8836
+RRB Group-D — 05/12/2018 (Shift-IT.
+Ans. (b) From options,
+(a) V5184 = 72
+(b) V4465 = V5x19x 47 (Irrational)
+(c) v3025 = 55
+(d) V8836 = 94
+Hence, the square root of 4465 is irrational.
+117. Whose square root from the following numbers
+is rational?
+(a) 336 (b) 344
+(c) 320 (d) 324
+RRB Group-D — 04/12/2018 (Shift-IIT
+Ans. (d) ¥324 = V18x18 =18
+Hence, the square root of 324 will be 18, which is a
+rational number.
+118. Whose square root from the following numbers
+will be irrational?
+(a) 6441 (b) 9604
+(c) 7921 (d) 5776
+RRB Group-D — 03/12/2018 (Shift-ID)
+Ans ; (a) From option,
+¥6441 = 80.25 is irrational
+V9604 = V98x98 = 98
+V7921 = J89x89 =89
+5776 =V76x76 =76
+Hence, the square root of 6441 will be irrational.
+119. Whose square root from the following numbers
+is a rational number?
+(a) 144 (b) 136
+(c) 128 (d) 120
+RRB Group-D — 01/12/2018 (Shift-I1)
+Number System 29
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0015_right.png =====
+Ans : (a)
+V144 =12
+136 = 2V34
+Vi28 =8V2
+Vi20 = 230
+Hence, the square root of 144 is 12, that is a rational
+number.
+1
+120. E: a tional ber.
+xpress (+3) as a rational number.
+(a) 5-2V3/12 () (2-3)
+(©) (5-2V3)/13 (d) 5+2V3/13
+RRB Group-D — 08/10/2018 (Shift-I)
+. 1
+Ans. (b) : Rationalizing the number ———
+(2+3)
+Ix(2-v3)
+“RHAe-NS)
+(2-v3)_(2-¥3)
+~ (4-3) 1
+Type -2
+121. Find the least number that the sum obtained by
+to be adding in 1780 to is a perfect square.
+(a) 46 (b) 49
+(c) 69 (d) 72
+RRB JE - 27/05/2019 (Shift-II)
+Ans : (c) The number 1780 when added to 69 will be|
+1849 which is a perfect square number.
+Thus-
+1780 + 69 = 1849
+1849 = 43 x 43
+(43) = 1849
+122. Find the smallest integer whose cube is equal to
+itself.
+(a) -l (b) 2
+© 1 @ 0
+RRB JE - 22/05/2019 (Shift-I)
+Ans : (a) -1 and 1 are such integers whose cube is equal
+to itself.
+Hence, the smallest integer = -1
+(1 =-l
+123. If the cube of a number and subtracting from
+(153)? to the result gives 1457. Find the
+number.
+(a) 18 (b) 16
+(c) 28 (d) 24
+RRB JE - 24/05/2019 (Shift-I)
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0016_left.png =====
+Ans : (c) Let the number be x.
+According to the question,
+(153)? — x3 = 1457
+x? = (153) — 1457
+x= 23409 - 1457
+x°= 21952
+2 x = 921952 = ¥28x 28x28 = 28
+124, Five times of a positive integer is 3 less than
+twice of its square. Find the integer.
+(a) 3 (b) 8
+(©) 2 @) 5
+RRB RPF Constable -19/01/2019 (Shift-I)
+Ans : (a) Let the positive integer is x.
+According to the question-
+5x = 2x? -3
+2x? - 5x-3=0
+2x? - 6x +x-3=0
+2x (x-3) + 1 (x-3)=0
+(x-3) 2x+1)=0
+x-3=02x+1=0
+x=3 a x =-Y, (Invalid)
+125. Find the least perfect square that is divisible by
+21, 36 and 66.
+(a) 214344 (b) 231444
+(c) 214434 (d) 213444
+RRB JE - 25/05/2019 (Shift-II1)
+Ans : (d) LCM of 21, 36 and 66 —
+2|21 36 66
+2/21 18 33
+3}21 9 33
+3/7 3 11
+7/7 1
+Wl} 1oo1 11
+1 11
+Hence, To get the required number, multiply by 7 and)
+11 in LCM of 21, 36, and 66.
+The required perfect square number
+= 2x2x3x3x7x7x 11x11 = 213444
+126. Which of these square numbers cannot be
+expressed as the sum of two prime numbers?
+(a) 81 (b) 49
+(c) 121 (d) 144
+RRB JE - 30/05/2019 (Shift-I)
+Ans : (c) 81 =9=2+7
+V49 =7=245
+Vi21=11=2+9, 348, 5+6, 744
+Vi44=12=5+7
+Hence, Option (c) cannot be expressed as the sum o!
+two prime numbers.
+Number System 30
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0016_right.png =====
+127. Three times the square of a number
+subtracting by 4 times the number is equal to
+50 more than the number. Find the number.
+(a) 5 (b) 4
+() 6 (d) 10
+RRB JE - 28/05/2019 (Shift-1)
+Ans : (a) Let the number be = x
+According to the question,
+3x°-xx4=x+50
+3x? -4x-x-50=0
+3x? 5x-50=0
+3x? - 15x + 10x - 50 =0
+3x (x-5) + 10(x-5)=0
+(x-5) 3x + 10)=0
+x-5=0
+x=5
+128. Which of the following is not a perfect square?
+(a) 2025 (b) 16641
+(c) 1250 (d) 9801
+RRB RPF Constable -20/01/2019 (Shift-I)
+Ans : (c) From options- 1250 is not a perfect square,
+while others are perfect squares.
+1250 = (35.36) is not a perfect square
+2025 = (45)?
+16641= (129)
+9801 = (99)
+129. Which of these numbers is not a sum of two
+squares?
+(a) 41 (b) 13
+(c) 23 (d) 37
+RRB JE - 26/06/2019 (Shift-I)
+Ans : (c) From option-
+(a) 41=9+4 (b) 13 = 2? +3?
+(c) 23 (d)37=6 +1?
+Hence the number 23 is not the sum of two square.
+130. Which of these is a perfect square?
+(a) 9801 (b) 9887
+(c) 9013 (d) 9016
+RRB JE - 01/06/2019 (Shift-II1)
+Ans. (a) From option (a),
+99
+9} 98 OL
+91 81
+189] 1701
+9| 1701
+XXXX
+Hence, 9801 is a perfect square of 99.
+131. If the last digit of the square of a number is 1.
+Find the last digit of it’s cube.
+(a) Only 9 (b) lor9
+(c) Anyoddnumber (d) Only 1
+RRB JE - 27/06/2019 (Shift-I)
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0017_left.png =====
+(Ans : (b) Let the number be 9. The last digit of whose
+square is 1. Which is as follows-
+9 = 81
+Last digit of 729 which is cube of 9 = 9
+Let the number be 11. The last digit of whose square is 1.
+Which is as follows-
+1? = 121
+The last digit of the cube of 11-
+11 = 1331
+
+Hence the last digit = 1
+
+Hence the number will be | or 9.
+
+132. The sum and the difference of two numbers are
+25 and 3 respectively. Find the difference of
+their squares.
+
+(a) 165 (b) 75
+(c) 154 (d) 140
+RRB JE - 27/06/2019 (Shift-I11
+Ans : (b) Let the two numbers are x and y
+xty=25 ----(i)
+x-y=3 ----(ii)
+Xv =(x+y) (xy) =25 x 3=75
+
+Hence, the difference of their squares = 75
+
+133. How many perfect squares are there between
+100 and 200?
+
+(a) 7 (b) 4
+(©) 6 (d) 5
+RRB JE - 27/06/2019 (Shift-I11.
+
+‘Ans : (b) Perfect square numbers greater than 100 or|
+
+nearest to 100 = 121 =(11)”
+
+Perfect square numbers greater than 200 or nearest to}
+
+200
+
+= 196 =(14)
+
+The numbers from (11)? to (14)? are = 121, 144, 169,
+
+196
+
+Therefore, there will be 4 such perfect square numbers}
+
+between 100 and 200.
+
+134, Find the least number that should be added to
+4042 to make it a perfect square.
+
+(a) 41 (b) 54
+(c) 64 (d) 58
+RRB Group-D — 22/09/2018 (Shift-III)
+Ans. (b) : Square root of 4042,
+63
+6} 4042
++6 | 36
+123} 442
+369
+73
+
+Square of 64 = 64 X 64= 4096
+
+Hence, the required number = 4096-4042 = 54
+
+By adding 54, the number 4042 will be come perfect!
+
+square.
+
+Number System 31
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0017_right.png =====
+135. Divide the number 137592 by the smallest
+number that leaves no remainder and quotient
+is a perfect cube. Find the cube root of the
+quotient.
+
+(a) 8 (b) 2
+(©) 4 (d) 6
+RRB Group-D — 05/12/2018 (Shift-IT)
+Ans. (d)
+137592 = 2x2x2x3x3x3x7x7x13
+
+Hence, it is clear that, 137592 leaves no remainder
+
+when divided by 7x7x13 = 637
+
+And quotient 216 will be a perfect cube.
+
+216 = 2x2x2x3x3x3
+
+Hence, the required cube root = 2x3 =6
+
+136. A positive number exceed its positive square
+root by 30. Find the number.
+
+(a) 16 (b) 36
+(c) 25 (d) 49
+RRB NTPC 02.04.2016 Shift : 3
+Ans : (b) Let the number be x, then-
+x=vx +30
+x-30=Vx
+
+Squaring in both side-
+(x-30) =(Vx)
+x? +900- 60x =x
+x? 60x -x +900 =0
+x? -61x +900=0
+x? ~36x ~ 25x +900 =0
+x(x —36)-25(x-36)=0
+(x-36)(x-25)=0
+x-36=0 or x-25=0
+x=36 or x=25
+
+According to condition, 25 is not more that its square
+
+root, which does not follow the condition.
+
+Hence, the required number will be x = 36.
+
+137. What smallest number should be added to the
+sum of squares of 15 and 14, so that the
+resulting number is a perfect square?
+
+(a) 17 (b) 20
+(ce) (d) 9
+RRB NTPC 29.03.2016 Shift : 1
+Ans : (b) 15? +14? = 2254196 =421
+Let the number to added be x,
+421+x=441
+=>x=441-421=20
+
+Hence, the required number = 20
+
+138. Calculate the sum of squares of numbers from
+1to9.
+
+(a) 284 (b) 285
+(c) 385 (d) 380
+RRB NTPC 27.04.2016 Shift : 1
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0018_left.png =====
+Ans : (b) The sum of squares of first n numbers
+_n(n+1)(2n+1)
+7 6
+«. the sum of squares from 1 to 9 will be-
+9(9+1)(18+1
+_9+1)(18+1) _ 9x10x19 285
+6 6
+139. Calculate the sum of squares of number from 1
+to 10.
+(a) 384 (b) 285
+(c) 385 (d) 380
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (c) The sum of squares of first n numbers
+_ n(n+l) (2n+1)
+6
+the sum of squares of the numbers from | to 10 will be-
+— 1000+1) (20+1) _ 10x11x21 _ 385
+6 6
+
+140. How many of the factors of 256 are perfect
+squares?
+
+(a) 5 (b) 3 |
+(©) 6 (d) 4
+RRB ALP & Tec. (20-08-18 Shift-II)
+
+Ans : (a) Perfect square factors of 256 = 1, 4, 16, 64, 256
+
+Hence, the required number of perfect square factors = 5
+
+141, Find the least number which should be added
+to 7864, to make it a perfect square.
+
+(a) 61 (b) 57
+() 71 (d) 79
+RRB Group-D — 11/12/2018 (Shift-II)
+
+Ans : (b) When 57 is added to 7864, to make it 7921
+
+which is a perfect square of 89.
+
+Hence, it is clear that adding 57 to 7864 will make the
+
+number is perfect square.
+
+142. The number 4050 becomes a perfect square
+when multiplying by a positive integer. Find
+the square root of the number.
+
+(a) 95 (b) 80
+(c) 90 (d) 85
+RRB Group-D — 01/10/2018 (Shift-I)
+
+Ans : (c) +: 4050 = 2x3x3x3x3x5x5
+
+Hence, number 4050 becomes a perfect square when
+
+multiplied by 2 = 4050x2 =8100
+
+.. The required square root of the number 8100
+= 2x3x3x5 = 90
+143. Which of the following numbers is a perfect
+square?
+(a) 0.09 (b) 8.1
+(c) 0.025 (d) All
+RRB NTPC 29.03.2016 Shift : 2
+Ans: (a) 0.09 = (0.3)!
+Hence, only 0.09 is a perfect square number.
+Number System 32
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0018_right.png =====
+144, Calculate- /30+30+/30+.30+V...2
+@ 5 (6) 30
+(c) 6 (d) 5.8
+RRB Group-D — 24/10/2018 (Shift-I
+Ans : (c)
+(30 +/30+30+V30+V... =x
+x=V30+x
+Squaring in both side,
+x? =30+x
+x’-x-30=0
+x’ — 6x + 5x—30=0
+x(x-6) +5 (x-6) =0
+(x+5) (x-6) =0
+x+5=0
+x =-5 (invalid)
+x-6=0
+(valid)
+145. Which of these numbers has the highest
+number of divisors?
+(a) 156 (b) 240
+(c) 172 (d) 200
+RRB JE - 23/05/2019 (Shift-I
+Ans : (b)
+156 = 2? x 3! x 13! = (2+1) (1+1) (141) = 12 (divisor)
+240 = 24 x 3! x 5! = (441) (141) (141) = 20 (divisor)
+172 = 2? x 43! = (2+1) (1+1) = 6 (divisor)
+200 = 23 x 5? = (3+1) (2+1) = 12 (divisor)
+Hence, It is obvious that the number of the divisors o:
+240 is more.
+146. Find the unit digit in given factor of (3451)” x
+(531)*.
+(a) 6 (b) 4
+(©) 1 qd) 9
+RRB RPF-SI -11/01/2019 (Shift-I
+Ans : (c) The given expression (345 1)°! x (531)8
+According to the question it is clear that the unit digit of
+3451 and 531 is 1, so the unit digit of their product will
+also be 1.
+147, How many multiples of 2° x 3° x 5° x 7° are
+even numbers?
+(a) 288 (b) 168
+(c) 576 (d) 464
+RRB Group-D — 06/12/2018 (Shift-IT,
+Ans. (c) : The number of factors of 2° x 3? x 5° x 7 =|
+(8+ 1)(2+1)(3 +1) (5+ 1) = 648
+~. The number of even factors (multiples) = 648 — The}
+number of total odd factors
+= 648 - {22+ 1)3+1)(5+)}
+= 648 - {3 x 4 x 6}
+= 648 - 72 = 576
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0019_left.png =====
+148. How many factors of 729 are perfect squares?
+(a) 5 (b) 4
+() 3 (d) 2
+RRB Group-D — 01/10/2018 (Shift-1
+Ans. (c) : The factors of 729,
+3 | 729
+3 | 243
+3| 81
+3| 27
+3/9
+3| 3
+1
+Perfect squares =3x3x3x3x3x3
+Hence, total 3 factors of 729 (9,9,9) are perfect squares.
+149. How many multiples of 2° x 3° x5" x 7° are odd
+numbers?
+(a) 288 (b) 144
+(c) 210 (d) 140
+RRB Group-D — 06/12/2018 (Shift-IID)
+Ans. (c) : The required odd multiple number
+= (5+1) x (4+1) x (6+1)
+=6x5x7=210
+150. Find the last digit of 213” ?
+(a) 6 (b) 3
+(©) 7 (d) 9
+RRB Group-D — 05/12/2018 (Shift-IT)
+Ans. (d) The unit digit of 213°
+213° = (213° x 213°)
+1x9=9
+151. The smallest natural number, by which 216
+should be multiplied, so that the number of
+factors of the product is odd.
+(a) 4 (b) 6
+(c) 12 (d) 8
+RRB Group-D — 11/12/2018 (Shift-I
+Ans. (b) :
+The number of multiples of (216 = 2° x 3°) is:
+= (3+1) (+1) =4 x 4 = 16 (even)
+The smallest natural number, by which 216 should be}
+multiplied, so that the number of factors of the product
+is odd = 6
+:. Required number of multiples in 216 x 6 = 24 x 3*
+=(4+1)(4+1)=25
+152. What is the unit digit of [45237 x 22247 x
+32251
+(@) 1 (b) 0
+(©) 4 (d) 5
+RRB NTPC 18.01.2017 Shift : 3
+Ans : (b) [ (4523)'" x(2224)* «(3225)" ]
+> (3)' x(4)"x(5)"
+1x65
+30= [0]
+Number System 33
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0019_right.png =====
+153. Calculate the total prime factors in the product
+of {(8)" x (9)' x7"}
+(a) 45 (b) 54
+(c) 52 (d) 65
+RRB NTPC 18.04.2016 Shift : 2
+Ans : (c) (8) x (9)' x78
+0 7
+=((2°)"«(@*) xa
+= 2x3! x78
+Hence, the total prime factors = 30+14+8 = 52
+154. Calculate the total prime factors in the product
+of {(16)’ x (27)° x 5°}
+(a) 28 (b) 43
+(©) 55 (d) 56
+RRB NTPC 16.04.2016 Shift : 2
+Ans : (c) Total prime factors {(16)’ x (27)° x 5°}
+=(2")’x(#) xs?
+= 28x35?
+= 28+18+9=55
+155. Find the unit digit in the product of (4211) " x
+(361)”
+(a) 3 (b) 1
+(©) 4 @) 7
+RRB NTPC 16.04.2016 Shift : 3
+Ans : (b)
+The required unit digit in (4211)' x (361)?
+=> (1)! x (1)? = 1x1 =1
+156. Find the unit digit in.
+(1234)' + (1234)!
+(a) 2 (b) 4
+(©) 0 @ 1
+RRB NTPC 28.04.2016 Shift : 2
+Ans : (c) Given expression: (1234)' + (1234)'%
+The unit digit,
+= (4)i + (4y!3
+= (41+ (4) x 4!
+= (16) + (16)! x 4!
+=6+6x4
+=6+24=30
+Hence, the unit digit will be 0.
+Type -9
+157. Find the greatest number that will divide 115,
+149 and 183 leaving remainders 3, 5, 7
+respectively.
+(a) 20 (b) 16
+(c) 18 (d) 14
+RRB JE - 24/05/2019 (Shift-I)
+Ans : (b) HCF of the numbers
+= (115-3), (149-5) and (183-7)
+= 112, 144 and 176
+=16
+Hence, the required number is 16.
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0020_left.png =====
+158. Find the least number which when divided by
+5, 6, 7, 8, leaves a remainder 3, and is also a
+multiple of 9.
+
+(a) 1683 (b) 843
+(c) 1677 (d) 1983
+RRB JE - 26/05/2019 (Shift-I)
+Ans : (a) LCM of 5, 6, 7 and 8 = 840
+Required no. = 840k + 3
+= 840 x 2 +3 = 1683
+
+[The closest number to 1680 will be 1683 because when|
+
+dividing by 3 remains 3 as remainder and that is also a|
+
+multiple of 9.]
+
+159. A number when divided by 10, 9 and 8
+separately leaves remainders 9, 8, and 7
+respectively. What is the least of such
+numbers?
+
+(a) 353 (b) 719
+(c) 1359 (d) 359
+RRB JE - 27/05/2019 (Shift-I)
+Ans : (d) (10-9) = (9-8) = (8-7) = 1
+.. The required number = (LCM of 10, 9 and 8) — 1
+= 360-1
+= 359
+
+160. When a number is divided by a divisor, leaves
+remainder 24. And twice of the same number is
+divided by the same divisor, leaves remainder
+15. Find the divisor.
+
+(a) 9 (b) 33
+(c) 23 (d) 35
+RRB RPF-SI -12/01/2019 (Shift-I0
+
+[Ans : (b) Let the divided is x, divisor is y and quotient
+
+is 1.
+
+Dividend = Divisor x Quotient + Remainder
+
+x= y+ 24.00.00)
+
+2x =y + 15.........(ii)
+
+Subtracting equation (i) from equation (ii),
+
+x=-9
+
+Putting the value of x in equation (i),
+
+I-9=y+24
+
+161. Find the least number when divided by 8, 12,
+18 leaving remainders 6, 10, 16 respectively.
+
+(a) 74 (b) 144
+(c) 146 (d) 70
+RRB JE - 30/05/2019 (Shift-1
+
+Ans : (d) 8-6 =2, 12-10 =2, 18-16=2
+
+The difference of the digits is equal.
+
+LCM of 8, 12 and 18 = 72
+
+Hence, the required number = 72 —2 = 70
+
+162. Find the smallest number which, when is
+reduced 6, it is completely divided by 12, 15, 20
+and 27.
+
+(a) 542 (b) 540
+(c) 546 (d) 500
+RRB Group-D — 24/09/2018 (Shift-II)
+Number System 34
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0020_right.png =====
+Ans : (c) LCM of 12, 15, 20 and 27,
+12=2x2x3
+15=3x5
+20=2x2x5
+27=3x3x3
+LCM=2x2x3x5x3x3
+= 540
+Hence, the required number = 540 + 6 = 546
+163. Find the greatest number which on dividing
+3050 and 5200 leaves remainders 7 and 9
+respectively.
+(a) 149 (b) 11
+(c) 153 (d) 179
+RRB NTPC 19.04.2016 Shift : 1
+Ans : (d)
+3050 - 7 = 3043
+5200-9 =5191
+3043)5191(1
+3043
+2148)3043(1
+2148
+895) 2148(2
+1790
+x358)895(2
+716
+179)358(2
+358
+XxX
+Hence, the required number = HCF of 3043 and 5191 =
+179.
+164. When a number is divided by 627 leaves
+remainder 43. Find the remainder when the
+same number is divided by 19.
+(a) 5 (b) 18
+(c) 13 (d) 7
+RRB NTPC 12.04.2016 Shift : 1
+Ans : (a) 627 is divisible by 19.
+Hence, the required remainder
+19) 43 (2
+38
+x5
+The remainder will be 5.
+165. N is a whole number when, divided by 6 leaves
+the remainder 4. Find the remainder when 2N
+is divided by 6.
+(a) 4 (b) 8
+(©) 2 @ YW
+RRB NTPC 28.04.2016 Shift : 1
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0021_left.png =====
+Ans : (c) Let the quotient be “a” when N is divided by 6.
+oo N=6a+4.........€)
+By equation (i) x2
+2N=2x6at+8
+2N = 12a+6+2
+2N =6 (2a +1) +2
+Hence, the required remainder will be 2.
+Type - 10
+166. 18 by adding to a two digit number and the
+digits of the number are interchanged. The
+product of the digits is ‘8’. Find the number.
+(a) 42 (b) 18
+(c) 32 (d) 24
+RRB JE - 27/06/2019 (Shift-1
+Ans : (d) Let the unit digit = x.
+tens digit = y
+The number = 10y +x
+xy=8 ---(i)
+According to the question,
+10y+x+18=10x+y
+9x -9y = 18
+x-y=2
+From equation (i)— x -3
+an g_ y=2
+y
+8-y=2y
+y’+2y-8=0
+y’ +4y-2y-8=0
+y(y+4)-2(y+4)=0
+(y-2) (y+ 4)=0
+y=2
+Putting the value of y in equation (i)-
+xx2=8
+x=4
+[Number = 10y +x =10x2+4=24
+167. The sum of the digits of a two digit number is
+10. When the digits are interchanged is less 36
+than the number. Find the changed number.
+(a) 82 (b) 73
+(c) 37 (d) 28
+RRB RPF Constable -17/01/2019 (Shift-IIT
+Ans : (c) Let the number = 10x + y
+According to the question,
+xty=10.......())
+The number obtained by interchanging digits = (10y + x)
+According to the question
+(10 x+y) - (10y + x) = 36
+=> 9x -9y = 36
+x-y=4.........(ii)
+By adding equation (i) and (ii),
+2x=14
+x=7
+an y=3
+Hence, the changed number (10y + x) = 10 x 3 +7 =37
+Number System 35
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0021_right.png =====
+168. The sum of a two digit number and the number
+made by interchanging its digits is 132. If the
+difference of the digits is 4, find the number.
+
+(a) 37 (b) 84
+
+(c) 73 (d) 62
+RRB RPF-SI -16/01/2019 (Shift-IIT)
+Ans : (b) Let the tens digit of the number is x and the
+
+unit digit is y.
+
+So, the number = 10x + y,
+
+According to the question,
+
+and, 10x + y+10y+x =132
+
+11x +1ly =132
+xty=12.............(i)
+
+from equation (i) and (ii),
+
+x-y=4
+
+x+y=12
+
+2x =16
+
+x=8, y=4
+
+Hence, the required number = 10x + y =10x8+4 = 84
+
+169. The sum of the digits of a two digit number is
+12. The new number formed when the digits
+are interchanged is 18 more than the original
+number. What is the original number?
+
+(a) 39 (b) 48
+(c) 75 (d) 57
+RRB Group-D — 26/11/2018 (Shift-III)
+Ans : (d) Let the tens digit of the number is x and the
+unit digit is y.
+xty=12......(i)
+
+Hence, the two digit number = 10x + y
+
+the number obtained by the digit to the interchange
+
+according to the question,
+
+10y+x=10xt+y+18
+Sy -9x = 18
+9x - 9y =-18
+
+By adding equation (i) and (ii),
+
+xty=12
+X=y=-2
+2x=10
+
+Hence, the required number = 10x+y = 10x5+7 = 57
+
+170. The sum of the digits of a two digits number is
+9. Also nine times this number is twice the
+number obtained by reversing the order of the
+digits. Find the number.
+
+(a) 19 (b) 18
+(c) 28 (d) 30
+RRB Group-D — 05/11/2018 (Shift-II1)
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0022_left.png =====
+Ans. (b) : Let the tens digit is x and the unit digit is y.
+an The number = 10x + y
+According to the first condition,
+x+y=9....(i)
+According to the second condition,
+(10x + y) x 9 = (10y +x) x2
+90x + 9y = 20y + 2x
+88x = lly
+y = 8x
+Putting the value of y in equation (i),
+xt+8x=9
+x=1
+Putting the value of x in equation (i),
+l+y=9
+y=8
+Hence, the number = 10x + y
+=10x1+8= 18
+171. The sum of the digits of a two digit number is
+11. The new number formed when the digits
+interchanged is 45 less than the original
+number. Find the original number.
+(a) 92 (b) 56
+(c) 65 (d) 83
+RRB Group-D — 15/10/2018 (Shift-II1)
+Ans. (d) : Let the tens digit of the number is a and the
+unit digit is b.
+So, the number = 10a + b
+According to the question,
+jat+b=11.....(i)
+According to the question,
+10b+a=10a+b-45
+9a — 9b = 45
+la—b=S......(ii)
+Adding equation (i) and (ii),
+a+b=11
+a-b=5
+2a=16
+a=8
+Putting the value of a in equation (i),
+8+b=11
+b=3
+Hence, the required number = 10 x 8 + 3 = 83
+172. The difference between a number of two digits
+and the new number formed when the digits
+are interchanged is 45. Find the difference
+between the two digits.
+(a) 4 (b) 5
+(©) 6 (d) 7
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (b) Let the tens digit be x.
+And the unit digit be y.
+The number = 10x + y
+According to the question,
+(10x + y) — (10y + x) = 45
+9x -9y = 45
+Hence, the required difference will be x—y=5
+Number System 36
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0022_right.png =====
+173. The sum of the digits of a two digit number is
+11. If the digits are interchanged, the number
+decreases to 63. Find the number.
+
+(a) 83 (b) 92
+(c) 29 (d) 38
+RRB NTPC 04.04.2016 Shift : 3
+Ans ; (b) Let the tens digit be x and the unit digit be y|
+of the number.
+* The number = 10x + y
+According to the question-
+x+y=ll soe (i)
+and 10y+x =10x+y-63
+9x -9y = 63
+x-y=7 we (ii)
+By adding equation (i) and (ii)
+2x=18>x=9, y=2
+
+Hence, the number = 10x + y =10x9+2=92
+
+174. The sum of the digits of a two digit number is
+9. When 27 is added to the number, the digits
+are interchanged. Find the number.
+
+(a) 45 (b) 36
+(c) 18 (d) 27
+RRB NTPC 03.04.2016 Shift : 1
+
+Ans : (b) Let the unit digit be x in the two digit number.
+
+Then,
+
+According to the question,
+
+the tens digit = 9 - x And the number = 10 (9- x) +x
+
+Again According to the question,
+
+10 (9-x)+x+27=10x+9-x
+
+> 90 -10x+x+27=9x+9
+
+> 90 + 27-9 = 18x
+
+> 18x = 108
+
+x=6
+
+Then, the number =10 (9-x) +x
+
+=10 (9-6) + 6 =36
+
+175. The sum of the digits of a two digit number is
+13. If those digits are interchanged, the number
+gets decreased by 27. Find the changed
+number.
+
+(a) 85 (b) 76
+(c) 67 (d) 58
+RRB NTPC 02.04.2016 Shift : 1
+Ans : (d) Let the tens digit is x,
+the unit digit = 13-x
+-. The number = 10 x x + (13 -x)
+According to the question,
+10 x (13 -x) + x = 10 x x + (13-x) - 27
+130 - 10x + x= 10x + 13-—x-27
+18x= 144
+x=8
+-. The changed number,
+= 10 x (13-x)+x
+= 10x (13-8)+8
+=10x5+8=58
+
+176. The sum of a two digit number is 9. The
+number is reduces from 45, when the digits are
+interchanged, find the changed number.
+
+(a) 45 (b) 72
+(c) 63 (d) 27
+RRB NTPC 02.04.2016 Shift : 2
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0023_left.png =====
+Ans : (d) Let the tens digit be = x
+And the unit digit be = y
+Number = 10 x+y
+Then, xt+y=9........(1)
+According to the question, interchanging the place-
+(10x + y)- (10 y+ x) =45
+9x -9y=45
+x-y=5......(2)
+From, equation (1) + (2)
+2x=14>x=7
+From, equation (1),
+y=9-7=2
+Hence, The required number = 10y+x = 10x2+7 = 27
+177. The sum of digits of a two-digit number is 10.
+When the digits are reversed, the number
+decreases by 54. Find the new number.
+(a) 73 (b) 28
+(c) 82 (d) 37
+RRB NTPC 02.04.2016 Shift : 3
+Ans : (b) Let the tens digit of the number is x and the|
+unit digit is y.
+.. The number = 10x + y
+According to the question,
+x+y =10 --------~(i)
+land 10x+y=10y+x+54
+=> 9x -9y =54=> x-y =6 -----(ii)
+By adding equation (i) and (ii),
+2x=16>x=8,y=2
+Hence, the new number
+= 10y+x =10x2+8=28
+178. The sum of digits of a two-digit number is 10.
+When the digits are inter changed, the number
+increases by 18. Find the number.
+(a) 46 (b) 64
+(c) 19 (d) 28
+RRB NTPC 29.03.2016 Shift : 1
+Ans : (a) Let the tens digit of the number is x and the|
+unit digit is y.
+we The number = 10x + y
+According to the question-
+x+y =10--------------- (i)
+10x+y =10y+x-18
+9x -9y =-18
+X AY SAD eonrrnnnnnaennnomo== (ii)
+By adding equation (i) and (ii) -
+2x=8>x=4, y=6
+Hence, The required number =10x4+6 = 46
+179. A two digits number and its digits the sum of
+the number formed by interchanging its digits,
+is 99. Find the number if the difference of the
+digits is 3.
+(a) 27 (b) 63
+(c) 45 (d) 54
+RRB NTPC 10.04.2016 Shift : 3
+Number System 37
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0023_right.png =====
+Ans : (b) Let the unit digit be y and the tens digit be x.
+«. The number = 10x+y
+According to the question,
+(10x + y) + (10y + x) = 99
+11x +Ily=99
+xty=9.........(i)
+x-y=3.......(ii)
+By adding equation (i) and (ii),
+2x = 12
+x=6
+From equation (i), y=3
+«. The required number = 10x+y = 10x6+3 = 60+3= 63
+180. The difference of a number and the number
+formed by interchanging its digits, is 54. Find
+the difference between the digits of the
+number.
+(a) 6 (b) 7
+(c) 8 (d) 9
+RRB NTPC 06.04.2016 Shift : 1
+Ans : (a) Let the tens digit of the number be x and the
+unit digit be y.
+“. The number = 10x+y
+According to the question-
+(10x + y)-(10y + x) = 54
+10x+y-10y-x=54
+9x -9y =54
+54
+x-y 9 6
+Hence, the difference between the digits is 6.
+181. The sum of the digits of a two digit number is
+5. When the digits are reversed the number
+decreases by 9. Find the changed number.
+(a) 32 (b) 23
+(c) 41 (d) 14
+RRB NTPC 28.04.2016 Shift : 3
+Ans : (b) Let the tens digit of the number be x and the
+unit digit be y.
+-. the number = 10x +y
+According to first condition,
+xty=5......(i)
+The obtained number after reversing the digits = 10y+x
+According to the question,
+(10x+y) — (10y+x) = 9
+=> 9x-9y=9
+=>x-y=l sesseeeee(di)
+By adding equation (i) and (ii),
+2x=6
+x=3
+From equation (ii)
+3-y=1
+y=3-1=2
+Hence, the changed number = 10y + x
+=10x2+3=23
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0024_left.png =====
+Type - 11
+182. What is the difference between the place and
+face values of '5' in the number 3675149?
+(a) 5000 (b) 4995
+(c) 495 (d) 4990
+RRB JE - 23/05/2019 (Shift-I
+Ans : (b) The place value of 5 in the number 3675149
+= 5x1000 = 5000
+And the face value of 5 = 5
+The difference = 5000-5 = 4995
+183. What is the place value of 8 in 634785?
+(a) 8 (b) 80
+(c) 800 (d) 80,000
+RRB RPF Constable -20/01/2019 (Shift-I
+184. Find the sum of the face value and place value
+of 6 in the number 206743?
+(a) 6749 (b) 12743
+(c) 6006 (d) 12
+RRB Group-D — 28/11/2018 (Shift-1)
+Ans : (c) The face value of 6 in the number 206743 = 6
+And the place value of 6 = 6 x 1000 = 6000
+Face value + Place value = 6 + 6000 = 6006
+185. The difference between two place values of 3 in
+935071360 is-
+(a) 29999700 (b) 29999701
+(c) 2999600 (d) 29999400
+RRB Group-D — 23/10/2018 (Shift-1
+Ans. (a) : The place value of 3 in 935071360,
+935071360
+Y +> = 3x100=300
+YR =3x10000000=30000000
+The required difference = 30000000-300 =
+186. Calculate the sum of the face value and the
+place value of 7 in the number 3728456.
+(a) 700007 (b) 0
+(c) 7 ({d) 700000
+RRB Group-D — 01/10/2018 (Shift-I
+Ans. (a) : The place value of 7 = 7 x 100000 = 700000
+The face value of 7 = 7.
+Hence, the required sum = 700000 + 7 = 700007
+187. Find the face value of 4 in 145.390.
+(a) 40,000 (b) 4
+(c) 140,000 (d) 45
+RRB NTPC 04.04.2016 Shift : 2
+Ans : (b) The face value of any digit is the same digit.
+jin the number 145.390
+ithe face value = 4
+188. Find the difference between the place value
+and face value of the digit 9 in the number
+2293012
+(a) 9292 (b)8991 (c)0 — (d) 220
+RRB NTPC 03.04.2016 Shift : 2
+[Ans : (b) The place value of 9 in the number 229301 =|
+9 x 1000 = 9000
+And the face value of 9= 9
+Hence, the required difference = 9000- 9 = 8991
+Number System 38
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0024_right.png =====
+189. What is the difference between the place value
+and face value of 3 in 273965?
+(a) 2035 (b) 3962
+(c) 2997 (d) 0
+RRB ALP & Tec. (31-08-18 Shift-ID)
+Ans. (c) : In the number 273965,
+The place value of 3 = 3 x 1000 = 3000
+And the face value = 3
+Hence, the required difference = 3000 — 3 = 2997
+190. The difference between the place values of '4'
+and '2' in the number 833749502 is:
+(a) 49998 (b) 30098
+(c) 39098 (d) 39998
+RRB ALP & Tee. (10-08-18 Shift-II
+Ans : (d) The given number = 833749502
+The place value of 2=2
+The place value of 4 = 4 x 10000 = 40000
+Hence, the required difference = 40000 — 2 = 39998
+11,1,°>1
+191. Solve: 1+—+—+—+— +...
+2 4 8 16
+(a) 2 (b) 1/50
+(c) 3 (d) 1/22
+RRB JE - 23/05/2019 (Shift-I
+Ans : (a)
+1,1,1,1
+Lt ote tetotinnnn
+2 4 8 16
+This is a geometrical progression-
+a=l, r= L
+2
+Let the sum be S.
+g=—2 S,= a
+l-r, i
+2
+0 0 =
+2
+192. Ina school picnic group, 2/9" part were adults
+and the number of children was more than
+adults by 95. How many children were present
+there?
+(a) 95 (b) 133
+() 190 (d) 103
+RRB JE - 27/06/2019 (Shift-1
+Ans : (b) Let the total number = x
+The number of adults = x x 2 2x
+9 9
+The number of children= x 2K. x=? =x
+9 9 9
+2X _2 95
+9 9
+Tx=2x _ 95
+9
+YCT
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0025_left.png =====
+5X 95
+9
+x=171
+- _7x_7
+Hence, the number of children a ra 171 =133
+193. Find the value of 52-|8-20|=
+(a) 45 (b) 40
+(c) 65 (d) 64
+RRB RPF Constable -18/01/2019 (Shift-I
+Ans : (b) The given value = 52—|8—20|
+= 52-|-12|
+|-A|=A The value of Mod is always +ve.
+Hence, the required value =52-12 = 40
+194. If one dozen of apples weigh 1.8 kg, then find
+the number of apples of three boxes whose total
+weight is 23.25 kg.
+(a) 280 (b) 155
+(c) 465 (d) 215
+RRB RPF-SI -13/01/2019 (Shift-I
+Ans : (b) Total weight = 23.25 kg
+One apples’s weight = Sg
+The required number of apples,
+_ Total weight _ 23.25x12 _ 155
+lapple's weight 1.8
+[Number of apples is box is = 155
+195. Pick out the set that forms the factors of 36.
+(a) (2,3, 4, 6,9) (b) (2,3, 4, 6)
+{c) (2,3,4,6, 9, 12, 18) (d) (2,3,4,6,9, 12)
+RRB JE - 27/05/2019 (Shift-I1T
+Ans : (c) All the factors of 36 = 1, 2, 3, 4, 6, 9, 12, 18, 36
+Hence, the required set that is formed by the factors of
+36 will be = (2, 3, 4, 6, 9, 12, 18)
+196. The difference of two numbers is 5. If their
+product is 336, find the sum of the numbers.
+(a) 21 (b) 37
+(c) 28 (d) 51
+RRB JE - 26/06/2019 (Shift-I)
+Ans. (b) Let the numbers be x and y respectively.
+x-y=5 @)
+xy = 336 (ii)
+(x + y= (ry)? + dxy
+From equation @ and (ii),
+(xt yy = (57 +4 x 336 |
+(x+y) =25 + 1344
+(x+y) = 1369
+(x+y) = V1369
+x+y=37
+Hence, the required sum of the numbers =37
+197. The square of a number is 3 more than twice
+the number. What is the possible number.
+(a) 1 or3 (b) lor -3
+(c) -1 or -3 (d) -1 or3
+RRB Group-D — 15/10/2018 (Shift-I)
+Number System 39
+
+
+===== Part 1 — Number System (pp. 15–39)_page-0025_right.png =====
+Ans : (d) Let the number be x
+According to the question,
+x =2xt+3
+x -2x-3=0
+¥ -3xtx-3=0
+x(x-3)+ 1@-3)=0
+(x-3)@+1)=0
+x-3=0
+x=3
+x+1=0
+x=-l
+Hence, the possible number is -1 or 3.
+198. (2-4) is directly proportional to-
+ll ll
+= b) —
+@ 7 0 o) 5 c
+6 3
+as dp =
+©) F @ 5 5
+RRB Group-D — 02/11/2018 (Shift-I.
+Ans. (c) 348 is directly proportional to-
+10 15
+2716 2 =>
+30 «30 6
+3 is directly proportional to = 1s
+6 ly prop 55
+6
+199. Subtract 64.37 out of 1000.03 and add the
+resultant obtained from it to the sum of 3.4 and
+7.56. What will be its value?
+(a) 948.62 (b) 944.62
+(c) 945.62 (d) 946.62
+RRB Group-D — 08/10/2018 (Shift-II1)
+Ans : (d) According to the question,
+1000.03 — 64.37 = 935.66
+935.66 +(3.4 +7.56) = 935.66 +10.96 = 946.62
+200. Seema got 50 from her father and purchased
+toffee from & 15. Her mother gave her & 30
+while her brother took = 42 from her. How
+much money did she have left?
+(a) % 23 (b) 24
+(c) %20 (d) % 25
+RRB Group-D — 23/09/2018 (Shift-ID)
+Ans : (a) Total sum of money that Seema have left
+= 50-15+30-42 = 80-57 =F 23
+201. Geeta weighs 11.235 kg. Her sister weighs 1.4
+times her weight. Find the total weight of both.
+(a) 15.729 kg (b) 25.964 kg
+(c) 26.964 kg (d) 28.964 kg
+RRB NTPC 29.03.2016 Shift : 1
+Ans :(c) Geeta’s weight =11.235kg
+-. The weight of Geeta’s sister
+=11.235x1.4 =15.729 kg
+The total weight of both is
+=11.235+15.729 = 26.964 kg
+YCT

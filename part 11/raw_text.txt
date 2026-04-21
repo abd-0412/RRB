@@ -1,0 +1,3907 @@
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0001_left.png =====
+6. Sunny and Paula together can complete a work
+in 12 hours while Paula can complete the same
+work in 18 hours alone. Another person Jane
+takes 45 hours to complete the same work
+alone. How many hours will sunny and Jane
+take to complete the same work?
+
+(a) 15 (b) 16
+(c) 18 (d) 20
+RRB RPF Constable — 25/01/2019 (Shift-IID
+
+Ans. (d) : Suppose sunny will take time of x hours for}
+
+completing the work
+
+According to the question,
+
+11 1
+
+-4+—=—
+
+x 18 12
+
+111
+
+x 12 18
+
+1_3-2 1
+
+x 36 36
+
+x = 36 hour
+
+work done by sunny and Jane together-
+1 + 1_5+4_ 9
+
+36 45 180 180
+
+Taken time in doing work by sunny and|
+
+Jane = ” =20day
+
+7. A works four times faster than B. so he can
+complete a work 60 days earlier than B. In how
+many days can they complete the work if they
+work together?
+
+(a) 21 days (b) 22.5 days
+(c) 16 days (d) 25 days
+RRB Group-D — 01/10/2018 (Shift-I)
+|Ans. (c) : Let B does a work in x day and A does that
+lwork in (x — 60) days. Then on the basis of work)
+efficiency.
+x =(x-60)4
+x=4x-240
+3x = 240
+x = 80 days
+or If B does any work in 80 days then one the basis o1
+work efficiency A will do that work in 20 days.
+11
+one day work of (A + B) 80 + 20
+ald 5 dy
+80 80 16
+
+So A and B do work together then they can complete
+
+work in the 16 days
+
+8. Brij alone can paint a wall in 7.2 days while
+Madhu takes 10.8 days to do the same work.
+How many days will they take to paint 5/6 part
+of the wall when working together?
+
+(a) 42 (b) 3.6
+(c) 3.9 (d) 48
+RRB Group-D — 26/09/2018 (Shift-I)
+Work & Time 20.
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0001_right.png =====
+Ans : (b) Let they take t days to paint the 5/6 part of the
+
+wall.
+
+According to the question,
+
+o3t,t_s
+72 108 6
+lot 10t_ 5
+>t =f
+72 108 6
+30t+20t 5
+=> ==
+216 6
+50t_ 5
+=> =L
+216 6
+5x 216
+>t=———
+6x50
+36
+>t=—
+10
+t =3.6day’
+
+. Medini can paint the entire wall alone in 16
+days while Yuki takes three times longer than
+this. In how many days will they paint half of
+the wall if they work together?
+
+(a) 12 (b) 3
+(c) 6 (@) 9
+RRB Group-D — 11/10/2018 (Shift-II)
+Ans : (c) Medini = Yuki
+i’.
+1 3
+164 }s
+16 48
+11
+One day work of both =—+—
+16 48
+3+1 4 21
+=—— =— =— part
+48 48 12
+
+Time taken in completing the work = 12 days
+
+So time taken for completing half work = 2 = 6 days
+
+10. A can finish a work in 5 days while B takes 10
+days to do the same work. They start working
+together but A has to leave the work 4 days
+before the work is over. How many days did A
+work?
+
+(a) 1 (b) 15
+(c) 2 (d) 2.5
+RRB Group-D — 10/10/2018 (Shift-IIT
+
+Ans: (c)
+
+One day work of A = ; part
+
+One day work of B= a part
+
+Let B work for x days
+
+~. Work done by A = (x — 4) day
+According to the question
+(x-4) +X
+5 10
+3 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0002_left.png =====
+2(x-4)+x _ 1
+10
+2x-8+x=10
+3x-8=10
+3x = 18
+Time taken by A to complete the work = (x — 4)
+= 2 day
+11. A can finish a work in 5 days and B can finish
+the same work in 8 days. If both work together
+and earn Rs. 6760. Find the share of A.
+(a) Rs. 4,160 (b) Rs. 3,600
+(c) Rs. 5,070 (d) Rs. 4,056
+RRB Paramedical Exam — 20/07/2018 (Shift-I])
+Ans: (a) One day work of A = ; part
+one day work of B = : part
+work ability ratio of A and B = ; z
+So share of =S 7g = 520 x 8=Rs. 4,160
+12. A and B take 25 and 45 days respectively to
+complete a task. A started working alone and
+after a few days B started working together.
+The work took a total of 20 days to complete
+the After how many days did B start working?
+(a) 10 (b) 11
+(c) 12 (d) 9
+RRB Group-D — 30/10/2018 (Shift-II)
+Ans. (b) : Let B started work after x day.
+According to the question,
+20, 20-x
+=+— = 1
+25 45
+4, 20-x
+=+——=l
+5 45
+20-x 1 4
+45 5
+20-x_1
+45 5
+20-x=9
+x= 20-9
+x= 11 days
+13. A can do a work in 15 days and B can do it in
+25 days. A and B started working together but
+B left the work 7 days before the work
+completed. How many days did they work
+together?
+(a) 6 (b) 5
+(c) 8 (d) 9
+RRB Group-D — 07/12/2018 (Shift-II)
+Work & Time 20
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0002_right.png =====
+Ans : (b) one day work of A = (par
+1
+d ‘k of B =— part
+one day WOrkK 01 35 pi
+one day work of (A+B) = ay4 2 art
+y 15°25) 75?
+*. B left work at 7 day before
+Then 7 day work of A =7x = 3 » Temain work
+7)\_8
+=|1-— |=— part
+( 7) 15 P™
+Time taken by (A + B) to complete X part of work
+8 75
+=x =5di
+iss
+14. M can do a work in 12 days. N takes half the
+time of M to finish the same work. If they both
+work together, how many work will they do in
+one day?
+(a) 1/3 (b) 1/2
+() 4 @ 1/5
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (c) Time taken work by N
+1
+=12x-=6d
+x 2 lay
+Work done by both in one day =s rf
+2 #23 dae
+12,12 ~4
+15. A alone can do a work in 15 days and B can do
+the same work in 18 days. If both work
+together, how much time will they take to
+complete the same work?
+(a) 10/3 days (b) 36/5 days
+(c) 5/36 days (d) 90/11 days
+RRB NTPC 02.04.2016 Shift : 3
+Ans : (d) Time taken by both to complete the work
+_ 15x 18
+15+18
+15x18 _15x6 _ 90
+=—— =—— =— days
+33 ll ll
+16. Land M can complete a work in 30 and 90
+days respectively. If they work together, in how
+many days will they complete that work?
+(a) 60 (b) 45
+(c) 70 (d) ns
+RRB NTPC 31.03.2016 Shift : 1
+Ans :(d) Time taken to completing the work by L and
+M together
+— 30x90 _ 30x90 _ 45 _ 224 days
+30+90 120 2 2
+XT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0003_left.png =====
+17. P can do a work in 10 days. Q can do the same
+work in 15 days. If they work together for 5
+days, how much of the work will they
+complete?
+
+(a) 1/2 (b) 28
+(c) 1/3 (d) 5/6
+RRB NTPC 30.03.2016 Shift : 1
+Ans: (d) Work done by both P and Q in one day.
+1,1 _34+2 5 1
+=—+— = “== ==pat
+10 15 30 30 6
+
+So work done by both in 5 days -3
+
+18. A can do a work in 10 days and B can do the
+same work in 20 days. If both of them work
+together for 2 days, then what part of the work
+will be finished?
+
+(a) 3/10 (b) 3/8
+(c) 1/3 (@) 1/4
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (a) Work done by A in 1 day A= apa
+Work done by B in 2 days = = part
+Work done by both in 2 days = 2! Ay
+10 20
+=2(222) -2(3) 3p
+20 20) 10
+Type -$
+
+19. Xand Y can finish a work in 6 days. If X alone
+can finish the same work in 9 days, then how
+many days will Y alone take to finish the same
+work?
+
+(a) 15 (b) 12
+(c) 18 (d) 21
+RRB RPF Constable — 20/01/2019 (Shift-I1)
+Ans: (c) one day work of X and Y =i part
+one day work of X = part
+~. one day work of Y a4} 302 _ da
+69 18 18
+
+So time taken to complete work by Y = 18 days
+
+20. _P alone can complete a task in 18 days. P & Q
+working together can complete it in 15 days.
+They started working together. Q left the task
+after 10 days and P alone had to complete that
+task. How many days will P take to complete
+the remaining task.
+
+(a) 5 days (b) 7 days
+(c) 6 days (d) 8 days
+RRB JE - 22/05/2019 (Shift-II)
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0003_right.png =====
+Ans : (c)
+Pp P+Q
+18 15
+\A
+90 LCM of 15 and 18 = 90
+*: P does 5 unit work in a day and P + Q does 6 unit
+work in a day
+P+Q=6
+5+Q=6
+Q=1
+So Q will do 1 unit work in a day
+10 days work of (P + Q) = 10 x 6 = 60 unit
+Remain work = 90 — 60 = 30 unit
+P will do the remaining task = 2 = 6 days
+21. P can do any work in 4 hours. Q and R
+together can complete the same work in 3
+hours, while P and R can complete it in 2
+hours. If Q alone does this work then how
+much time will he take to complete this work?
+(a) 12 hours (b) 8 hours
+(c) 10 hours (d) 15 hours
+RRB JE - 23/05/2019 (Shift-1)
+Ans: (a) | hour's work of P = + par wei)
+1 hour's work of (Q + R) part seee(ili)
+1 hour's works of (P + R) part (iii)
+from the equation (i) and (iii)
+per-totipals pai ti2ztt
+204 2 24 4 4
+«. from the equation (ii)
+o+r-toq-t tet
+3 3.4 12
+So taken time to complete the work by Q = 12 hours
+22. P is 30% more efficient than Q. If P alone can
+do a work in 20 days, then Q alone will do this
+work in how many days?
+(a) 18 days (b) 30 days
+(c) 26 days (d) 28 days
+RRB JE - 23/05/2019 (Shift-I11)
+Ans : (c) From E,D, = ED, [E = energy, D = Day ]
+130 x 20 = D2 x 100
+D2 = 26
+So alone Q will do this work in 26 days
+23. Srinivas can complete a work in 15 days and
+Ramesh can do the same work in 9 days, with
+Ravi's help they completed the work in 3 days.
+In how many days can Ravi do the same work
+alone?
+(a) 65 days (b) 10 days
+5 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0004_left.png =====
+(©) 62 days (d) 6 days
+RRB JE - 29/05/2019 (Shift-IT.
+Ans : (a) Let Ravi will complete the work in x day
+According to the question,
+Alt
+x 3 15 9
+1_15-3-5_ 15-8
+x 45 45
+17
+x 45
+45 _ 3
+x=— =6= days
+7
+So Ravi will complete the work in 63 days
+24, After completing a task together in 2 days, P
+and Q got Rs. 1200 and Rs. 400 respectively. In
+how many days alone Q will complete the
+work?
+(a) 6 days (b) 3 days
+(c) 1/3 days (d) 8 days
+RRB RPF SI — 11/01/2019 (Shift-I
+Ans : (d) P : Q
+1200: 400
+3 : 1
+Q works = (3+ 1) x2
+work of Q=4 x 2=8 days
+25. P and Q together can do a work in 7 days. P is
+twice as efficient as Q. In how many days can P
+alone do that work?
+(a) 21 days (b) 15 days
+(c) 10.5 days (d) 12 days
+RRB JE - 31/05/2019 (Shift-I
+|Ans : (c) Let P does work in x day and Q does in 2x day)
+According to the question,
+1,121
+—+— ==
+x 2x 7
+3.1
+2x 7
+21
+x=
+2
+x= 10.5 day
+So P will do that work alone in 10.5 days
+26. P takes 50% more time than Q. If they work
+together, the work will be done in 18 days. In
+how many days will Q alone complete the
+work?
+(a) 30 days (b) 22 days
+(c) 24 days (d) 25 days
+RRB JE - 31/05/2019 (Shift-I)
+Ans : (a) Let time taken by Q = x days
+then time taken by P = 1.5x days
+one day work of (P + Q)
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0004_right.png =====
+11 1
+
+—4+—— =—
+
+x 15x 18
+
+15+1_ 1
+
+15x 18
+
+25 1
+
+15x 18
+
+x= 18x2.5 _ 30
+15
+
+So alone Q will complete that work in 30 days.
+
+27. Mahesh takes 18 days to complete a task alone
+while Kishore takes 36 days to complete the
+same task alone. If they work together for 6
+days then what percentage of the work will
+remain?
+
+(a) 50% (b) 30%
+(c) 40% (d) 60%
+RRB RPF Constable — 24/01/2019 (Shift-ITI)
+
+Ans. (a) : One day work of Mahesh = Pan
+
+one day work of Kishore = x part
+one day work of both (Mahesh + Kishore) = zs
+31
+3612"
+7 61
+six day work of both = —=— part
+12 2
+. 11
+Remain work = 1-~=—part
+2 2
+. - 1/2 1
+
+Remain work in % = 7% 100 = 3% 100 = 50%
+
+28. Lohit, as an airman, is twice as capable as
+Ayush and together they finish a work in 17
+days. In how many days does Ayush alone
+finish the same work?
+
+(a) 34 days (b) 51 days
+(c) 68 days (d) 40 days
+RRB RPF SI - 13/01/2019 (Shift-I)
+Ans :(b) Efficiency ratio of Lohit and Ayush = 2:1
+-. Time's ratio = 1:2
+from the question,
+1 121
+—+-=—
+2x x 17
+1+2 1
+2x 17
+3b
+2x 17
+2x=51
+
+Taken time by Ayush to complete the
+
+work = 2x = 51 days
+
+J YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0005_left.png =====
+29. X, works equal to half of Y in 1/6 time. If}.
+together they can complete a work in 10 days,
+then how many days will 'Y' take to do the
+same work alone?
+
+(a) 24 days (b) 30 days
+(c) 40 days (d) 35 days
+RRB RPF Constable — 17/01/2019 (Shift-I11)
+Ans: (c) y completes ; of work in $time ofx
+.. y will completes the work in time of x
+According to the question,
+1 1.1 1 1 1
+—+-=—, —fo=—
+x y 10 y y 10
+3
+4.1
+y 10
+y =40 days
+
+30. A and B together can complete a work in 35
+days. If A works alone and completes part of
+the work and leaves the remaining work for B.
+Thus if the work takes 114 days to complete. So |
+how many days will A who is more efficient in
+both, complete the work alone?
+
+(a) 45 (b) 42
+(©) 48 (d) 40
+RRB RPF SI - 10/01/2019 (Shift-II)
+Ans. (b) : Suppose A does any work in A days and B
+does the same work in B days
+7 4 4
+Time taken by A to do 7 part work = 7 A
+7 . 43
+and time taken by B to do remain I-7 = 7 part of
+work
+=33
+7
+According to the question,
+11.1 .
+
+=—t==— soo (i
+
+A B 35 ®
+
+4ns3B =114 ----- (ii)
+
+7 7
+
+on solving the equation (i) and (ii)
+
+A= 42 days
+
+B=210 days
+So time taken to completing work by A = 42 days
+Work & Time 20
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0005_right.png =====
+31. A and B together can complete a work in 1.2
+days. Although if A leaves after complete half
+of the work alone, then B alone completes the
+remaining half of the work. Thus it takes 2.5
+days to complete the work. If B is 50% more
+efficient than A and B alone finishes the work
+from start to finish, then how many days will
+he take?
+
+(a) 15 (b) 22
+(c) 2.0 (d) 18
+RRB RPF Constable — 19/01/2019 (Shift-II1)
+Ans. (c) : Let A completes any work in x day.
+«. work capacity of A = +
+-. work capacity of B = 1,150 _ 3
+x 100 2x
+.. According to the question,
+13 1
+—4+2=—
+x 2x 12
+2+3 1
+2x 12
+2x=6
+x=3
+
+So alone B will complete that work in 2 days.
+
+32. Kirti and Malti together can complete a task in
+12 days, while Malti can finish it in 30 days. In
+how many days can Kirti alone complete the
+task?
+
+(a) 40 days (b) 10 days
+(c) 20 days (d) 30 days
+RRB Group-D — 18/09/2018 (Shift-IT.
+
+Ans. (c) : One day work of (Kirti + Malti) = s part
+
+one day work of Malti = a part
+
+one day work of Kirti =+-1 5-2-3 <1 ae
+
+12 30 60 60 20
+
+-. Time taken to complete the task by kirti= 20 days
+
+33. Reeta and Meena together can complete a
+work in 10 days, while Reeta alone can
+complete the same work in 15 days. In how
+many days will Meena complete this work
+alone.
+
+(a) 38 days (b) 32 days
+(c) 28 days (d) 30 days
+RRB Group-D — 30/10/2018 (Shift-II)
+Ans: (d) Work done together in 1 day by Reeta and
+Meena = 1 part
+10
+work done by Reeta in 1 day = = part
+work done by Meena in 1 day
+1 13-2 ~1
+=—-— =—— == part
+10 15 30 30
+So Meena will complete that work in 30 day
+] YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0006_left.png =====
+34, Rohan and Rohit together can finish a work in
+10 days. while Rohan can do the same work in
+15 days alone. In how many days will Rohit
+alone do the same work?
+(a) 32 days (b) 30 days
+(c) 25 days (d) 35 days
+RRB Group-D — 17/09/2018 (Shift-I)
+Ans : (b) Work done in 1 day by Rohan and
+4
+Rohit = — part
+ohit= +5 P
+Work done by Rohan in one day = = part
+Work done by Rohit in one day = aan
+10 15
+_3-2
+30
+= part
+30°
+So Rohit will complete that work in 30 days
+35. P and Q together can finish a work in 6 days. Q
+alone can finish the same work in 10 days. In
+how many days can P alone do the same work?
+(a) 15 days (b) 11 days .
+(c) 14 days (d) 12 days
+RRB Group-D — 23/09/2018 (Shift-I)
+Ans : (a) Suppose P completes this work by self in n
+day
+1 day work of (P+ Q) = part
+1 day work of Q = apart
+1 day work of P = i part
+n
+According to the question
+1.1.1
+so —t==5
+10 n 6
+Alli
+n 6 10
+tlh
+n 15
+1 day work of P -<
+So time taken to finish the work by P = 15 days
+36. Working together, Sandra and Mayuri can
+complete a work in 45 days. However, Mayuri
+works alone and goes away on completion of
+one third of the work and then Sandra finishes
+the remaining work herself. As a result, both
+are able to complete the work in 104 days. If |.
+Mayuri work faster than her. So in how many
+days Sandra will be able to complete the work
+alone?
+(a) 72 (b) 60
+(©) 240 (d) 120
+RRB Group-D — 28/09/2018 (Shift-III)
+Work & Time 208
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0006_right.png =====
+Ans : (d) Let sandra will complete that work in x days
+by self and Mayuri do that work in y days by self
+one day work of both sil ae
+x y 45
+1 1 1_ x-45
+7 -=—-- >
+y 45 x 45x
+-. 1 day work of Sandra =H part
+x
+«. 1 day work of Mayuri = x45
+45x
+According to the question,
+1Sx_ 2% 104
+x-45 0 3
+45x + 2x? —90x = 312(x- 45)
+2x? -357x +14040 =0
+(2x -117)(x-120)=0
+x= U4 120
+2
+*” Sandra work slow so x = 120
+37. Arjun alone can do a work in 12 days and
+Bheem alone can do the same work in 15 days
+with the help of Chetan, they together complete
+that work in 5 days. How many days will
+Chetan alone take to do that work ?
+(a) 20 days (b) 24 days
+(c) 15 days (d) 16 days
+RRB Group-D — 28/11/2018 (Shift-1
+Ans: (a) One day work of Arjun = apart
+One day work of Bheem= = part
+Let, one day work of Chetan = 2 part
+x
+1 11
+One day work of all three =— +—+—
+12 15 x
+1_5+4 1
+aa7 45
+5 60 x
+11D
+x 5 60
+12-9 _1
+60 x
+1321
+x 60 20
+So time taken by Chetan to finish the work alone = 20 days
+38. Tom and Jerry work together to build a wall in
+4 days. Tom alone takes 6 days to complete the
+work. How long will it take Jerry to complete
+this task alone.
+(a) 13 days (b) 12 days
+(c) 16 days (d) 10 days
+RRB Group-D — 16/11/2018 (Shift-III)
+3 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0007_left.png =====
+Ans. (b) : Let time taken to complete the work by Jerry}
+= x days
+According to the question,
+11.1
+Syoen
+6 x 4
+xt+6 = 1
+=o =-
+6x 4
+=> 4x+24=6x
+=> 2x=24=>x=12 day
+So Jerry will complete the work in 12 days alone. .
+39. shan is twice as good a worker as Kamal and
+both together finish a work in 29 days. In how
+many days will Kamal alone can do this work.
+(a) 58 (b) 70
+(c) 87 (d) 116
+RRB NTPC 17.01.2017 Shift-1
+Ans : (c) Let Kamal do any work in x days
+Ishan do that work in 3 day
+According to the question,
+work done by both in a day =
+1,2 1
+=42=—=
+x x 29
+3_1
+x 29 .
+x=29x3
+[x=87] days
+40. Gand H can do a work in 30 days. If H alone
+can do it in 50 days. Then G alone can do it in
+days.
+(a) 75 (b) 70
+(c) 60 (d) 65
+RRB NTPC 17.01.2017 Shift-2
+Ans : (a) Let G will complete that work alone in x days
+According to the question,
+11.1 :
+at -=—
+50 x 30
+1 1 1 _ 5-3
+>-=—-— ==
+x 30 50 150
+x= “ =75 days
+So G will do that work alone 75 days
+41. Amrit has twice capacity of painting than
+Kushal. Together they complete a work in 6
+days. In how many days Kushal will complete
+that work alone?
+(a) 10 (b) 12
+(c) 24 (d) 18
+RRB NTPC 17.01.2017 Shift-3
+Ans: (d) Ability's ratio of Amrit and Kushal = 2 : 1
+-. Time's ratio = 1:2
+Let time taken by Amrit and Kushal to finish the work|
+jis x and 2x days.
+from the question-
+Work & Time 205
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0007_right.png =====
+xx 2x -6
+x+2x
+2
+2x! 6>x= $x3
+3x 2
+So time taken to complete the work by Kaushal= 9 x 2
+= 18 days
+42. M can do a work in 5 days. R can do the same
+work in 20 days. In how many days will both of
+them finish the same work?
+(a) 4 days (b) 3 days
+(c) 2 days (d) 1 days
+RRB NTPC 05.04.2016 Shift-1
+Ans : (a) Time taken to complete work together by M
+andR
+_ 5x20
+5+20
+_ 00
+25
+= 4 days
+43. E and F can do a work in 10 days. If E alone
+can do it in 30 days, F alone can do it in____
+days.
+(a) 15 (b) 20
+(c) 25 (d) 18
+RRB NTPC 05.04.2016 Shift : 3
+. a!
+Ans :(a) Work done by F in 1 day =———
+ns :(a) Work done by F in | day 10 30
+312 dy
+30 «630 «15
+So F can do that work alone in 15 days
+44. P and Q together can complete a work in 12
+days. P alone does the same work in 30 days. In
+how much time will Q alone complete the same
+work?
+(a) 20 days (b) 30 days
+(c) 25 days (d) 35 days
+RRB NTPC 04.04.2016 Shift : 3
+Ans : (a) Time taken By Q to completing that work)
+alone.
+_ 12x30_ 12x30
+30-12 18
+= 20 days
+45. Sanju takes 16 days to complete a work. If she
+works with her friend Jenny to complete it in
+12 days. How many days will it take for jenny
+to complete the work alone?
+(a) 48 (b) 32
+(c) 36 (d) 24
+RRB NTPC 03.04.2016 Shift : 2
+) YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0008_left.png =====
+11 .
+Ans: (a) one day work of Jenny Db 16
+_4-3_ 1 i
+4g 4g?
+So Jenny will complete the work alone in 48 days
+46. P is twice as capable of doing work as Q.
+Together they complete a work in 22 days. In
+how much time Q will it take to complete this
+work?
+(a) 33 days (b) 22 days
+(c) 66 days (d) 99 days
+RRB NTPC 02.04.2016 Shift : 1
+Ans : (c) Let P takes x days to do work and Q takes 2x
+days to do work.
+According to the question,
+11 1
+oto
+x 2x 22
+2+1 1
+2x 22
+x= 33
+«.Q will take 66 days to complete work. :
+47. Manoj is twice capable fisherman than Anurag
+and together they finish a work in 22 days. In
+how many days will Anurag alone can do the
+same work.
+(a) 44 (b) 66
+(c) 88 (d) 60
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (b) Let Manoj will complete the work in x days.
+Then Anurag will complete that work in 2x days.
+1,1 1
+so —+—=—
+x 2x 22
+2411
+2x 22
+3 1
+2x 22
+2x = 66
+x=33
+So Anurag will complete that work = 2x = 66 days
+48.  Ullas has a double the working capacity of |
+Tejas if they can finish a work together in 18
+days, them in how many days will Tejas
+complete the same work alone?
+(a) 36 (b) 54
+(c) 29 (d) 72
+RRB NTPC 11.04.2016 Shift : 3
+Ans : (b) Let Ullas does work in x days and Tejas in
+2x days.
+According to the question,
+1,1 21
+o42--—
+x 2x 18
+2411
+2x 18
+2x = 54 days
+Work & Time 21
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0008_right.png =====
+49. Yash is twice as capable draftsman as Vivek
+and they finish a work together in 23 days. In
+how many days will Vivek alone complete the
+same work?
+
+(a) 46 (b) 69
+(c) 92 (d) 60
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (b) Yash ‘Vivek
+
+Ability 2x x
+
+Taken time x 2x
+
+from the question,
+
+1,1 1
+—4+—=—
+x 2x 23
+33.h
+2x 23
+69
+=>x=— dar
+7 oy
+
+So time taken to completing the work by vivek (2x)
+
+= 09 = 69 days
+2
+
+50. Himanshu is twice as capable as Ankit as a
+wood cutter and together they finish a work in
+16 days. In how many days will Ankit alone
+complete the same work?
+
+(a) 32 (b) 48
+(c) 64 (d) 40
+RRB NTPC 26.04.2016 Shift : 3
+Ans : (b) Let Ankit complete the work in 2x day and
+Himanshu in x day.
+According to the question,
+1,1 1
+a4 =
+x 2x 16
+241 1
+2x 16
+2x=48
+x=24
+
+So Ankit will do that work in (2x) = 24 x 2 = 48 days
+
+51. X does 25% of a work in 20 days. Y joins up
+with X and they together do the remaining
+work in 15 days. So in how many days can Y
+alone do the same work?
+
+(a) 30 days (b) 255 days
+2 1
+(c) 265 days (d) 265 days
+RRB NTPC 27.04.2016 Shift : 2
+
+Ans: (c) X complete 25% of a work = part = in 20
+
+days
+
+-. X will complete whole work = 80 days
+
+Remain work = 1— LL 3 part
+
+44
+) YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0009_left.png =====
+Both completes 3 part of work together in 15 days
+«Both will complete whole work together
+=15x3= 20 days
+~. one day work of Y =1 1 413
+20 80 80 80
+5 _ 80 2
+YY will complete the work as = 265 days
+52. Asa sailar, Anirudh is twice as fast as Ashwin and
+together they finish a work in 14 days. In how
+many days Ashwin alone can complete the work.
+(a) 28 (b) 42
+(c) 56 (d) 35
+RRB NTPC 30.04.2016 Shift : 3
+Ans : (b) Let Anirudh and Ashwin finishes the work in
+x days and 2x days
+then one day work of Anirudh = i part
+x
+and one day work of Ashwin = x part |
+x
+According to the question,
+1,101
+then —+ > =— part
+x 2x 14
+2411
+2x 14
+31
+2x 14
+x=21
+So time taken by Ashwin to complete the work alone
+=2x=2 x 21 =42 days
+Type -3
+53. P and Q can complete a work in 12 days and 16
+days respectively. They work together for 4
+days. How much of the work is left?
+(a) 3/4 (b) 7/12
+(c) 5/12 (d) 6/7
+RRB JE - 27/05/2019 (Shift-I)
+Ans : (c) One day work of P = a part
+one day work of Q = 7 part
+=fl,L
+four days work of (P + Q) -(4 + a
+(4+3) 7 7
+= "ag *4=4g%4 = part
+att
+remain work = 1 2
+[2
+-
+Work & Time 21.
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0009_right.png =====
+54. Ajay and Vijay can do a work in 70 and 60
+days respectively. They start working together
+and after some time, Ajay leaves. Vijay
+completed the remaining work in 47 days,
+when did Ajay quit the work ?
+
+(a) After 7 days (b) After 14 days
+(c) After 10 days (d) After 8 days
+RRB JE - 26/06/2019 (Shift-I11)
+Ans : (a) Let Ajay does work till x days.
+According to the question,
+x x+47
+244" 21
+70 «60
+60x + 70(x+47) = 4200
+60x + 70x + 3290 = 4200
+130x = 4200 — 3290
+130x = 910
+130
+
+So Ajay left work in after 7 days
+
+55. Acan finish a work in 30 days and B can finish
+the same work in 20 days. A and B do the work
+together for 6 days and after that A leaves the
+work. In how many days B will complete the
+remaining work?
+
+(a) 15 days (b) 16 days
+(c) 10 days (d) 18 days
+RRB Group-D — 08/10/2018 (Shift-I)
+
+Ans. (c) LCM of A and B = 60
+
+So total work = 60 unit
+
+work done by A in one day = 2 =2unit
+
+. 60 .
+
+work done by B in one day = 07 3 unit
+
+one day work of both (A + B) = 2+3=5 unit
+
+6 day both of work = 5 x 6 = 30 unit
+
+Remain work = 60-30 = 30 unit
+
+Time taken to do remain work by B = 2 = 10 days
+
+56. A alone can finish a work in 3 days. B alone
+can finish this work in 7 days. If A and B work
+together for 2 days, then what part of work will
+be left?
+
+1 4
+i b) —
+@ 5 oF
+2 1
+ae do —
+OF ® >
+RRB Group-D — 20/09/2018 (Shift-I1)
+
+Ans : (d)
+
+one day work of A =; Part
+
+one day work of B =5par
+
+{ YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0010_left.png =====
+one day work of both (A +B) = G 4)
+2743 105
+21 (21
+10x2_ 20
+Two days work of (A + B) TheeT! part |
+. 20
+so remain part of the work =1 re
+=t part remaining.
+21
+57. Working alone, Rakesh and Ranjit can
+complete a task in 4 and 6 days respectively.
+Ranjit started work alone and Rakesh joined it
+after 2 days. How many days will they need to
+complete the remaining work?
+(a) 1.6 (b) 2
+(c) 0.8 (d) 12
+RRB Group-D — 22/09/2018 (Shift-I)
+Ans : (a) Let remain work complete in x days.
+o Rakesh will complete the work in = x days
+and Ranjit will complete the work in =x + 2 days
+.. one day work of both = x42 x =l
+6 4
+Ax+8+6x _ 1
+24 |
+10x = 24-8
+10x = 16
+x=16
+58. 18 people can complete a work in 12 days.
+After 4 days of work, 2 workers left the work.
+In how many days will the remaining work be
+completed after the workers left the work?
+(a) 8 (b) 6
+(c) 9 (d) 10
+RRB Group-D — 08/10/2018 (Shift-II)
+Ans : (c) Total work= 18 x 12
+work done = 18 x 4
+remain work = 18 x 8
+18 x 8=(18-2)xD
+18 x 8=16xD
+D=9 days
+59. 800 men complete a work in 30 days, 80 men
+leave the work after working 12 days. In how
+many days can the remaining work be
+completed by the remaining people.
+(a) 22 (b) 20
+(c) 28 (d) 24
+RRB Group-D — 15/10/2018 (Shift-I
+Ans : (b) Total work = 800 x 30
+done work = 800 x 12
+remain work = 800 x 18
+Work & Time 21:
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0010_right.png =====
+According to the question,
+800 x 18 = (800 - 80) x D
+800 x 18=720 xD
+D= 800x18 _ 20
+720
+60. Ranjit can complete a work in 25 days while
+Anji can finish it in 20 days. They work
+together for 5 days and then Ranjit leaves. How
+many days will Anji take to finish the
+remaining work?
+(a) 10 days (b) 9 days
+(c) 11 days (d) 15 days
+RRB Group-D — 17/09/2018 (Shift-IT.
+Ans : (c) According to the question,
+One day work of Ranjit “4 part
+One days work of Anji = sppatt
+ss we 11
+-. One di k of both (Ranjit + Anji) =—-+—
+ne days work o: (Ranji nji) 35 ‘20
+4+5_ 9
+=——~=— part
+100 100
+- “ 9 9
+o k of (Ranjit + Anji) =5x—~ =—
+5 days work of (Ranjit + Anji) =5x 100 20 part
+so Anji will complete remain work
+9 ll
+=|1-— |x20=—x20=11
+( =). 0 20% 0 days
+61. Sandra and Mayuri can work together and
+complete a task in 60 days. Although Mayuri
+works alone and leaves after completing one
+third of the work and Sandra then finishes the
+remaining work alone. Thus, both of them
+completed the work in 150 days. If Mayuri
+worked faster than Sandra in how many days
+Sandra could do that work alone?
+(a) 240 (b) 180
+(c) 165 (d) 225
+RRB Group-D — 06/12/2018 (Shift-III)
+Ans. (b)
+Let time taken by sandra to completing work = x day
+Let time taken by Mayuri to completing work = y day
+-. one day work of both = L at = 1
+x y 60
+Time taken by Mayuri in completing 5 of work =
+y
+= days
+3 ry’
+. 1.2
+Remain work = 1-~=—
+33
+Time taken by Sandra in completing = pat of work =
+2_ 2x
+2a aa
+xxg7 > day
+J YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0011_left.png =====
+Time taken by both to complete the work '
+2x oy
+=i 2-150
+3.3
+2x +y = 450 a)
+From equation (ii)
+y = 450 -2x sii)
+on putting value of y in (i)
+60 (x+y) =xy
+60 (x + 450 — 2x) = x (450 - 2x)
+60 (450-x ) = 450x — 2x”
+60 x 450 — 60x = 450x — 2x”
+2x? — 510x + 60 x 450=0
+x? —255x + 13500 =0
+x’ — (180 + 75) x + 13500= 0
+x’ — 180x — 75x + 13500 =0 |
+x (x-180) — 75 (x-180) = 0
+(x-180) (x-75) = 0
+x = 180, 75
+So Sandra (Sandra works slower than Mayuri) alone
+will take time to complete the work = 180 days
+62. 280 men complete a work in 30 days. After 4
+days of work, 80 men left the work. How many
+days will it take to complete the remaining
+work?
+2 2
+27 b) 34=
+(@) 275 (b) 345
+2 2
+c) 332 d) 36=
+©) 335 @) 365
+RRB Group-D — 15/10/2018 (Shift-II1)
+Ans. (d) : Remain days = 30-4 = 26 days
+remain male = 280 —80 = 200 men
+If 280 men do work till 26 days then work will finish
+from M,D, =M, xD,
+280x 26 = 200xD,
+D,= 28026 _ 182
+200 5
+2
+= 36= days
+5 ys
+63. S and T can finish a work in 50 days. They
+worked together for 20 days and then left. How
+much of the work is left? '
+(a) 3/5 (b) 18
+(c) 1/2 (d) 2/5
+RRB NTPC 30.03.2016 Shift : 1
+Ans: (a) one day's work of S and T = = part
+20 days work of S and T = 202 part
+50 5
+<.remain work =1 2 = 2 part
+55
+Work & Time 21:
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0011_right.png =====
+64. X can copy 60 pages in 4 minutes, X and Y
+together can copy 750 pages in 30 minutes. In
+how many minutes can 'Y' copy 100 pages?
+
+(a) 8 (b) 16
+
+(c) 10 (d) 5
+
+RRB NTPC 19.04.2016 Shift : 3
+Ans: (c) | minute work of X = 2 =15 page
+1 minute work of X and Y = 2 =25 page
+~. one minute work of Y = 25-15 = 10 page
+«. Time taken in copying to 100 pages by Y
+= 100 _ 10 minute
+10
+
+65. A completes 2/5 part of a work in X days. After
+then calls B and they together finish the
+remaining work in 6 days. If B alone takes
+100/6 days. Then find the value of X.
+
+(a) 10 days (b) 50/3 days
+(c) 20 days (d) 40 days
+RRB NTPC 18.04.2016 Shift : 2
+Ans: (a)
+2 5
+X days work of A = rs => complete work = 3%
+remain work = 2 ed
+5 5
+time taken by A and B together to finish 3 work =6
+time taken by A and B to finish the whole work together
+5
+= 6x—=10 days
+3 ys
+
+According to the question,
+
+ees
+
+3, 10010
+
+2 6
+
+2,6 1 _. 40+6x_ 1
++ 4—s=— > =
+5x 100 10 100x110
+40 + 6x = 10x
+4x=40
+x= 10 days
+
+66. P and Qcan complete a work in 12 days, Q and
+R in 15 days, R and P in 20 days. In how many
+days can they finish the work together?
+
+(a) 10 (b) 12
+(c) 5 (d) 14
+RRB NTPC 22.04.2016 Shift : 1
+
+Ans : (a) work done by (P + Q) in 1 day “5 part
+
+work done by (Q + R) in 1 day= x part
+
+3 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0012_left.png =====
+work done by (R+ P) in 1 day = =sppart
+to adding-
+. 1 1,1
+k done by 2(P + Q+R) in 1 days =—+—=+—
+work done by 2(P + Q + R) in 1 days 12 1520
+_ 5+443
+60
+2
+60
+a2 part
+ras
+.. work done by (P + Q + R) in 1 days —
+5x2
+10"
+So time taken by (P + Q + R) to finish the work
+together = 10 days
+Type -3
+67. Arun and Amit can do a piece of work in 9
+days and 12 days respectively. If they work for
+alternate days and Amit starts the work first,
+then in how many days 35/36 parts of whole
+work will be completed?
+(a) 10 days (b) 12 days
+(c) 5 days (d) 8 days
+RRB RPF Constable — 20/01/2019 (Shift-IID
+Ans: (a) 2 days work of Amit and Arun
+( 1 ;) (4) 7
+=|—+-]=|——] =— part
+12 9 36 36
+©. 2x 5=10 days work = >
+36
+35
+= — part
+36»
+«. Required time = 10 days
+68. =P, Q and R can do a work separately in 10, 12
+and 15 days respectively. They start working
+together and after 2 days P quits working. Q
+quit working 3 days before the work was
+completed. In how many days will the work be
+completed?
+(a) 6 (b) 7
+(©) 5 (d) 8 |
+RRB JE - 29/05/2019 (Shift-ID}
+Ans : (b) Let total work completed in x days
+According to the question,
+2 x-3, x
+—+—— +—=1
+10. 12 «15
+1 x-3, x
+=+—+—=1
+5 12 15
+Work & Time 21.
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0012_right.png =====
+5(x-3)+4x _ 4
+60 5
+9x - 15 =48
+9x = 63
+x=7 days
+So work will complete in 7 days
+69. Aand B can complete a piece of the work in 15
+days and B alone can do it in 18.75 days. They
+start working together but B leaves 7.5 days
+before the work is done. How many days did
+they work together?
+(a) 13.75 (b) 11.25
+(c) 13.5 (d) 12.5
+RRB RPF SI — 06/01/2019 (Shift-I11
+Ans : (c) According to the first statement.
+work done by A and B ina day = = part
+1
+‘k done by B ina day = —— part
+work done by B ina day = 7 -—= par
+work done by A ina day
+tli
+A 15 18.75
+ee
+A 15 75
+15-4
+A 75
+tll
+A 75
+So time taken by A to finish the work is 75 days.
+Let work completes in x days
+According to the second statement
+x, («-75) =1
+75 18.75
+x x 75
+~*~, -_»--1
+75 18.75 18.75
+18.75x+75x _ le 75
+75x18.75 18.75
+93.75x__ 18.75+7.5
+75x18.75 18.75
+93-75% _ 96.95
+75
+_ 26.25x75 _ mT
+93.75
+So both worked together for = 21 — 7.5 = 13.5 days
+70. A and B together can complete a work in 15
+days, while A alone can complete the work in
+18.75 days. They start working together but A
+leaves work 12.5 days before the work is
+completed. How long did A and B work
+together
+(a) 10 (b) 13.75
+(c) 11.25 (d) 12.5
+RRB RPF SI - 12/01/2019 (Shift-II)
+} YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0013_left.png =====
+Ans. (d) : one day work of A+B = apart
+lone day work of B =
+11 1875-15 __3.75_ 022 1
+15 18.75 15x18.75  15x18.75 15 150 75
+1
+
+di ‘k of B = = part
+lone day work o: 75 Pa
+12.5 days work of B = 125 125 I vat
+
+75 750 6
+remaining work = 1-425 art
+gS 6 6 Pi
+
+7 - _ 5 5
+
+time taken by (A+B) in completing ra work = 15 G
+
+=12.5 days
+
+So A and B worked together for 12.5 days. ’
+
+71. Amod and Pramod can work separately and
+paint a wall in 15 and 24 days respectively.
+They start working together, but Amod leaves
+11 days before the work is complete. How
+many days did it take to complete this work?
+(a) 16 (b) 17
+(c) 15 (d) 18
+
+RRB Group-D — 05/10/2018 (Shift-I)
+
+Ans. : (a) Let work will be complete in x days.
+
+According to the question,
+
+x-ll, x
+ay =]
+15 24
+24x — 264 + 15x = 360
+39x = 624
+x= 624 © 16
+39
+
+So total work (x) will be complete in 16 days.
+
+72. 15 person took up the task of digging a pond in
+20 days. After 10 days, 5 people left the work in
+the next 5 days 5 workers also left the work.
+How long will it take to complete the work?
+
+(a) 45 (b) 25
+(c) 55 (d) 35
+RRB Group-D — 10/10/2018 (Shift-I1)
+Ans : (d) M.D = M,D; + M2D2 + M3D3
+15 x 20=15 x 10+5* 10+5 xD;
+300 — 150-50 = 5D;
+5D; = 100
+D; = 20
+Total time taken = 20 + 10+5 =35 days
+
+73. Pavitra can do a work in 8 days, Dinu can do
+the same work in 10 days and Naba can do it in
+12 days. They started working together, but
+Pavitra left after two days and the remaining
+work was done by Dinu and Naba. How long
+did it take to complete the whole work.
+
+(a) 67/11 days (b) 45/11 days
+(c) 23/11 days (d) 50/11 days
+RRB Group-D — 29/10/2018 (Shift-II1)
+Work & Time 21:
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0013_right.png =====
+Ans : (b) Let work will be complete in x days
+According to the question,
+2.x x
+=+—+—=1
+8 10 12
+1 x x
+—+—+—=1]
+4 10 12
+X X21
+10 12 4
+6x+5x__ 3
+60 4
+Lx _3
+60 4
+x= s days
+74. 48 people can do a work in 17 days. After 6
+days 4 workers left the work. After that how
+many days will it take to complete the work?
+(a) 16 (b) 15
+(c) 12 (d) 13
+RRB Group-D — 17/09/2018 (Shift-IT.
+Ans : (c) Let remaining work completes in x days
+from M,D; = M2D,
+48 x (17-6) =44« x
+48x 11=44xx
+xe 48x11 _ py
+44
+75. A and B can do a work in 45 hours. If A works
+alone and completes the 3/8 part of the work,
+then leaves the remaining work to be done by
+B. It takes a total of 102 days to complete the
+work. In how many days A will complete the
+work, which is more efficient between them to
+complete the work alone?
+(a) 170 (b) 96
+(c) 72 (d) 120
+RRB Group-D — 05/12/2018 (Shift-ID
+Ans. (c) Let A completes total work in x days
+time taken by A in complete ; part = = days
+. . 5 _ 3x
+time taken by B in complete a part = oars day
+time taken by B to completing whole work
+= (102 -%)8 day
+8)5
+According to the question,
+a Le
+x (102 -%)8 45
+8)5
+1 5 1
++2 =
+x 816-3x 45
+816-3x+5x_ 1
+(816-3x)x 45
+5 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0014_left.png =====
+15 (816 + 2x) =x (272—x)
+12240 + 30x = 272x — x”
+
+x? —272x + 30x + 12240 =0
+
+x? —242x + 12240 =0
+
+x? — 72x — 170x + 12240 =0
+
+(x — 72) (x — 170) = 0
+
+x= 72, 170
+
+So, A will complete the whole work in 72 days.
+
+76. 36 men can do a work in 24 days. 4 workers left
+work after 8 days. Since then how many days
+will it take to complete the work?
+
+(a) 18 (b) 16
+(c) 12 (@) 20
+RRB Group-D — 05/12/2018 (Shift-ID
+Ans. (a) After 8 days-
+remaining men = 32
+remaining days = 16
+
+Later, the remaining 16 days of work for 36 men is left,
+
+which will be complete by 32 men together.
+
++: MD; = M2D2
+2. 36 x 16 =32 xD)
+D2 = 18 days
+
+77. A and B complete a work in 12 and 16 days
+respectively. Both of them work together for 3
+days then A leaves. In how many days only B
+will complete the remaining work?
+
+(a) 12 (by 18
+() 9 (d) 10
+RRB Group-D — 05/11/2018 (Shift-I
+
+Ans. (c) :
+
+‘Time taken by A to completing the work = 12 days
+
+Time taken by B to completing same work = 16 days
+
+11 _4+3_ 7
+1 day work of A and B 116 4 7 48 part
+7_7
+-. 3 day work 3x75 3 part
+. 7_9
+remaining work =1 1616 part
+1
++: Time taken by B to completing !6 part of work: 1 day
+.. Time taken by B to completing = part of work
+9
+=16x 16 9 days
+So time taken by B to completing remaining work = 9
+days
+
+78. A and B can complete a work in 12 days.
+Although alone A completed 1/5 of the work
+and left the work. Then B started working
+alone and completed the remaining work. The
+work take a total of 22 days to complete. If B is
+more efficient than A, how many days did B
+take to complete the work alone?
+
+(a) 16.5 (b) 16.5 or 20
+(c) 30 or 44 (d) 20
+RRB Group-D — 12/11/2018 (Shift-II)
+Work & Time 210
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0014_right.png =====
+1,1 21 a
+Ans: (b) —+—=— noon
+ns: (b) [+E (i)
+Suppose A takes x days to doing + part of work.
+time taken in completing whole work = 5x days
+time taken by B to doing $ part of work = (22 — x) day
+time taken in completing whole work = @22-x)5 day
+from the equation (i)
+> 1,4 -1
+5x 5(22—x) 12
+=> 110-5x+20x _ 1
+25x(22-x) 12
+> 10+15x__ 1
+25x(22-x) 12
+> (2243x) _ 1
+5x(22-x) 12
+=> — 264 + 36x = 110x -5x”
+=> — 5x-74x + 264=0
+=> 5x°-30x- 44x + 264 =0
+=> — 5x(x-6)-44(x-6) = 0
+> (x6) (5x-44)=0
+x=6,x= 44 =88
+5
+time taken by B to doing whole work =(22-x) x3 day
+5
+= (22-6) x—
+¢ ari
+=16x> =20day
+4
+or
+5
+= (22-88) x=
+¢ ) 4
+5
+13.27 = 16.5 days
+79. A can do a work in 8 days, while B takes 10
+days to complete the same work. They started
+working together but A left the work 1 day
+before the work completed. Then how many
+days did A is work?
+(a) 3.5 (b) 4
+() 2 (d) 3
+RRB Group-D — 23/10/2018 (Shift-II)
+Ans. (b) : Work done by A in 1 days = gpa
+work done by B in 1 day = Pat
+p YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0015_left.png =====
+. 11.9 :
+work done by (A + B) in 1 day = 8 + 10-40 part
+
+[Let both A and B does work together in x days.
+
+According to the questions,
+
+9x 1
+—+—=1
+40 10
+9x 1
+>—=l1-—
+40 10
+9 40
+> x == x—
+10 9
+x =4 days
+
+so A worked for 4 days.
+
+80. 28 days of food items are available for 1200
+soldiers posted in a fort. After 4 days some
+soldiers left the fort, due to which the available
+food item use for 32 days. How many soldiers
+left the fort?
+(a) 300 (b) 280
+(c) 320 (d) 290
+
+RRB Group-D — 11/10/2018 (Shift-
+
+Ans : (a) Number of posted soldiers = 1200
+
+Let x soldiers have lefted after 4 days
+we know that M, x D; = M2 x Dy
+
+1200 x 28 = 1200 x 4 + (1200 — x) x 32
+
+1200 x 24 = (1200 — x) x 32
+
+28800 = 38400 — 32x
+
+32x = 38400 — 28800
+
+32x = 9600
+
+x= 300
+
+81. Sunita embroiders a saree in 15 days while her
+sister Neha can complete the same work in 10
+days. They started working together, but Neha
+leaves work after two days. After that how
+many days will Sunita take to complete the
+embroidery alone?
+
+(a) 10 days (b) 20 days |
+(c) 16 days (d) 12 days
+RRB Group-D — 09/10/2018 (Shift-IT)
+
+Ans. (a)
+
+Let time taken to complete whole work in x days.
+
+[According to the questions,
+
+x 2
+
+=t+—=1
+
+1510 |
+
+X.y-2
+
+15 10 :
+> x _ 8
+
+15 10
+> x=15x 4
+
+5
+
+x=12
+~. Whole work will finish in 12 days.
+
+So Sunita will take 10 days to complete the remaining
+
+work
+
+Work & Time 21
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0015_right.png =====
+82. In a camp 180 students have food for 20 days.
+If the food is to lasts for 25 days, then how
+many students should leave the camp?
+
+(a) 36 (b) 24
+(c) 28 (d) 40
+RRB NTPC 29.03.2016 Shift : 1
+Ans ;: (a) Let the number of students leaving of the|
+camp =x
+from the questions,
+180x 20 = (180—x)x25
+180—-x = 180x 20
+25
+180 -x = 3600
+25
+180—x =144
+x = 180-144 = 36
+
+So 36 students will have to leave the camp.
+
+83. Smita can finish a work in 12 days and Sam
+can finish the same work in 9 days. Both leave
+the work after working together for 4 days.
+How much work is left?
+
+(a) 1/2 (b) 7/9
+(c) 2/9 (d) 1/4
+RRB NTPC 29.03.2016 Shift : 1
+Ans : (c) one day work of Smita = sat
+one day work of sam= 5 part
+«. 4 days work of both= 4] —+—
+12.9
+W422) a
+36 9
+remaining work =1 1.2 art
+iS 99 Pi
+
+84. Vikram and Vivek can finish a work in 50
+days. They worked together for 20 days and
+after that both are left the work. How much
+work has been done by them?
+
+(a) 3/5 (b) 1/3
+(c) 1/2 (4) 2/5
+RRB NTPC 29.03.2016 Shift : 3
+Ans : (d) Work done by both in 20 days = = = part
+
+85. 30 men can do a work in 20 days, After 6 days
+how many people should leave this job so that
+the entire work is done in 26 days?
+
+(a) 9 (b) 12
+() 8 (d) 7
+RRB NTPC 19.04.2016 Shift : 1
+Ans: (a) Let the number of lefted peoples is x
+According to the questions,
+30 x 20 = 6 x 30 + (26-6) x (30-x)
+600 = 180 +20 (30-x)
+] YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0016_left.png =====
+600 — 180 = 20(30-x)
+420
+30-x)=——
+G0-x) 20
+(30-x)=21
+x=9
+then the number of people left the work = 9
+86. Anil can do a work in 14 days and Rohit can do
+the same work in 21 days. Both together work
+for some days and then Anil quits the work. If
+Rohit has worked alone for three days then the
+number of days taken to complete the work is.
+(a) 31/5 (b) 51/5
+(c) 2/15 (d) 13/5
+RRB NTPC 16.04.2016 Shift : 3
+Ans : (b) Let Anil worked for N days
+work done by Anil in 1 day =i part
+work done by Rohit in 1 day = x part
+According to the questions,
+N .N+3
++21
+14 (21
+3N¥2N¥6 1 5N4+6=42
+42
+5N =42-6 =36
+n=28
+5
+So number of days to finish work
+36 51
+a—43e5
+5 5
+87. A cleaning company employs 42 sweepers to
+clean a building in 25 days. 10 days later, 12
+sweepers left the job. If the cleaning work is
+finished in 10 days then how many more
+cleaning workers need to be hired?
+(a) 30 (b) 32
+(©) 33 (d) 21
+RRB NTPC 28.04.2016 Shift : 1
+Ans : (c) Suppose the number of extra employees = x
+According to the questions,
+M, x Di = M2 x D2
+(25-10) x 42 = (30 +x) x10
+15 x 42 = 10 x (30+x)
+30+x= $30 > 63
+10
+x = 63-30
+88. A and B can complete a work together in 35
+days. If A works alone and completes 5 of the
+work and then leaves the remaining for B, it
+will take a total of 90 days to complete the
+work. How many days would take A, who is
+Work & Time 21
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0016_right.png =====
+more efficient among them to complete the
+entire work?
+(a) 40 (b) 45
+(c)_48 (d)_42
+Ans : (d) Let A completes the entire work in x days
+person work time
+A 1 x day
+5 5
+A = =x day
+7 Oy
+B 2 (90-3) (os
+7 7 7
+B 1 630=Sx), 7 _( $30-5x
+7 2 2
+According to the questions,
+1.1 1
+w +=
+A B 35
+1 2 1
+a4 4
+x (630-5x) 35
+35(630 —5x + 2x) = x(630—5x)
+7 (630 — 3x) = (126x — x’)
+4410 - 21x = 126x—x"
+x 147x + 4410 =0
+2 105x- 42x +4410 =0
+(x— 105)(x- 42) =0
+x=42, x # 105 (from options)
+So A will take 42 days to complete the work.
+89. A and B can complete a work together in 12
+days while A alone can do it in 15 days. They
+start working together but A leaves 10 days
+before the completion of the work. For how
+many days did A and B work together?
+(a) 9 (b) 11
+() 8 (d) 10
+RRB ALP & Tec. (29-08-18 Shift-IID}
+Ans : (d) 1 day work of A+B -+ part
+1 day work of A = = part
+11
+1 day work of B = ——-—
+12 15
+= 5-4 1 part
+60 60
+According to the questions, Let A and B did work
+together for x days.
+x.A+x.B+10B = 1
+x (A+B) + 10B =1
+( 1 } 10
+x|— |+—=1
+12) 60
+* 2,1
+12 6
+x3
+12 6
+x= 10 days
+3 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0017_left.png =====
+90. 10 people could complete a work in 8 days.
+After 4 days, 2 of the workers left. How many
+days to take compete the task?
+
+(a) 7 (b) 8
+(©) 6 (d) 5
+RRB ALP & Tec. (20-08-18 Shift-IID
+Ans : (d) 10 men will do total work = 10 x 8 = 80 unit
+remaining work after 4 days = 80 — 40 = 40 unit
+
+8 men will do remaining work -* = 5 days
+
+91. A and B together can complete a work in 12
+days. However, if A works alone, completes
+half work and leaves then B works alone and
+completes the remaining work, it takes 25 days |
+to complete the work. If B is more efficient
+than A, how many days would it have taken B
+to do the work alone?
+
+(a) 18 (b) 22
+(©) 20 (d) 15
+RRB ALP & Tec. (13-08-18 Shift-I
+Ans : (c) Let A and B does the work in x and y days.
+then, Aji = i
+x y 12
+rx i
+xy 12
+XY=12(K FY) eccccereeeeeee (i)
+According to the question-
+*,2=25
+22
+X+ Y= 50 ceeccccsseeeseee (ii)
+from the equation (i) and (ii)
+xy =12x50
+XY = 600 on eeeeeeceeeeee (iil)
+
+on taking x = 30 and y = 20 third eqaution will be}
+
+satisfied.
+
+so taken time by B = 20 days
+
+Type -3
+
+92. Pand Qcan doa diffrent work in 6 and 8 days
+respectively with the help of R they complete
+the work in 3 days. If total wages is Rs. 3200
+then what is the amount given to R?
+
+(a) Rs. 320 (b) Rs. 1200
+(c) Rs. 400 (d) Rs. 375
+RRB JE - 23/05/2019 (Shift-I11
+Ans : (c) one day work of P = 4 part
+one day work of Q = gpa
+According to the equation,
+11,1 1
+—+—+2=2
+P QR 3
+Work & Time 21!
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0017_right.png =====
+11,1 01
+Doti+tlat
+6 8 R 3
+1 1 (7
+>—=--|—
+R 3 (24
+tL
+R 24
+work ability ratio of P, Q and R = L : I j43l
+68 24 24
+P:Q:R=4:3:1
+wages of R = 3200xi= Rs. 400
+93. A and B can complete a work in 50 days, B and
+C can complete it in 37.5 days while C and A
+together can complete the same work in 30
+days. In how many days can each of A, B and C
+individually complete the same work?
+(a) 50, 150 and 75 (b) 40, 60 and 120
+(c) 60, 120 and 40 (d) 75, 150 and 50
+RRB Group-D — 26/09/2018 (Shift-I])
+Ans. (d) : one day work of (A + B= a part
+1
+d ‘k of (B + C) = —— part
+one day work of (! ) 475 pal
+one day work of (C+ A) = = part
+1,10 1
+one day work of 2(A + B + C) = | —+—~+— |part
+50 375 30
+2(A+B+C) = Sats] part
+50 75 30
+2(A+B+C) = (“e")
+300
+aspic= 22 = part
+300 25
+tiycel
+50 25
+c= LB L2NLD ae
+25 50 50 50
+So C could completed the work in 50 days
+Av2eb
+75 25
+nek 22321 pat
+25 75 75 75
+So it will take 75 days to complete the work by A
+sypet
+30 25
+poh 18-5 1 ian
+25 30 150 150
+So work could completed by A in 75 days, B in 150
+days and C in 50 days
+) YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0018_left.png =====
+94. A and B can complete a work in 20 days, B and | '
+C can complete it in 30 days while C and A can
+do the same work together in 24 days. How
+many days will each of B and C take to
+complete the work individually?
+
+(a) 48 and 80 (b) 56 and 65
+(c) 54 and 72 (d) 50 and 54
+RRB ALP & Tee. (20-08-18 Shift-IT
+Ans: (a) 1 day work of (A +B) = = part
+1
+1 day of (B + C) =— part
+lay of ( ) = 39
+1
+1 day of (C+ A) = — part
+lay of ( ) = 54 Pa
+p 1 1,1)1
+1 day work of the A, B,C = | ~+—+— |x—
+20 30 24) 2
+64445 1 oo -
+120x2 8x2 16
+2 A 11
+time taken t let vork by B =—-—
+ime taken to completing work by eT
+=372_1
+48 48
+B will complete work by self in 48 days.
+taken time by C to do work by self ee
+16 20
+wird 1
+80 80
+so C will complete work alone in 80 days.
+so B and C will complete their work in 48 and 80 days.
+Type - 6
+
+95. If P and Q together can complete a work in 15
+days, Q and R together can do the same work
+in 12 days and P and R together can do it in 20
+days, then how many days can the three
+together complete the same work.
+
+(a) 10 days (b) 14 days
+(c) 4 days (d) 6 days
+RRB JE - 26/05/2019 (Shift-I
+
+‘Ans: (a)
+
+lone day work of (P + Q)= z part
+
+lone day work of (Q + R)= Patt
+
+lone day work of (P + R)= spear
+
+work done by 2 (P +Q +R) in 1 day
+
+11,1
+=—+—4+—
+15 12 20
+44543 12 0 1
+60x2 60x2 5x2 10
+
+so time taken to finishing the work by (P + Q + R) alll
+
+three = 10 days
+
+Work & Time 22
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0018_right.png =====
+96. P and Q can complete a work in 8 days. Q and
+R can complete the same work in 12 days. P, Q
+and R together can complete the same work in
+6 days. In how many days can P and R together
+can do that work?
+
+(a) 6 days (b) 8 days
+(c) 5 days (d) 4 days
+RRB JE - 26/05/2019 (Shift-II)
+Ans: (b)
+work done by (P + Q) in 1 days = ; part
+work done by (Q + R) in 1 days -s part
+work done by (P + Q + R) is 1 days= ; part
+work done by Rina day = il
+6 8
+24331
+~ 24 24
+11
+k done by P i day =2-—
+work done by FP ina one day 6 2
+e422
+2424-12
+total work done by (P + R) = ait
+24 12
+21423 1a,
+24 24 8
+
+97. +P and Q together can complete a work in 30
+days. Q and R together can do the same work
+in 24 days. R and P together will take 20 days
+to complete the same work. How many days
+will it take all of them together to complete the
+same work?
+
+(a) 25 (b) 8
+(c) 16 (d) 15
+RRB JE - 24/05/2019 (Shift-II1)
+Ans : (c) Work done by (P + Q) in one day = spat
+work done by (Q + R) in one day = spar
+work done by (R + P) in one day = = part
+11,1
+2(P+Q+R)=—+—+—
+(P+Q+R) 30 24 20
+44546 15
+2(P+Q+R)=——— =—
+(P+Q+R) 120 120
+
+work done by (P + Q +R) in one day = aqpatt
+
+time taken by (P + Q + R) to complete the work = 16
+
+days
+
+XT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0019_left.png =====
+98. A and B together can complete a work in 10
+days B and C together in 12 days and C and A
+together in 15 days. How much time will A take
+to complete this work alone?
+
+(a) 34 days (b) 24 days
+(c) 20 days (d) 30 days
+RRB RPF Constable — 18/01/2019 (Shift-I)
+
+Ans : (b) one day work of (A + B) = 7 part
+
+lone day work of (B + C) = s part
+
+lone day work of (C + A) = = part
+
+1.1.1
+lone day work of 2A +B+C) =—+—+—
+10 12 15
+54544 _ 15
+60 60
+lone day work of (A +B +C) = tl
+4x2 8
+So one day work of A = JA 3-2 1
+8 12 24 24
+
+|A will finish all work alone in 24 days
+
+99. A and B can complete a task in 40 days, B and
+C can complete in 30 days while C and A can
+complete the same task together in 24 days.
+How many days will each of A, B and C take to
+complete the task individually?
+
+(a) 48, 96 and 32 (b) 32, 48 and 96
+(c) 60, 120 and 40 (d) 40, 120 and 60
+RRB ALP & Tec. (29-08-18 Shift-I)
+Ans : (c) one day work of (A+B) = a part
+
+one day work of (B+C) -< part
+
+one day work of (C+ A) = x part
+
+one day work of all three 2(A+B+C)=+ +144
+
+40 30 24
+120 /2 10 2 20
+one day work of A in alone= it = 3-2 = _ part
+20 30 «60 60
+So A will complete work in 60 days
+- 1 1 6-5 _ 1
+one day work of B in alone = —-— =—— =—— part
+20 24 120 120
+So B will complete work in 120 days
+one day work of C in alone = os = 2-1 = a part
+20 40 40 40
+So C will complete work in 40 days.
+Work & Time 221
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0019_right.png =====
+100. Ravi, Rohan and Rajesh alone can complete a
+work in 10, 12 and 15 days respectively. In how
+many days can the work be completed, if all
+three work together?
+
+(a) 4 days (b) 5 days
+(c) 3 days (d) 8 days
+RRB NTPC 27.04.2016 Shift : 3
+Ans: (a) one day work of Ravi, Rohan and Rejesh o:
+the three
+1 1,1
+=—+—4+—
+10 12 15
+hehe
+60 60
+1
+=—part
+ap
+
+So it takes 4 days to complete the work by three people.
+
+101. A, Band C can complete a work in 81 days. A
+and B together can complete the same work in
+97.2 days. B and C together can complete the
+same work in 162 days. In how many days can
+B complete that work alone?
+
+(a) 243 (b) 234
+(c) 261 (d) 225
+RRB Group-D — 27/09/2018 (Shift-I)
+Ans, (a) one day work of A, B and C= x part
+1
+di ‘k of A and B =——~ part
+one day work of A an 973 Pa
+1
+di ‘k of B and C =—~ part
+one day work of B an ia
+According to the question,
+Ltd
+ABC 81"
+1,1 _ 10 -
+ta =— ......4
+atpoon
+1.1.1 a
+=4+2=—
+Bc ia
+from the equation (i) and (ii)
+ALi 10
+Cc 81 972
+1_972-810_ 162,01
+C  81x972 81x972 486
+from equation (iii)
+11 1
+4+ =
+B 486 162
+tlt 1 3-1
+B 162 486 486
+tl 2 1
+B 486 243
+B=243
+So B will complete work by alone in 243 days.
+{ YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0020_left.png =====
+102. A can do a work alone in 11 days while B takes
+16.5 days to do it alone. It takes 5.5 days for
+them to complete the work together with C. If
+‘C’ and ‘D’ work together then they can
+complete it in 22 days. Then in how many days
+can D alone finish the work?
+
+(a) 44 (b) 55
+(©) 77 (d) 66
+RRB Group-D — 06/12/2018 (Shift-II)
+Ans. (d) : one day work of A = = part
+1
+d ‘k of B = —part
+lone day work o 165
+1,1 ,1_1
+lone day work of (A+B+C) = —+——+—=— part
+11 165 C 55
+1 11
+lone day work of C = —-| —+——
+5.5 \l1l 16.5
+= 2
+5.5 (16.5
+16.5 16.5 33
+*- one day work of (C + D) = = part
+-. one day work of D = ae ee J part
+22 33 66 «66
+
+So D will complete work in 66 days
+
+103. A and B can do a work in 40 days, B and C can
+do the same work in 56 days, while C and A
+together can do the same work in 70 days. How
+many days will C take to complete the work
+alone?
+
+(a) 210 (b) 175
+(c) 245 (d) 280
+RRB Group-D — 05/12/2018 (Shift-I)
+
+Ans: (d)
+
+one day work of A and B = rat wen (I)
+
+one day work of B and C = = part seve (2)
+
+one day work of C and A = = part seeeen(3)
+
+to adding equation (1), (2) and (3)
+
+2(A+B+C)= yb yt 74544 _ 16
+40 56 70 280 280
+(A+B+C) -_16_ -8 1 ow
+2x280 280 35
+from equation (4) and equation (1)
+1 1 _8-7_ 1
+one day work of C = —-—-=—— =—— part
+35 40 280 280
+So time taken by C to completing work = 280 days
+Work & Time 22;
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0020_right.png =====
+104. A takes twice as long as B and C together to do
+a work, C takes three times the time A and B
+take together. If A, B and C working together
+take 6 days to complete the work, in how many
+days will A alone complete the same work?
+
+(a) 20 days (b) 18 days
+(c) 24 days (d) 15 days
+RRB Group-D — 02/11/2018 (Shift-I
+Ans. (b) According to the question,
+work done by B and C = work done by 2 x A
+B+C=2A (i)
+work done by A and B = work done by 3 x C
+A+B=3C ii)
++ one day work done by A, B and C
+A+B+c=4
+6
+putting the value of B + C from equation (i)
+A+2A= 2
+6
+sazt shel
+6 18
+
+So A will complete this work alone in 18 days
+
+105. Rajan can complete a certain work in 6 days.
+Bhavesh takes 8 days to complete the same
+work. Charan takes the same times as Rajan
+and Bhavesh to work together. How long will it
+take for Bhavesh and Charan to complete the
+work together?
+
+(a) 22 days (b) 22 days
+() 2 days (d) 24 days
+RRB Group-D — 15/10/2018 (Shift-II)
+
+Ans : (a) According to the question,
+
+Rajan's work = 6 day
+
+Bhavesh's work = 8 day
+
+one day work of both (Rajan + Bhavesh) = : 4
+
+_44+3_ 7
+24 24
+
+According to the question,
+
+Charan works alone in the same time as Rajan and
+
+Bhavesh take to work together
+
+one day work of Bhavesh and Charan = ; + x
+
+_3+7_10
+24 24
+So time taken by Bhavesh and Charan to completing
+work = 24 = 22 day
+10.5
+
+106. Panu, Ziban and Zalil separately can finish a
+work in 30, 20 and 60 days respectively. Ziban
+started working and Panu and Zalil agreed to
+assist Panu on every third day. How long will it
+take to complete that work?
+
+J YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0021_left.png =====
+(a) 14 (b) 13
+(c) 15 (d) 12
+RRB Group-D — 11/10/2018 (Shift-I)
+Panu Ziban Zalil
+30 20 60
+3 1
+2
+Total work = 60 unit
+*. Ziban does 3 unit work in a one day
+Ziban will do in 2 day =3 x 2 = 6 unit
+~. Panu and Zalil assist Ziban on the third day
+*. work of third day = (Ziban's work in 2 day) + (Panu
++ Zalil + Ziban)
+=2x3+2+14+3=12 unit
+* Time taken in doing 1 unit -3
+-. time taken in doing 60 unit = 3x60 = 15 days |
+107. If X and Y can complete a piece of work in 20
+days, Y and Z can complete the same work in
+12 days, while Z and X could do the same work
+in 15 days. How many days would be needed to
+complete the work by X, Y and Z together?
+(a) 5 (b) 10
+(c) 8 (d) 12
+RRB Group-D — 08/10/2018 (Shift-III)
+Ans: (b)
+one day work of (x + y) = spat
+one day work of (y + z) = sen
+one day work of (z+ x) = sen
+one day work of 2(x +y +z) = JA,yiyd
+20 12 15
+3+5+4
+one day k of (x + y + z)=——_
+me day work of (x + y +z) 260
+one day work of (x + y + y= =] pat
+2x60 10
+So the three of x, y and z will complete that work in 10
+days
+108. A can do a work in 6 days. B takes 8 days to
+complete the work. C takes equal time to the
+time taken by A and B to work together to
+complete the work. If B and C work together
+how much time to take them to complete the
+work?
+Work & Time 22:
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0021_right.png =====
+14 13
+a) — days 'b) days
+(a) 3 day (b) 3 oy
+(c) F days (d) 2 days
+RRB Group-D — 01/10/2018 (Shift-IT.
+Ans. (d) : work done by A in a day = : part
+work done by B ina day = ; part
+work done by C ina day = ar part
+4437 ag
+24 24
+one day work with B and C together
+1,7 _10_5
+= —+— =—-=— part
+8 24 24 12
+So, time taken by B and C to completing work with
+together
+12
+= —day
+5 y
+Type - 3
+109. P,Q, R and S can complete a work in 20 days,
+If P and Q together can complete it in 50 days
+and R alone can complete it in 60 days then in
+how many days can S can complete that work
+alone?
+(a) 65 (b) 60
+(c) 90 qd) 75
+RRB JE - 24/05/2019 (Shift-I11)
+Ans : (d) 1 day work of P+Q+R+S iad
+1 day work of (P+Q) = = part
+1
+1 day work of R=— part
+'y 60”
+1 day work ofs-L-1 1
+20 50 60
+_15-6-5 _ 4°
+300 300
+So S will do this work alone in 75 days.
+110. P, Q and R together complete a task. P and Q
+finish 70% of the work while Q and R finish
+50% of the work. If they work alone, who will
+do the work first?
+(a) R
+(b) P
+(c) can not determine
+(d) Q
+RRB JE - 26/05/2019 (Shift-I11)
+3 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0022_left.png =====
+‘Ans: (b) If P, Q and R complete some work in | day
+If 1 day work of P and Q= 70% = 7
+1 day work of Q and R =50%=3
+.. one day work of R=1 1 = i
+10 10
+7 - _10_ 41
+So, R will complete work alone in ay = 33 days
+2 . 11
+again, one day work's of P=1 ary = 3
+So P will complete work alone in 2 days.
+. 13 =2 21
+1d kofQ =--—=+=-
+again 1 day work of Q 21071075
+So Q will complete work alone in 5 days
+|At first time P will complete work.
+111. A, B and C can complete a work in 81 days. A
+and B together can complete the same work in
+97.2 days. B and C together can complete the
+same work in 162 days. In how many days can
+B complete the work alone?
+(a) 225 (b) 234
+(c) 243 (d) 261
+RRB RPF SI - 10/01/2019 (Shift-I11)
+Ans : (c) According to the question,
+Work done by A, B and C in | day “=
+1 .
+A+B+C=— ou...
+ary @
+then, 1 day work of A+B a
+97.2
+A+B= 40
+972
+A+B= —_ (ii)
+“386 seers
+on putting the value of equation (ii) into equation (i)
+1 5
+C=—-—
+81 486
+C= 6-5 _
+486 486
+1
+th da k of (B + C) =—
+en one day work of (! ) 162
+pete
+486 162
+pet
+162 486
+poste
+486 243
+Hence, B will complete that work alone in 243 days.
+112. A can do a work in 10 day, B in 15 days and C
+in 20 days. A and B worked together for 4 days
+and then C replaced A. In how many days the
+entire work was finished?
+Work & Time 226
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0022_right.png =====
+(a) 16 days (b) 48/7 days
+(c) 42/7 days (d) 18/7 days
+RRB NTPC 16.04.2016 Shift : 2
+1,1 01
+Ans: (b) | day work of A and B =iot is gpa
+4.2
+.. 4 days work of A and B = ra =3 part
+remain work =1 es part
+33
+1.1.7
+1 day work of BandC =—+—=— part
+15 20 60
+*. time taken to complete work of z part = 1 day
+.. time taken in complete ; part of work
+60.1 _ 20
+=1x xis
+73°57
+total time = 2014 = $8 days
+7 7
+113. P,Q and R together can do a work in 4 days. P
+and Q alone can do the same work in 8 and 12
+days respectively. Explain how many days can
+R do the same work alone?
+(a) 18 days (b) 20 days
+(c) 22 days (d) 24 days
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (d) work done by P, Q and R in 1 day =4
+work done by P and Q in | day = s
+_—3+2_ 5
+“24 24
+work done by R in | day ot 3
+4 24
+265 1
+"24 24
+Hence R will complete that work in 24 days in alone.
+114, Ashok and Kiran complete a work in 10 hours
+Kiran and Rohan complete the same work in
+15 hours, while Ashok and Rohan complete it
+in 12 hours. How many hours will it take for
+Kiran to do this alone?
+(a) 26 hours (b) 15 hours
+(c) 24 hours (d) 30 hours
+RRB Group-D — 15/11/2018 (Shift-I1)
+Ans: (c) work done by Ashok and Kiran in 1 hour
+ei wei)
+10
+work done by Kiran and Rohan in | hour = ani)
+} YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0023_left.png =====
+work done by Ashok and Rohan in | hour = = wee (iii)
+
+lon adding the equation (i), (ii) and (iii)
+
+work done by 2(Ashok, Kiran, and Rohan) in 1 hour
+
+1 1.1
+= —+—4+—
+10 15 12
+‘work done by Ashok, Kiran and Rohan in | hour
+— 12+8+10_ 30 1
+120x2 240 8
+so 1 hour work of Kiran
+= Added
+"8 12 24 24
+
+So Kiran will take 24 hours to, complete the work.
+
+115. A, B and C can finish a work alone in 8, 9 and
+12 days respectively. C starts working alone
+and after a day B joins him. A also joins them
+three days after the work begins. In how many
+days the entire work will be finished?
+
+7 23
+
+(a) 355 (b) 35
+15 6
+
+4— d) I=
+
+© 43 @ 15
+
+Ans. (c) : According to the question,
+
+Suppose C started work from x day by self.
+x-3 x-l, x
+—+— + =1
+
+8 9 12
+9x —27+8x —8+ 6x =1
+72
+
+23x-35 =72
+
+23x = 72 + 35
+
+23x = 107
+
+107
+x=—
+23
+xaals
+23
+. ps ls
+
+Hence all work will be finish in 453 days
+
+116. A, B and C together can complete a work in 10
+days. A alone can complete the work in 20 days
+and B alone can complete the work in 30 days.
+How many days will C take to complete that
+work alone?
+
+(a) 30 days (b) 20 days
+(c) 10 days (d) 60 days
+RRB Group-D — 25/10/2018 (Shift-I1)
+Ans : (d) 1 day work of A, B and C = a part
+11
+1 day work of A and B = | —+— | part
+20 30
+1 11
+Hence 1 day work of C = —-| —+—
+10 \20 30
+Work & Time 22:
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0023_right.png =====
+1 ( 34+2 ) 6-5_ 1
+=—-| —* |=" =— part
+10 \ 60 60 60
+Hence time taken by C to finishing work alone
+1
+= — = 60d:
+yoo.
+
+117. A and B can complete a work in 28 days, B and
+C can complete the same work in 35 days.
+While C and A can complete the same work in
+42 days. How many days will C take to
+complete this work alone?
+
+(a) 125 (b) 120
+(c) 124 (d) 122
+RRB Group-D — 12/10/2018 (Shift-I
+Ans. (b) : one day work of (A + B) = = part .......(i)
+one day work of (B + C) = = part ....... (ii)
+one day work of (C + A) = ape =i)
+
+on the equation (i) + equation (ii) + equation (iii)
+
+one day work of (A+B+B+C+C+A) = _ + as + i
+
+28 35 42
+one day work of 2(A+B+C) = 15412+10
+420
+
+one day work of (A+B+C) = 2 part ....... (iv)
+
+on subtraction of equation (iv) to equation (i)
+
+one day work of C = 37d = 37-30
+
+840 28 840
+one day work of C = a = a part
+840 120
+
+Hence C will finish all work alone in 120 days.
+
+118. A, B and C together can complete a work in 5
+days. If only A and B worked, then they use to
+take 54 days to complete the work and if only B
+and C worked, they would have taken 90 days
+to complete the work. If B worked alone then
+how many days did he take to complete the
+work?
+
+(a) 145 (b) 125
+(c) 135 (d) 130
+RRB Group-D — 01/10/2018 (Shift-I
+
+Ans. (c) : one day work of (A+B+C) = apart seni)
+
+one day work of (A+B) = yet evee(ii)
+
+one day work of (B+C) = sora we(iii)
+
+from the equation (ii) + equation (iii)
+
+A+B+B+C= es + a
+54 90
+B+(A+B+C)- 41
+54 90
+ns 761 0
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0024_left.png =====
+from the equation (i)
+B= (4 + 4) LL
+54 90) 45
+past3-6_ 2 1 ay
+270. 270135 .
+
+Hence B will take time of 135 days to completing work)
+
+alone.
+
+119. Rathin and Bratin together can do a work in 12
+days. They start working together but Rathin
+has to leave work 5 days before the work ends.
+As a result, it took a total of 15 days to finish
+the work. If Bratin works alone, how many
+days will it take to finish this work?
+
+(a) 30 (b) 28
+(c) 20 (d) 24
+RRB Group-D — 01/10/2018 (Shift-I1T)
+
+Ans : (a) Suppose Rathin finish the work in R days and
+
+Batin in B days.
+
+According to the question,
+
+1,101 .
+and
+eee cei)
+on doing equation (i) x 10 — equation (ii)
+lo 15 _10_,
+B B 12
+-5_-2
+>a
+B 12
+B= 30 day
+
+120. A can do a work in 10 days and B can do the
+same work in 20 days. With the help of C they
+finish the same work in 5 days. In how many
+days will C do the same work alone?
+
+(a) 30 days (b) 20 days
+(c) 25 days (d) 18 days
+RRB NTPC 03.04.2016 Shift : 3
+Ans :(b) Suppose C will do that work in x days alone
+work done by A in 1 day= 7
+5 1
+‘k done by B in 1 day=—
+work done by B in | day 20
+work done by C in 1 day= 1
+x
+According to the question,
+1,1,1.1
+4455
+10 20 x 5
+Alta dt
+x 5 10 20
+1_ 4-2-1
+x 20
+ae
+x 20
+x = 20 days
+Work & Time 220
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0024_right.png =====
+121. A and B can finish a work in 10 days, B and C
+can finish the same work in 15 days and A and
+C can finish the same work in 20 days. In how
+many days can B finish this work alone?
+
+20 24
+a) = b) >
+(a) 7 (b) 7
+120 60
+c) = d=
+(©) 7 @) 7
+RRB NTPC 12.04.2016 Shift : 1
+Ans: (c) work done by (A+B+C) in one day.
+Wiji.1 1 (6+44+3 13
+= |—+—+— | =-x| —— | =—
+2\10 15 20) 2 60 120
+.. one day work of B
+= one day work of (A+B+C) — one day work of (A+C)
+-B ot
+120 20
+_ 13-6
+120
+=
+120
+Pa . 120
+
+Hence B will finish work in 7 days alone.
+
+122. A, Band C can complete a work together in 10
+days. A and B would need 12 days if only the
+two of them worked, while B and C would take
+20 days if only the two of them worked. If B
+worked alone, how many days would she take
+to complete the work?
+
+(a) 30 (b) 22
+(c) 45 (d) 20
+RRB ALP & Tee. (14-08-18 Shift-II)
+Ans: (a) one day work of (A+B+C) -< wee (i)
+
+one day work of (A + B) -5 seeseesseseeee (Ai)
+
+one day work of (B + C) -5 seeseeseeesees (iii)
+
+from equation (ii) + equation (iii)
+
+B+(A+B+C)=444
+12 20
+> petit t {from equation (i)}
+10 12°20 a
+=> petit
+12 20 10
+> B= (=)
+60
+> pet
+60
+1
+> B=—
+30
+Hence B will complete work in 30 days.
+J YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0025_left.png =====
+Type -8
+123. Charlie and Lola can do a piece of work in 20
+days. They worked for 15 days, then Lola left
+the work. Charlie finished the remaining work
+in 12 days. Find out how many days Charlie
+can complete the work alone?
+(a) 32 (b) 5
+({c) 48 (d) 17
+RRB Group-D — 05/11/2018 (Shift-IT
+[Ans : (c) Work done by Charlie and Lola in 15 days.
+pie)
+20 4
+remain work = | ak
+44
+Time taken by Charlie in complete ; of work = 12
+Time taken by Charlie in complete work alone = 4x12
+= 48days
+Type -9
+124. 6 boys and 10 girls can do a job in 25 days.
+How many days will 12 boys and 30 girls take
+to do the same work?
+(a) 10 (b) 5
+(c) 15 (d) 20
+RRB RPF SI — 11/01/2019 (Shift-IT
+Ans: (b)*" 6B=10G
+7 12B=20G
+lwe know that;
+Formula~ M,D; = M2D2
+=> 10G x 25 =(12B + 30G) x D2
+=> 10G x 25 = (20 G + 30G) x D,
+=> 10x 25=50 x Dy
+10x25
+=> D, =——— =5 days
+2 50 ys
+125. If 200 men can build a building in 1024 days
+then how many men will be required to
+construct the same building in 256 days?
+(a) 650 (b) 1200
+(c) 800 (d) 1400
+RRB RPF Constable — 22/01/2019 (Shift-IN)
+Ans : (c) M= male
+formula-M,D, = M2D, D= days
+200 x 1024 = 256 x M2
+M2 = 800
+126. If 200 men, working 8 hours a day, can dig a canal
+in 6 days, then how long will it take for 300 men to
+dig the canal after working 6 hours per day?
+2
+(a) 7 days (b) ary days
+1
+(c) 3 days (d) 6 days
+RRB JE - 23/05/2019 (Shift-I)
+Work & Time 22
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0025_right.png =====
+Ans: (c) given that,
+M, = 200, Hi = 8, D, =6
+M2 = 300, Hp = 6, D. =?
+we know that;
+formula
+M,D,H, = M2D,H2
+200 x 8 x 6 = 300 x 6 x D,
+D,= 16 D =51 di
+230 2-93 ays
+127. Adequate food supplies were arranged for 250
+soldiers for 30 days. If 50 soldiers did not
+participate in the camp, how many more days
+would the food supply last?
+(a) 10 days (b) 9 days
+(c) 12 days (d) 7.5 days
+RRB JE - 24/05/2019 (Shift-I)
+Ans : (d) From the rule of proportion,
+M,D, = M2D,
+250 x 30 = 200 x D,
+-. D2 = 37.5 day
+Hence food items will last more than = 37.5 — 30 = 7.5
+days
+128. 16 women working 7 hours per day to complete
+a work in 48 days. How many women will be
+required to complete the same work in 32 days,
+working 12 hours per day?
+(a) 12 (b) 17
+(c) 14 (d) 10
+RRB JE - 25/05/2019 (Shift-I1)
+Ans: (c) M)H\D; = M2H2D2
+16 x 7 x 48 = My x 12 x32
+M2 = 14
+Hence 14 women will be required to finish work in 32
+days.
+129. If 36 men can do a work in 25 days, then in
+how many days 15 men will do the same work?
+(a) 60 days (b) 50 days
+(c) 56 days (d) 54 days
+RRB JE - 26/05/2019 (Shift-I1)
+Ans: (a)M > male
+D- day
+we know that
+M; D, = M2 x D2
+36 x 25=15xx
+x = 3825 = 60 days
+15
+130. If 9 men and 12 boys can complete a work in 4
+days and 4 men and 16 boys can complete the
+same work in 6 days, then how much time will
+it take for 6 men and 24 boys to complete the
+same work?
+(a) 6 days (b) 7 days
+(c) 4 days (d) 5 days
+RRB JE - 27/05/2019 (Shift-II)
+y YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0026_left.png =====
+Ans: (c)M=male
+B= boys
+(9M + 12B) x 4 = (4M + 16B) x 6
+(9M + 12B) x 2 = (4M + 16B) x 3
+18M + 24 B= 12M + 48B
+18M — 12M = 48B - 24B
+6M =24B
+Bol
+Total work = (9M + 12B) x 4
+=(36+12)x4
+=48 x 4=192
+(6M + 24B) x days = 192
+(24 + 24) x days = 192
+24+24 48
+
+131. 30 people can complete a work in 12 days. How
+long will it take for 40 people to complete the
+same work?
+
+(a) 10 (b) 9
+(c) 6 dd) 8
+RRB Group-D - 03/10/2018 (Shift-IIT)
+Ans : (b) M,D, = M2D2
+30 x 12=40 x D,
+30x12
+Da D2 = 9 days
+
+9 days will be taken by 40 peoples to complete that
+
+work.
+
+132. 45 people can make 40,000 bulbs in 12 days.
+How many additional people will be required
+to hire 100000 bulbs in 9 days?
+
+(a) 100 (b) 105
+(c) 110 (d) 120
+RRB Group-D — 16/10/2018 (Shift-I
+
+Ans. (b) : Let x additional people will be required to}
+
+making 100000 bulbs in 9 days.
+
+formula MD, _ M.D,
+
+Ww, wW,
+M, =45 M, =(45+x)
+D,=12 D,=9
+W, = 40,000 — W, =100,000
+45x12 _ (45+x)x9
+40,000 100,000
+150=45+x
+
+[Hence 105 additional peoples will be required.
+
+133. In a company 12 employees can make 111
+candles in a given time. How many people will
+have to be employed to make 148 candles at the
+same time?
+
+(a) 18 persons (b) 12 persons
+(c) 16 persons (d) 10 persons
+RRB Group-D — 31/10/2018 (Shift-I1)
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0026_right.png =====
+Ans: (c) Formula
+M, _M,
+w, W,
+12M,
+111 148
+M, = 124148 _ 16 Persons
+11
+134, 34 men can do a work in 12 days. How many
+days will 51 men take to do this?
+(a) 10 (b) 5
+(c) 8 (d) 6
+RRB Group-D — 04/10/2018 (Shift-I
+Ans: (c) Suppose work will be completed in x days
+34x 12=S51xx
+x = 8 day
+135. 69 people can complete a work in 6 days. How
+long will it take 23 people to complete the same
+work?
+(a) 15 (b) 10
+(c) 16 (d) 18
+RRB Group-D — 05/10/2018 (Shift-I
+Ans. (d) : Suppose it will take x days to complete work.
+then,
+m)d, = md)
+69x6= 23x x
+69x6
+>x=—_—
+23
+=3x6 =18
+Hence it will take 18 days to complete work of 23
+people.
+136. 63 people can dig a pond in 126 days. In how
+many days can 98 people dig it?
+(a) 77 (b) 80
+(c) 81 (d) 90
+RRB Group-D — 11/12/2018 (Shift-ID)
+Ans : (c) M;D, = M2D2.
+63 x 126 = 98 x D,
+63x126 _ D,
+98
+D,= 63x63 _ 81 days
+‘ 49
+137. If 20 people can complete a work in 25 days
+then how many people will finish that work in
+10 days?
+(a) 45 (b) 6
+(c) 100 (d) 50
+RRB Group-D — 24/10/2018 (Shift-IID)
+Ans. (d) : Given-
+m, = 20 person, d, = 25 days
+d, = 10 days, m) =?
+md, = md,
+20 x 25=10X m
+m; = 50 persons
+Hence 50 persons will complete of work in 10 days.
+3 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0027_left.png =====
+138. If 8 typists typing 6 hours a day, take 15 days to
+type a manuscript of a book, how many days
+will 9 typists typing 8 hours per day take to
+complete the same work?
+
+(a) 10 (b) 9
+() 1 (d) 7
+RRB Group-D — 23/10/2018 (Shift-ID
+
+Ans. (a) : Suppose number of intended days = x day
+
+So, M,D\Hi = M2D2H2
+
+8x 15x 6=9xxx8
+
+15x6 90
+xo
+9 9
+
+x = 10 days
+
+139. A hostel has a stock of 6,190.80 Kg of wheat for
+105 students for 22 days. After 5 days, 14 more
+students come to the hostel. It all the students
+eat the same food, how much remaining wheat
+will be enough for the students?
+
+(a) 15 days (b) 11 days
+(c) 1 days (d) 17 days
+RRB Group-D — 04/10/2018 (Shift-I
+Ans. (a) Suppose remain wheat will be enough for x|
+days.
+M,D, _M,D,
+W, w,
+105x22 _ 105x5 + (105+14)x
+6190.80 6190.80 6190.80
+105 x 22 = 105x 5 + (105 + 14) x
+105 x 22= 105 x 5+ 119x
+2310 = 525 + 119x
+2310 - 525 = 119x
+1785
+——=x
+119
+days
+
+140. If 15 boys earn Rs. 750 in 5 days, then how
+much money 25 boys will earn in 6 days?
+(a) Rs. 1,500 (b) Rs. 960
+(c) Rs. 1,200 (d) Rs. 900
+
+RRB Group-D — 18/09/2018 (Shift-I)
+Ans. (a) M = Male, D = day, W = work
+M,D, _M,D,
+w, OW,
+15x5__ 25x6
+alee”
+750 3 =W,
+w, =25%6%750 = Rs 1500
+‘ 75
+
+141. If2 men or 3 women can complete a work in 30
+days, then in how many days will 6 men and 1
+woman be able to complete the same work?
+
+(a) 4 days (b) 6 days
+(c) 5 days (d) 9 days
+RRB Group-D — 18/09/2018 (Shift-IIl)
+Work & Time 22:
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0027_right.png =====
+Ans. (d) : According to the question,
+(M = Male W = Woman)
+2M x 30 = 3W x 30
+2M = 3W
+IM= 3w
+2
+Total women 6M+1W = 6x5 W+1W =10W
+MD, = M2D,
+3 x 30=10 x D2
+3x30
+-.D, =—— = 9 days
+2 10 y'
+142, 16 men make a model in 35 days. How long will
+it take 25 men to make this model?
+(a) 22.2 (b) 22.1
+(c) 22 (d) 22.4
+RRB NTPC 17.01.2017 Shift-3
+Ans: (d) M; x D) = M2 x Dp
+16 x 35 = 25 x Dy
+p, = 1635 1p =m
+25
+So, It will take 22.4 days for 25 mens to model.
+143. If 5 men can do a work in 9 days, then in how
+many days will 3 men finish the same work?
+(a) 12 (b) 15
+() 13 (d) 18
+RRB NTPC 05.04.2016 Shift-1
+Ans : (b) “My Dy = M; Dz
+2. 5x9 = 3xD,
+=>D, 5X9
+3
+= 15 days
+144. 30 men can do a work in 16 days by working 5
+hours per day. In how many days will 40 men
+complete the same work by working 6 hours
+per day?
+(a) in 12 days (b) in 10 days
+(c) in 15 days (d) in 18 days
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (b) M; = 30 male M2 = 40 male
+H, = 5 hours, Hy = 6 hours
+D,=16 days, D,=?
+p, - MDH
+* MH,
+D,= 30x16x5
+2 40x6
+D, = 10 days
+145. 10 men and 5 women complete a work in 60
+days. If a man can do the work of two women,
+then how much time will 5 men and 20 women
+take to complete half of that work?
+) YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0028_left.png =====
+(a) 25 (b) 36
+(c) 27 (d) 50
+RRB NTPC 18.01.2017 Shift : 1
+Ans: (a) MD, _ MD,
+wo OW,
+According to the question,
+(10M+5W)60 _(5M+20W)xD, wo
+2
+*: IM = 2W (given)
+on putting 1M = 2W in equation (1)
+(10x2W+5W)x60 _ (5x2W+20W)2xD,
+1 7 1
+25Wx 60 = 30W x 2 x Dy
+[D, = 25 days
+146. Girish can paint a picture in 4 days if he works
+for 8 hours per day. So due to illness he can
+work only for 6 hours a day and he has to
+complete 7 other such pictures. How many
+days will Girish take to complete the work?
+(a) 28 (b) 15
+2
+(c) 39 (d) 32
+RRB NTPC 18.01.2017 Shift : 2
+Ans :(b) given-
+M.= 1,M)=1
+D, =4, D. =?
+H = 8, H)=6
+W,=1W2.=7
+According to the question,
+M,D,H, _ M,D,H,
+Ww, Ww,
+1x4x8_1xD,x6
+1 7
+D,= 32x7
+6
+112 1
+D, =—— = 37=days|
+147. Ina factory, 60 workers can sew 120 meters of
+clothes in 7 days, how many long clothes will be
+stitched in 5 days by 70 workers?
+(a) 100m (b) 90m
+(c) 85m (d) 110m
+RRB NTPC 19.04.2016 Shift : 2
+Ans: (a) Given that,
+Mj, = 60 manual worker, D; = 7 days, W; = 120 meter
+M, = 70 manual worker, D, = 5 days, W2 =?
+..M,D, _ M,D,
+Ww, W,
+_ 60x7 _70x5_. 7 _ 350
+einer eine
+120 ~W, 2 W,
+W, = 100 meter
+Work & Time 23
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0028_right.png =====
+148. 12 people can complete a work in X days, now
+8 extra people are employed. The entire work
+was completed in 60 days. Find the value of X.
+(a) 80 (b) 100
+(c) 55 (d) 45
+RRB NTPC 18.04.2016 Shift : 3
+Ans: (b) Given-
+M; = 12 males, D), = x day
+M, = 12 + 8 = 20 males, D, = 60 day
+M.D; = M2D2
+12 x x =20 x 60
+20x60
+x=
+12
+x = 100 days
+149, In a project a team of 54 members can do a
+work in 35 hours. In how many hours can 18
+members do the same work?
+(a) 90 (b) 120
+(c) 105 (d) 110
+RRB NTPC 12.04.2016 Shift : 2
+Ans ; (c) M; = 54 members
+H, = 35 hours
+M) = 18 members
+H,=?
+we know that;
+1, = MixH
+M,
+_ 54x35
+18
+= 105 hours
+150. If 18 men construct a model of a ship in 7 days,
+then how much time will it take to prepare this
+model by 15 men?
+(a) 87 (b) 8.5
+(c) 84 (d) 43/5
+RRB NTPC 19.01.2017 Shift : 3
+Ans: (c)M,;D, = M2D2
+=> 18x7=15*D,
+D,= 126 _ 84
+15
+151. A piece of work can be done by 16 men in 8
+days working 12 hours a day. How many men
+are needed to complete another work, which is
+three times the first one, in 24 days working 8
+hours a day ?
+(a) 22 male (b) 23 male
+(c) 25 male (d) 24 male
+RRB ALP & Tec. (17-08-18 Shift-I
+Ans : (d) Suppose to finish the work x men are required
+m,h,d, _ m,h,d,
+Ww Wo
+According to the question,
+16x8x12_ xx8x24
+1 3
+x=24
+So number of intended persons = 24 males
+) YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0029_left.png =====
+Type - 10
+152. P and Q can do any work separately in 8 and
+16 days respectively. They worked together
+and got the job done when the work is done,
+what is the ratio of the work done by P and Q
+(a) 2:5 (b) 3:2
+(c) 2:1 (d) 2:3
+RRB JE - 23/05/2019 (Shift-II.
+Ans: (c)
+day total work work ability
+Work of A - Sac
+Work of B - 16 2
+2 A:B=4:2=2:1
+153. 20 women can do in 16 days same work
+completed by 16 men in 15 days. Find the ratio
+of capacity of a man to a woman.
+(a) 5:6 (b) 3:4
+(c) 6:7 (d) 4:3
+RRB JE - 26/05/2019 (Shift-IIT.
+(Ans: (d) «- M;D;=M)D,
+20W x 16 = 16M x 15
+IM __ 20x16 _ 4
+IW 16x15 3
+M:W=4:3
+154. 6 men and 2 boys can do five times more work
+than a man. Find the ratio of work capacity of
+a man to that of a boy.
+(a) 3:1 (b) 4:1
+() 1:3 (d) 3:2
+RRB JE - 27/05/2019 (Shift-I
+Ans : (a) According to the question,
+(6M + 2B) = (1M + 1B) 5 {where M—> male B— boy}
+6M + 2B =5M+5B
+IM=3B
+M:B=3:1
+155. If 4 boys and 6 girls can do a work in 8 days
+and 3 boys and 7 girls can do it in 10 days. Find
+the ratio of work capacity of a boy to a girl.
+(a) 5:12 (b) 11:1
+(c) 12:5 (d) 1:11
+RRB JE - 27/05/2019 (Shift-I11.
+Ans : (b) According to the question,
+(4 boys + 6 girls) 8 = (3 boys + 7 girls) 10
+32 boys + 48 girls = 30 boys + 70 girls
+2 boys = 22 girls
+Dboys 2? ia
+Igirls 2 1
+156. If 6 men and 8 boys can complete a work in 10
+days and 26 men and 48 boys can do it in 2
+days, then find the ratio of the capacity of a
+man to the capacity of a boy.
+(a) 4:3 (b) 2:1
+Work & Time 23)
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0029_right.png =====
+(c) 6:5 (d) 352
+RRB JE - 28/05/2019 (Shift-I1)
+Ans : (b) Formula- M;D, = M2D
+(6 males + 8 boys)10 = (26 males + 48 boys)2
+60 males + 80 boys = 52 males + 96 boys
+60 males — 52 males = 96 boys — 80 boys
+8 males = 16 boys
+males _16_2
+boys 8 1
+male : boys = 2:1
+157. If 12 men and 6 boys can do a work in 4 days
+and 4 men and 14 boys can do the same work
+in 8 days, then find the ratio of the capacity of a
+man and a boy.
+(a) 2:11 (b) 11:2
+(©) 3:7 (d) 2:5
+RRB RPF Constable — 24/01/2019 (Shift-II1)
+Ans. (b) According to question, (M = male B = boys)
+(12M+6B)x4=(4M+14B)x8
+12M+6B=8M+28B
+4M=22B
+2M=11B
+M:B=11:2
+158. P can do 2/5 part of a work in 10 days. If P and
+Q can do 1/3 part of the same work in 5 days,
+find the ratio of their work capacity.
+(a) 3:4 (b) 4:3
+(c) 3:2 (d) 2:3
+RRB JE - 27/06/2019 (Shift-II.
+Ans : (c) P, 2/5 work = 10 day
+then P will complete work = 10x = 25 day
+from the question-
+(P+ Q)5 _ Px25 .. MD, _M,D,
+I 1 “Ww W,
+3
+15P + 15Q=25P
+15 Q=10P
+Bois
+Q 10
+Pl3
+Q 2
+ratio of work ability = 3:2
+159. In a village Under Mission Kakatiya, 38 men
+working 6 hours a day can do a piece of work
+in 12 days. Find the number of days in which
+57 men working in 8 hours a day can do twice
+the work. Assume that 2 men of the first group
+do as much work in 1 hours as 3 men of the
+second group do in 1 1s .
+(a) 27 days (b) 28 days
+(c) 24 days (d) 32 days
+RRB Group-D — 12/10/2018 (Shift-III)
+[ YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0030_left.png =====
+Ans: (a) Work ability ratio of both group of males
+=3x1t-ax1 a2: =9:4
+2 2
+formula
+M,D\H,P, _ M,D,H,P,
+Ww, W,
+38x12x6x9 _57xD,x8x4
+1 2
+D, = 27 days
+Therefore, In 27 days 57 males can do work doubled to
+8 hours work
+160. The working efficiency ratio of P and Q is 5:7
+find the ratio of days taken by them to finish a
+work,
+(a) 7:5 (b) 3:4
+(ce) 43 (d) 5:7
+RRB NTPC 06.04.2016 Shift : 2
+Ans : (a) Working ratio of P and Q = 5:7
+ratio of days = L : L *y time a
+57 efficiency
+=7:5
+161. Adil and Viren together can complete a task in
+20 days. Biren and Chirag together can
+complete the same task in 50 days. Adil and
+Chirag together can complete the same task in
+40 days. If the same task was to be done by
+them alone, what would be the ratio of time
+taken by Adil alone to taken by Viren?
+(a) 11:9 (b) 11:3
+(c) 7:9 (d) 9:11
+RRB NTPC 28.04.2016 Shift : 2
+Ans: (d)
+one day work of (Adil + Viren) = sR ween)
+one day work of (Viren + Chirag) = 7 part ......(ii)
+one day work of (Adil + Chirag) = arate sees (iii)
+on adding of equation (i), (ii) and (iii)
+one day work of 2(Adil + Viren + Chirag)
+11,1
+=—4+—4+—
+20 50 40
+10+4+5_ 19
+=———— = =— part
+200 200
+- 19 1
+.. one day work of Adil =——-—
+400 50
+= 19-81
+400 400
+ern 400
+.. Adil time taken alone to complete work = TT days
+- 19 1
+now | day work of Viren = —~-—
+400 40
+Work & Time 23:
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0030_right.png =====
+_19-10_ 9
+~ 400 400
+.. Time taken by Viren to complete work
+= 400 days
+9
+.. initended ratio= 400 : 400 _ 9:11
+ll 9
+
+162. A and B together can do a work in 40 days. The
+ratio of their working rate is 8:5 In how many
+days will A alone complete the same work.
+
+(a) 65 days (b) 40 days
+(c) 72 days (d) 104 days
+RRB NTPC 02.04.2016 Shift : 1
+RRB NTPC 29.04.2016 Shift : 3
+Ans : (a) Let A and B complete work separately in 5x
+and 8x days
+.. work done by both in 1 day = z part
+According to the question,
+1 1 1
+— 4+ =
+5x 8x 40
+131
+40x 40
+x=13
+-.A will complete that work alone in 65 days.
+
+163. P can finish a work in 60 days and Q can finish
+the same work in 50 days. Find the ratio of the
+working capacities of P and Q.
+
+(a) 1/3 (b) 6/5
+(c) 5/6 (d) 4/5
+RRB NTPC 19.04.2016 Shift : 2
+Ans: (c) work ability cc
+time
+work ability of P = i
+60
+oye 1
+work ability of Q = 50
+1
+So work's ability ratio of P and Q = 0
+50
+_50 5
+60" 6
+
+164. Five women can do a work in thirty six days. If
+the ratio between the capacity of a man and a
+woman is 3:1, then find how many days it will
+take 5 men to complete the same work?
+
+(a) 12 days (b) 15 days
+(c) 18 days (d) 108 days
+RRB NTPC 18.04.2016 Shift : 1
+J YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0031_left.png =====
+Ans : (a) Given-
+man women
+working ability 3 : 1
+fe work ability o }
+time
+-. time = 1 : 3
+*.* 5 women does works in 36 days.
+©. time taken by 5 man in doing work = 36x~
+3
+= 12 days
+165. Carpenters A and B work together then they
+can complete a work in 10 days. Carpenter A is
+twice faster than carpenter B. If carpenter B
+works alone, how long will he take to complete
+this work?
+(a) 30 (b) 15
+(c) 20 (d) 10
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (a) Ability ratio of carpenter A and carpenter
+B= 2:1
+.. time ratio= 1: 2
+According to the question,
+1,1 1 A 1
+—+—=— time = ——_
+x 2x 10 ability
+=> 24d
+2x 10
+341
+2x 10
+2x =30
+x=15
+taken day by A = x = 15 day
+taken day by B = 2x = 15 x 2= 30 day
+166. Together Rahul and Raghav can pluck 260
+flowers in 1 hour. Their flower breaking
+abilities are in the ration of 8:5 Find the
+number of flowers to be plucked by Raghav.
+(a) 100 (b) 130
+(c) 78 (d) 80
+RRB NTPC 30.04.2016 Shift : 1
+Ans : (a) Ability ratio of Rahul and Raghav = 8:5
+Number of plucking flowers by Raghav
+= 260x—> =100
+13
+Type-8
+167. 2/5 of a set of notebooks are sold on the first
+day. 3/4 of the remaining were sold on the
+second day. If there are still 75 notebooks left,
+how many notebook were kept for sale.
+(a) 1000 (b) 500
+(c) 250 (d) 750
+RRB RPF SI — 16/01/2019 (Shift-II)
+Work & Time 23.
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0031_right.png =====
+Ans. (b) Let total notebook were kept 100 for sell
+According to the question,
+sold notebook in first day = 100 x : =40
+left notebook = 100-40 = 60
+sold notebook in second day = 603 =45
+left notebook = 100 - (40 + 45)
+75 = 100-85 =15
+15=75
+100= B10 = 500
+15
+Hence number of total notebooks = 500
+168. Amit packs 20 chocolates in 40 minutes.
+Guneet packs 30 chocolates in 45 minutes. How
+much chocolate can both pack together in 1
+hours?
+(a) 60 (b) 80
+(c) 90 (d) 70
+RRB Group-D — 11/10/2018 (Shift-II)
+Ans : (d) Packed chocolates number by Amit in 1
+minute = ce
+40 2
+packed chocolates number by guneet in 1 minute
+=30_2
+45 3
+packed chocolate by Amit and Guneet in 1 minute
+1.2.7
+sols +
+23 6
+packed chocolate's number in 1 hours or 60 minutes
+=2x60=70
+6
+169. If 2 minutes 30 second of internet download bill
+is 18 rupees, then what will be the bill of 3
+minutes 20 seconds? (up to one decimal place)
+(a) 24 (b) 24.1
+(c) 24.2 (d) 23.9
+RRB NTPC 11.04.2016 Shift : 3
+Ans: (a)
+2 minute 30 sec = 150 seconds bill = 18
+«3 minute 20 sec = 200 seconds bill —
+=Rs. 24
+170. The bill for a satellite airtime for 2 minute 30
+seconds is Rs. 25, then what will be the price of
+3 minutes 20 seconds in rupess? (up to one
+decimal place)
+(a) 33.3 (b) 33.2
+(c) 33.4 (d) 33.1
+RRB NTPC 07.04.2016 Shift : 1
+3 YCT
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0032_left.png =====
+Ans: (a)2 minute 30 second or (120 + 30) second's
+bill = Rs. 25
+1 second's bill = 25 1
+150 6
+then
+3 minute 20 second = 180 + 20 = 200 second
+200 second's bill = 2x200 = we = 33.33
+171. The fax bill for 3 minutes 40 seconds is Rs. 15
+what will be the bill for 2 minutes 10 seconds?
+(up to one decimal place)
+(a) 89 (b) 87
+(c) 8.6 (d) 88
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (d)3 minutes 40 seconds = 3 x 60+ 40
+= 220 seconds
+2 minutes 10 seconds = 2 x 60+ 10
+= 130 seconds
++220 second's fax bill = Rs. 15
+-. 130 second's fax bill = aoe 130
+220
+ica Rs. 8.8
+22
+172. The bill for 3 minutes 20 seconds telephonic
+conversation is Rs. 35.50. What is the bill for a
+call of 5 minutes and 30 seconds? (rounded to
+one decimal place)
+(a) 58.6 (b) 58.7
+(c) 58.5 (d) 588
+RRB NTPC 19.01.2017 Shift : 3
+Ans : (a) Telephone converstation's bill in 3 minute 20)
+second
+10.
+=F minute = Rs. 35.50
+telephone conversation's bill in 1 minute = aoe
+telephone conversation's bill in 5 minute 30 second
+= 35.50x3 1
+10 2
+= 58.575 = Rs. 58.6
+173. The bill is 13 rupees for 5 minutes 40 seconds
+of satellite airtime. How much is the bill for 2
+minutes 40 seconds? (to one decimal place)
+(a) 6.1 (b) 6
+(c) 6.2 (dd) 63
+RRB NTPC 26.04.2016 Shift : 2
+Ans: (a) 5 minutes 40 seconds
+=5x60+40 = 340 seconds
+340 second's bill = 13 Rs.
+ree ©)
+1 second's bill 340
+2 minutes 40 seconds (120 + 40 = 160 second's) bill
+= X16 Rs. 6.1
+340
+Work & Time 23.
+
+
+===== Part 11 — Work & Time (pp. 202–234)_page-0032_right.png =====
+174. A school canteen buys 3200 kg of pulses which
+will be enough to provide 20 days nutrition to
+1200 children. 6 days later 180 children went
+on a month long journey. How many more
+days of pulses will be enough for the remaining
+children?
+(a) 14 (b) 16.5
+(c) 12.6 (d) 17.2
+RRB NTPC 28.04.2016 Shift : 1
+Ans :(b) Let pulses for the nutrition of the remaining
+children is sufficient for x days.
+According to the question,
+120014 = (1200-180)xx
+=> 1200x14 = 1020xx
+>x = 16800 or
+1020
+x =16.47 16.5 day
+175. Rekha reads 15 pages in 25 minutes. How
+many pages will she read in 45 minutes?
+(a) 30 (b) 27
+(c) 25 (d) 35
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (b)
+number of pages read by Rekha in 25 minute =15
+-. number of pages read by Rekha in 45 minute}
+25
+176. Type 1 workers are 2.5 times as efficient as
+Type 2 workers. Twelve Type 1 workers can
+complete a task in 10 days. How many days
+would it have taken 4 Type 1 and 15 Type 2
+workers to do the same work?
+(a) 13 (b) 10
+(c) 12 (d) 11
+RRB ALP & Tec. (21-08-18 Shift-II)
+Ans: (c) Let it will take x days to complete work
+According to the question,
+10x 12-(4+35 ex
+2.5
+10x 12= CSS) xX
+25
+2.5 x 10 x 12=25xx
+25 x 12=25xx
+x=12
+Hence it will take 12 days to complete work.
+} YCT

@@ -1,0 +1,2709 @@
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0001_left.png =====
+26.
+——————————
+Type -1
+1. If the angles of the triangle are in the ratio
+1:2:3, then what is the smallest angle?
+(a) 40° (b) 25°
+(c) 15° (d) 30°
+RRB RPF Constable — 17/01/2019 (Shift-I)
+Ans : (d) Let angles of triangle are x, 2x, 3x then—
+sum of three angles of triangle = 180°
+x + 2x + 3x = 180°
+6x= 180°
+So smallest angle will be 30°
+2. If one side of an equilateral triangle is 6 3 cm,
+then what is its hight?
+(a) 9cm (b) 6cm
+(©) 3em @) 3V3 cm
+RRB RPF SI — 13/01/2019 (Shift-II)
+Ans : (a) Side of equilateral triangle = 6 V3
+A
+63 : . 68
+B33 C 33 D
+in triangle ABC -
+(ACP =(AB)’- (BC?
+= (6V3) -(3V3) = 108-27
+(ACY =81
+height = 9 cm
+3. The midpoints of the sides of an equilateral
+triangle PQR are X, Y and Z. If the
+circumference of triangle PQR is 24 cm, then
+what will be the circumference of traingle
+XYZ?
+(a) 96cm (b) 36cm
+(c) 12cm (d) 48cm
+RRB RPF Constable — 22/01/2019 (Shift-II)
+Ans: (c) According to the question-
+PQ+QR+PR=24cm
+Geometry 54:
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0001_right.png =====
+a
+Pp
+AX
+R Y Q
+In a triangle, the line joining the midpoints of two sides
+is parallel and half of the third side.
+ZX= ; QR sue (i)
+1
+XY=— PR cone
+3 (ii)
+ZY= ; PQ wei)
+Adding the equation (i), (ii) and (iii)
+ZX+XY+ZY= ; (QR +PQ+PR)
+1 24 =12cm
+2
+So circumference of AXYZ = 12 cm
+4, AABC, and APQR are similar and their
+perimeters are 36 and 24 respectively. If PQ =
+10 then find the value of AB.
+(a) 15 (b) 16
+(c) 20 (d) 18
+RRB JE - 26/06/2019 (Shift-I
+Ans: (a)
+A P
+ZL. /™.
+BS AABC ~ APQR
+. Perimeter of AABC _ AB
+“ Perimeter of APQR PQ
+36_AB
+24 10
+AB = 30 215
+24
+5. In AABC, the points D and E are on the sides
+AB and AC respectively such that DE l| BC
+and AD : DB =3: 1. If EA = 3.3 cm, find the
+value of AC.
+(a) 55cm (b) 4cm
+(c) 44cm (d) l.lem
+RRB RPF Constable — 25/01/2019 (Shift-I)
+3 YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0002_left.png =====
+Ans : (c) A
+from the thale'ss theorem-
+AD _ AE 3 33
+AB EC
+3_33 y, e
+=o 1 x
+1 EC B c
+IEC = 1.1
+AC = AE+ EC =3.3+1.1=44
+6. If acute angle of a right triangle is 55°, what |
+will be the value of the other acute angle?
+(a) 25° (b) 30°
+(c) 40° (d) 35°
+RRB Group-D — 12/10/2018 (Shift-I11)
+Ans : (d)
+A
+Ba A C
+Sum total of angles of triangle is 180
+180° = ZA+ZB+ZC
+180'= ZA + 90° + 55°
+180-145" = ZA
+ZA=35°
+7. ABC is a right triangle whose angle A is right
+angle. Which side needs to bisect for the
+formation of two other right-angled triangles?
+(a) AB (b) CA
+(c) at the center (d) BC
+RRB Group-D — 20/09/2018 (Shift-I
+Ans. @e
+On bisecting of side BC—
+A B
+Right Triangle = A ADB, A ADC
+[ABC is right triangle which angle A right angle, for the}
+formation of two other right triangle, side BC will be}
+bisected.
+8. Which of the following are sides of a right
+angled triangle?
+(a) 84 cm, 13 cm, 85 cm
+(b) 84 cm, 63 cm, 115 cm
+Geometry 54:
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0002_right.png =====
+(c) 15 cm, 112 cm, 111 cm
+(d) 76 cm, 100 cm, 57 cm
+RRB Group-D — 25/09/2018 (Shift-II1)
+Ans. (a) : from pythagoras theorem
+In right triangle, the square of hypotenuse is equal to the|
+square of other two sides.
+1 (85 = (13) + (84)
+7225 = 169 + 7056
+7225 = 7225
+Sides of right angle A will be 85, 84 and 13
+. In the diagram M is mid point of YZ >» ZXMZ
+= 32° and ZXYZ= 1¢. The value of ZXZY is—
+¥ Z1\
+M Z
+(a) 84° (b) 81°
+(c) 74° (d) 68°
+RRB Group-D — 27/09/2018 (Shift-I
+Xx
+Ans. (c) o,
+167
+«1482
+=<) 16 LT)
+Y
+M Zz
+ZXMY = 180° - 32° = 148°
+Then ZYXM =180-(148 +16) =16°
+So ZMXZ=90-16=74°
+Then ZXZY =180-(32 +74) = 74°
+10. Two adjacent sides of a right angled triangle
+are 1.5 cm and 2 cm long. The area of its
+circumcircle will be—
+(a) 1.75n cm (b) 1.25% cm?
+(c) 1.5625 cm? (@) 1.5ncm?
+RRB Group-D — 18/09/2018 (Shift-II1
+Ans. (c) :
+A
+1.5cm
+B Cc
+2.0 cm
+(hypotenuse)’ = (base) + (parpendicular)*
+(acy =(1.5)' +(2)°
+(AC)? =2.25+4
+(AC) =6.25
+root = V6.25 =2.5cm
++: The radius of circum circle is half of hypotenuse.
+AC _2.5_5
+R=—=> ==
+2 2 4
+} YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0003_left.png =====
+area of circum circle = —R?
+2
+= (3) xn
+4
+25
+=—xn
+16
+=1.5625n cm?
+
+11. ABC is a right angled triangle in which ZA =
+90°, AB = 6 cm and AC = 8 cm. What will be
+perimeter of a circle whose centre O is inside
+the triangle?
+
+(a) 457 (b) 3x
+(c) 3.5n (d) 4x
+RRB Group-D — 26/10/2018 (Shift-III)
+Ans: (d)
+C
+10cm
+8cm
+A 6cm B
+area of triangle = ox 6x8 = 24cm?
+guatbte - 8+6+10 -2
+2 2
+f triangle(A
+radius of incircle (r) = __atea of trangle(A)
+Semiperimeter of triangle(S)
+A_ 24
+—
+Ss 12
+Perimeter of circle = 2zr
+=2xmx2
+=4n
+
+12. In triangle ABC, the points D and E lie on the
+sides AB and AC respectively. DE is parallel to
+the base BC. O is the intersection point of BE
+and CD. If AD : DB = 4:3, find the ratio of DO
+and DC.
+
+(a) 4:11 (b) 3:7
+
+(c) 5:12 (d) 5:7
+
+RRB Paramedical Exam — 20/07/2018 (Shift-IID
+Ans : (a)
+
+A
+D E
+PAX
+B Cc
+
+Geometry 54:
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0003_right.png =====
+DE || BC
+“. A ADE ~ A ABC
+AD _DE
+AB BC
+aay (- AB= AD+DB=4+3=7)
+7 BC
+from ADOE and ABOC
+ZODE = Z OCB (Alternate interior angle)
+ZOED = ZOBC (Alternate interior angle)
+ZDOE = ZBOC (Vertically opposite angle)
+“ A DOE ~ A COB
+DO_DE
+So =
+co CB
+paid
+co 7
+co 7
+or —+1l=—+1
+DO 4
+pe_u
+DO 4
+or DO:DC=4: 11
+13. Triangle ABC is similar to triangle PQR. If AB
+= 5 cm and PQ = 3 cm, then find the value of
+ar(AABC)
+ar(APQR) "
+9 3
+2 b) =
+(a) 25 (b) 5
+5 25
+7 d) 2
+(©) 3 (d) 9
+RRB Group-D — 19/09/2018 (Shift-II1
+Ans. (d) : AABC = APQR.
+AB =S5cm, PQ=3cm
+A P
+B Cc Q R
+The ratio of area of two similar triangles is equal to the|
+ratio of their corresponding sides
+area(AABC) _ ( 5 J _25
+area(APQR) \3 9
+14. The lengths of the three sides of a triangle are 8
+cm, 13 cm and 15 cm respectively. What will be
+the ratio of their altitudes?
+(a) 195: 120: 104 (b) 15:13:8
+(c) 28:23:21 (d) 104: 195: 120
+RRB Group-D — 22/10/2018 (Shift-II1
+Ans: (a)
+A
+/ ; 13
+B Cc
+15
+5 YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0004_left.png =====
+Ratio of altitudes
+aid
+81315
+= 15x13 :8x 15:13 x8
+= 195: 120: 104
+15. In triangle ABC, point M is on side AB and
+point N is on side AC such that BMNC
+becomes a trapezium. The ratio of side MN and
+side BC is 7:9. Find the ratio of the area of
+triangle AMN and the area of trapezium
+BMNC.
+(a) 7:9 (b) 32:49
+(c) 49:32 (d) 49:81
+RRB Group-D — 11/12/2018 (Shift-IT.
+Ans : (c)
+© A
+a
+Bi Cc
+*: BMNC is a trapezium
+“. MN|| BC
+«. AAMN ~ AABC
+go ateaof AAMN _ (Sy- (2) _ 49
+area of AABC BC 9 81
+. areaofAAMN _ 49 _ 49
+“areaof ABMNC 81-49 32
+16. The acute angle of a right angled triangle is
+62°. Find the value of the second acute angle.
+(a) 38° (b) 28°
+(c) 45° (d) 36°
+RRB Group-D — 15/10/2018 (Shift-I1T.
+Ans. (b) : Given right angle triangle
+A
+AN
+B Cc
+ZB=90°
+ZC =62°
+ZA=?
+Sum of interior angles of triangle is 180°
+ZA =180°—(90° + 62°)
+= 180°—152° = 28°
+17. If 8, p and 17 are pythagoras triplet, then the
+value of p will be-
+(a) 15 (b) 9
+(c) 14 @ 13
+RRB Group-D — 01/10/2018 (Shift-I)
+Geometry 54
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0004_right.png =====
+Ans. (a) : According to the question,
+8, p and 17 is Pythagoras triplet
+then p=?
+from the figure,
+A
+B 2 P c 2 2
+(hypotenuse)° = (Perpendicular)” + (base)
+(17) = (8 +(PY
+289 =64+(p)”
+289-64 =(p)”
+225 =p?
+
+18. The area of a triangle ABC is 63 square unit.
+Two parallel lines DE, FG are drawn such that
+it divides AB and AC into three equal parts.
+What is the area of quadrilateral DEFG?
+
+(a) 28 Square unit (b) 35 Square unit
+(c) 21 Square unit (d) 48 Square unit
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (c) insimilar A ADE and ABC-
+area of AADE _( AD)
+area of AABC \ AB
+area of AADE _( AD ?
+63 3AD
+area of A ADE =7 square unit
+A
+D E
+F G
+B Cc
+> AAFG = A ABC
+. are of AAFG _( AF Y
+~ area of AABC_ (AB
+_, area of AAFG _(2AD)"
+63 3AD
+
+> area of A AFG = $463 = 28 Square unit
+
+o area of A DEFG = AAFG - A ADE
+
+=28-—7=21 Square unit
+
+19. If AABC and ADEF are similar triangles, in
+which BC = 4 cm, EF = 7 em and the area of
+AABC is 144 square cm, then find the area of
+ADEF.
+
+J YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0005_left.png =====
+(a) 252 Square cm (b) 504 Square cm
+(c) 441 Square cm (d) 324 Square cm
+RRB NTPC 02.04.2016 Shift : 1
+Ans : (c)
+vA LZ)
+Cc B F E
++s AABC ~ ADEF
+_ area of AABC _(BC)’
+“area of ADEF \ EF
+144 (4)
+area of ADEF (7
+area of ADEF = “se = 441 Square cm
+20.
+H I
+G F
+D E
+Cc
+HI, GF and DE are parallel lines, If DG = 6,
+GH = 4 and FI = 8, then EF =?
+(a) 8 (b) 9
+(c) 12 (d) 16
+RRB NTPC 31.03.2016 Shift : 1
+Ans : (c)
+H T
+4 8
+G F
+6 x
+D' E
+c
+from the thales's theorem
+in ACGF,
+Let EF=x
+cD _cE
+GD EF
+or cp = GD Al)
+CE EF
+again in ACHI,
+cD _cE
+DH EI
+CD_DH
+CE EL
+.. from the equation (1) and (2)
+GD _DH
+EF EL
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0005_right.png =====
+6 6+4
+x x+8
+10x = 6x + 48
+4x= 48
+x=12
+EF= 12
+21. If the ratio of the angles of a triangle is 1:2:3,
+find the value of the largest angle?
+(a) 30° (b) 60°
+(c) 90° (4) 120°
+RRB NTPC 19.04.2016 Shift : 1
+Ans : (c) If angles of triangle are x, 2x and 3x
+respectively
+Then x + 2x + 3x = 180°
+6x = 180°
+x= 30°
+~. largest angle = 3x = 3x30 = 90°
+22. If AABC =AXYZ and angle BAC = 55°, then
+angle ZXY =?
+(a) 65° (b) 135°
+(c) 55° (d) 67.5°
+RRB ALP & Tec. (31-08-18 Shift-I)
+Ans : (c) given— ZBAC = 55°
+AABC = AXYZ
+So from congruence rules—
+A x
+A
+B Cc ZZ \,
+ZA= ZX
+or ZBAC = ZZXY
+55°= ZZXY
+23. In AABC, AB = 10 cm. BD = 6 cm and DC =7.5
+em. ZA is bisected internally to intersect BC at
+D. What is the length of CA?
+(a) 12cm (b) 10cm
+(c) 10.5cm (d) 12.5cm
+RRB ALP & Tec. (30-08-18 Shift-II)
+Ans : (d) according to the — in AABC
+Va \
+BOT DTS
+AADB = AADC
+By the law of similarty,
+AB_ AC
+DB DC
+10_ AC aca lox7s
+6 75 6
+AC = 12.5 cm
+y YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0006_left.png =====
+24. In AABC, AB = 8 cm. The bisector of ZA is
+internally meets on BC at D. and BD = 6 cm
+and DC = 7.5 cm. What will be the value of
+CA?
+
+(a) 10.5cm (b) 12.5cm
+(c) 12cm (d) 10cm
+RRB ALP & Tec. (10-08-18 Shift-IIT)
+Ans : (d)
+A
+, \
+8/ \
+/ | \
+Cc
+B 6 R75
+from the interior angle Bisector theorem—
+AB _ AC
+BD CD
+cameo
+6 75
+8x7.5
+Ac=—>
+6
+AC=10cm
+
+25. In AABC, D and E are points on AB and AC
+respectively in which DE is parallel to BC. If
+AD =2 cm, BD =3 cm then what is the value of
+ar(AADE) ,
+ar(AABC) —
+
+16 4
+pad b) =
+(a) 31 (b) 9
+4 2
+= d) =
+(©) 35 (d) 3
+RRB Group-D — 22/09/2018 (Shift-II)
+Ans. (c) : AABC in
+*: DE//BC .. AADE ~ AABC
+AD=2cm
+BD=3cm
+E
+3
+C
+in similar AADE and AABC
+ar(AADE) _ AD?
+ar(AABC) AB?
+~_2F 4
+(2+3" 25
+Geometry 54!
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0006_right.png =====
+26. All four angles of a quadrilateral are the same.
+Find their values?
+(a) 110° (b) 80°
+(c) 75° (d) 90°
+RRB Group-D — 09/10/2018 (Shift-I)
+RRB RPF SI — 12/01/2019 (Shift-I)
+Ans. (d) : Sum of four angles of quadrilateral = 360°
+o
+.. each angle = 7 =90°
+27. The diagonals of a quadrilateral are inclined
+25° on one side of the quadrilateral. The acute
+angle to be drawn between the diagonals will
+be-
+(a) 40° (b) 50°
+(c) 55° (d) 25°
+RRB Group-D — 24/09/2018 (Shift-I)
+Ans: (b)
+D C.
+wy manufactor angle
+Ls between diagenal
+A Le > B
+in AAOB
+ZA+ ZB+ ZO= 180°
+25° + 25° + ZO = 180°
+obtuse angle (ZO) = 180°-50° = 130°
+acute angle (ZCOB) = 180°-130°
+=50°
+So acute angle formed between diagonals will be 50°
+28. The ratio of four angles of a quadrilateral is
+3:4:5:6. What will be the value of smallest
+angle?
+(a) 49° (b) 60°
+(c) 45° (d) 36°
+RRB Group-D — 05/10/2018 (Shift-1
+Ans. (b) : Let four interior angles of quadrilateral are|
+3x, 4x, 5x, 6x respectively
+Sum of four interior angles of quadrilater al = 360°
+3x+4x+5xt6x= 360°
+18x= 360°
+x= 20°
+So smallest angle = 3x20
+= 60°
+29. The values of two adjacent angles of a
+quadrilateral are 125° and 35° and the other
+two angles are equal. Find the value of equal
+angles.
+(a) 90° (b) 100°
+(c) 135° (d) 80°
+RRB Group-D — 22/10/2018 (Shift-II)
+3 YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0007_left.png =====
+Ans : (b) «- Sum of all interior angles of quadrilatiral
+= 360°
+Two angles of quadrilaterals are equal
+let each of them = x°
+a 125° + 35° + x° + x° = 360°
+2x° = 360° — 160
+x° = 100
+30. What is the radius of a circle formed inside a
+triangle with sides 9 cm, 40 cm and 41 cm?
+(a) 35cm (b) 3cm .
+(c) 25cm (d) 4cm
+RRB Group-D — 03/12/2018 (Shift-ID)
+Ans : (d) A right-angled triangle is formed from the
+sides of the measure of 9 cm, 40 cm and 41 cm.
+B 40cm
+Then area of A= 2 x9%40 .
+= 180cm?
+Semi perimeter (s) = $[40 +4149]
+=45 cm
+So radius of in circle (r) = A_ 180 _ 4cm
+s_ 45
+31. In the given figure ZBAD = 30°, ZDBC = 60° If
+the length of ABis 18 cm, find the length of
+BC-
+B
+’ N.
+/ | ye }
+’
+7
+D
+(a) 7.5cem (b) 4.5em
+(©) 9cm (d) 6cm
+RRB Group-D — 12/12/2018 (Shift-I
+Ans. (b)
+B
+fo 460°
+/ | ye
+/ -
+80
+30°
+D
+from AABD,
+AB___BD
+sin90°__sin30°
+pp =48 18
+2 2
+Geometry 54!
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0007_right.png =====
+BD=9cm
++: from ABDC,
+BD _ BC
+sin90°  sin30°
+pc=1xpp=1x9
+2 2
+BC=4.5 cm
+32. The value of each of the three acute angles of a
+quadrilateral is 82°. Find the value of the
+fourth angle.
+(a) 125° (b) 114°
+(c) 120° (d) 100°
+RRB Group-D — 25/10/2018 (Shift-I1)
+Ans: (b) Let value of fourth angle = x°
++: Sum of four interior angles of quadrilateral = 360°
+an x + 82° + 82° + 82° = 360°
+x = 360° - 246° = 114°
+33. Three angles of a quadrilateral are same, and
+the value of the fourth angle is 150°. What is
+the value of each of the same angles?
+(a) 75° (b) 90°
+(c) 80° (d) 70°
+RRB Group-D — 08/10/2018 (Shift-I)
+Ans. (d) : Sum of four angles of quadrilateral is 360°
+given-
+fourth angle = 150°
+Sum of other three angles = 360°-150° = 210°
+So value of each angle = x =70°
+34, What is the value of a?
+aw
+KA Neo/
+(a) 65° (b) 75°
+(c) 105° (d) 115°
+RRB NTPC 29.03.2016 Shift : 3
+Ans: (d)
+OY B Nao
+nn ¢
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0008_left.png =====
+ZABC = 75° (opposite angle)
+ZACB = 40° (opposite angle)
+.«. ZBAC = 180° — (75° + 40°)
+= 180° — 115° = 65°
+but ZBAC + a= 180° (angle of Linear pair)
+a= 180°-65°= 115°
+35. The value of each of the two angles of a
+quadrilateral is 65°. The other two angles are
+also equal. Find the value of these angles.
+(a) 100° (b) 115°
+(©) 125° (d) 105° .
+RRB Group-D — 03/10/2018 (Shift-II)
+Ans : (b) Sum of four angles of any quadrilateral is 360°
+A, B
+po al
+ZB=ZD=65°
+ZA=ZC=x°
+Then 65° + 65° + x° + x° = 360
+2x° = 360-130
+So value of remain each angle = 1 15°
+36. Each side of a quadrate park is 25 cm and has
+2.2 m wide two paths passing through its
+centre. How much rupees will its cost to spread |
+concrete on the paths at a cost of T1/dm’?
+(a) = 11,000 (b) = 110
+(c) & 105.16 (d) = 10,516
+RRB Group-D — 01/10/2018 (Shift-II)
+Ans. (d) :
+25m_ A Pana
+=P
+~ ae
+| tt | |
+area of path A = 25 x 2.2= 55 m”
+area of path B = 25 x 2.2=55 m’
+Total area of street = 25 x 2.2 + 25 x 2.2-2.2x2.2
+= 55 +55-4.84 = 105.16 my?
+Total cost = 105.16x100=% 10516
+Geometry 55
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0008_right.png =====
+37. In which all the sides have same length?
+(a) Rectangle (b) Trapezium
+(c) Parallelogram (d) Square
+RRB NTPC 30.04.2016 Shift : 1
+Ans: (d) All four sides are the same length in both
+square and rhombus. but the angle of each of the four|
+corners in the square is right-angled, while the rhombus
+face to face is the same
+Type - 4
+38. The length of a rectangular plot is 5 m more
+than its width. If the circumference of the plot
+is 142 m, find the dimensions of the plot.
+(a) Length 38 m and width 33 m
+(b) Length 39 m and width 34 m
+(c) Length 34 m and width 39 m
+(d) Length 33 m and width 38 m
+RRB RPF Constable — 19/01/2019 (Shift-I])
+Ans. (a) :
+Suppose the length of rectangular plot is | meter and
+breadth b meter.
+*: Circumference of rectangular plot = 2(¢ + b)
+According to the question,
+. l=b+5
+2(¢+b)=142
+> 2(b+5+b)=142
+> (2b+5)=71
+> 2b=71-5
+> 2b=66
+> b=33m
+€=33+5=38m
+So length will be 38 meter and breadth 33 meter.
+39. If a rectangle length : width = 4:3. Find the
+value of length : diagonal.
+(a) 4:7 (b) 2:3
+(c) 4:5 (d) 1:5
+RRB JE - 24/05/2019 (Shift-I)
+Ans : (c) Let the length of rectangle = 4x
+and breadth of rectangle = 3x
+©. diagonal of rectangle = /(4x)’ +(3x)° = 5x
+«. length : diagonal = 4x: 5x=4:5
+40. The length of a rectangular plot is 20 m more
+than its width. If the cost of planting the fence
+at 26.50 per meter on the plot is ¥ 5300, find
+the length of the plot in meters.
+(a) 50m (b) 40m
+(c) 120m (d) 60m
+RRB JE - 29/05/2019 (Shift-I)
+) YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0009_left.png =====
+Ans: (d) Let width of rectangular plot = x m
+length of plot = (x + 20) m
+Perimeter = 2 (length + width)
+=2 (x+x+20) meter .
+= (4x + 40) meter
+A B
+x
+D Cc
+: — -x#20
+According to the question
+(4x + 40) x 26.50 = 5300
+4x + 40 = 200
+4x = 160
+x = 40 meter
+length of plot = (x + 20) meter = (40 + 20) meter
+= 60 meter
+41. The ratio of length and width of a rectangle is
+3:1. If its perimeter is 96 m, then what is the
+length of rectangle?
+(a) 48m (b) 24m
+(c) 36m (d) 12m
+RRB Group-D — 17/09/2018 (Shift-IT.
+Ans : (c) Let length of rectangle is 3x m. and breadth is
+xm
+Perimeter of rectangle (P) = 2 [/ +b]
+1= lendth )
+b= breadth
+96 =2[3x +x]
+96 = 6x + 2x
+96 = 8x
+96
+x=—
+8
+length of rectangle = 3 x 12
+= 36 meter
+42. The dimensions of the rectangular plot of land
+are given in the nearest integer, 37 m and 23m.
+What is the upper limit of the circumference of
+the rectangle?
+(a) 122m (b) 61m
+(c) 60m (d) 120m
+RRB Group-D — 12/10/2018 (Shift-I)
+Ans. (a) : given-
+length of rectangle = 37 m
+breadth of rectangle = 23 m
+circumference of rectangle
+=2 (length + breadth)
+= 2 (37+ 23)
+= 120 meter
+So this answer will be 122 m. Because the nearest
+integer is given here and asked about the upper limit.
+Geometry 55)
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0009_right.png =====
+Type -5
+
+43. The length of one side of a rhombus is 12 cm
+and the length of one of its diagonals is also 12
+cm. The length of second diagonal will be _ cm.
+(a) 12N3 (b) 63
+(c) 24 (@) 93
+
+RRB RPF SI — 10/01/2019 (Shift-I)
+
+Ans : (a) Let second diagonal of rhombus is d)
+
+side (a) of rhombus = x d? +d,"
+where d, & d, is diagonal of rhombus
+12 =F) 12? +d,”
+
+12x2=VI2' +d
+
+Square on both sides
+
+(24) = 12? + d,?
+
+dy? = (24) — (12)?
+
+= (24 + 12) (24-12)
+
+= 36 x 12 = 432
+
+J dy = 123em.
+
+44. The length of one side of a rhombus is
+2 cm and its one diagonal is * em. Find
+the length of second diagonal.
+
+20 32
+a) > cm ‘b) = cm
+Ms oF
+(c) 10cm (d) om
+RRB Group-D — 24/09/2018 (Shift-I1)
+Ans : (c)
+D re, ic
+3
+. 17
+side of rhombus = 57m
+x 16
+first diagonal AC = 3m
+*’ AO =OC and BO = OD
+-, AO=OC= AC
+2
+=16 pp
+3
+8
+AO ==cm
+3
+AAOB in, AB? = AO’ + BO?
+{ YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0010_left.png =====
+BO = AB’ - AO?
+MG } 3
+_ PSs
+“Vo 9
+2
+“V9
+15
+3
+BO=5
+So OB=OD=5Scm
+Second diagonal BD = BO + OD=5+5=10cm
+45. The length of the side of rhombus is 5 cm and
+it's area is 4 cm’. What will be the sum of the
+lengths of its diagonals? .
+(a) 5cm (b) 6cm
+(c) 8cm (d) 7cm
+RRB Group-D — 11/10/2018 (Shift-II)
+Ans: (b)
+xa .
+ot
+AB = V5
+Rhombus
+In ABCD,
+first diagonal = AC
+second diagonal = BD
+4AB’ = AC? + BD?
+4x5= AC + BD*
+20= AC? + BD?
+Let AC=x
+BD=y
+-. area of rhombus = as xy=4
+xxy=8
+(xty)? = 20 + 2x8
+(xty) = 20+ 16
+(xty)’ = 36
+46. The length of one side of a rhombus is 26 cm
+and the length of one diagonal is 48 cm, then
+what will be the length of the second diagonal?
+(a) 24cm (b) 20cm
+(c) 25cm (d) 22cm
+RRB Group-D — 10/10/2018 (Shift-I)
+Geometry 55:
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0010_right.png =====
+Ans: (b)
+B NE iC
+[th
+A D
+(OD) =(CD)’-(OC)’ (from pythagoras theorem)
+(OD)? = (26) - (24)
+(OD)? = 676 - 576
+(OD) = 100
+OD = 10cm
+diagonal BD = OB + OD {-. OB = OD}
+BD =20cm
+47. The length of diagonals of a rhombus are 16 cm
+and 12 cm. What is the perimeter of the
+rhombus?
+(a) 56cm (b) 20cm
+(c) 28cm (d) 40cm
+RRB Group-D — 06/12/2018 (Shift-I1)
+Ans. (d) : In the rhombus d = 16, d, = 12 perimeter = ?
+D 7] c
+b</
+A B
+diagonals of rhombus bisect each other at right angles.
+AO=OC
+BO=OD
+ZAOB = ZBOC = ZCOD = ZDOA = 90°
+sides AB of rhombus
+B
+LI ,
+A 6 oO
+AB*= AO? + BO?
+AB?= 67+ 8?
+AB’ = 100
+AB=10
+Perimeter of rhombus = 4a
+=4x10
+=40cm
+, YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0011_left.png =====
+48. The length of one side of a rhombus is 4 cm]:
+and length of one diagonal is 6 cm. The length
+of second diagonal wil be ___cm.
+
+14
+
+@ v4 (b) ws
+
+@ v7 () 2w7
+RRB Group-D — 16/11/2018 (Shift-I)
+
+Ans. (d) In rhombus, all sides are equal and diagonals}
+
+of rhombus bisect each other at right angles.
+
+in ABEC,
+D Cc
+4 4
+
+A 7 B
+BC = CE’ + EB* [pe = ” = 3|
+P= CE +3
+CE= V7
+CA=2 x CE
+CA=2x V7
+CA= 27
+
+49. The sum of the diagonals of a square is__ the
+perimeter of the square.
+
+(a) less than ; of (b) larger than
+1
+(c) equal to (d) less than Py of
+RRB Group-D — 16/11/2018 (Shift-III)
+|Ans. (a) :
+A a B
+D a c
+Sum of diagonals av2 +aV2 =2aV2
+Perimeter =at+ata+a=4a |
+3 times of perimeter = 4a x 3 3a
+4 4
+=> 2aV2 <3a
+Thus, the sum of the diagonals of a square is less than}
+3 the times of the perimeter of the square.
+Geometry 55.
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0011_right.png =====
+50. The length of one side of rhombus and one of
+the two diagonals is 6 m. The area of rhombus
+is cm’.
+
+(@) 18 (b) 3
+© 23 (d) 18v3
+RRB Group-D — 18/09/2018 (Shift-I)
+Ans. (d) +
+hNI,
+
+According to the figure,
+
+in AOBC
+
+(oc) = (Bc) -(oB)
+
+(OC = (6) - 3) (from phythagoras theorem)
+
+(OC) = 3V3
+
+area of AOBC = > 3x3V3
+
+3 >
+=—cm
+2
+area of rhombus ABCD = 4x AOBC area
+2
+=18V3cm?
+51. The order of rotational symmetry of a
+rhombus is—
+(a) 1 (b) 4
+(c) 2 (@ 0
+RRB NTPC 22.04.2016 Shift : 2
+Ans: (c)
+Hence the rotational symmetry will be 2.
+Type - 6
+
+52. Ina parallelogram ABCD, ZA = (3x-25)° and
+ZC = (2x+15)°, In which angle A and angle C
+facing angle. Find the angle A—
+
+(a) 105° (b) 85°
+(c) 95° (115°
+RRB RPF SI - 13/01/2019 (Shift-II)
+3 YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0012_left.png =====
+Ans : (c) :
+A B
+ZA = (3x-25)°
+ZC = (2x+15)°
+ZA=ZC [opposite angle is equal]
+(3x -25)° = (2x+15)°
+x= 40°
+ZA = (3x — 25)° = 120-25 = 95°
+53. A parallel quadrilateral PQORS with lengths of
+sides 8 cm and 12 cm has a diagonal 10 cm
+long. The second diagonal is approximately.
+(a) 18cm (b) 17.8cm
+(c) 17cm (d) 17.5cm
+RRB Group-D — 17/09/2018 (Shift-I
+Ans : (b) If the adjacent sides of a parallelogram are a||
+and b and the diagonals are d; and d, -
+8 7 R
+P Q
+12
+d?-+d} =2 (a° +b’)
+given, a= 12cm, b= 8cm, d)= 10cm
+2d} =2 (12° +8")-10°
+=2 x (144 + 64)- 100
+=2 x 208-100
+= 416-100 = 316
+od, = V316=17.8 cm
+54. If in a asymmetric ABCD, E and F are the
+midpoints of the two transverse sides AB and
+CD, then FE =?
+(a) F(aB -CD) (b) 5 (AB +CD)
+(0) Bia +CD) = @ V3(AB+CD)
+RRB Group-D — 19/09/2018 (Shift-III)
+Ans, (b) : In any trapezium, the line joining the midpoint
+of the eassumetric sides is parallel to the parallel sides o!
+the trapezium and half of their sum in length.
+B Cc
+{—
+A D
+FE= S(AB +CD)
+Geometry 55
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0012_right.png =====
+55. The smallest side of a parallelogram is 4.8 cm
+and the largest side is 1.5 times to the smallest
+side. Find the circumference of a
+parallelogram.
+(a) 48cm (b) 36cm
+(c) 24cm (d) 72cm
+RRB Group-D — 23/10/2018 (Shift-I1)
+Ans. (c) : Smallest sides of parallelogram =4.8cm
+largest sides of parallelogram = 4.8 x 1.5 = 7.20 cm
+So circumference of Parallelogram = 2(small side +
+large side)
+=2x(4.8+7.2)
+=2 x 12.0
+= 24cm
+56. Find the value (in degrees) of angle ABC in the
+given parallelogram ABCD.
+AP 9x+5 B
+D Cc
+(a) 112° (b) 102°
+(c) 78° (d) 68°
+RRB Group-D — 11/10/2018 (Shift-I)
+Ans : (d) ZD = 9x +5 (Corresponding angles)
+then 9x+5+ 16x = 180°
+(.. sum of adjacent angles is 180° in parallelogram)
+=> 25x = 180°- 5°
+=> 25x=175
+>x= is
+25
+>x=7
+then 16x = 16 x7= 112°
+According to the question,
+16x + ZABC = 180°
+=> 112+ ZABC = 180°
+=> ZABC = 180° - 112
+ZABC = 68°
+57. In an equilateral triangle ABC, D, E, F are the
+midpoints of AB, BC and AC respectively. So
+the quadrilateral BEFD is:
+(a) Asquare
+(b) A rectangle
+(c) A parallelogram
+(d) Arhombus
+RRB NTPC 29.03.2016 Shift : 1
+} YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0013_left.png =====
+Ans: (c)
+A
+D O
+B 4 c
+In a triangle, the line joining the midpoints of two sides is}
+Parallel and half of the third side.
+DF || BC
+land DF=3BC sonnei)
+«. Eis the mid point of BC
+1 .
+“. BE==BC seseeee
+2 (ii)
+from the equation (i) and equation (ii)
+[DF = BE
+*: DF||BC => DF||BE
+So quadrilateral BEFD is a parallelogram
+58. The order of rotational symmetry of a
+parallelogram is:
+1 (b) 4
+(c) 2 (d) 0
+RRB NTPC 26.04.2016 Shift : 2
+[Ans : (c) The order of rotational symmetry of aj
+Parallelogram is 2.
+Type -5
+59. Find the area of the quadrilateral shown in the
+following figure (underlined is not measured).
+A
+21
+15 D
+3
+B is
+(a) 144 (b) 54
+(c) 63 (d) 123
+RRB Group-D — 10/10/2018 (Shift-II1)
+Ans: (a) '
+area of quadrilaterals ABCD = area of AABC + area of|
+AADC.
+3*ABxBC+3xCDxDA
+Geometry 55!
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0013_right.png =====
+(Fxtseis+daaxar]
+= (1515+3%21)
+1
+=—(225+63)
+2
+288
+2
+60. In the given diagram, TU||PS and points Q and
+R_ are located on PS also ZPQT=x°,
+ZRQT =(x-50)° and = ZTUR=(x+25)°.
+What is the meassure of ZURS
+T U
+PQ k s
+(a) 130° (b) 115°
+(c) 140° (d) 135°
+RRB Group-D — 17/09/2018 (Shift-II1)
+Ans. (c) : given— TU||PS
+ZPQT = x°, ZRQT = (x -50)?
+ZTUR =(x+25)° ZURS=?
+T U
+Q
+(x) ?
+_) YY)
+ae) R
+x+x-50=180
+2x = 230
+Putting value of x is diagram.
+C\
+115° 0
+7) 6 YY
+pS r
+Alternate angle ZTUR = ZURS
+ZURS = 140°
+61. Trapezium is a quadrilateral whose:
+(a) All sides are equal.
+(b) Opposite sides are equal.
+(c) Two pairs of parallel opposite sides are.
+(d) One pair of parallel opposite sides is.
+RRB NTPC 28.03.2016 Shift : 3
+5 YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0014_left.png =====
+Ans : (d) Trapezium is a quadrilateral with a pair of] '
+parallel opposite sides.
+AB||DC
+[_\
+D Cc
+62. The order of rotational symmetry of a
+trapezium is.
+(a) 2 (b) 0
+() 1 (d) 3
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (c) the rotational symmetry of a trapezium is one
+order.
+Note : If a shape is partially rotated, If the shape looks
+the same even after rotating, then this property is called
+rotary symmetry.
+Type -8
+63. Two circles touch each other externally at
+point X. PQ is simple common tangent
+touching both circles at P and Q point. If the
+radius of circles are R and r, find the value of
+PQ’.
+(a) 4Rr (b) 2nRr
+() 3 Rr (d) 2Rr
+RRB RPF Constable — 25/01/2019 (Shift-III)
+Ans : (a)
+P
+CAE |
+PQ= yd? - (4-15)
+there d=O0 O'=(R+1)
+m=R
+mn=r
+then, PQ= J(R+n)?-(R-1*
+=VR? +r +2Rr—-R? 1? +2Rr
+=V4Rr
+PQ =2VRr
+PQ? =(2VRr) =4Rr
+Geometry 55
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0014_right.png =====
+64. The circumference of a circle is 132 cm. What
+will be the circumference of the part whose
+center angle is 135°?
+
+(a) 93.5cem (b) 101.5cm
+(c) 92.5cm (d) 91.5cm
+RRB JE - 26/05/2019 (Shift-II)
+Ans : (d) According to the question
+circumference of circle, 2nr = 132
+2x 2 r=132
+7
+= 1827 9) om
+2x22
+. 38
+SS
+. 10
+circumference = 2n——+2r
+360
+= 1522135 9.91 = 49,5442 = 91.5 em
+360
+
+65. If 'O' is the circumcentre of triangle ABC and
+OD is perpendicular to BC, find the value of
+angle ZBOD.
+
+(a) (1/2) ZA (b) 90° ZA
+
+(c) 2A (d) 22A
+
+RRB RPF SI — 16/01/2019 (Shift-IIT)
+Ans : (c)
+A
+i,
+
++: The angle substended by the arc of a circle at the
+center is twice the angle subtended at the circumference
+by the same arc.
+
+ZBOC =22A
+
+=, Bop = BOC _ 244 _ ya
+2 2
+
+66. A chord of 8 cm length makes an angle of 60°
+at the center, what will be the value of radius of
+the circle?
+
+(a) 8cm (b) 6cm
+(c) 4cm (d) 12cm
+RRB JE - 30/05/2019 (Shift-1)
+J YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0015_left.png =====
+Ans : (a)
+AN
+8 >’B |
+According to the figure,
+ZAOB = 60°
+
+7 ZA= ZB=60°
+
+So AOAB will be equilateral triagnle
+
+-* OA= OB = AB=8cm
+
++: OA and OB is circle's radius
+
+Sor=8 cm
+
+67. Radius r; and r, the distance between the
+centers of the two circles is d find the length of
+their tangent lines.
+
+@ a(n!) o) fd —(i-ny
+(©) Ja? -(n?x2) d) \d?-(4 +n)
+RRB JE - 01/06/2019 (Shift-I)
+Ans: (b)
+length of tangent line AB
+AB = y(distance between centre's)’ — (difference of radius)?
+=P (0-5)
+
+68. ‘If there is a chord of length 24 cm at a distance
+of 5 cm from the center, find the radius of the
+circle.
+
+(a) 13cm (b) 17 cm
+(c) 25 cm (d) 15 cm
+RRB JE - 28/06/2019 (Shift-III) |
+Ans. (a)
+(4)
+240m
+Geometry 55°
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0015_right.png =====
+the perpendicular from the center of the circle on chord)
+divides the chord into two equal parts.
+OA? = OC? + AC? {where AC = 12 cm}
+Past?
+P=25+ 144 = 169
+r=13cm
+69. Read the given question and decide which of
+the following information is sufficient to
+answer the question.
+What is the value of ZACB
+Information:
+a
+Cp
+(A)
+(2) ZD =60°
+(a) Either 1 or 2 is sufficient.
+(b) Both 1 and 2 are sufficient.
+(c) Only is 2 sufficient.
+(d) Only 1 are sufficient.
+RRB Group-D — 17/09/2018 (Shift-I)
+Ans: (b) ZADB = ZACB = 60°
+Cc D
+(X)
+YN B
+so both information will be required,
+The value of the angle subtended by an arc (chord) on
+the remaining circumference of the circle is same.
+ZC=ZD
+Hence information-2, ZD = 60° and information -1,
+ZACB = ZADB = 60°
+70. Ina semicircle, A and C denote the diameter
+and B is a point on the semicircle. So the angle
+ABC will always be.
+(a) Can not be determined
+(b) Acute angle
+(c) Obtuse angle
+(d) Right angle
+RRB Group-D — 24/09/2018 (Shift-I)
+] YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0016_left.png =====
+Ans : (d) ZABC = 90° )
+: 7
+B
+Theorem— The angle on the semicircle is right angled.
+71. The area of the circumcircle of a right angled
+triangle with sides 6 cm, 8 cm and 10 cm will
+be—
+(a) 16cm? (b) 25 cm?
+(c) 24.52 cm? (d) 9xncm?
+RRB Group-D — 18/09/2018 (Shift-ID
+Ans. (b) : A
+Con
+-. Circle's radius (r)=5 cm
+<. area of circumcircle = mr’= x x (5)°= 252 cm?
+72.
+A
+D
+Cc
+B :
+In above circle, given m AE = 4 cm, mBE = 15
+cm and mCE = 2.5 cm. What will be the value
+of mDE?
+(a) 16.5 cm (b) 20cm
+(c) 24cm (d) 30cm
+RRB Group-D — 24/10/2018 (Shift-I
+Ans: (c)
+A
+D
+c
+B
+given—
+m AE=4 cm.
+m BE = 15cm
+m CE =2.5cm
+m DE =?
+AE x BE = CEx DE)
+4x 15=2.5 x DE
+DE= 4x15
+25
+DE = 24cm.
+Geometry 555
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0016_right.png =====
+73. AB and CD are two parallel sides on opposite
+ends of the centre of the circle. If AB = 10 cm,
+CD = 24 cm and radius of the circle is 13 cm.
+Then what is the distance between the two
+sides.
+(a) 16cm (b) 17cm
+(c) 18cm (d) 15cm
+RRB Group-D — 26/10/2018 (Shift-II1)
+Ans : (b)
+A B
+tte 13)
+oe:
+Prey
+° .
+from pythagoras theorem in AONC
+P=ON*+NC
+ON = vr? -NC?
+r=13cm
+ON = 13? -12? = 169-144
+ON =Scm
+like wise MO = V13? —5? = 12 cm
+So distance between of both sine.
+=MO+NO
+=12+5=17cem
+74. A 16 cm long arc is cut in a circle of 20 cm
+diamter. Find the distance of the arc from the
+center of the circle.
+(a) 6cm (b) 128cm
+(c) 12cm (d) 18.9 cm
+RRB Group-D — 16/11/2018 (Shift-I)
+Ans: (a) diameter = 20 cm
+are cut by 16 cm.
+‘The perpendicular drawn on the chord from the}
+center of a circle bisects the chord.
+7. AB 16_ 8cm
+2
+psa
+OB? = OA? + AB?
+100 = OA? + 64
+OA=6cm
+3 YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0017_left.png =====
+75. The radius of two concentric circles are 13 cm
+and 8 cm. AB is the diameter of the larger
+circle, BD is the tangent line to the smallar
+circle which touches it on D. The length of AD
+is equal to:
+
+(a) 17cm (b) 18cm
+(c) 19cm (d) 16cm
+RRB Group-D — 11/12/2018 (Shift-III)
+Ans : (c)
+Ce
+D
+A‘ a
+Ne
+
+Small or circle of tangent line is DB and tangent line of
+
+circle is making 90° angle from the center of circle on
+
+circumference.
+
+So,
+
+Given in, {OB = 13 cm, OD = 8 cm from pythagoras
+
+theorem}
+
+In AODB,
+
+(BDy’ = (By - (ODy’
+
+BD= y(13)° -(8)°
+
+BD = V169-64 = V105
+
+again in AAEB,
+
+EB = 2DB = 2V105cm
+
+AB = 20B = 26 cm
+
+from the pythagoras theorem
+
+(AE)’ = (AB)'~ (EBY’
+
+AB = 20B = 26 cm !
+
+again in AAED
+
+(AD)? = (AE)? + (ED)?
+
+2
+(AD)? = (16)? + (105)
+(AD) = ¥256+105 = V361
+AD=19 cm
+76.
+Cc
+D
+In the above figure, ZBAE = 30°, ZABE = 80°
+and ZDBE = 50°, what is the value of ZBCE ?
+(a) 25° (b) 10°
+(c) 20° (d) 5°
+RRB Group-D — 10/12/2018 (Shift-I)
+Geometry 55!
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0017_right.png =====
+Ans. (c) :
+iw
+NN >A
+. =
+given
+ZBAE = 30°
+ZABE = 80°
+ZDBE = 50°
+from ABAE
+ZBEA + 80 + 30 = 180° [Sum of A of interior angles|
+= 180°]
+- ZBEA = 180°-110° = 70°
+ZDEB = 180° — 70° [angle of straight line = 180°]
+= 110°
+in cyclic quadrilateral CBED
+ZDCB = 70° [“Sum of opposite angle of cyclic|
+quadrilateral = 180°]
+: ZDBE = 50° [angle formed on circumference from
+chord is equal]
+-. ZDCE = 50°
+*: ZDCB = 70°
+-. ZBCE = 70°-50° = 20°
+So, ZBCE = 20°
+17. _
+Cl
+a4
+In the above circle, mAE =5cm,mBE = 15cm
+and mCE = 25cm, what will be the length of
+mDE?
+(a) 2.5cm (b) lom
+(c) 3cm (d) 2cm
+RRB Group-D — 23/10/2018 (Shift-II)
+Ans. (c) : given
+mAE= 5em,mBE = 15cm
+mCE = 25cem,mDE =?
+We know that,
+If chord AB and CD is intersecting each other
+of inside the circle on point E, then
+) YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0018_left.png =====
+AEx BE = CEx DE
+DE= AExBE
+CE
+
+So, mDE = 3cm.
+
+78. The radius of circle A and circle B is 4 units. If}
+the point P is located on A and the point Q is
+located on B, and Both circle touch each other
+exactly at a point. Then what will be the
+maximum length of PQ.
+
+(a) 0 (b) 4
+(c) 8 (d) 16
+RRB NTPC 30.03.2016 Shift : 2
+Ans: (d)
+i \
+Ne J
+
+Circle A and circle B touch on point R in the figure||'
+
+then,
+
+AR = BR = 4 unit (radius of circle is)
+
+PR then QR is diameter of circle A and circle B.
+
+then PR=QR=2AR
+
+PR = QR = 2x4 =8 unit
+
+Or maximum length of PQ =2xPR = 2x8 = 16 unit
+
+79. An equilateral triangle is constructed in such a
+way that the two end of the triangle are placed
+on the diameter of the circle and the third is |,
+placed on the circle. If the area of the circle is
+48x then what will be the side of the triangle.
+
+(a) 8 (b) 4
+
+(©) 8/v3 @) 43
+
+RRB NTPC 10.04.2016 Shift : 3
+Ans: (a) from the figure,
+ain
+Let of circle radius = r
+“. area = ar
+= 48n= mr
+r=V48 = 43
+Geometry 56
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0018_right.png =====
+Radius = length of OP is perpendicular PQR equilateral
+triangle.
+
+=> 43 = 4,
+
+2a=4x2=8
+
+So length of triangle's sides = 8
+
+80. If a circle is divided into 6 equal parts. What
+will be the measure of each angle?
+
+(a) 45 (b) 60
+(c) 30 (d) 90
+RRB NTPC 28.04.2016 Shift : 1
+
+Ans : (b)
+
++: angle formed by all 6 sides on the center of circle
+
+=360°
+
+IS
+.'. According to the question
+°
+— 360° _ 60°
+6
+81. The largest chord of a circle is.
+(a) Radius (b) Diameter
+(c) Line segment (d) Sector
+RRB NTPC 29.04.2016 Shift : 2
+
+Ans : (b) Largest chord of circle is "diameter" which
+
+passes through the center of the circle.
+
+82. Find the length of a transverse common
+tangent of the two circles whose radii are 3.5
+em, 4.5 cm and the distance between their
+centres is 10 cm.
+
+(a) 6cm/6 cm (b) 8cm/8 cm
+(c) 6.4 cm/6.4 cm (d) 3.6cm/3.6 cm
+RRB ALP & Tec. (17-08-18 Shift-II)
+Ans : (a)
+Cc
+eC We Bi
+A
+
+length of transverse tangent line
+
+=) (distance between of centers)” - (sum of both radius's)*
+
+= 10? -(3.5+4.5)° = J100—64 = 36 =6 cm
+
+) YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0019_left.png =====
+83. The two sides forming the right-angle in a}
+triangle are 3 cm and 4 cm long respectively.
+What will be the area of the circumcircle of
+this tringle?
+
+(a) Smcm? (b) 7ncm?
+(c) 6.75ncm? (d) 625mm?
+RRB ALP & Tec. (09-08-18 Shift-II)
+
+Ans : (d)
+
+Lh
+— 3cm —
+The centre of the circumcircle formed on any right
+triangle is at the midpoint of the hypotenuse of the
+triangle, which is the diamter of the circle.
+[a2 432
+So radius of circle = vas 25 =5/2 cm
+2 2
+area of circle = m1”
+2
+=ax(2) 22x22 =625nem?
+2 4
+Type -9
+84,
+E
+In the circle shown above, chord AB is
+extended so that it meets tangent line DE to D.
+If AB =5 cm and DE = 6 cm, Find the length of
+BD.
+(a) 6cm (b) Sem
+(©) 4em () V30cem
+RRB RPF Constable — 18/01/2019 (Shift-III)
+Ans : (c) Since DE? = DAxBD
+DE? = (AB+BD)xBD
+6 = (5+BD)xBD
+36 = SBD+BD*
+
+> BD’ +5BD -36 =0
+
+> BD*+9BD-4BD-36 = 0
+
+> BD (BD+9) -4(BD+9) = 0
+
+(BD-4)(BD+9) = 0
+BD-4=0, BD #-9
+BD = 4 centimeter
+Geometry 56.
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0019_right.png =====
+85. | Answer the question based on the figure given
+below.
+A E
+CD)
+D
+If AB is parallel to EC and ZBCD = 72°, then
+what will be the value of ZBAC?
+(a) 75° (b) 72°
+(c) 73° (d) 67°
+RRB RPF SI - 05/01/2019 (Shift-II)
+Ans : (b)
+A
+B Cc
+D.
+ZBCD = 72°
+ZBAC=?
+If the angle between the line and the chord passing
+through one end of the chord of the circle is equal to the
+angle substended by the chord in the alternate segment,
+then this line is the tangent line of the circle.
+Let the center of the circle be O and AC is the chord of
+this circle. A straight line DE going through the C point
+is drawn such that ZBCD = ZBAC where ZBAC is
+loacted in alternating circle.
+So, ZBAC = 72°
+86.
+A
+E
+B | )
+D
+If ZBCD = 82° then find the value of ZBAC ?
+(a) 85° (b) 77°
+(©) 83° (d) 82°
+RRB Group-D — 26/09/2018 (Shift-II)
+{ YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0020_left.png =====
+Ans. (d) : The angle formed by the chord of a circle} | '
+along the line of the circle is equal to the angle made by)
+the chord on the alternate segment of the circle.
+-. ZBAC= ZBCD = 82°
+87. In the circle below, chord AB is extended to
+point D to join tangent DE. If AB = 9 cm and
+BD =3 cm, find the length of DE.
+“ S
+C)
+E
+(a) 4cm (b+) V27 em
+(c) 6cm (d) Sem
+RRB Paramedical Exam — 21/07/2018 (Shift-I)
+Ans : (c) from the theorem
+DE’ = DB x DA=3 x 12
+DE’ = 36
+DE=6cm
+88. In the circle below, chord AB is extended to |
+meet tangent DE at point D. If AB = 24 cm and
+DE = 9 cm, find the length of BD.
+B
+D
+E
+(a) 3cm (b) 4V6 cm
+(c) Sem (d) 4cm
+RRB Group-D — 28/09/2018 (Shift-II)
+Ans. (a) : ADx BD =(DE)’
+(Suppose BD = x)
+(244+x)xx =(9"
+24x+x? =81
+x? +24x-81=0
+x°+27x-3x-81=0
+x(X+27)—3(x+27)=0
+x +27=0,x =—27 (Negative)
+x-3=0
+x=3
+length of BD = 3 cm
+Geometry 56:
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0020_right.png =====
+89. In the circle below, chord AB is extended to
+join point D with tangent DE. If AB = 6 cm and
+BD =2 cm, find the length of DE.
+. B
+D
+E
+(a) Vi2cm (b) 4cm
+(c) 4.5cem (d) 5cm
+RRB Group-D — 05/10/2018 (Shift-I)
+Ans. (b) : from given figure we know that
+.. DE? = ADxBD
+DE’ =(AB+BD)x BD
+=(6+2)x2
+=8x2
+DE’=16
+DE =4 cm
+90. P is a point on a circle whose center is C. A
+straight line whose length is equal to the radius
+of the circle drawn from P to another point Q.
+Find the value of the acute angle in radian Q
+formed by the tangent of the circle drawn on P.
+T t
+a) = b) =
+@ | oF
+T T
+Oo = d) =
+O 5 ®O 5
+RRB Group-D — 10/10/2018 (Shift-I)
+Ans: (a) B
+P
+é ;
+A
+from the figure- CP =CQ
+given— radius r= PQ
+«. CP=CQ=PQ (equilateral triangle)
++: Value of each angle of equilateral trianle = 60°
+So value of acute angle on ZPQB
+=90°- 60° = 30° =f radian
+J YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0021_left.png =====
+91.
+CY
+D
+E
+In the given circle, the line AB is extended to
+meet with the tangent DE at the D point. If AB
+= 7 cm and DE = 12 cm, then the length of BD
+will be?
+(a) 7cm (b) 9cm
+(c) 2V21cm (d) 8cm
+RRB Group-D — 24/10/2018 (Shift-I)
+Ans: (b)
+Cl
+D
+12
+E
+DE’ = AD x BD
+If BD =x then
+12?=(7+x)xx
+x +7x-144=0
+x +16 x-9x- 144=0
+x(x+16) — 9 (x+16) = 0 or x + 16 =0, x—9 =0 hence
+x =9, x =-16 (invalid)
+So, BD=x=9cm
+92. In a circle, chord AB is extended to touch
+tangent DE to D. If AB = 24 cm and BD = 8 cm,
+then the length of DE is known.
+(a) 12cm (b) 18cm
+(c) 16cm (d) 24cm
+RRB Group 'D' 07/12/2018 (Shift-1)
+Ans : (c)
+=
+°
+E
+DE’ = AD x BD
+DE? (24+ 8) x8
+DE*= 32 x8
+DE= i616
+DE = 16cm.
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0021_right.png =====
+93. If tangents PA and PB from a point P to a
+circle with centre O are inclined to each other
+at an angle of 110° then the angle POA is:
+
+(a) 50° (b) 70°
+(c) 35° (d) 45°
+RRB ALP & Tec. (20-08-18 Shift-III)
+Ans: (c)
+"Na
+5S
+QO: ig
+110°
+Ne _®
+
+APOA in ZOAP = 90° (put perpendicular on tangent!
+
+line make right angle.)
+
+ZOPA =55° (“f-ss"]
+
+So ZOAP +ZOPA+ZPOA = 180°
+
+90°+55°+ZPOA = 180°
+ZPOA = 180°-(90°+55°)
+= 180°-145°
+ZPOA = 35°
+04,
+C B
+°
+E
+In the circle above chord AB is extended to
+meet the tangent DE at D. If AB= 12 cm and
+DE =8 cm. Find the length of BD.
+(a) 6cm (b) Vem
+(c) Sem (d) 4cm
+RRB ALP & Tec. (09-08-18 Shift-I)
+Ans : (d) Suppose length of BD = x cm
+E
+D
+< )
+formula-~(DE)’ = DB x DA
+(8) =x x (x + 12)
+
+> 64=x° + 12x
+
+> x +12x-64=0
+
+> x°+ (16-4) x-64=0
+
+> x’ + 16x — 4x - 64=0
+
+> x(x + 16)-4 (x + 16)=0
+
+>  (x+16)(x-4)=0
+
+> x =— 16 (invalid)
+
+> x=4cm.
+
+So, DB=4cm.
+
+J YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0022_left.png =====
+95. To draw a pair of tangents to a circle which are |
+inclined to each other at an angle of 75°, it is
+required to draw tangents at the end points of
+those two radius of the circle, the angle
+between then is.
+
+(a) 65° (b) 75°
+(c) 95° (d) 105°
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (d) from the figure,
+ZPAO = ZPBO = 90°
+ZAPB = 75°
++: PAOB is a quadrilaterals
+A
+B
++: Sum of four angles of quadrilaterals is 360°
++: PAOB is a quadrilaterals—
+«. ZAPB + ZPBO + ZPAO + ZAOB = 360°
+75° + 90° + 90° + ZAOB = 360°
+ZAOB = 360° = 255° = 105°
+Type - 10
+96. In the second quartile, what is the value of sin@
+between?
+(a) -ltol (b) 1to-1
+(c) 1tod (d) Otol
+RRB JE - 30/05/2019 (Shift-I)
+[Ans : (c) Second quarter is between 90° from 180°
+sin 90°= 1, sin 180° =0
+Similar- 0<sin@<1
+Value of sin @ is between from 1 to 0.
+
+97. The ratio of interior and exterior angles of a
+regular polygon is 4:1. What is the number of
+sides in the polygon?
+
+(a) 12 (b) 6
+() 8 (@) 10
+RRB RPF Constable — 24/01/2019 (Shift-III)
+
+Ans : (d) Suppose interior angle and exterior angle is 4x
+
+and x.
+
+Interior angle = 180 - exterior angle
+
+4x = 180-x
+5x = 180
+x= 36
+number of sides = ——2°2 __ = 3 _ 1g
+exterior anlge 36
+Geometry 56:
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0022_right.png =====
+98. | What will be the sum of the interior angles in
+degrees of a polygon with 7 sides?
+(a) 180° (b) 360°
+(c) 540° (d) 900°
+RRB RPF Constable — 20/01/2019 (Shift-IID)
+Ans : (d) Sum of interior angles of polygon
+= (2n-4) x 90° = (2 x 7-4) x 90°
+=10 x 90° = 900°
+99. Each interior angle in a regular polygon is
+108°, then what is the numberof sides?
+(a) 6 = (b) 15 (ce) 5 (d) 7
+RRB RPF Constable — 25/01/2019 (Shift-I
+Ans : (c) Number of sides are n then
+a —2)x180
+each intenior angle of regular polygon = (a= 2)x180
+n
+—2)x1
+108= (n=2)x180
+n
+108n = 180n — 360
+180n — 108n = 360
+72n = 360
+360
+n=—
+72
+Number of sides n= 5
+100. What will be the total sides of a regular
+polygon whose exterior angle is 10°?
+(a) 36 (b) 63 (c) 46 (d) 38
+RRB RPF SI — 06/01/2019 (Shift-I)
+Ans : (a) each exterior angle of polygon
+_ 360°
+n(number of sides)
+1 = 200 _ 36
+10
+101. The sum of all interior angles of a common
+polygon is 1440°. How many diagonals does the
+polygon have?
+(a) 27 (b) 44
+(c) 35 (d) 20
+RRB RPF Constable — 22/01/2019 (Shift-ID)
+Ans : (c) n sum of polygon's interior angles of n sides
+(£6) =nx180-360
+1440 = nx 180-360
+nx180 =1440+360
+nx180=1800
+n=10
+If n sides is in any polygon then number of their
+diagonals D = F(a-3)
+So number of these diagonals.
+10
+D= —(10-3
+(10-3)
+D=5x7
+D=35
+nS ¢
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0023_left.png =====
+102. The interior angle of a regular polygon is 150°.
+This polygonisa___.
+(a) Octagon (b) Decagon
+(c) Dodecagon (d) Heptagon
+RRB JE - 22/05/2019 (Shift-I)
+Ans : (c)
+each interior angle of a regular polygon with n sides.
+_ (n—2)x180
+~ n
+150= (n-2)x180
+n
+150n = 180n — 360
+30n = 360
+360
+n= 0 =12
+Therefore this polygon will be a dodecagon.
+103. Select the incorrect statement
+1) Allsides of a regular polygon are equal.
+2) Its all interior angles are equal.
+3) The sum of its exterior angles is 360°
+4) The sum of its interior angles are (n—2) x
+360°
+(a) Statement 1 (b) Statement 4
+(c) Statement 2 (d) Statement 3
+RRB JE - 29/05/2019 (Shift-II)
+Ans : (b) Sum of regular polygon's interior angles
+= (n—2) x 180
+Hence all other statement is true when statement (4) is}
+false. |
+104, Each interior angle of a regular polygon is 36°
+greater than its exterior angle. Find out the
+number of sides of polygon—
+(a) 4 (b) 10
+(c) 8 qd) 5
+RRB JE - 02/06/2019 (Shift-I) |
+Ans : (d) Suppose number of sides of polygon =n
+|As per the question,
+(2n—4)x90 _ 360° = 36°
+n n
+180n - 360° — 360° = 36n
+144n = 720°
+n= 20
+144
+Hence number of sides = 5
+Geometry 56!
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0023_right.png =====
+105. The sum of the angles of regular polygon is
+2160°. The number of sides of polygon is—
+(a) 12 (b) 16
+(c) 18 (d) 14
+RRB JE - 27/06/2019 (Shift-I)
+Ans : (d) Sum of interior angles of regular Polygon.
+= 2160°
+(2n — 4) 90° = 2160°
+(Q2n-4)=24
+2n= 28
+n=14
+106. What is the total number of sides of regular
+polygon with each interior angle equal to 168°?
+(a) 20 (b) 30
+(c) 15 (d) 31
+RRB RPF SI - 12/01/2019 (Shift-II)
+Ans: (b) Each interior angle of regular polygon
+_(n=2)n
+a
+(n—2)180° = 168°
+n
+180°n-360°=168°n
+12°n = 360°
+n=30
+So, number of sidess (n) = 30
+107. A polygon with 7 sides is called.
+(a) Nonagon (b) Hexagon
+(c) Heptagon (d) Octagon
+RRB NTPC 28.03.2016 Shift : 1
+Ans : (c) A polygon with 7 sides is called heptagon.
+108. The sum of the interior angles of a polygon is
+equal-
+(a) (n-2) 360 (b) (n—3) 180
+(c) (n—2) 180 (d) (n+ 2) 180
+RRB NTPC 07.04.2016 Shift : 1
+Ans : (c)
+Sum of interior angles of polygon is (n —2) 180
+109. In a polygon, each exterior angle is 120°, then
+the number of sides is-
+(a) 6 (be) 4
+(c) 3 (d) 5
+RRB NTPC 07.04.2016 Shift : 3
+Ans :(c)
+Number of sides of polygon= a:
+each exterior angle
+=300_,
+120
+J YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0024_left.png =====
+110. Ina regular polygon, each exterior angle is 60°
+then the number of sides:
+(a) 7 (b) 5
+(c) 6 (d) 8
+RRB NTPC 26.04.2016 Shift : 2
+; 360°
+Ans : (c) each exterior angle of polygon = ——
+n
+0
+. n= 360" _ 6
+60°
+111. The number of diagonals in a polygons with 27-
+sides is-
+(a) 320 (b) 324
+(c) 322 (d) 325
+RRB Group-D — 19/09/2018 (Shift-II)
+Ans. (b) : The number of diagonals in a polygon with n-
+sides
+n
+= =x(n-3
+7x n-3)
+“n=27
+27
+.. number of diagonal = ry x (27-3)
+=A a7 x12 = 324
+112. The sum of all interior angles of a polygon is
+1260°. Find the number of sides of the polygon.
+(a) 9 (b) 8 (c) 10 (d) 11
+RRB Group-D — 28/09/2018 (Shift-II)
+Ans. (a) : Suppose numbr of sides of palygon = n
+According to the question-
+(n—2)n=1260, (n—2)180=1260
+n-2=7, n=7+2, [n=9]
+113. The sum of the interior angles of a regular
+octagon is___
+(a) 1080 (b) 720
+(c) 540 (d) 900
+RRB Group-D — 03/10/2018 (Shift-I11)
+Ans : (a) Sum of interior angle of an regular polygon
+with n sides = (2n — 4) x 90°
+-. Sum of interior angle of an octagon = (2 x 8-4) x
+90 = 1080
+114. The measure of each interior angle of a
+pentagon is .
+(a) 180° (b) 108°
+(c) 115° (d) 120°
+RRB Group-D — 05/10/2018 (Shift-II)
+Ans. : (b) Exterior angle of any polygon,
+- 360°
+number of sides
+0
+exterior angle = * =72°
+interior angle = 180° — 72° = 108°
+Geometry 56
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0024_right.png =====
+115. What is the diagonal's number in a 19-sides?
+(a) 304 (b) 114
+(c) 152 (d) 76
+RRB Group-D — 08/10/2018 (Shift-I)
+Ans : (c) Number of diagonals in polygon with n sides
+_A(n=l)_ | _19x(19-1)_,
+2 2
+=x 19 =19x9-19
+= 199-1) =19 x 8= 152
+116. What will be the ratio of the measurement of
+the interior angles of a regular octagon to the
+interior angles of a regular dodecagon?
+(a) 4:5 (b) 8:12
+(c) 12:8 (d) 9:10
+RRB Group-D — 12/10/2018 (Shift-III)
+Ans : (d) Sum of interior angles of polygon with n
+sides = (2n- 4) x 90°
+2x8-4)x90°
+each interior angle of octagon = (ns—por
+_ 12x90 _ 1080
+8 8
+a 2x12-4)x90°
+each interior angle of dodecagon = (2x12 4)x90" * 2 x
+— 1800
+12
+. 1080 1800
+tio = ——:—— = 9:10
+ratio 8 12
+117. The number of diagonals in a polygon of 26-
+sides will be—
+(a) 325 (b) 300
+(c) 299 (d) 650
+RRB Group-D — 25/09/2018 (Shift-I)
+Ans : (c) Diagonals number of polygon = Sx(n ~3)
+number of diagonals in polygon with 26 sides
+= 2 (26-3)= 13 x 23 =299
+118. The number of diagonals a polygon with in 19-
+sides will be —
+(a) 161 (b) 133
+(c) 171 (d) 152
+RRB Group-D — 25/09/2018 (Shift-III)
+Ans. (d) : number of diagonals = Fla -3)
+19 19
+=—(19-3) ==x16
+29-3) =5%
+=19x8=152
+J YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0025_left.png =====
+119. The measure of each interior angle of a normal
+octagon is—
+(a) 11S! (b) 125°
+(c) 120° (d) 135°
+RRB Group-D — 04/10/2018 (Shift-IT)
+Ans: (d) Measure of interior angles of polygon
+_ (n—2)180
+n
+—2)x1
+=(8=2).180 _ 5.0
+8
+120. The value of each interior angle of a regular
+heptagon is
+(a) 128.57° (b) 126.37°
+(c) 148.24° (d) 137.56°
+RRB Group-D — 05/10/2018 (Shift-I
+Ans. (a) : *. each interior angle of regular polygon with
+In sides
+_ (2n-4)x90
+7 n
+-. each interior angle of regular heptagon
+_ (2x7-4)x90
+7
+= 200 128.57°
+7
+121. What is the value of each interior angle of a
+regular pentagon?
+(a) 148.24° (b) 137.56°
+(c) 128.57° (d) 108°
+RRB Group-D — 22/10/2018 (Shift-III)
+Ans : (d) Value of interior angle of polygon with n|
+sides
+= © Aigo
+n
+each interior angle of regular pentagon
+= G-igo
+5
+= 3x180 _ 540 _ ogo
+5 5
+122. The number of diagonals in a polygon with 28
+sides is—
+(a) 350 (b) 280
+(c) 304 (d) 175
+RRB Group-D — 11/12/2018 (Shift-I)
+Ans. (a) : number of sides (n) = 28
+(Number of diagonals = ate-3)
+_ 28(28-3) _ 28x25 =350
+2 2
+123. What is the number of diagonals in a polygon
+with 17-sides:—
+(a) 118 (b) 120
+Geometry —<“Cs~=‘*«*S
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0025_right.png =====
+(c) 121 (d) 119
+RRB Group-D — 31/10/2018 (Shift-III)
+Ans: (d) Number of diagonals in Polygon = 5 (03)
+=Z(17.3) = yi4= 119
+2 2
+124. A polygon has 9 sides. What will be its interior
+angle?
+(a) 140° (b) 100°
+(c) 120° (d) 40°
+RRB NTPC 30.03.2016 Shift : 1
+Ans : (a) each interior angle of regular polygon—
+_ (2n-4)x90° _ (2x9-4)x90° = 140°
+n 9
+125. The number of sides of a regular polygon
+whose internal angle is 150° will be—
+(a) 15 (b) 13
+(c) 12 (d) 14
+RRB NTPC 17.01.2017 Shift-3
+Ans : (c) Let number of sides =n
+en 2n-4)90°
+each interior angle of regular polygon = (2n—4)90"
+n
+150= 180n —360
+n
+150 n= 180n- 360
+30n = 360° => n= 12
+126. If each of the exterior angle of a regular
+polygon is 9°, then the number of sides of
+regular polygon will be—
+(a) 30 (b) 40
+(c) 45 (d) 36
+RRB NTPC 17.01.2017 Shift-1
+Ans : (b) each exterior angle of regular polygon
+_ 360
+n
+0
+$0, = 360 _ 9°
+n
+0
+n= 300" = 40 sides
+9
+127. Each exterior angle in a polygon is 72°. The
+number of sides is—
+(a) 7 (b) 6
+(ce) 5 @ 8
+RRB NTPC 11.04.2016 Shift : 1
+Ans: (c) Number of sides in a polygon
+_ 360° _ 360° _ 5
+each exterior angle 72°
+ns Co |
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0026_left.png =====
+128. Ina regular polygon, each exterior angle is 36°.
+Find the number of its sides.
+(a) ll (b) 9
+(c) 10 (d) 8
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (c) In polygon
+. 360°
+each exterior angle =—————_____
+number of sides
+0
+>36°= 360
+number of sides
+.'. Number of sides = 10
+129. In a polygon, each exterior angle is 45°, then
+the number of sides is:—
+(a) 7 (b) 6
+(©) 8 dd) 9
+RRB NTPC 22.04.2016 Shift : 2
+Ans : (c) Number of sides of polygon
+_ 360° 360g
+each exterior angle 45
+130. In a polygon, each exterior angle is 40°, then
+the number of sides is:
+(a) 8 (b) 45
+(©) 9 (d) 10
+RRB NTPC 26.04.2016 Shift : 3
+Ans: (c) Number of sides = 360°
+each exterior angle
+= 360° 9
+40
+131. What is the number of sides of a regular
+congruent triangle?
+(a) 6 (b) 4
+(©) 3 (d) 2
+RRB NTPC 30.04.2016 Shift : 3
+Ans : (c) Sides number of any triangle is 3 and sum o1
+three interior angle is 180°.
+Type - 11
+132. If two complementary angles are in the ratio of
+11:7, then find the smaller angle.
+(a) 35° (b) 55°
+(c) 45° (d) 25°
+RRB RPF SI - 11/01/2019 (Shift-I1)
+Ans : (a) Sum of two complementary angle is 90°
+Small angle = x90 = 1x90 =35°
+11+7 18
+133. The supplement of an angle is 15° more than
+three times its complementary. What will be
+the value of the angle?
+(a) 57.5° (b) 72.5°
+Geometry 56!
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0026_right.png =====
+(c) 52.5° (d) 65°
+RRB Group-D — 16/10/2018 (Shift-III)
+Ans : (c) Suppose angle = x°
+According to the question
+180° x° = 3(90°-x°) + 15°
+2x° = 270° + 15° — 180°
+2x° = 105°
+134. How many degrees does an angle that is 1/5 of
+its supplementary angle?
+(a) 45° (b) 30°
+(c) 60° (d) 75°
+RRB NTPC 04.04.2016 Shift : 2
+Ans : (b) Suppose an angle = x°
+its supplementary angle = 5x°
+sum of two supplementary angle = 180°
+x +5x =180°
+6x =180 > x =30°
+required angle = 30°
+135. If two supplementary angles are in the ratio
+4:5, Find the larger angle.
+(a) 80° (b) 50°
+(c) 60° (d) 100°
+RRB NTPC 16.04.2016 Shift : 1
+Ans : (d) Suppose angle is 4x° and 5x° respectively
+We know that sum of two suuplemetary angle is 180°.
+24x? + 5x° = 180°
+9x° = 180°
+x° = 20°
+~. large angle (5x°) = 5 = 20° = 100°
+136. If the ratio of two supplementary angles are
+13:5, find the difference between the two.
+(a) 60° (b) 70°
+(c) 80° (d) 120°
+RRB NTPC 18.04.2016 Shift : 2
+Ans : (c) Let first angle = 13x°
+Second angle = 5x°
+then —13x° + 5x° = 180°
+(sum of supplementary angle)
+18x° = 180°, x°= 10°
+first angle = 13 x 10° =130°
+second angle = 5 x 10° = 50°
+required difference = 130° — 50° = 80°
+nS ¢
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0027_left.png =====
+137. If (6y+70)° and (3y+47)° are supplementary
+angles, find the value of y.
+(a) 12 (b) 15
+() 7 (d@) 10
+RRB NTPC 12.04.2016 Shift : 2
+‘Ans : (c) (6y + 70)° + By + 47)° = 180°
+6y° + 70° + 3y° + 47° = 180°
+9y? + 117° = 180°
+9y? = 180° — 117°
+9y° = 63°, yo =7°
+138. If (7x + 5)° and (x + 5)° are complementary
+angles, then find value of x.
+(a) 10°
+(b) 20°
+(c) 30°
+(d) 40°
+RRB NTPC 12.04.2016 Shift : 3
+Ans: (a) We know that sum of complementary angles|
+is equal to 90°
+.. According to the question,
+(7x + 5)° + (x+5)° = 90°
+=> Tx° + 5° +x° + 5° = 90°
+=> 8x° = 90°- 10°
+8x° = 80°
+x°= = = 10°
+139. The ratio of two complementary angles are 4:5,
+find the ratio of the square of the first angle to
+the square of the second angle.
+(a) 16:25
+(b) 64: 125
+(c) 100: 125
+(d) 25:16
+RRB NTPC 28.04.2016 Shift : 2
+Ans : (a) Suppose both complementary angle are 4x°
+and Sx° respectively
+©. Ax? + 5x? = 90°
+9x° = 90°
+x° = 10°
+«. first complementary angle = 40°
+second complementary angle = 50°
+<". required ratio = (40) : (50)
+= 1600 : 2500 = 16: 25
+Geometry 56!
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0027_right.png =====
+Type -3
+140. In the given figure, AOB is a straight line,
+ZAOC = 67° and the bisector of ZBOC is OD.
+What is the value of ZBOD in degrees?
+C D
+PD \ /
+A oO B
+(a) 56° (b) 55.5°
+(e) 55° (d) 56.5°
+RRB Group-D — 20/09/2018 (Shift-III)
+Ans : (d) ZAOC = 67°
+«. ZBOC = 180 - 67
+ZBOC = 113°
+Bisector of ZBOC is OD
+So, ZBOD= auc
+ZBOD= U3
+2
+ZBOD = 56.5°
+141. In the figure, AB || CD and ZAFE = 30° then
+ZFCD is:
+F
+A E B
+Cc D
+(a) 60° (b) 120°
+(c) 90° (d) 45°
+RRB Group-D — 05/11/2018 (Shift-III)
+Ans. (b) :
+F
+Al E B
+Cc D
+Given,
+AB ||CD
+ZAFE = 30°
+ZFCD=?
+) YCT
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0028_left.png =====
+AAEF &
+ZAFE = 30° (given)
+ZFAE = 90°
+*: sum of all three angles of A is 180°
+~. 90° + 30° + ZAEF = 180°
+~. ZAEF = 180°-120° = 60°
+ZBEC = 60° (vertically opposite angle)
+ZFEB + ZBEC = 180° (alternate angle)
+ZFEB + 60° = 180°
+ZFEB = 120°
+-: ZFEB = ZFCD (corresponding angle)
+o ZFCD = 120°
+142. There are two vertical pillars of heights 8 m
+and 12 m. One rope is drawn from the top of
+both the pillars to the bottom of the other. At
+what height from the ground do the ropes cut
+each other?
+(a) 24/5 m (b) 22/7m
+(c) 29/6 m (d) 31/8m
+RRB Group-D — 12/10/2018 (Shift-I)
+Ans. (a) : given-
+heights of pillars = 8 m, 12 m
+A
+bx -
+Ca B
+The rope cuts each other at a height of h meter from the|
+ground.
+from, op = 228
+a+b
+12x8_12x8_ 24
+howe a =
+12+8 20 5
+143.
+t
+K2 x
+3
+6 y
+8
+7 |
+Geometry 57
+
+
+===== Part 26 — Geometry (pp. 543–570)_page-0028_right.png =====
+x, y and z are parallel lines and t is a
+transversal intersecting them all. Which of the
+following lists of angles is the same?
+(a) 2,3,5 (b) 2,6,8
+(c) 1,4,9 (d) 4,5,7
+RRB NTPC 31.03.2016 Shift : 1
+Ans: (c) 21 = 24 (Corresponding angle)
+24 = Z6 (Vertical opposite angle)
+26 = Z9 (Corresponding angle)
+So angles 1, 4, 9 are equal/same
+144. Consider the following statements, and choose
+the correct option:—
+When two straight lines intersect each other,
+then
+1. Adjacent angles are complementary.
+2. Opposite angles are complementary.
+(a) Both | and 2 are incorrect.
+(b) Both 1 and 2 are correct.
+(c) 1 is incorrect and 2 is correct.
+(d) 1 is correct and 2 is incorrect.
+RRB NTPC 16.04.2016 Shift : 1
+Ans: (d)
+Cc
+a
+D
+When two straight lines intersect each other then)
+adjacent angle be complementary angle.
+145. Horizontal lines are on the same line.
+(a) Equal in length
+(b) Parallel to each other
+(c) Intersecting each other
+(d) From a triangle
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (b) horizontal line on one line is parallel of each
+other.
+nS Co

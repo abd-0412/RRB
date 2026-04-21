@@ -1,0 +1,3546 @@
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0001_left.png =====
+02.
+————————
+Type -9
+1. Find the greatest among these fractions.
+5/6, 6/11, 2/3, 8/9, 6/7
+(a) 2/3 (b) 8/9
+(c) 5/6 (d) 6/7
+RRB JE - 01/06/2019 (Shift-IT.
+Ans. (b) From question :-
+3-083
+6
+S <0 54
+11
+2 =0.67
+3
+2 =0.89
+9
+8 =0.85
+7
+Hence, the greatest fraction is 0.89 -3
+2. Find the difference between the greatest and
+the least fraction among 2/3, 3/4, 4/5, 5/6.
+(a) 3/5 (b) 1/7 () 16 = (d)2/5
+RRB JE - 22/05/2019 (Shift-I
+Ans : (c) : =0.66 the least fraction, '
+3 975
+4
+4 og
+5
+5
+ra =0.83 the greatest fraction,
+Hence, the required difference = 35 - 2 = 5-4 = a
+6 3 6 6 :
+3. Which of the following is the greatest?
+(a) 15/16 (b) 24/25
+(c) 34/35 (a) 19/20
+RRB JE - 02/06/2019 (Shift-IL
+(Ans. (c) 15/16 = 0.937
+24/25 = 0.96
+34/35 = 0.97 (the greatest fraction)
+19/20 = 0.95
+4, Find the greatest among these fractions.
+§/11, 3/15, 12/11, 4/7, 9/12
+(a) 12/11 (b) 3/15
+(c) 9/12 (d) 4/7
+RRB RPF-SI -10/01/2019 (Shift-I)
+Decimal Fractions 40
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0001_right.png =====
+° °
+Decimal Fractions
+TS
+Ans: (a)
+—_ 0.45, 3. 0.2, BL 1.09, aL 0.57, oe 0.75
+11 15 11 7 12
+: : - 12
+Hence, the required largest fraction will be = rT
+5. Find the least among these fractions.
+11 9 500
+10’ 100’ 1000’ 10000
+500 1
+_—_ ‘b) —
+® T0000 ©) i00
+1 9
+—_ ‘d) ——
+© © T0009
+RRB RPF Constable -17/01/2019 (Shift-I
+1
+Ans. (d): —=0.1
+ns. (d) 10
+Loo
+100
+a = 0.009
+1000
+500
+—— = 0.05
+10000
+0.1 > 0.05 > 0.01 > 0.009
+Hence, it is clear that the required fraction is = :
+1000
+6. Which of the following fractions is the
+greatest?
+(a) 8/19 (b) 9/22
+(c) 10/23 (d) 11/24
+RRB RPF-SI -11/01/2019 (Shift-I11)
+Ans : (d) From options
+& = 0421,2- = 0.409,22 = 043,41 = 0.458
+19 22 23 24
+Hence, the required greatest fraction is x :
+7. Arrange the following ratios in decreasing
+order, which number will be the last?
+11:14, 17:21, 5:7, 2:3
+(a) 17:21 (b) 5:7
+(c) 2:3 (d) 11:14
+RRB Group-D — 05/10/2018 (Shift-ID.
+Ans. (c) The given proportional numbers are-
+1117 5 2 _33 34 30 28
+14°21°7°3 42742742" 42
+The decreasing order of the numbers,
+17_11_5_2
+aid
+21 14 7 3
+Hence, the least proportional number will be 2/3.
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0002_left.png =====
+8. Which of the following fractions is the largest?
+2234
+8712716720
+3 4
+= b) —
+@ 7 6 (b) 30
+1 2
+a dp =
+(©) 8 (d) D
+RRB Group-D — 12/10/2018 (Shift-I11
+Ans: (b) 570.125
+2 = 0.166
+12
+3 = 0.187
+16
+A = 0.200
+20
+Hence, it is clear that x is the greatest fraction.
+9. Which of the following fractions is the largest?
+35 8 25
+15’ 2076471000
+5 8
+a b) —
+® 30 © G
+3 25
+= d ao
+© 45 © F000
+RRB Group-D — 10/10/2018 (Shift-II1)
+Ans: (a)
+(a) > =0.25 (b) & = 0.125
+20° 64
+3 25
+==02 d) —— = 0.025
+O75 © F000
+Hence, the largest fraction is = :
+10. | Which of the following is the smallest fraction?
+4536
+94°87
+3 4
+a) > b) =
+(a) 8 (b) 9
+6 5
+= d) =
+(©) 7 (d) 4
+RRB Group-D — 16/10/2018 (Shift-II)
+Ans: (a)
+4 = 0.444
+9
+3=125
+4
+3 = 0.375
+8
+6 = 0.857
+7
+Hence, it is clear that 2 is the smallest fraction.
+Decimal Fractions 41
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0002_right.png =====
+11. Which of the following fractions is the largest?
+29 8
+2 b) —
+® © a
+5 25
+= d =
+© i @ 6
+RRB Group-D — 16/10/2018 (Shift-ID)
+Ans: (b) 29 0376
+71
+8 = 0.380)
+21
+= = 0.357, 25 = 0.378
+14 66
+Hence, it is clear that * is the largest fraction.
+12. Which of the following is the smallest fraction?
+6 13 15 19 5
+11°18’ 22"36"6
+19 13
+— 'b)
+® 36 © is
+6 B
+— d) =
+(©) rT @ 6
+RRB Group-D — 24/10/2018 (Shift-IT)
+Ans. (a) : $ 13 15 19'S
+11°18°22°36°6
+$054, Bion
+1 18
+15 19
+—=0: —=0.52
+22 068. 36°
+3 = 0.83
+6
+Hence, it is clear that the smallest fraction is e 5
+8659
+13. =,—,—,>
+6°4°3'5
+The largest fraction among the given fractions
+is:
+5 6
+= b) —
+(a) 3 oF
+9 8
+OMe dy) =
+OF O |
+RRB Paramedical Exam — 20/07/2018 (Shift-I1I)
+8 6
+Ans. (c) : = =1.33, —=1.50
+ns. (c) 6 4
+321.66, 2 <1.0
+3 5
+Hence, it is clear that the required largest fraction is ; :
+14. Which of the following is the smallest fraction?
+35 8 28
+15°20’ 64" 1000
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0003_left.png =====
+8 25
+_ by)
+© & ©) F000
+5 3
+—s do =
+© 30 @ is
+RRB Group-D — 15/10/2018 (Shift-I1)
+Ans : (b)
+3-02, 5-025
+15 20
+a 0.125, a 0.025
+64 1000
+. 25
+Hence, the required smallest fraction is 000 ¢
+15. | Which of the following fractions is the least of
+all?
+3/4, 3/5, 3/8, 3/11
+(a) 3/4 (b) 3/7
+(c) 3/11 (d) 3/8
+RRB NTPC 31.03.2016 Shift : 3
+3333
+Ans: Pity tert
+ms OSE Ti
+‘: The numerators of all the fractions are same, so the|
+fraction of the greatest denominator will be the least o!
+all.
+Hence, the required fraction will be zn .
+16. Which of the following fractions is the least of
+all?
+(a) 6/5 (b) 43
+(c) 3/2 (d) 5/4
+RRB NTPC 29.03.2016 Shift : 3
+Ans : (a)
+6 4
+z=12, Z=133
+5 3
+3. 1.5, 3S. 1.25
+2 4
+Hence, it is clear that Sis the required least fraction of
+all.
+17. Which of the following fractions is largest?
+(a) 3/4 (b) 4/5
+(c) 5/6 (d) 7/8
+RRB NTPC 27.04.2016 Shift : 1
+Ans: (d) 2=0.75, 4=0.80,2=0.33, 2=0.875
+4 5 6 8
+Hence, the required largest fraction is z :
+18. The smallest of the fractions among 5/8, 3/4,
+13/16, 7/12 is :
+(a) 5/8 (b) 3/4
+(c) 13/16 (d) 7/12
+RRB NTPC 27.04.2016 Shift : 2
+Decimal Fractions 42
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0003_right.png =====
+Ans: (d)
+cee 0.625, 3. 0.75, os 0.8125
+8 4 16
+1. 0.58
+12
+Hence, the smallest fraction is 3 .
+19. | Which of the following fractions is the least?
+3 4
+a) = b) =
+(a) 4 (b) 3
+5 6
+co) = dy =
+(©) 6 qd) 7
+RRB NTPC 29.04.2016 Shift : 3
+Ans. (a) : From options,
+3 4
+—=0.75, ==0.80
+4 5
+3 =083, $085
+6 7
+Hence, the required least fraction is 3.
+20. Which of the following is the least fraction?
+(a) 3/5 (b) 5/6
+(c) 2/3 (d) 4/5
+RRB NTPC 30.04.2016 Shift : 2
+3 5 2 4
+Ans : (a) == 0.6, —=0.83,—=0.66, —=0.8
+5 6 3 5
+Hence, it is clear that the least fraction will be 2 .
+21. | Which of the following is a reducible fraction?
+91 79
+— b) =
+@ () 36
+105 41
+pind dp
+© tp Oy
+RRB ALP & Tee. (09-08-18 Shift-IT
+Ans : (c) A fraction whose fractional shares have a
+common factor, is called reducible fraction.
+105 _ 7x15
+112 7x16
+Type - 2
+22. Arrange the following fractions in descending
+order.
+5/6, 3/7, 8/9, 3/14
+(a) 8/9, 5/6, 3/7, 3/14 (b) 8/9, 3/14, 3/7, 5/6
+(c) 5/6, 8/9, 3/7, 3/14 (d) 3/7, 8/9, 5/6, 3/14
+RRB JE - 22/05/2019 (Shift-II.
+Ans : (a)
+3. 0.83, 3. 0.42, 8 = 0.88, 3. 0.21
+6 7 9 14
+Hence, the descending order of the fractions is
+an
+9°6°7'14°
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0004_left.png =====
+23. Which of the following fractions are in}:
+descending order?
+(a) 5/8, 7/12, 3/4, 13/16
+(b) 7/12, 13/16, 3/4, 5/8
+(c) 5/8, 7/12, 13/16, 3/4
+(d) 13/16, 3/4, 5/8, 7/12
+RRB JE - 26/06/2019 (Shift-IL
+(a) 5/8 = 0.62, 7/12 = 0.58, 3/4 = 0.75, 13/16 = 0.81
+\(b) 7/12 = 0.58, 13/16 = 0.81, 3/4 = 0.75, 5/8 = 0.62
+(c) 5/8 = 0.62, 7/12 = 0.58, 13/16 = 0.81, 3/4 = 0.75
+\(d) 13/16 = 0.81, 3/4 = 0.75, 5/8 = 0.62, 7/12 = 0.58
+Hence, option (d) is in descending order.
+24. Which of the following fractions are in
+ascending order?
+(a) 0.65, 0.76, 0.67, 0.86,
+(b) 0.65, 0.86, 0.67, 0.76
+(c) 0.65, 0.67, 0.76, 0.86
+(d) 0.67, 0.65, 0.76, 0.86
+RRB RPF Constable -17/01/2019 (Shift-IL
+0.65 < 0.67 < 0.76 < 0.86
+Hence, option (c) is in ascending order.
+25. Which of the following is true for given
+numbers?
+(a) 13/33<32/47<20/47<25/27
+(b) 13/33<20/47<25/27<32/27
+(c) 13/33<20/47<32/47<25/27
+(d) 20/47<13/33<32/47<25/27
+RRB RPF-SI -13/01/2019 (Shift-L
+Ans : (c) The given fractions—
+B 935, B04
+33 47
+BL 0.68, 25 0.92
+47 27
+039 < 0.42 < 0.68< 0.92
+1320 32 25
+Hence, — <—<—<—
+33-42 4727
+26. Which from the following is in descending
+order?
+(a) 2/3, 3/4, 4/5, 1/2
+(b) 3/4, 4/5, 1/2, 2/3
+(c) 4/5, 3/4, 2/3, 1/2 .
+(a) 4/5, 1/2, 2/3, 3/4
+RRB RPF Constable -25/01/2019 (Shift-I
+Ans: (c) From option (c),
+4321
+5°4°3°2
+-s LCM of the denominators = 60
+Hence, again from option (c),
+48 45 40 _ 30
+=— > >
+60 60 60 60
+Hence. 4320 are in descending order.
+> 5747372 7
+Decimal Fractions 43
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0004_right.png =====
+27. Whose ascending order from the following
+numbers is correct?
+537 357
+parers b) 2255
+© 65" © 369
+375 735
+ror do 25
+© 39% © 33%
+RRB RPF Constable -20/01/2019 (Shift-1
+Ans: (c) The given fractions,
+3.083 3.06
+6 5
+tion
+9
+The required ascending order is 0.6, 0.77, 0.83
+a3 75
+5°96
+28. Find the value of V2 to eight digits of decimal.
+(a) 141421356 (b) 1.41421354
+(c) 1.41421346 (d) 1.41421366
+RRB Group-D — 12/10/2018 (Shift-IT)
+Ans : (a) Extracting the square root ot
+2.0000000000000000 by division method, the result ot
+8-digit number 1.41421356, is obtained.
+That is V2 = 1.41421356
+29. Which among the following is the correct
+ascending order of the numbers?
+14 1 4
+20.33 b)  =,0.33,—
+® 375 ©) 30375
+4 1 41
+c) —,0.33,= d) 0.33,=,—
+© 15 3 @ 15°3
+RRB NTPC 17.01.2017 Shift-1
+Ans: (c) From the given fractions,
+120 333,4 = 0.266 and 0.33
+3 15
+0.266<0.33<0.333
+4 <0.33< i
+15 3
+Hence, the required ascending order of the numbers will
+4 1
+be 7570333 -
+30. The correct ascending order of the given
+numbers is:
+3 91 411
+rere’ b) To
+® Weiss © 353°
+13 4 431
+Perrier qd) oS
+© 31015 © 5703
+RRB NTPC 17.01.2017 Shift-3
+Ans: (d) 3 £9304. =026,1=033
+10 15 3
+0.26 < 0.30 < 0.33
+Hence, the required ascending order is 4.3. 7 .
+15 10 3
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0005_left.png =====
+31. Which of the following is correct for the given
+numbers?
+(a) 12/43<32/67<45/81<22/55
+(b) 12/43<22/55<45/81<32/67
+(c) 12/43<32/67<22/55<45/81
+(d) 12/43<22/55<32/67<45/81 .
+RRB NTPC 04.04.2016 Shift : 3
+Ans : (d) From options,
+Poa, 2-047, 8-055, 2-04
+43 67 81 55
+1222 32 45
+<<<
+43 55 67 81
+Hence, 0.27<0.4< 0.47 <0.55
+32. Which one is correct for the following given
+numbers?
+(a) 25/51 < 12/19 < 47/63 < 63/79
+(b) 25/51 < 63/79 < 12/19 < 47/63
+(c) 12/19 < 25/51 < 63/79 < 47/63
+(d) 63/79 < 47/63 < 12/19 < 25/51
+RRB NTPC 03.04.2016 Shift : 3
+Ans : (a)
+35 _ 9.490 2 0631
+51 19
+aia 0.746 83 _ 0.797
+63 79
+The correct order is 0.490 < 0.631 < 0.746 < 0.797
+25 12 47 63
+Hence, —<—<—<—
+5119 63 79
+33. Which of the following is correct for the given
+numbers?
+(a) 13/21 < 57/97 < 52/94 < 36/79
+(b) 36/79 < 57/97 < 52/94 < 13/21
+(c) 36/79 < 52/94 < 13/21 < 57/97
+(d) 36/79 < 52/94 < 57/97 < 13/21
+RRB NTPC 02.04.2016 Shift : 1
+13 57
+Ans : (d) rT 0.619, 7 0.587
+29553, 3804s |
+94 79
+36 52_57_ 13
+Hence, —<—<—<—
+79 94 97 21
+34. Which of the following is correct for the given
+numbers?
+(a) 3/8 < 19/73 < 29/47 < 17/39
+(b) 19/73 < 3/8 < 17/39 < 29/47
+(c) 19/73 < 3/8 <29/47 < 17/39
+(d) 19/73 < 29/47 < 3/8 < 17/39
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (b) From the given fractions,
+3. 0.37
+8
+BL 0.26
+73
+29 0.61
+47
+Decimal Fractions 44
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0005_right.png =====
+V_o43
+39
+Hence, the correct order is bv < 3 < i < 29
+73 8 39 47
+35. Which of the following is in ascending order?
+(a) 2/3, 3/4, 4/5, 1/2
+(b) 3/3, 4/5, 1/2, 2/3
+(c) 1/2, 2/3, 3/4, 4/5
+(d) 4/5, 1/2, 2/3, 3/4
+RRB NTPC 30.03.2016 Shift : 1
+Ans : (c) Solving the options,
+2341
+(a) =,—,>,—— 0.67,0.75,0.8,0.5
+3°4°5°2
+(b) 3412 075,0.8,0.5,0.67
+47°5°2°3
+(c) 1234, 0.5,0.67,0.75,0.8
+23°45
+@ 4+23_,08,05,067,075
+§°2°3°4
+Hence option (c) is an ascending order of the given|
+fractions.
+36. Arrange the following fractions in correct
+descending order.
+(a) 7/9, 11/47, 5/13, 24/29
+(b) 24/29, 11/47, 7/9, 5/13
+(c) 11/47, 5/13, 7/9, 24/29
+(d) 24/29, 7/9, 5/13, 11/47
+RRB NTPC 18.01.2017 Shift : 3
+Ans : (d) The given fractions,
+40827,  +=0384
+2900" 13
+7 11
+==0.777, — = 0.234
+9 47
+Hence, arranging into descending order-
+247 5 1
+2979713747
+37. Which is the correct ascending order of the
+given numbers?
+253 3.25
+Poy b) T5565
+® 364 © 296
+235 532
+Ores dad 2.7.5
+© 3°4°6 @ 643
+RRB NTPC 11.04.2016 Shift : 1
+Ans: (c) From the given fractions,
+2
+= =0.66......
+3
+5
+== 0.83......
+6
+3.075...
+4
+Arranging into ascending order- 0.66 < 0.75 < 0.83
+235
+trees
+3°4°6
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0006_left.png =====
+38. Which is the correct ascending order of the |:
+given numbers?
+(a) 1/3, 1/5, 2/5 (b) 1/3, 2/5, 1/5
+(c) 1/5, 1/3, 2/5 (d) 1/5, 2/5, 1/3
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (c) 7 0.33
+4.02, 2.04
+5 5
+Hence, the required ascending order is 0.2, 0.3, 0.4
+112
+5°3’5
+39. Whose ascending order is correct from the
+given fractions?
+@ Bu wo Use
+8° 24°16 16°8° 24
+@ 519 @ Bus
+8°16 24 24°16°8
+RRB NTPC 11.04.2016 Shift : 3
+Ans: (¢) 5. 0.625 Be 0.791 He. 0.687
+8 24 16
+Hence, the required ascending order is 0.625 < 0.687 <
+0.791
+5 ll 19
+> o<— <
+8 16 24
+40. Which one is correct for the following given
+numbers?
+(a) 13/41 < 32/67<45/81<23/53
+(b) 13/41 < 23/53 < 45/81 < 32/67
+(c) 13/41<32/67 < 23/53 < 45/81
+(d) 13/41 < 23/53 < 32/67 < 45/81
+RRB NTPC 10.04.2016 Shift : 3
+Ans : (d) From given fractions,
+B 931, 3 gaz
+41 67
+8 055, 23 9.43
+81 53
+0.31 < 0.43 < 0.47 < 0.55
+1323 32 ~~ 45
+=>o<S<Sc<s
+41 53 67 81
+41. Arrange the following fractions in ascending |
+order.
+(a) 11/17 < 41/63 < 3/7 <21/29
+(b) 41/63 < 3/7 <21/29 <11/17
+(c) 3/7 < 11/17 < 41/63 < 21/29
+(d) 3/7 < 11/17 < 21/29 < 41/63
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (c) be 064,41 = 0.65
+17 63
+3. 042,21 =0.72
+7 29
+Hence, the required ascending order is 0.42, 0.64, 0.65,
+om=3<l A. 21
+. 7_17_ 63 29
+Decimal Fractions 45
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0006_right.png =====
+42. Which of the following given numbers is in
+ascending order?
+1 2 12
+=,0.3,— b)  0.3,5,—
+@ 7035 (b) 3°8
+2 1 12
+=,0.3,— d) =,=,0.3
+(©) p03 (d) 38
+RRB NTPC 07.04.2016 Shift : 2
+Ans : (c) From given fractions,
+4 933,2=0.25 and 03
+3 8
+Arranging in ascending order-
+0.25 <0.3 < 0.33 =2.931
+8 3
+43. What is the correct ascending order of the
+following numbers?
+3172
+42473
+1732 3217
+wa. b) F.5555
+@ 9493 ©) 73%
+2317 217 3
+aoa do 35
+© 340 @ p24"
+RRB NTPC 19.01.2017 Shift : 1
+Ans : (d)
+3.075, 7.07083, 2-08
+4 24 3
+Hence, the correct ascending order is 27,3
+lence, the correct ascending order 1s 3°24°4°
+44. Which is the correct ascending order of the
+given numbers?
+3 2 23
+=,03,= b) 0.3,2,>
+@) 7035 ©) 3855
+2 3 23
+= 10.3,> dy) =,>,03
+© 7035 O35
+RRB NTPC 22.04.2016 Shift : 2
+Ans : (c) Denoting the given fractions in decimals,
+03,2 = 0.42,2 = 0.28
+7 7
+Hence, the required ascending order is 0.28, 0.3, 0.42 =
+2 93,3
+PT
+45. Which is the correct ascending order of the
+given numbers?
+127 721
+Pep b) a5
+© 2310 © rs?
+172 217
+eres d) 25.5
+© 33 © 3210
+RRB NTPC 26.04.2016 Shift : 2
+Ans : (c) Denoting the given fractions in decimals,
+Los, 20.66, 1-058
+2 3 12
+Hence, the correct ascending order is 0.5, 0.58, 0.66
+1,7 2
+= o<i<t,
+2 12 3
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0007_left.png =====
+46. Which is the correct ascending order of the
+given numbers?
+135 531
+Powers b) =.-,5
+© 3983 © 993
+15 3 315
+) a22 d 22
+© 3°8°4 © 4°3°8
+RRB NTPC 26.04.2016 Shift : 3
+Ans: (c) 4=033, 2=0.75, 5=0.625
+3 4 8
+Hence, the required ascending order is pe 4 :
+47. What is the correct ascending order for the
+given fractions?
+(a) 22/7, 13/17, 11/19, 2/3
+(b) 11/19, 2/3, 13/17, 22/7
+(c) 2/3, 11/19, 13/17, 22/7
+(d) 2/3, 13/17, 11/19, 22/7
+RRB NTPC 28.04.2016 Shift : 2
+Ans: (b) 22=3.14, 8 -0.76
+7 17
+HU 957, 2-067
+19 3
+Hence, the ascending order will be i < 2 < B < 2
+19 30:17: = 7
+48. Write the correct ascending order of the given
+fractions.
+(a) 3/7, 15/41, 19/35, 7/11
+(b) 15/41, 3/7, 19/35, 7/11
+(c) 3/7, 15/41, 7/11, 19/35
+(d) 19/35, 7/11, 15/41, 3/7
+RRB NTPC 28.04.2016 Shift : 3
+Ans:  (b) From options,
+5 _9365, 30.428
+41 7
+Piosp,  1-0.636
+35 ll
+. _ IS 3L19 7
+2 <i< 2 <
+Hence, the ascending order is W735 S11
+49, Which is the correct ascending order of the
+given numbers?
+5 11 8 85 11
+(a) rarer) (b) 06D
+5811 1185
+OD d S055
+© oon ® 79"
+RRB NTPC 30.04.2016 Shift : 3
+Ans : (c) from options,
+30.83
+6
+LH o92 }
+12
+; = 0.88
+Hence, the required ascending order of the numbers is|
+5811
+679712"
+Decimal Fractions 46
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0007_right.png =====
+Type -3
+50. | Which of the following is terminating decimal?
+1 1
+— b) —
+® 3 ©) 34
+1 1
+— d) —
+© 96 © 4s
+RRB RPF-SI -05/01/2019 (Shift-III)
+Ans : (a) From options,
+a 0.03125
+32
+a 0.416666667
+24
+a 0.0104166667
+96
+aoe 0.0208333333
+48
+If the number obtained by dividing a number, the digits}
+do not repeat over and over. We call it a terminating)
+decimal.
+an i. 0.03125
+32
+Hence, option (a) 4 is in terminating decimal.
+51. | Which of the following will have a terminating
+decimal expansion?
+57 47
+— b) ——
+® 10 ® 50
+61 43
+— dp 2
+© To @ Tao
+RRB Group-D — 20/09/2018 (Shift-I1)
+Ans : (a) From options,
+57
+— = 0.475
+® i209
+47 =z
+b) — = 0.313
+@) 150
+61 ora
+— =0.5545
+© T1097
+43 reryr
+d — =0.30714285
+@ 140 3 8
+Hence, a will have a terminating decimal expansion.
+52. | Which of the following numbers will have a
+value of terminating decimal?
+9 6
+ae b) —
+© 3 © 45
+3 12
+a dp
+© 45 © %
+RRB Group-D — 24/09/2018 (Shift-I1)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0008_left.png =====
+9
+Ans : (a) —=0.2
+ns : (a) 45
+& = 0.1333
+45
+3 = 0.06667
+45
+B = 0.26667
+45
+Hence, it is clear that the value of option (a) 2. isa
+terminating decimal.
+53. Which of the following will give expiration
+decimal?
+12 6
+<= b) —
+@® 7B ® a
+9 3
+(©) coy (d) n
+RRB Group-D — 03/10/2018 (Shift-II1)
+Ans : (c) P19 166666---
+72 6
+61
+Fa 7 Tp 7 0 083333-——
+9 1
+ay Tg 7 0125
+3-1. 9041666----
+72 24 )
+. 9 1 5
+Hence, option (c) 787 0.125 is correct.
+54. Which of the following fractions will not have a
+value in recurring decimal?
+20 25
+= b) =
+® 56 ©) 56
+10 21
+= d) =
+©) 56 (d) 56
+RRB Group-D — 20/09/2018 (Shift-I)
+20 25
+Ans. (d): (a) — = 0.357142 'b) = = 0.44642
+@: @) 56 (b) 56
+10 21
+= = 0.178571 d) = =0.375
+(©) 56 (d) x6
+Hence, the value of option (d) 2 = 0.375 is not in|
+recurring decimal.
+55. | Which of the following options is an example of |
+recurring decimal?
+24 24
+= b =
+© © ®
+24 24
+i d
+© 0 @ 30
+RRB Group-D — 17/09/2018 (Shift-II)
+Decimal Fractions 47
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0008_right.png =====
+24 24
+
+Ans : (b) —=04 b) — =0.266
+
+ns: (db) (a) ®)
+24 24
+
+— =0.2 d) —=08
+© 30 @ 30
+
+Hence, option (b) 2 is an example of recurring
+
+decimal.
+
+56. Which of the following vulgar fractions, when
+written as a decimal and its value will not be
+found in a terminating decimal?
+
+27 21
+ae b)
+© 480 ©) Go
+81 240
+= d Se
+© 450 © 50
+RRB Group-D — 22/10/2018 (Shift-IID)
+27
+Ans: (d) —— = 0.05625
+ns: d) (@) 70
+(&) 21 =0.0328125
+640
+81
+— =0.18
+© 450
+(d) 240 _ 95333 = 0.53
+450
+age . 240 <
+
+Hence, it is clear that option (d) 07 0.5333 = 0.53
+
+is not giving a value in terminating decimal.
+
+57. Which of the following fractions will be a
+terminating decimal?
+
+6 12
+(a) aa (b) 14a
+3 9
+a dp 2
+© a4 © Ta
+RRB Group-D — 03/12/2018 (Shift-IT.
+Ans: (d) - == = 0.0416
+144 72 24
+22 1 9 083
+144 12
+> =~ 0.02083
+144 48
+3 1. 0.0625
+144 16
+wee . 9 1 .
+
+Hence, it is clear that option (d) Tas 167 0.0625 is a
+
+terminating decimal fraction.
+
+58. Which of the following is terminating decimal
+expansion?
+
+1 17
+a) = b) =
+(a) 6 (b) 25
+10 1
+_ d) —
+Os OF
+RRB NTPC 17.01.2017 Shift-2
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0009_left.png =====
+Ans : (b) (a) <- 0.166 ....... (Non-terminating) |
+17_ _
+(b) 35 088 sess. (Terminating)
+10 a
+(c) 3" 3.33 .......... (Non-terminating)
+(d) at 0.090909 ... (Non-terminating)
+Hence, option (b) is terminating decimal.
+59. Which of the following will yield a recurring
+decimal?
+21 21
+_ b) ——
+® 30 ® 20
+21 21
+_ do =
+©) 0 (d) 0
+RRB ALP & Tec. (20-08-18 Shift-II) |
+Ans:(@ 2t=0.7, 2h<0175, 2-035
+30 120 60
+219 23333 => 0.23
+90 °
+Hence option (d) is recurring decimal.
+60. Which of the following will give a terminating |
+decimal?
+3 12
+= b)
+@ ©
+9 6
+_ do =
+(©) 36 (d) 36
+RRB ALP & Tec. (10-08-18 Shift-II)
+Ans : (c) From option (c),
+Jl. 0.25
+36 4
+Hence, it is clear that option (c) is a fraction of
+terminating decimal. '
+61. The fraction from the ones listed below that
+will not lead to a recurring decimal is:
+8 6
+2 b) =
+(a) 36 (b) 56
+4 7
+= do =
+© @
+RRB ALP & Tec. (09-08-18 Shift-II])
+Ans : (d) From options,
+8
+= = 0.142857......
+7 56
+6
+(b) —= 0.107142...
+56
+4
+(c) == 0.071428......
+56
+7
+d) —= 0.125
+(d) 36
+Decimal Fractions 48
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0009_right.png =====
+Type -3
+62. Evaluate:
+0.623
+623 23
+a) — b) 6—
+© 999 ® 999
+617 23
+(c) — (d) 6—
+990 990
+RRB JE - 31/05/2019 (Shift-ID
+Ans : (c) 0.623
+= 923-6 (From decimal fraction system)
+990
+_ 617
+990
+63. Find the value of 0.18.
+(a) 27/90 (b) 17/90
+(c) 17/100 (d) 18/100
+RRB JE - 29/05/2019 (Shift-II1)
+Ans : (b) 0.18
+_18-1_17
+10x9 90
+64. What is the correct expression of 0.0654 [( )
+sign represents continuous decimal)]?
+18 18
+aie b) —
+® 5 © on
+654
+654 d) ——
+(©) ®  to00
+RRB RPF-SI -10/01/2019 (Shift-I11)
+Ans : (a) 0. 0654
+_ 654-6 648 _ 18
+“9900 9900 _275
+65. 0.047619, when written as a vulgar fraction, is
+equal to-
+@y wo 4
+21 19
+1 1
+— d) —
+© 3 OF
+RRB Group-D — 19/09/2018 (Shift-II
+Ans. (a) : From given number,
+0.47619 = 247619 _
+999999 21
+66. Convert 0.6 into fraction:
+6 2
+a) = b) =
+(a) 3 (b) 3
+2 4
+fa d) =
+(© 6 (d) 3
+RRB Group-D — 28/09/2018 (Shift-II
+Ans. (b) : Given,
+0.6= §-2, sss... (From decimal fraction system)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0010_left.png =====
+67. Which of the following fractions’ result will not |
+be a recurring decimal?
+10 12
+— b)
+(a) 30 (b) 30
+14 8
+Om d) —
+(©) 30 (d) 30
+RRB Paramedical Exam — 21/07/2018 (Shift-II1)
+Ans : (b) From options,
+10 _ 1 z
+= = 550.3
+3073
+(b) B_4 2_ 0.4
+30 10 «5
+wy =D 048
+30. «15
+(a) 8 = 4 =026
+30. «15
+Hence, it is clear that option (b) is not in recurring}
+decimal.
+68. Which of the following vulgar fractions will not
+end when represented in decimal? :
+81 80
+a b) —
+® T50 ® 150
+15 21
+= do =
+© 48 © oo
+RRB Group-D — 10/10/2018 (Shift-I)
+Ans : (b) From options,
+81
+—— = 0.54
+750
+80
+b) = =0.5333333
+() 150
+15
+—=0.3125
+Oa
+(a) 21 = 0.035 |
+600
+Hence, it is clear that option (b) is not and decimal.
+69. 0.0236 when written as the simplest form,
+what will be the obtained vulgar fraction?
+13 13
+a b) —
+® Th00 © S099
+13 13
+—— d) —
+© 3300 ® 350
+RRB Group-D — 25/09/2018 (Shift-I)
+Ans: (d) 0.0236
+0.0236 = 2238
+10
+_ 236-2 _ 234
+10x990 9900
+17 3
+4950 550
+Decimal Fractions 49
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0010_right.png =====
+70. Express z in the form of decimal.
+(a) 0.623 (b) 0.633
+(c) 063 (@) 0.62
+RRB Group-D — 25/09/2018 (Shift-I)
+Ans : (c) The decimal of 2
+6363
+11)70
+66
+40
+33
+70
+66
+“40
+33
+7
+Hence, in 0.6363, two digits of the number (6 and 3) are
+repeating itself.
+71. Show 0.0836 in the form of vulgar fraction.
+46 23
+a) — (b) ——
+( 555 1100
+23 828
+(©) —- (d) ——
+275 9900
+RRB Group-D — 15/11/2018 (Shift-III)
+Ans : (c) : 0.0836 =?
+_ 836-8
+9900
+_ 828 _ 23
+9900 275
+72. wi when written as recurring decimal, will
+be equal to:
+(a) 0.2 (b) 0.02
+(c) 0.002 (d) 0.0002
+RRB Group-D — 12/10/2018 (Shift-I.
+. 1
+Ans. (c) : Given, 50
+On dividing,
+0.0022
+450) 1000
+900
+1000
+900
+T00
+Hence, = 0,003
+450
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0011_left.png =====
+73. Express 0.0987 as a vulgar fraction in its lowest
+form?
+163 329
+—— by) 2
+® F650 © 5090
+326 163
+“a d
+© 3300 © T6685
+RRB Group-D — 08/10/2018 (Shift-IIT
+Ans: (c) Letx= 0.0987 .
+100x = 987 Multiplying by 100 in both side,
+= 9.8787 ......
+= 9.78 + 0.098787 .....
+100x = 9.78 + x
+99x = 9.78
+9.78
+x=
+99
+_ 978 _ 326
+9900 3300
+74. Which of the following fractions will yield a
+recurring decimal?
+27 27
+ca by) Se
+© ©
+27 27
+_ d) <e
+© 3 ©
+RRB Group-D — 05/10/2018 (Shift-IIT.
+27 27
+Ans. (d)(a)—=0.45 (b) —=0.375
+ns. (J) @) =
+(2 = 0.5625 (d) Eton 0.32142857
+48 84
+Hence, the fraction z , gives a recurring decimal.
+75. If 0.41 is expressed as the vulgar fraction |
+——_41_ . Find n.
+999.....9(n times)
+(a) 1 (b) 3
+() 4 (d) 2
+RRB Group-D — 01/10/2018 (Shift-I1T.
+Ans : (d) Let 041=x
+0.414141 2... =x
+Multiplying by 100 in both sides,
+100x = 41.4141 .......
+100x = 41 +x
+99x =41
+41
+x=—
+99
+Hence, it is clear that the number of digit 9 in
+denominator is twice. So n= 2.
+76. Which of the following is equivalent to 0.56? :
+(‘—? represents recurring decimal)
+56 56
+a by) 2
+® 00 © 000
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0011_right.png =====
+56 560
+— d)
+(©) 99 @ 90
+RRB NTPC 17.01.2017 Shift-1
+Ans: (c) 056=0+2°
+99
+056= 56
+99
+77. Correct expression of 1.427 = ? (Bar sign
+indicates to recurring decimal)
+1427 157
+a b)
+® F000 © To
+1427 157
+_— dy eo
+© F000 @ on
+RRB NTPC 17.01.2017 Shift-3
+Ans: (b) 1.427=1+427
+427-4
+=14+———
+990
+423 47 _ 157
+=14+—— =1+—— =—_
+990 110 (110
+78. Correct expression of 0.018 =?
+1 18
+— b) —
+® 35 ©) 00
+18 1
+— d) —
+© F000 © %
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (a) x=.018= 18-0
+990
+18 1 . .
+=——=— _.......(From decimal fraction system)
+990 55
+79. Correct expression of 0.0234 =?
+13 34
+a) = ‘b) 2——
+@) 555 ®) 100
+134 234
+= d)
+© 990 © 000
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (a) Rule for converting mixed-recurring decimal
+fraction into common or vulgar fraction:-
+First non-recurring part is subtracted from recurring)
+part, as numerator, then take 9, equal to the number o!
+recurring digits, and add 0, equal to the number of non-|
+recurring digits, as denominator.
+From question,
+>a, _ 234-0
+0.0234 =—__
+9990
+_ 234 78 _ 13°
+9990 3330 555
+80. What is the correct expression of 2.56 (Bar
+sign represents to recurring decimal)
+560 56
+2— by) 2—
+@ 2% ©) 255
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0012_left.png =====
+56 56
+2 d) 222 |
+© x00 @ 2300
+RRB NTPC 19.01.2017 Shift : 3
+Ans : (b) 2.56
+2 456 = 296 ...(From decimal fraction system)
+99 99
+81. Correct expression of 0.0236 =?
+13 236
+— b) 2
+® 550 ® F000
+36 13
+2—_ d —
+© 2x00 @ 355 ,
+RRB NTPC 22.04.2016 Shift : 2
+Ans : (a) 0.0236 = 236-2
+9900
+_ 24
+9900 550
+82. Correct expression of 0.12636 =?
+139 36
+— b) 126——
+® Tho0 8000
+139 36
+— d) 126——
+© 5300 8 F000
+RRB NTPC 26.04.2016 Shift : 2
+Ans : (a) from question,
+0.12636 = 12636126 _ 12510 |
+99000 99000
+_ 1251 139
+~9900 1100
+Type -3
+- 73 -
+83. In decimal system ry can be written:
+(a) 9.50 (b) 9.125
+(c) 8.150 (d) 8.125
+RRB RPF Constable -19/01/2019 (Shift-I1)
+Ans. (b) : Given fraction, a
+B 9.125
+7 8)73
+72
+10
+8
+20
+16
+“40
+40
+xx
+. 73 .
+Hence, In decimal system 7 can be written 9.125
+Decimal Fractions 51
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0012_right.png =====
+84. Express Sorin ty in the form of
+decimal number.
+(a) 0.0888 (b) 0.0998
+(c) 0.0896 (d) 0.0968
+RRB JE - 26/05/2019 (Shift-II1)
+Ans: (d) From given expression,
+Hy, 405, 04y, 4844,
+5 5 5 5
+= 484 _ 0.484 _ 9 o968
+500 5
+85. Which of these fractions cannot be reduced
+further?
+14/21, 33/43, 18/24, 41/82
+(a) 33/43 (b) 92/24
+(c) 18/24 (d) 41/82
+RRB JE - 26/05/2019 (Shift-II1)
+Ans: (a)
+42 33_33
+213’ 43 43
+18 _3
+24 4
+411
+82 2
+Hence, it is clear that 2 cannot be reduced further.
+86. Reduce to lowest terms 368/575 :—
+(a) 28/29 (b) 30/25
+(c) 25/29 (d) 16/25
+RRB JE - 27/05/2019 (Shift-1
+Ans: (d) Given fraction,
+368 _ 16
+575__25
+87. Which of the following fractions equals to
+18/25?
+(a) 72/100 (b) 36/75
+(c) 54/100 (d) 50/100
+RRB JE - 30/05/2019 (Shift-I11
+Ans: (a)
+From the given fraction, 8 >
+= 18 1d _ 12
+25° 25x4 100
+oe 6 2720
+88. Simplify : 27°30" B
+(a) 9 (b) 6
+(c) 3 qd) 1
+RRB RPF Constable -20/01/2019 (Shift-ID
+Ans: (d) 6 27,20
+27 30 81
+6 30 81 6x3x3_ 6
+a2 xy al
+27: 27 20) 27x2 3x2
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0013_left.png =====
+89. a equals to: )
+(a) 3x 104 (b) 3x 10%
+(c) 3x 10° (d) 3x 10°
+RRB Group-D — 23/09/2018 (Shift-I
+Ans: (a) 22 =?
+1000
+0.3
+1000
+_03
+10°
+=0.3x10°
+=3x107x10%
+2=3x10"
+4
+90. Convert rH in its simple form:
+1 1
+— b) —
+(a) 36 (b) 39 |
+1 1
+—_ d) —
+© 95 @ 3 :
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (d)
+4
+gu4 td
+12.9 12 27
+91. 2 inversely proportional to :
+2 3
+a) 2> b) =
+() 3 (b) 5
+1 2
+35 d =
+© 35 (d) 3
+RRB Group-D — 30/10/2018 (Shift-II)
+2
+Ans: (b) 1—
+ns: (b) 3
+=5
+3
+ar 3
+Writing in inverse = 3 |
+92. The lowest fractional value of 4.025 =?
+161 116
+— b) —
+@® 4 (b) 20
+161 116
+= d —
+© % © b |
+RRB Group-D — 30/10/2018 (Shift-II)
+Ans: (a) The fractional form of 4.025,
+_ 4025
+~ 1000
+_ 161
+40
+Decimal Fractions 52
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0013_right.png =====
+93. Which of the following fractions is not
+equivalent to 4/11?
+64 20
+mam b) =
+® 16 ® 55
+84 32
+c) —— dy) =
+ie 209 @ 88
+RRB Group-D — 27/09/2018 (Shift-L
+Ans. (c) From question,
+64 4 20-4
+Sat b) ==
+@ 176 11 @) 55 11
+84 32_ 4
+—— =0401 d) ==—
+© 509 © 371i
+Hence, option (c) is not equivalent to 4/11.
+04, at =?
+25
+(a) 0.24 (b) 24
+(c) 2.004 (d) 2.04
+RRB Group-D — 27/09/2018 (Shift-I1T
+Ans : (d) gt slo 04
+25 25
+95. What fraction of a day equals to 7 minutes and
+12 second?
+@ + o +
+240 225
+1 1
+c) = d) ——
+© 200 @ 300
+RRB Group-D — 16/10/2018 (Shift-I)
+Ans: (c) The number of hours in a day = 24
+= 24 x 60 x 60 sec
+7 min 12 sec =(7 x 60 + 12)
+= (420 + 12)
+= 432 sec
+The required fraction = — 432 |
+24x60x60 |200
+96. Solve : 0.05 x 0.4
+(a) 2 (b) 0.2
+(c) 0.02 (d) 0.002
+RRB NTPC 28.03.2016 Shift : 2
+Ans :(c) 0.05 x 0.4 = 0.02
+97. The value of 0.000825 + 0.05 =?
+(a) 0.0165 (b) 0.65
+(c) 0.00165 (d) 0.015
+RRB NTPC 28.03.2016 Shift : 3
+Ans : (a) 0.000825 _ 0.0165
+0.05
+98. Find the solution of 0.275 + 0.569 — 0.336 =?
+(a) 0.123 (b) 0.508
+(c) 0.457 (d) 0.594
+RRB NTPC 18.01.2017 Shift : 3
+Ans: (b) 0.275 + 0.569 — 0.336
+= 0.844-0.336 = 0.508
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0014_left.png =====
+99. Change in decimal.
+(a) 0.20 (b) 0.236
+(c) 0.245 (d) 0.257
+RRB NTPC 28.04.2016 Shift : 1
+Ans :(b) B = 0.236
+55
+100. 41454 is written for which mixed fraction of
+the following?
+36 6
+IE b) 7—
+(a) 34 (b) 9
+2 1
+Te d) 7=
+(©) 3 (d) 3
+RRB NTPC 04.04.2016 Shift : 2
+Ans: (0) 41454 = 414 - 23x18 _ 72
+54 3x18 3
+101. Solve: (3+2)-(2+2)
+75 5 7.
+31 24
+= b) =
+@ 34 ey
+26 12
+= d) <=
+(©) 25 (d) B
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (a) Given,
+( 2) (2 2)
+S42 |+)/=+=
+75 5.7
+(24).(4e)
+35 )\ 35
+31,24 _ 31,35 _31
+3535 35 24 24
+102. Simplify : ss
+7 35
+3 7
+3 4
+1— b) 1—
+(a) rT (b) rT
+3 4
+2= d) 2=
+(©) 7 (d) 7
+RRB NTPC 29.03.2016 Shift : 2
+3,3 3,3
+Ans: (b) tata
+Iz 35 SS
+3 7 3 47
+9 21
+=s4+
+22 22
+30
+22
+=B_j4
+Hou
+Decimal Fractions 53
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0014_right.png =====
+1_,1_,1
+103. Simplify: 8—x4~+5—
+ani ar oar
+2 3
+42 b) 5=
+(a) 5 ) 57
+1 2
+7T- d) 6=
+(©) 3 @ 3
+RRB NTPC 29.03.2016 Shift : 2
+Ans: (d) 8tx4ts54 25,21, 21
+3 5° 4 3 5 4
+25 21 4
+stxtx—
+3 5 21
+20 _ 62
+3 3
+104. Choose the different fraction.
+15/20, 48/60, 21/28, 75/100
+(a) 15/20 (b) 48/60
+(c) 21/28 (d) 75/100
+RRB NTPC 28.03.2016 Shift : 3
+Ans: (0) 5-23, 48 _12x4
+20 5x4 60 12x5
+21 _ 7x3 75 _ 25x3
+28 7x4’ 100 25x4
+All the fractions are the equivalent fractions of 3.
+except Bi
+Pr 60
+105. Find the solution of — 4/11 + 2/7 + 3/5
+(a) 37/35 (b) 481/385
+(c) 13/35 (a) 37/385
+RRB NTPC 18.01.2017 Shift : 3
+Ans: (b) 42,3
+1175
+_35x442x55+3x77
+385
+_ 1404+110+231
+385
+“is
+385
+5 28. 20
+106. Simplify : —+—+——
+imply: og 35 112
+(a) 4/5 (b) 5/4
+(c) 4/7 (d) 7/4
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (b) 2,28, 20
+28 35 112
+5 35 112
+ye yt
+28 28 20
+-5
+4
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0015_left.png =====
+107. Simplify: 4 +28. 20 |
+28 35 112
+(a) 7 (b) 4
+(©) 2 @ 1
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (d) Given-
+4,28, 20
+© 28°35 112
+4 35 112
+ax x =1
+28 28 20
+108. Which of the below given fractions is NOT
+equal to > 2
+17
+108 27
+(a) oor (b) a
+63 153
+(©) to (d) 289
+RRB ALP & Tec. (31-08-18 Shift-I)
+Ans: (a) Given: 2
+17
+9x3._27
+17x3 51
+9x7 63.
+17x7 119
+9x17 _153
+17x17 289
+108 . . . 9
+DI will not give any equivalent fraction of 7:
+182 5 . A a
+109. Bo when written in the simplest form is :
+28 91
+(a) 20 (b) 65
+14 7
+(©) to (d) 3
+RRB ALP & Tec. (20-08-18 Shift-III)
+182
+Ans: (d) Bo
+_91_7
+“65
+110. How many kilometres are there in one metre?
+(a) 0.0001 (b) 0.1
+(c) 0.001 (@) 0.01
+RRB ALP & Tec. (10-08-18 Shift-IIl)
+Ans : (c) 1000m = 1km.
+Im =— kam, = 0,001 km.
+1000
+Hence, one metre has 0.001 km.
+Decimal Fractions 54
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0015_right.png =====
+Type -3
+111. The sum of 3 ana22 =?
+12 5
+17 17
+_ b) =
+(a) V7 (b) 0
+60 169
+= dy) 2
+(©) "7 (d) =)
+RRB RPF Constable -17/01/2019 (Shift-IID)
+Ans. (d) The sum of + and BL 3,2
+12 5 12 5
+— 25+144 _ 169
+60 60
+112. A fraction added to its inverse is ee Find
+the greater number of the two:
+15 5
+1— b) 1S
+@ 1 (b) é
+20 5
+1— dy) 1 >
+© 13 On
+RRB Group-D — 05/10/2018 (Shift-ID
+Ans : (b) Let the fraction be x and its inverse be t .
+According to the question,
+x+ta235__ ay
+x 66
+From option (b),
+Putting the value x =1 3 = 5 in equation (1),
+U1, 6 425
+6 ll 66
+121+36 25
+>a a2
+66 66
+157 25
+=> =25
+66 (66
+=>2 ce 225
+66 (66
+Hence greatest fraction = 1
+113. Sum of = and u =?
+11 5
+146 16
+—_ b) =
+@ 5 16
+16 110
+_ d) —
+© 35 @) 35
+RRB Group-D — 26/09/2018 (Shift-ID)
+511
+Ans. (a): —+—
+ns. (a) ns
+— 254121 _ 146
+55 55
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0016_left.png =====
+114. The difference of a positive fraction and its
+inverse is oe . Find the fraction.
+32 13
+a) = b) —
+(a) 5 (b) 8
+15 16
+= d) —
+OF @ >
+RRB Group-D — 15/10/2018 (Shift-ID
+Ans : (a) Let the positive fraction be x
+So, inverse =l
+x
+According to the question,
+1 39
+x-—=6——
+x 160
+xi=1 _ 999
+x 160
+160x? — 160 = 999x
+160x? — 999x - 160 = 0
+160x?— (1024-25)x — 160=0
+160x? — 1024x + 25x - 160=0
+32x (5x — 32) +5 (5x — 32) =0
+(32x +5) (5x-32)=0
+32x+5=0, Sx-32=0
+32x=-5, 5x = 32
+k=—| , x=24
+32 5
+115. The difference of a fraction and its inverse is
+ra - Then the difference of cubes of the fraction
+and its inverse will be:
+1331 2538
+a) -—— b) -=——
+7 2538 ®) 1331
+3996 729
+aa d 2
+© 31 © T31
+RRB Group-D — 11/10/2018 (Shift-I
+Ans : (c)
+Let the fraction be ~, then its inverse will be +,
+According to the question,
+aoe
+1x ll
+1.9
+> x--=—
+x Il
+Cubing in both side,
+31 (9) 59 pep :
+x -5-(3) 43x [2° —b’ =(a—b)’ +3ab(a—b) |
+729 27
+a4
+1331 11
+_ 729+(27x121) _ 729+3267
+1331 1331
+oa 1 3996
+Wx -z =
+x 1331
+Decimal Fractions 35
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0016_right.png =====
+116. The sum of a fraction and its inverse iss .
+Find the fraction.
+(a) 1/5 (b) 1/6
+() V3 @ 4
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (a) Let the fraction be x , so its inverse be 1.
+According to the question,
+x+ _ 5 1
+x 5
+= X41 26
+x 5
+> 5x? +5 = 26x
+> 5x? -26x+5=0
+=> 5x? -25x-x+5=0
+=> — 5x(x—-5)-1(x-5)=0
+=> — (5x-1)(x-5)=0
+an 5x-1=0
+> 5x =1
+=> x-t
+5
+4 , 5
+117. How much does one need to add to 3 to obtain 4 ?
+1 16
+— b) —
+@ = ® >
+9 1.25
+= d
+© 3 ® Ve
+RRB ALP & Tec. (21-08-18 Shift-II)
+Ans : (c) Let the adding number be x.
+According to the question,
+4_5
+xt==—
+5 4
+5 4 25-16 9
+x=---, x =—, x=
+4° 5 20 20
+Hence x is the required number.
+118. Thesum of 5 and 8 is:
+8 5
+13 80
+= b) —
+@ 3 © 0
+13 89
+(©) m7 (d) my
+RRB ALP & Tec. (20-08-18 Shift-II)
+Ans: (d) According to the question,
+Adding the given fractions,
+5,8 _ 25464 _ 89
+8 5 40 40
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0017_left.png =====
+Type -3
+119. The fraction which, when subtracted from
+ives 7 is:
+2 4°
+1 1
+a) — b) -—
+(a) 4 (b) 4
+1 1
+ce) = d) -=
+©) 3 @ -3
+RRB RPF-SI -12/01/2019 (Shift-Ill)
+Ans. (b) : Let the fraction be 1
+According to the question,
+113-13 VL, 132
+2x 4 x 4 2 x 4
+tll
+x 4
+Hence, the required fraction is -4.
+. 9 . 8
+120. The sum of two fractions is 10° If one is 9°
+find the another.
+1 1
+a) = b) —
+(a) 5 © |
+1 72
+_s d)
+© 90 99
+RRB RPF Constable -24/01/2019 (Shift-I)
+Ans, (c) : Let the another fraction be >
+According to the question,
+x 8 9
+Stes
+y 9 10
+x_9 8
+y 10 9
+‘x _ 81-80
+y 90
+xt
+y 90
+Hence, the another fraction is x 5
+121. The value of +1319, 3123 _»
+15 14 21 35 30
+8 1
+a b) —
+@ > ® 3
+2 12
+es d)
+(©) 3 (d) 35
+RRB Group-D — 20/09/2018 (Shift-I1)
+Decimal Fractions 56
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0017_right.png =====
+Ans : (d)
+3 13 19 31 23
+242-42
+15 14 21 35 30
+(LCM of 15, 14, 21, 35 and 30 is 210)
+_ 42+195-190+186-161
+210
+423-351
+= fer ??t
+210
+72 _ 12
+===
+210 35
+Hence, the required value is Z.
+122. The subtracted value of a fraction from : is
+4 . Find the fraction.
+13
+7 5
+—_ b) —
+(a) 78 (b) B
+1 ll
+= dy) —
+(©) 7 (d) 39
+RRB Group-D — 03/10/2018 (Shift-II1)
+Ans : (a) Let the fraction be > >
+ease
+6 y B
+xl
+y 6 13
+x _ 13-6
+y 78
+x7
+y 78
+Hence, the required fraction is Z .
+123. The sum of two fractions is z If one is s, find
+the another.
+1 2
+a) = b) =
+(a) 5 (b) 1
+1 1
+OD dd) it}
+RRB Group-D — 18/09/2018 (Shift-IT)
+Ans. (c) : Let the required fraction be 5 :
+Then the another fraction is given = ; ;
+According to the question,
+x 5_7
+x,2.4
+y 3 4
+x_7_5 21-20 1
+y 43 12 12
+Hence, the required fraction is a .
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0018_left.png =====
+124, Find the difference between 0.02 and 0.002.
+(a) 0.018 (b) 0.0018
+(©) 18 (d) 0.18
+RRB Group-D — 17/09/2018 (Shift-II
+Ans. (a) : The difference of 0.02 and 0.002,
+= 0.02x100 _ 0.002 x1000
+100 1000
+2 2
+>t
+100 1000
+20-2
+oot
+1000
+= 8-018
+1000
+Hence, the required difference is 0.018.
+125. Which fraction of the following when
+subtracted from 3 is 5 2
+4 12
+1 2
+a) > b) =
+(a) 3 (b) 8
+1 2
+c) = d) =
+(©) 6 (d) 3
+RRB Group-D — 19/09/2018 (Shift-II1
+Ans. (a) : Let the fraction be < 5
+According to the question,
+31S
+4 x 12
+1253
+x 12 4
+_1_ 20-36
+x 48
+a
+x 48
+Lil
+x 3
+Hence, the required fraction is ; :
+126. What should be added to * to get a ?
+21 1
+— b) —
+® To OF
+1 2
+_s d) =
+© 35 OF
+RRB Group-D — 20/09/2018 (Shift-I
+Ans. (a) : Let the adding number be x.
+According to the question,
+10 11
+—+x=—
+11 10
+xa tt 10_ 121-100 _ 21
+10 11 110 110
+Hence the adding number is a .
+Decimal Fractions 37
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0018_right.png =====
+127. What should be added to sito get 83 7
+99 96
+2 ‘b)
+(@) 35 (b) 35
+99 94
+2 dy) =
+©) 3 (d) 35
+RRB Group-D — 25/09/2018 (Shift-II1)
+Ans. (a) : Let the required number be x.
+According to the question,
+5 3 +X= 33
+5 7
+x= 92-52-5928
+7 5 7 5
+_ 295-196 _ 99
+35 35
+. 5, 99
+Hence, the required number is 35
+128. The sum of two fractions is z. One is 3. Find
+the other.
+4 5
+= b) =
+@ > oD
+4 1
+= dp —
+OF OF
+RRB Group-D — 26/09/2018 (Shift-II1)
+Ans: (b) Let the other fraction is x.
+According to the question,
+> 4322 5,213
+4 6 64
+14-9 5
+>x=— =
+“D212
+Hence, the required fraction is 3 :
+129. A fraction when added tor, gives 4. Find the
+fraction.
+2 i
+a) I> b) =
+@ 15 o% 5
+1 2
+ec) -> dy) =
+() 2 (d) 3
+RRB Group-D — 28/09/2018 (Shift-I
+Ans : (a) Let the required fraction be x.
+According to the question,
+x 7
+>r+-=4
+1 3
+a= 3xtT_y
+3
+=> 3x+7=4x3
+=> 3x+7=12>3x=12-7> 3x=5
+(4)
+>x=iaf1=
+3 3
+Hence, the required fraction is 3 .
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0019_left.png =====
+130. The difference between two fractions is 5. The
+smaller one is 3. Find the other.
+1 19
+—_ b) =
+® 2D ® 3
+19 8
+al d =
+(©) D (d) 10
+RRB Group-D — 22/10/2018 (Shift-IT,
+Ans: (c) Let the other fraction be x.
+According to the question,
+3_5
+x-Ls2
+4 6
+53
+>x=St+—
+6 4
+38 19
+x= ==
+24 «12
+~ 19
+Hence, the other fraction is DD:
+131. The value of 543.5
+305
+15 8
+= b) —
+(a) 8 (b) 15
+4 8
+2— d) =
+(©) 5 (d) 8
+RRB Group-D — 22/10/2018 (Shift-I
+Ans; (c) From given expression,
+5,3
+>it
+3.5
+2549
+15
+a34 4
+15 15
+132. The difference of 25 and 18 =?
+12 8
+10 7
+— b) —
+® 04 OG
+10 5
+= d) —
+OF ®
+RRB Group-D — 06/12/2018 (Shift-II)
+Ans. (d) The difference of. 3 and 5,
+25 15 _ 50-45 _ 5
+12.8 24 24
+5 25 oe
+133. To get D3 should be multiplied by:
+(a) 10 (b) 20
+4 5
+= d) =
+(©) 5 (d) 4
+RRB Group-D — 05/12/2018 (Shift-II)
+Decimal Fractions 58
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0019_right.png =====
+Ans. (b) Let the required number be x.
+According to the question,
+5 25
+2 xxs 2
+12 3
+Kas
+4
+x=20
+134. The square root of a positive fraction, when
+added to 1, is 3. Find the fraction.
+1 1
+2— b) 6—
+@) 27 ) 67
+1 1
+5— d) 3—
+(©) 16 @ 16
+RRB Group-D — 02/11/2018 (Shift-I)
+Ans. (c)
+Let the fraction be = ~
+y
+According to the question,
+& sie34
+y 4
+x 13)
+y 4
+x 9
+y 4
+xl8l xlcd
+y 16 y 16
+. 11 7
+135. The difference between DR and ra
+1 4
+= b) =
+@ 4 o) |
+4 1
+(©) mu (d) 3a
+RRB Group-D — 11/12/2018 (Shift-IIl)
+Ans : (d) The difference between 2 and z
+aH_7
+12 8
+_ 88-84
+96
+4
+96
+at
+24
+Hence, the required difference is PA :
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0020_left.png =====
+136. What is the fraction which, when taken away
+from 7 jives 2,
+a7 Bes se
+1 7
+-- b) —
+@ + (b) 20
+1 3
+— dp —
+© 30 ® to
+RRB Group-D — 08/10/2018 (Shift-III)
+Ans: (b) Let the fraction be 5 .
+According to the question,
+cary
+4 y 5
+x 3 2
+> = Ss =
+y 45
+= x_ 15-8
+y 20
+x7
+y 20
+137. What should be added to 3/5 to get 5/4?
+15 13
+= b) —
+(a) 20 (b) 20
+2 1.25
+co = d —
+OF (d) 06
+RRB Group-D — 05/10/2018 (Shift-II1)
+Ans. (b) Let the required number be x.
+According to the question,
+5_3
+—=—=+x
+4 5
+5 3_
+—- =x
+45
+25-12
+fT lt ax
+20
+13
+x=—
+20
+. ._ 13
+Hence, the required number is 0°
+138. A fraction is subtracted from 1/5 and gives
+1/12. Find the fraction.
+1 11
+a) = b) =
+@ > (b) 30
+7 5
+— dp =
+© © 2
+RRB Group-D — 04/10/2018 (Shift-I)
+Ans. (c) Let the fraction be > .
+According to the question,
+Decimal Fractions 59
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0020_right.png =====
+Lxld
+5S y 12
+Jllx
+5 12 y
+12-5_ x
+60 y
+ca
+y 60
+. 17.
+139. A fraction when added to 3z%8 4. Find the
+fraction.
+2 1
+a b) -—
+(a) 3 (b) 1
+2 9
+-j2 dy 2
+(©) 3 @ 5
+RRB Group-D — 01/10/2018 (Shift-III)
+Ans : (c) Let the required fraction be > :
+According to the question,
+- x + uv =4
+y 3
+Xgl
+y 3
+_ 12-17 _-5
+3 3
+ca 2
+y 3
+140. In which fraction, when 5/16 is added gives 1?
+ll 13
+(a) 3 (b) cy
+22 6
+od = ds
+(©) 3 @) 8
+RRB Group-D — 19/09/2018 (Shift-I)
+Ans : (c) Let the fraction be x.
+x+ _ 1, x=l- es
+16 16
+ll 2x11 22
+x=—, x=
+16 2x16 32
+. 22
+Hence, the require fraction is 2°
+141. What is the fraction which, when taken away
+from 1 ives 25
+27ers 3"
+1 1
+a) = by) -=
+(a) 3 (b) 3
+1 1
+= d) =
+© -| O |
+RRB ALP & Tec. (20-08-18 Shift-I)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0021_left.png =====
+Ans : (c) Let the fraction be 5 .
+According to the problem,
+1x.2 0 x12
+2 y 3 y 2 3
+x lal
+y 6
+142. The sum of two fractions is 3 One of them is
+2. What is the other fraction?
+1 1
+= b) —
+@ oO 5
+1 1
+_s d) =
+(©) 10 (d) 1
+RRB ALP & Tec. (20-08-18 Shift-II)
+Ans: (b) The sum of fractions = 3
+: 2
+The first fraction = 3
+_ 32
+«. The other fraction = a3
+a2 81
+12.12
+143. How much does one need to add to ; to
+obtain 3 ?
+2
+4 5
+a) = b) =
+(a) 9 (b) 6
+1 15
+c) — d =
+(©) a (d) 6
+RRB ALP & Tec. (17-08-18 Shift-I)
+Ans: (b) Let the adding number is x.
+According to the question,
+2 3
+faxat
+3 2
+3.2 9-4 5
+xet-fe2 at
+2.3 6 6
+144. A fraction, when subtracted from jeives-
+The fraction is:
+@ 3 w 4
+12 4
+3 1
+a d) =
+(©) 4 (d) ry
+RRB ALP & Tec. (14-08-18 Shift-I)
+Decimal Fractions 60
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0021_right.png =====
+Ans : (b) Let the fraction be * .
+According to the question,
+dex id
+3 y 12
+Kil 14-13 td
+y 3 12 12 12 4
+xl
+y 4
+145. The sum of two fractions is .. One of them is
+3. What is the other fraction ?
+2 1
+a) = b) —
+(a) 5 o) 7 0
+1
+1 d) =
+(©) @ D
+RRB ALP & Tec. (10-08-18 Shift-I.
+Ans: (d) Let the other fraction be x.
+According to the question,
+35
+x+==5
+4 6
+. 5 3_10-9 1
+“ x=2-2s— a
+6 4 12 12
+146. Which of the fractions given below, when
+added to $ gives 1?
+4 6
+= b) —
+@ 5 ® >
+5 6
+2 dp
+(©) 3 OG
+RRB ALP & Tec. (30-08-18 Shift-II)
+Ans: (b) Let the adding fraction be x.
+According to the question,
+52
+x =1-2=4
+7 7
+Multiplying by 3 in the numerator and denominator o!
+2
+7
+=2%3 6
+~ 7x3 21
+Hence, the required fraction is option (b) = 4 :
+147. Which of the fractions given below, when
+added to ;, gives 1?
+6 5
+— b) =
+@® a 5
+6 6
+Olas dp =
+OF 6 @) 3
+RRB ALP & Tec. (09-08-18 Shift-II)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0022_left.png =====
+Ans : (c) Let the fraction be x.
+According to the question,
+5
+=+x=1
+8
+x=1- >
+8
+3x2
+xent
+8x2
+6
+x=
+16
+Hence the required fraction is option (c) = sé .
+148. Solve the following:
+196 — 19.6 — 1.96 — 0.196 =?
+(a) 173.254 (b) 173.234
+(c) 174.234 (d) 174.244
+RRB ALP & Tec. (31-08-18 Shift-I)
+Ans : (d) Given,
+196-19.6-1.96-0.196
+= 196-21.756
+= 174.244
+149. 0.196 + 1.96 + 19.6 + 196 =?
+(a) 217.756 (b) 216.856
+(c) 216.756 (d) 217.676
+RRB ALP & Tec. (20-08-18 Shift-IID
+Ans : (a) Given,
+0.196 + 1.96 + 19.6 + 196 = 217.756
+150. Solve the following :
+123 + 12.3 + 1.23 + 0.123 + 0.0123 =? |
+(a) 136.7659 (b) 136.653
+(c) 136.6653 (d) 136.7760
+RRB ALP & Tec. (17-08-18 Shift-II)
+Ans: (c) Given,
+123+12.3+1.23+0.123+0.0123=136.6653
+151. If 0.001 + x = 0.01, then find 'x'.
+(a) 0.5 (b) 1
+() 0.01 (d) 0.1
+RRB JE - 23/05/2019 (Shift-I.
+Ans : (d) Given,
+0.001 +x =0.01
+0.001 _ 0.01
+x
+Od 1>x=0.1
+x
+Hence, the value of x is 0.1 that is option (d).
+152. The value of 0.0006697 to three digits of
+decimal will be:
+(a) 0.000670 (b) 0.00669
+(c) 0.001 (d) 0
+RRB RPF Constable -22/01/2019 (Shift-I)
+Decimal Fractions 61
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0022_right.png =====
+Ans : (c) The value of 0.0006697 till three digits o:
+decimal = 0.001,
+After decimal if the right digit is 5 or more than 5, then|
+we add | to the left digit.
+153. Which fraction is not equal to = ?
+105 75
+= b) ——
+® 1a © as
+45 30
+— d) —
+© © %6
+RRB RPF-SI -12/01/2019 (Shift-I
+Ans: (a) From question,
+10535
+(a) —-=—=
+162 54
+75 _15
+b) ——=—
+) 115 23
+45 15
+(c) oO 3
+30 _ 15
+d ===
+@ 46 23
+Hence, it is clear that option (a) is not equal to 3 .
+154. 0.065 x 0.4=?
+(a) 0.26 (b) 0.026
+(c) 2.6 (d) 0.0026
+RRB RPF-SI -11/01/2019 (Shift-I)
+Ans : (b) Given,
+0.065 x 0.4 = 0.026
+155. Find the value of 0.1404 + 0.06 =?
+(a) 0.234 (b) 2.34
+(c) 234 (d) 23.4
+RRB RPF Constable -18/01/2019 (Shift-I
+Ans :(b) Given,
+0.1404 + 0.06
+_ 0.1404 x10000 _ 1404 =234
+0.06 x 10000 600
+156. Find the sum of the place value of 5 and 4 in
+6 and a respectivel:
+ge" 25 *
+8 99
+a b)
+® t00 © t00
+9 88
+(©) Too qd) Too
+RRB Group-D — 28/09/2018 (Shift-I1I)
+Ans : (c) e= 0.75
+The place value of 5, in 0.75 = 0.05 = iw
+6
+dd, —=0.24
+ame 35
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0023_left.png =====
+The place value of 4, in 0.24 = 0.04 = in
+So, the required sum of both values
+-5,4 9
+100 "100 100
+
+157. The whole value of 0.008594 to three digits of
+
+decimal will be?
+(a) 0.008 (b) 0.009
+(c) 0.00860 (d) 0.00859
+RRB Group-D — 08/10/2018 (Shift-II)
+is 5 or more than 5, then we add 1 to the left digit.
+
+Hence, the whole value of 0.008594 to the three digits
+
+of decimal will be 0.009.
+
+158. x and y, given correct to 2 decimal place, are
+given as 4.51 and 2.48 respectively. What is the
+upper bound of the value of x + y? (The value
+is correct to the two digits of decimal.)
+(a) 7.000 (b) 6.995
+(c) 7.010 (d) 6.990
+
+RRB Group-D — 12/10/2018 (Shift-III)
+
+Ans: (a)x+y=4.51 +248=6.99
+
+Hence, the nearest upper limit for the value of (x + y)
+
+that is 6.99 = 7.000.
+
+159, Find the value of x.
+
+144 _ 14.4
+0.144 x
+(a) 0.0001 (b) 0.0144 |
+(©) 0.1 (d) 0.01
+RRB Group-D — 16/10/2018 (Shift-I
+Ans. (b) : Given expression,
+144 144
+0.144 x
+144xx =14.4x0.144
+x= 14.4x0.144
+144
+
+x= 144x 0.144
+
+144x10
+x= 0.0144
+160. If x is integer 0.80000, then what is interval of
+x?
+(a) 0.79995 <x < 0.80005
+(b) 0.799905 < x < 0.800005
+(c) 0.799995 < x < 0.800005
+(d) 0.79995 < x < 0.80005
+RRB Group-D — 30/10/2018 (Shift-I
+
+Ans : (c)
+
+The required interval of x = 0.799995 < x < 0.800005
+
+161. In 7 =-0.2, thence =?
+
+1-6c
+(a) 0.8 (b) 0.5
+(c) 0.75 (d) 0.075
+RRB Group-D — 20/09/2018 (Shift-I)
+Decimal Fractions 62
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0023_right.png =====
+Ans. (c) : Given,
+a =-0.2
+1-6c
+-0.2+1.2c=0.7
+1.2¢=09
+12
+¢=0.75
+162. x is written as 15.84, to two digits of decimal.
+Which of the following is true?
+(a) 15.835<x <15.845
+(b) 15.835 <x <15.845
+(c) 15.835 <x <15.845
+(d) 15.835<x <15.845
+RRB Group-D — 09/10/2018 (Shift-I
+Ans. (d) : Analyzing option (d),
+15.835 is less than x, and 15.835 is written to two digits
+of decimal as 15.84 (approx). While 15.845 will be|
+definitely greater.
+163. If x is 0.70000, to five digits of decimal, then
+interval of x will be:
+(a) 0.6995 <x < 0.70005
+(b) 0.699995 < x < 0.700005
+(c) 0.699905 < x < 0.700005
+(d) 0.69995 < x < 0.70005
+RRB Group-D — 10/10/2018 (Shift-IIT
+Ans: (b) Ifx is 0.70000, to five digits of decimal,
+Then, 0.699995 < x < 0.700005 is correct.
+164. The least value of x which makes < an
+x-
+integer, is:
+(a) 1 (b) -51
+(c) 79 (d) -l
+RRB Group-D — 26/10/2018 (Shift-III)
+Ans : (b) From question,
+Putting the value of options in the place of x.
+65 65
+(a) Ta 5 (Integer)
+65 65 . . .
+(b) m5 da -1 is also an integer for which
+the value of x is the least.
+65 65
+(c) 79-14 = 65 =1 (Integer)
+65 65
+(d) oa = 2577 433 (Non-Integer)
+Hence, it is clear that the least required value of x is -1
+144 175
+pane =? wi =?
+165. The product of 100 and 216 will be =?
+7 14
+a) = b) >
+(a) 2 (b) 3
+7 7
+Bs dy =
+© | qd) 3
+RRB Group 'D' 07/12/2018 (Shift-I)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0024_left.png =====
+144 175
+Ans : (c) 100 x 216
+=i
+6
+166. x and y, are given correct to the two digits of
+decimal, are written as 3.57 and 3.42
+respectively. What is the upper limit for x + y ?
+(a) 7.000 (b) 7.010
+(c) 6.990 (d) 6.995
+RRB Group-D — 23/10/2018 (Shift-I
+Ans. (a) : According to the question,
+x and y are correct to the two digits of decimal.
+x = 3.57 and y = 3.42,
+then, x + y = 3.57 + 3.42 =6.99
+hence, the upper limit of x + y = 7.000
+167. x and y, are given correct to the two digits of
+decimal, are written as 2.51 and 3.50
+respectively. What is the lower limit for x + y ?
+(a) 6.010 (b) 5.995
+(c) 6.000 (d) 5.990
+RRB Group-D — 15/10/2018 (Shift-IT)
+Ans : (c) According to the question,
+x = 2.51 and y = 3.50
+then,
+x+y=2.51+3.50=(6.0]]
+So the lower limit for x + y is 6.000
+168. Find the value of x.
+484 _ 48.4
+484 x
+(a) 0.484 (b) 0.00484
+(c) 0.0484 (@) 4.84
+RRB Group-D — 08/10/2018 (Shift-III)
+Ans : (a) S84 48.4
+484 x
+> Xx 484 = 48.44.84
+484x484
+> x = —————
+484 x 1000
+Hence, x = 0.484
+169. x and y, are given correct to the one digit of
+decimal, and written as 6.2 and 1.3
+respectively. What is the upper limit of 7 ?
+(a) 4.96 (b) 5
+(c) 4.77 (d) 5.05
+RRB Group-D — 04/10/2018 (Shift-I
+Ans. (b) X = 92 =4.76
+y 13
+Hence, the value of upper limit of 5 is 5.
+170. 1.008 =?
+1 3
+@ Mp5 ®) 155
+Decimal Fractions 63
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0024_right.png =====
+2 2
+1 d) 1
+© 155 @ Nos
+RRB Group-D — 01/10/2018 (Shift-I)
+Ans. (a) : 1.008 =?
+= 1008 _ 504 _252 126
+1000 500 250 125 125
+1
+Hence, the value of 1.008 is ligs-
+171. If X = 83.5535 | find the value of X.
+13.05
+(a) 4.48 (b) 4.87
+(c) 4.46 (d) 4.28
+RRB Group-D — 23/09/2018 (Shift-II)
+Ans: (b) X= 63.5535
+13.05
+x = £355.35 _4 97
+1305
+Hence, the value of X is 4.87
+172. if —1_=0.2314, then 1 __ =?
+43.21 0.0004321
+(a) 23.14 (b) 2314.27
+(c) 0.0002314 (d) 231.4
+RRB NTPC 19.01.2017 Shift : 2
+Ans :(b) Given,
+1
+——=0.2314
+pn 8
+5
+=! NW 431497
+43.21x10* 43.21
+173, 3244 _»
+0.2
+324 162
+= ‘b) —
+@ 35 ©) 45
+162 324
+— d
+(©) 2 qd) 5
+RRB NTPC 19.01.2017 Shift : 3
+Ans :(a) 3.24x4 - 3.24x4x100
+0.2 0.2x100
+_ 324x4
+20 5
+174, If V5 = 2.236; then V5/2is
+(a) 1.851 (b) 1.118
+(c) 2.236 (4) 1.782
+RRB NTPC 27.04.2016 Shift : 3
+Ans :(b)
+V5 22361 118
+2 2
+(- V5 =2.236)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0025_left.png =====
+175. Find the value of ‘?’ — If 0.0043/?= 0.43
+(a) 0.10 (b) 0.01
+(c) 1.001 (d) 0.001
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (b) 0.0043 _ 0.43
+x
+0.0043
+x=
+0.43
+43 1
+x=—=—
+4300 100
+x=0.01
+176. What is the value of 0.968 + 0.11 =?
+(a) 88 (b) 88
+(c) 0.88 (d) 8
+RRB NTPC 30.04.2016 Shift : 3
+Ans : (b) 0.968 + 0.11
+968
+110
+=88
+177. If 2334/33.1 = 261, then 23.34/3.31 =?
+(a) 0.261 (b) 2.61
+(©) 26.1 (d) 261
+RRB NTPC 18.04.2016 Shift : 3
+Ans: (c) Given,
+2334 = 261........(1)
+33.1
+23.34 _ 2334
+"3.31 331
+_ 2334
+© 33.1x10
+2334 1
+=o x
+33.1 10
+= = {from equation (1)}
+= 26.1
+178. 23 x 19 = 437. How much is 0.0437 + 1.9 =?
+(a) 0.0023 (b) 23
+(c) 0.023 (d) 0.23
+RRB ALP & Tec. (21-08-18 Shift-
+Ans : (c) Given,
+23x19 = 437
+According to the question,
+0.0437 _ 0.0437x 10000
+19 1.9x10000
+_ 23x19
+19x1000
+=-3 9.023
+1000
+179. 17x 29 = 493. How much is 1700 x 0.0029 = ?
+(a) 0.493 (b) 0.0493
+(0) 4.93 (d) 49.3
+RRB Group-D — 19/09/2018 (Shift-II)
+Decimal Fractions 64
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0025_right.png =====
+Ans. (c) : 17x29 = 493, a 1700x0.0029 = ?
+> 1700x0.0029
+> 17x100x0.0029
+> 17x0.29
+> 4.93
+180. If 493 + 29 = 17, then 4.93+ 0.0017 =?
+(a) 290 (b) 0.29
+(c) 2.9 (d) 2900
+RRB ALP & Tec. (13-08-18 Shift-I,
+Ans : (d) Given,
+493+29=17,
+So,
+4.93
+4.93+0.0017 = 0017
+— 4.93x10000_ _ 49300
+0.0017x10000 17
+= 2900
+181. 23 x 31=713. How much is 0.0713 + 3.1?
+(a) 0.0023 (b) 0.23
+(c) 0.023 (d) 23
+RRB ALP & Tec, (13-08-18 Shift-IIT)
+Ans : (c) Given,
+23x31 = 713
+So,
+0.0713
+0.0713+3.1= sa
+_ 0.0713x10000 __713
+~ 3.1x10000 31000
+= 0.023
+182. Given 17 x 29 = 493, then 170 x 0.029 =?
+(a) 0.493 (b) 4.93
+(c) 0.0493 (d) 49.3
+RRB ALP & Tee. (10-08-18 Shift-III)
+Ans : (b) Given,
+17*29 = 493
+So,
+170 x 0.029 =17« 10x22
+1000
+=i X29 _ 493 _ 4.95
+100 100
+Type -9
+183. Which of the following fractions is greater than
+7/12, and smaller than 11/16?
+(a) 1/2 (b) 5/8
+(c) 7/8 (d) 3/8
+RRB JE - 27/06/2019 (Shift-I)
+Ans : (b) From the given fractions,
+1.058 L068
+12 16
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0026_left.png =====
+From question,
+1 5
+>=0.50 b) = =0.62
+(a) 2 (b) 8
+7 3
+= =0.87 d) ==0.37
+(c) 3 () 8
+Hence, option (b) is 0.62, which is greater than 0.58 and|
+smaller than 0.68.
+184. Which of the following is correct?
+9 13 9 _ 13
+2<2 252
+1624 ®) 167 24
+9 13 9 13
+4== d) tes
+© 16724 @ 16 <a
+RRB Group-D — 17/09/2018 (Shift-1
+Ans : (b) From options,
+9 13
+=< =0.56< 0.54
+@) T6534 (wrong)
+(b) 2 > 3 = 0.56 > 0.54 (right)
+913
+=== =0.56=0.54
+OF 64 (wrong)
+(d) 2 < 3 = 0.56 < 0.54 (wrong)
+185. Which of the following is a commutative
+fraction?
+71 5
+a by) 2
+® 7 ® 9
+105 104
+— d) —
+© in @ ta
+RRB Group-D — 04/10/2018 (Shift-I
+Ans. (b) From question,
+=> Fe 1.0694
+2
+5
+=> —= 0.1020
+49
+=> 105 _ 0.9375
+112
+> 104 0.8595
+121
+Hence, the commutative fraction is 3 :
+186. Find the smallest of the following decimals.
+(a) 0.1 0.10.1 (b) 0.03 /3
+(c) 0.01/2 (d) 0.1 x 0.02 x 0.2
+RRB NTPC 05.04.2016 Shift-1
+Ans : (d) From question,
+(a) 0.1 x 0.1 x 0.1 =0.001
+(b) 0.03 /3 =0.01
+(©) 0.01/2 =0.005
+(d) 0.1 x 0.02 x 0.2= 0.0004
+187. Find the smallest of the following decimals.
+(a) 0.2 x 0.2 x 0.2 (b) 0.02/3
+(c) 0.01/2 (d) 0.1 x 0.02 x 2
+RRB NTPC 31.03.2016 Shift : 2
+Decimal Fractions 65
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0026_right.png =====
+Ans : (d) From question,
+=> 0.2 x 0.2 x 0.2 = 0.008
+> ” = 0.0067
+> 0.01 = 0.005
+2
+> 0.1 x 0.02 x 2 = 0.004
+Hence, it is clear that option (d) is the smallest.
+188. Find the fraction which is as much greater than
+4 as it is less than 5,
+7 6
+59 84
+— b) —
+© ® 5%
+58 59
+2 d=
+© % © 35
+RRB ALP & Tec. (10-08-18 Shift-I)
+Ans: (a) Let the fraction is x.
+According to the question,
+4 5
+=<x>t
+7 6
+Then,
+x (Middlefiaction) = Sum of = fractions
+4,5 24435
+x=-1 6-42 59
+2 2 84
+189. The product of two numbers is 0.432. One of
+the number is 1.6. What is the other number?
+(a) 2.7 (b) 0.027
+(c) 0.27 (d) 27
+RRB ALP & Tec. (10-08-18 Shift-I
+Ans: (c)
+. Prouduct of both numbers
+The requited number =
+— 0.432
+1.6
+=0.27
+190. Which of the following is true?
+29 53 29 43
+am b) ==
+© en © Fn
+29 43 29 43
+>= dp Sc
+© en © F<
+RRB ALP & Tec. (09-08-18 Shift-I
+Ans : (c) From question,
+(a) 2-3 (false)
+29_ 43
+== (fal
+(b) [= 75 (false)
+29 43
+—>— (t
+(©) > 75 (true)
+(d) 2 <= (false)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0027_left.png =====
+Type -8
+191. If 3 is added to the numerator and the
+denominator of a fraction, it becomes *. And
+if 4 is subtracted from the numerator and the
+denominator, then it becomes 3. What is the
+fraction?
+7 6
+a) sz b) =
+(a) 3 (b) B
+3 3
+2 d) =
+OF @ |
+RRB RPF Constable -25/01/2019 (Shift-IIT
+Ans : (a) Let the fraction is x
+y
+According to the question,
+x+3_10
+yt+3 11
+=> 11x+33=10y+30
+=> 11x-10y=-3......(i)
+. x-4 3
+Again, ——==
+gain, yi44
+=> 4x-16=3y-12
+> 4x-3y=4 oi)
+From equation (i) and (ii)—
+x=7andy=8
+Hence, the required fraction is z
+192. The difference between 3/8 and another smaller
+number is 1/5. Find another number.
+3 2
+= b) =
+®B (b) 3
+7 8
+c) — d) —
+@ 40 @ 15
+RRB Group-D — 06/12/2018 (Shift-ID)
+Ans. (c) : Let the another smaller number is x.
+According to the question,
+3 1
+D-xss
+8 5
+1 3
+-x=s-=
+5 8
+8-15
+=x =———
+40
+-7
+-x=ot
+40
+7
+x=—
+40
+Hence, another smaller number is option (c) = 4 .
+Decimal Fractions 66
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0027_right.png =====
+193. The denominator of a fraction exceeds 5 by its
+numerator. If the numerator is multiplied by 4
+and the denominator is multiplied by 3, then
+the fraction becomes ;
+
+3 2
+
+a) = b) =
+
+(a) 3 (b) 7
+
+4 1
+
+ce) = dy) =
+
+() 9 qd) 6
+RRB Group-D — 27/11/2018 (Shift-ITI)
+
+Ans. (a)
+
+Let the numerator is x, then the fraction = x
+
+x+5
+
+According to the question,
+
+—xx4 Ld
+(x+5)x3 2
+—*_.1
+3x+15 2
+8x =3x+15
+5x=15
+x=3
+Hence, the required fraction is <= = = 3
+xt+5 3+5 8
+194. If 2 is added to the square of a positive fraction
+is at . Find the fraction.
+3 1
+a) 2— b) 1—
+@) 27 oy
+1 1
+c) 2— d) 1-
+(©) 4 qd) 2
+RRB Group-D — 15/11/2018 (Shift-I)
+Ans: (d) Let the fraction is x.
+According to the question,
+e42= ah
+4
+vag?
+4
+4x? +8=17
+4x? =17-8
+4x°=9, r= a
+4
+x=3211
+2 2
+195. 5/12 of a number is 3/4. What is the number?
+1 7
+a) 3= b) l=
+@ 5 (b) 5
+4 5
+ec) l= d) I>
+© 5 @ i 6
+RRB Group-D — 10/12/2018 (Shift-I)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0028_left.png =====
+Ans. (c) : Let the number is x.
+According to the question,
+53
+xx==
+12 4
+9
+>x=
+5
+x= if
+5
+196. The sum of three fractions is 5. One of them is
+G , and the difference of two others is 3. Find
+the greatest of the three.
+1 1
+2- b) 2—
+@) 27 (b) 3
+1 7
+2- d) le
+(©) 2 (d) 8
+RRB Group-D — 09/10/2018 (Shift-I1)
+Ans. (b) : Let other fractions are x and y.
+According to the question,
+1
++ytl-=5
+xty4l5
+7 .
+xtY=5 (i)
+3 -
+anc x-y 4 (ii)
+Subtracting equation (ii) from equation (i),
+7
++y=-
+x4y=5
+x-y-3
+4
+—-+ =:
+7 3
+2y =--=
+94
+11
+2y=—
+4
+ll
+=—=14
+3
+Putting the value of y in equation (i),
+11_7
+Xt—=t
+8 2
+eZ NIT. lig ys
+2 8 8 8
+Hence it is clear that the greatest of the three fractions is|
+2h
+3
+197. Find the divisor of _1_
+; 5-2V3°
+@) (5-2v3) © 5+2y3
+12 13
+Decimal Fractions 67
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0028_right.png =====
+5-2v3 5+2v3
+() — @ —
+13 12
+RRB Group-D — 05/10/2018 (Shift-ITI)
+Ans. (b) On rationalizing ——=
+(b) 8 2B
+_ 1 St 2N3
+5-2V3 5+2N3
+_5+2N3 _5+2V3
+25-12 13
+. a 3 7
+198. Which fraction lies between 3 and ?
+8 6
+= b) 2
+(a) 9 (b) 7
+12 4
+ond do.
+OF Os
+RRB NTPC 18.01.2017 Shift : 1
+Ans: (b) From given fractions,
+3 0.60, 70.875
+5 8
+From question,
+8
+== 0.888
+@>
+6
+(b) = = 0.857
+OT
+12
+= = 0.923
+OG
+4
+d) = =0.571
+(dd) 7
+
+Hence, it is clear that 0.857 lies between 0.60 and
+
+0.875.
+
+199. Ifa rod of length 208 is cut into equal pieces
+of length 23 then the total number of rods
+obtained is:
+
+(a) 5 (b) 7
+(c) 8 qd 9
+RRB ALP & Tec. (31-08-18 Shift-
+4 1044
+
+Ans : (d) Total length of the rod = 2085 = >
+
+According to the question,
+
+The number of rods obtained = To length _
+
+Length of one part
+1044 1044
+=-—5_ ~_5
+al 16
+5 5
+1044, 5 1044
+=——x— =—— =9
+5 116 116
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0029_left.png =====
+200. A steel rod of length 20-5 is cut out from a
+rod of length 565 . What then is the remaining
+length of the rod ?
+
+3
+
+36—_
+
+@ 36735
+1
+
+b) 36—
+
+@) 130
+ll
+
+36——
+
+© 36736
+7
+
+d) 36—
+
+@ 130
+
+RRB ALP & Tec. (30-08-18 Shift-IT)
+[Ans : (c) The cut out length of the rod = 20%
+523
+26
+Total length of the rod = 563 = #
+The length of the remaining rod = 2 -2
+~ 7306-2615 _ 4691 _ 4 1
+130 130 130
+3 . eae 2 5
+
+201. If a0 the weight of a brick is 3 then 7 of
+
+the weight of the brick will be:
+20 E)
+=k b) =k
+@) ake ) Gke
+5 15
+c) =k d) =k
+©) ke @ ake
+RRB ALP & Tec. (14-08-18 Shift-I
+Ans : (b) Let the weight of the brick is x kg.
+According to the question,
+7
+4 8
+74
+x =—x—
+8 3
+Hence XL canes
+7 837
+5x _
+7 6
+
+202. Tapan, Ravi and Trisha shared a cake. Tapan
+had jot it, Trisha had Zot it and Ravi had the
+rest. What was Ravi's share of the cake?
+
+4 1
+= b) —
+(a) 7 (b) D
+1 2
+Ole dy) =
+© | @ &
+RRB ALP & Tec. (14-08-18 Shift-II)
+Decimal Fractions 68
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0029_right.png =====
+Ans : (b) Tapan’s share -;
+«on, 2
+Trisha’s share = 3
+Hence, Ravi’s share =1— a =-U at
+4 3 12. 12
+Hence, Ravi’s share of the cake is option (b) = 3 .
+203. The product of two numbers is 0.324. One of
+the numbers is 1.2. What is the other number?
+(a) 2.7 (b) 0.27
+(c) 0.027 (d) 27
+RRB ALP & Tee. (13-08-18 Shift-I])
+Ans : (b) Let the other number is x.
+The first number = 1.2
+And product = 0.324
+According to the question,
+xx 1.2=0.324
+x= 0.324 _ 0.27
+12
+204. Tapas, Avi and Rishi shared a cake. Tapas had
+zo it, Rishi had fof it and Avi had the rest.
+What was Avi's share of the cake?
+2 1
+£ b) —
+(a) 6 (b) 6
+3 3
+c) = ad) =
+(©) 6 @) 5
+RRB ALP & Tec. (09-08-18 Shift-I)
+Ans : (b) Avi’s share of the cake,
+-1-(3+3) 1-32
+2 3 6
+=855 1
+6 6
+Type - 3
+205. Sum of numerator and denominator of a
+fraction is 13. Adding 3 and 9 to the numerator
+and denominator respectively, the fraction
+becomes 2/3. What is the product of the
+numerator and denominator of the original
+fraction?
+(a) 45 (b) 42
+(c) 30 (d) 24
+RRB JE - 25/05/2019 (Shift-11)
+YCT
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0030_left.png =====
+Ans: (b)
+Let the numerator is x and the denominator is y.
+So, x+y=13...... (i)
+x+3_2
+yt+9 3
+3x+9=2y +18
+3x-2y=9......... (ii)
+From equation (i) and (ii),
+x=7,y=6
+So, the required product = xy =7 x 6 = 42
+206. A cake is shared among five friends. Four of
+them get the share of the cake
+isi respectively. What is the 5's share
+86 12 12
+of the cake?
+1 5
+= by) 2
+@ | ® 3
+1 3
+= d) 2
+© 4 (d) 3
+RRB Group-D — 17/09/2018 (Shift-I)
+Ans : (b) The share of the cake what all four get
+11,5,1
+=otlt+t+—
+8 6 12 12
+8+6),6 14,6 7, 6_19
+=| —— |+ = = — += =— += = —
+48) 12 48 12 24 12 24
+Hence, the 5'"’s share of the cake =1 9 5
+24 24
+207. 246 are—
+369
+(a) Odd
+(b) Irreducible
+(c) Equivalent
+(d) Alike (equal)
+RRB Group-D — 20/09/2018 (Shift-II)
+Ans : (c) From given fractions,
+2 06
+3
+4 5
+==0.6
+6
+$9 2-4_6
+9 3.6 9
+Hence, it is clear that all the given fractions are
+Equivalent.
+Decimal Fractions 69
+
+
+===== Part 2 — Decimal Fractions (pp. 40–69)_page-0030_right.png =====
+208. A tennis player, won 18 games out of 27 games
+played. Calculate the games won in terms of
+decimal.
+
+(a) 0.667
+(b) 0.067
+(c) 0.50
+(d) 0.333
+RRB NTPC 29.04.2016 Shift : 2
+
+Ans: (a) The number of games won = 3 = 0.667
+
+209. Saniya won 18 games out of 27 games played.
+Calculate the games lost in terms of decimal.
+(a) 0.333
+(b) 0.033
+(c) 0.50
+(d) 0.667
+
+RRB NTPC 12.04.2016 Shift : 1
+
+Ans: (a)
+
+The number of games lost, = aS
+9 1
+
+=a =z = 0.333
+27: 3
+
+210. 0.1, 0.9, 0.01, 0.09, ......., 0.009
+(a) 0.0001 (b) 0.1010
+(c) 0.001 (d) 0.0011
+
+RRB RPF-SI -13/01/2019 (Shift-II)
+Ans:  (c) Given,
+
+0.1, 0.9, 0.01, 0.09, .........., 0.009
+
+So, the missing term is 0.001,
+
+When we make pairs of two- two, then the pattern|
+
+showed in blank is 0.001, 0.009.
+
+60. 4 :
+
+211. If EA is equivalent to — then the value of x is :
+
+x
+(a) 15 (b) 4
+(c) 18 (d) 5
+RRB ALP & Tee. (17-08-18 Shift-III)
+Ans: (d) According to the question,
+04
+75 x
+4x75
+> x=—
+60
+=> x=5
+
+Hence, the value of x is 5.
+
+YCT

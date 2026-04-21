@@ -1,0 +1,2766 @@
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0001_left.png =====
+27.
+—————————
+Type -1 )
+
+1. The arithmetic mean of marks obtained by
+students of a class was 58. 20% of them
+achieved by the mean of the marks was 60 and
+the marks obtained by 30% the mean was 40.
+then find the mean of the marks obtained by
+remaining students?
+
+(a) 65 (b) 66
+(c) 68 (d) 70
+RRB RPF Constable — 20/01/2019 (Shift-IT) |
+Ans: (c) Let students number is the class =100
+and mean of marks obtained by the remaining
+50% students = x
+According to the question-
+20x 60+ 30x 40+50x x =100x58
+1200 +1200+50x x = 5800
+2400 +50x = 5800
+50x = 5800-2400 = 3400
+_ 3400 _ 68
+50
+
+Then mean of marks obtained by the remaining student,
+
+is 68.
+
+2. The mean of the observations x, x + 3,x+5,x+
+8, x + 9 is 9. What will be the mean of the last
+three observations.
+
+32 31
+a) = b) =
+(a) 3 (b) 3
+35 34
+Ona d) >=
+OF @ 5
+RRB RPF Constable — 17/01/2019 (Shift-I
+Ans: (d) Mean = sum of total term
+number of terms
+9- XAX+34X+5S4X484X49
+5
+45 = 5x+25
+5x = 45-25
+5x =20
+x=4
+Valuve of last three terms
+x+5=44+5=9
+x+8=12
+x+9=13
+Mean A9+12+13 34
+3 3
+Elementary Statistics 57!
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0001_right.png =====
+° °
+“lementary Statistics
+——
+3. Find the missing frequency 'x' in this figure.
+Given that the arithmetic mean is 28.
+eee |e | | ||
+20 | 30 | 40 | 50 | 60
+ras | YY" EP | S|
+of shops
+(a) 20 (b) 15
+(c) 12 (d) 24
+RRB JE - 30/05/2019 (Shift-I1)
+Ans : (a)
+Profit Shop's number fx
+vit jee |
+ws [2 | #_]
+jo-20 | 18 [| 270
+2030
+30740
+St A
+Lf=80+x Lx =2100+35x
+arithmetic mean = pas
+=f
+28- 2100+ 35x
+80+x
+2240 + 28x = 2100 + 35x
+Tx = 140
+x=20
+4, If the mean of the given observation K, 2K + 1,
+2K +5,2K +9 is 30. then find the value of K?
+(a) 15 (b) 5
+(c) 12 (d) 20
+RRB JE - 27/06/2019 (Shift-I)
+Ans : (a) Mean = sum of total term
+number of terms
+30= K+2K+1+2K+5+2K+9
+4
+120=7K+15
+7K = 105
+K=15
+{ YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0002_left.png =====
+5. Since a mistake of 68 instead of 86 was typed,
+then the mean of the class was increased by 1/2.
+What is the total number of students?
+
+(a) 34 (b) 36
+(c) 38 (d@) 40
+RRB RPF Constable — 19/01/2019 (Shift-Il)
+Ans : (b) Let number of students is x and mean of all
+class y mark
+
+So total marks got by the students = xy
+
+According to the question-
+
+xy + (86 - 68) =x (v+3]
+
+x
+=>xy+ 18=xy+ =
+2
+= X=18
+2
+
+=> x= 18x2
+
+=>x=36
+
+So students number = 36
+
+6. The mean of the five observation x, x +3, x + 4,
+x +6 and x +7 is 11. What will be the mean of
+the last three observations?
+
+(a) 12 (b) 12.67
+(c) 19 (@) 13 ;
+RRB RPF SI - 16/01/2019 (Shift-I1)
+|Ans : (b) Mean = sum of total term _ 2x
+number of terms N
+l= x+(x+3)+(x+4)+(x+6)+(x+7)
+7 5
+55 = 5x +20
+35 = 5x
+x= 35 =7
+5
+Mean of last three observation
+_ (x+4)+(x+6)+(x+7)
+3
+_ (7+4)+(7+6)+(7+7) =38_ 1967
+3 3
+7. The following list is given for the frequency
+distribution of diameter (D) of 101 steel balls.
+[Number [13_[15_[22_far [re [1a |
+Find the mean of the diameter in mm.
+(a) 45.4 (b) 45.5
+(©) 45.7 (d) 45.6
+RRB Paramedical Exam —20/07/2019 (Shift-I)
+Elementary Statistics 57:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0002_right.png =====
+Ans: (b) —
+D (mm) (x)
+2.)
+fx | 559 | 660 | 990 | 966 | 752 | 672 |
+fx
+Mean = TP
+_ 559 +660+ 990 + 966 + 752 + 672
+© 134154224+21416+14
+= 5? 45.53
+101
+8. The mean of the marks obtained by 40 students
+in an examination is 72.5. Since a mistake of 48
+instead of 84 was written. Find the right mean?
+(a) 71.3 (b) 72.4
+(c) 77.5 (d) 73.4
+RRB RPF SI - 13/01/2019 (Shift-II1)
+Ans : (d) As per question sum of marks obtained by 40|
+students right mean = 40 x 72.5 = 2900
+According to the question-
+right mean = 2900 + (84-48)
+40
+= 2936 BA
+40
+9. If the mean of the given data 2, x, 7, 3, y, 9, 6,
+where x and y are constant is 6. If x and y
+replaced by 3x+1 and y+3 respectively, then
+mean increased by 2. Find the value of x?
+(a) 7 (b) 8
+(c) 10 (d) 5
+RRB Group-D — 20/09/2018 (Shift-III)
+Ans: (d) Mean = sum of total marks
+number of marks
+6= 2+x+7+3+y+9+6
+7
+x+y+27=42
+x+y=42-27
+xty=I15........(i)
+According to the question,
+274+3x+1+y+3 =8
+7
+31+3x+y=56
+3x+y=56-31
+3x t+ y= 25 ........(ii)
+Subtracting equation (i) from equation (ii)
+3x + y= 25
+xty=15
+2x=10
+x=5
+J YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0003_left.png =====
+10. The mean of the 8 smallest numbers in a group
+is 17, While the mean of the all numbers is 20.
+If the smallest eight numbers leave, then the
+mean of the reamining number is 22. So find
+out the total numbers in the group?
+(a) 20 (b) 22
+(c) 18 (d) 19
+RRB Group-D — 28/09/2018 (Shift-II)
+Ans. (a) : Let total numbers in group = x
+According to the question-
+8x17 +(x —8)22=xx20
+136 + 22x -176 = 20x
+—40 + 22x = 20x
+2x =40
+x=20
+Total number in group = 20
+11. The mean of 21 observations (all defferent) is
+40. If the meadian increased by 21 them the
+value of observations increased, the mean of
+observations will be.
+(a) 50 (b) 50.5
+(c) 30 (d) 45
+RRB Group-D — 17/09/2018 (Shift-ID
+Ans : (a) 21 Total sum of observation = 21 x 40 = 840
+123 4 5 67 8 9 1011 12 13 1415 16 17 18 19 2021
++21
+If the value of median is increased to 21, the value of
+the observations increases.
+increase value of observation = (21 — 11) x 21 =210
+Mean of observation = Total mean merase value
+— 840+210 _ 50
+21
+12. The mean of the 8 smallest numbers in a group
+is 12.5. While the mean of all 14 numbers in the
+group is 14. Find the mean of the 6 greatest
+numbers?
+(a) 16.50 (b) 16.00
+(c) 17.00 (d) 15.50
+RRB Group-D — 10/10/2018 (Shift-I)
+Ans: (b)
+Mean of the 8 smallest number in the group = 12.5
+sum of the smallest eight number = 8 x 12.5 = 100
+mean of all 14 number = 14
+14 sum of 14 number = 14 x 14= 196
+sum of 6 largest number = 196-100 = 96
+mean of 6 largest number = = =16
+So intended mean
+Elementary Statistics 57.
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0003_right.png =====
+13. The arithmetic mean of a set of numbers is 12.
+The mean of another set of numbers is 15. If
+combined mean of both sets is 12.5. Then find
+the ratio of frequency of both sets?
+
+(a 3:1 (b) 5:1
+() 3:2 (d) 5:2
+RRB Group-D — 24/10/2018 (Shift-II)
+
+Ans. (b) : Let the number of terms in the first set 0:
+
+number (frequency) = n;
+
+and the number of terms in the second set of number]
+
+(frequency)= nz
+
+According to the question—
+
+=> 12xn, +15xny =(n, +n, )x12.5
+=> 12n, +15n, =12.5n, +12.5n,
+=> 15n, -12.5n =12.5n, -12n,
+=> 2.5n, =.5n, =m.
+n, 1
+
+So ratio both group's frequency = 5:1
+
+14. Find the median of the given observation —
+67, 34, 57, 32, 12, 92, 51, 62, 62 57, 93 and 5
+(a) 565 (b) 32
+() 57 (d) 62
+
+RRB Group-D — 06/12/2018 (Shift-III)
+Ans. (c) : Writing the given numbers in ascending order|
+5, 12, 32, 34, 51, 57, 7, 62, 62, 67, 92, 93
+total numbers (n) =
+a st term+ a st term
+- 2 2
+median} ————__~—+____
+2
+_| 6" term+7" term
+2
+2 2
+
+15. If the mean of the observation set x;, Xz .....X10
+is 20. Then find the mean of the set x,+4,
+X7+8.....X19+40?
+
+(a) 34 (b) 32
+(c) 42 (d) 52
+RRB Group-D — 15/11/2018 (Shift-I)
+Ang: (c) “1t%24%s 477" Xu _ 99
+10
+X, +X) +X; +-—— x19 = 200 ----(i)
+3 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0004_left.png =====
+then mean =
+(x, +4) +(x, +8) +(x, +12) +--——(X jp +40)
+10
+J Xy #Xy $Xy +7 ——Xyp $448412+--—40
+10
+= a [from equation(i)]
+- 200+220 _ 420 _ 4,
+10 10
+16. In an examination, the mean of scores of the 36
+students was 72.50. On revising the points, it
+was found that a student mark was written 65
+by mistake instead of 56. Then find the carry
+mean?
+(a) 71.50 (b) 72.25
+() 72 @ 73
+RRB Group-D — 12/11/2018 (Shift-II)
+2. =
+Ans : (b) Right mean = aa)
+2610-9 _ 2601 _ 1) 5,
+36 36
+17. The mean score of a group of 17 members was
+15, where as mean score of another group of n
+members was 12. If their combined mean was
+13.7, then find the value of n?
+(a) 12 (b) 13
+() 14 @ i
+RRB Group-D — 12/11/2018 (Shift-II1)
+Ans : (b) Total score of 17 members = 17 x15 = 255
+Total score of n members = 12n
+According to the question,
+255+12n 1,5
+17+n
+13.7n + 232.9 = 255 + 12n
+13.7 n— 12n= 255 - 232.9
+1.7n = 22.1
+n= 13
+18. The mean weight of six children is 17.5 kg. If
+the person weights of five children are 14, 19,
+23, 21 and 13 kg respectively, find the weight
+of the sixth child.
+(a) 17kg (b) 15kg
+(c) 16kg (d) 18kg
+RRB Group-D — 05/11/2018 (Shift-I1I)
+Ans. (b) : Suppose the weight of sixth child is x kg,
+14+19+23+21+13+x
+0 17S = rT
+105.0=90+x
+x=15
+So weight of sixth child = 15kg
+Elementary Statistics 57
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0004_right.png =====
+19. On the basis of given below data. Find out the
+mean of the digits?
+[marks oft fz qs [a [es |
+
+Number of students [efs[4[3 [2 [5 |
+(a) 3.3 (b) 2.8
+(c) 2.5 (3.2
+RRB Group-D — 23/10/2018 (Shift-IIL.
+Ans: (b)
+Mark(@ [o[i[2][3[4[s | |
+Number of 5 3. [2 ]5 | xf25
+students (f)
+te rors [e [se [a0 [amar _|
+Dfx
+Mean = =—
+xf
+= _x8
+25
+
+20. The four numbers a, b, c and d are such that
+their overall average is 23. The average of a
+and b is 19.5. then find out the average of c and
+d?
+
+(a) 26.5 (b) 25.5
+(c) 24.5 (d) 27.5
+RRB Group-D — 01/10/2018 (Shift-I
+
+Ans. (a) :
+
+The four numbers are a, b, c, d which average is 23
+
+Total of all numbers = 4 x 23 = 92
+
+Total ofa and b = 2 x 19.5=39.0
+
+Sum of c and d = sum of 4 number -sum of 2 number
+
+=92-39
+
+Sum of c and d = 53
+
+average of c and d= 3
+
+average of c and d = 26.5
+
+21. If the mean of the numbers 27+x, 31+x, 89+x,
+107+x and 156 + x is 82. Then find the mean of
+the numbers 130+x, 126+x, 68+x, 50+x and
+1+x?
+
+(a) 30 (b) 75
+(c) 50 (d) 70
+RRB Group-D — 23/09/2018 (Shift-I)
+Ans: (b) mean = sum of terms
+number of terms
+27+X+314x4+894+X41074+X+156+x
+>. A a 82
+B)
+=> 410+5x =410
+=> 5x =410—410
+=>5x=0
+xa -0
+5
+7 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0005_left.png =====
+again
+SORTS RAS RE SDE NATE (Putting = 0)
+_ 130+126+68+50+1 _ 375 _ 15
+
+5 5
+
+intended mean = 75
+
+22. If the arithmetic mean of the series x,, x2, X3,
+ssseeseeeeXp iS 1. Then find the mean of the series
+
+Xx.
+
+FEE sen (where k > 0)?
+
+1
+a) = b) k
+@ (b)
+
+2
+
+= d) 2k
+OX (d)
+
+RRB Group-D — 19/09/2018 (Shift-I
+
+Ans: (a) mean = sum of terms
+
+number of terms
+X, +X, +x, +------x
+j= 2 3 ty
+n
+So,
+Xi X24 Xe
+k ek k
+mean= ————____——_
+n
+mean = 1% +X, +X, +---x,)
+k n
+
+mean =i (‘from equation
+
+(@}
+
+23. If the arithmetic mean of 10 numbers is 35 and
+each number is increased by 2, find the mean
+of the new set of numbers.
+
+(a) 28 (b) 34
+(c) 40 (d) 37
+RRB NTPC 05.04.2016 Shift : 3
+Ans :(d) *.* Two be added to each number
+.. Two will also be added to the parallel mean.
+
+So new range mean = 35 + 2 = 37
+
+24. The mean of the marks scored by 12 students
+of a class is 67.4. If the mean of another class
+consisting of 15 students is 72.3, find the their
+combined mean?
+
+(a) 70.12 (b) 69.85
+
+(c) 71.23 (d) 68.94
+
+RRB NTPC 03.04.2016 Shift : 2
+Ans :(a) Total of arks obtained by 12 students
+15 Total of marks obtained by =15x72.3 = 1084.5
+Joint mean of both classes = 808.84 1084.5
+12+15
+
+total of marks obtained by 12 students = = = 70.12
+Elementary Statistics 57:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0005_right.png =====
+25. The mean of the four different observations is
+17.5. When a new observation whose value is
+20 is added to it, then what will be its new
+mean?
+(a) 18 (b) 17.5
+(c) 19 (d) 18.5
+RRB NTPC 28.03.2016 Shift : 2
+Ans :(a) Mean of four observation = 17.5
+Sum of four observation = 17.5 x 4 = 70.0
+Adding new observation = 70 + 20 = 90
+New mean =2a18
+26. The arithmetic mean of 20 observation is 15.5,
+later it is found that an observation written 42
+by mistake instead of 24, Find out the correct
+mean?
+(a) 14 (b) 14.4
+(c) 14.6 (d) 15
+RRB NTPC 28.03.2016 Shift : 3
+Ans : (c) Total sum of 20 inspection but was
+mistakenly read 42 instead of 24.
+«. Correct sum = 310 + 24-42 = 292
+So correct mean = 292 _ 14.6
+20
+27. The mean of 22 observations is 10. When two
+more observations is included then new mean
+becomes 11. What will be the mean of two new
+observations?
+(a) 19 (b) 20
+() 21 (d) 22
+RRB NTPC 19.04.2016 Shift : 1
+Ans : (d) Mean of two new observation
+_ 24x11-22x10
+7 2
+- 264-220 -4_y
+2 2
+28. The mean of 8 observations is 10. Three more
+observations is added the new mean becomes
+12. Find out the mean of three new
+observations?
+(a) 16 (b) 18
+(c) 17.33 (d) 15
+RRB NTPC 16.04.2016 Shift : 2
+Ans : (c) Total sum of 8 observation = 8x10 = 80
+Sum of observation on inclusion three other observation
+= 11*12= 132
+.. Sum of three new observation = 132 — 80 = 52
+So mean of three new observations -2- 17.33
+5 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0006_left.png =====
+29. Find out the mean of the given below data—
+pp 3tet ts
+2°2'4'ar'2 44
+15 13
+= b) —
+@ ®
+7 8
+ce) = dy) —
+(©) 9 (d) 9
+RRB NTPC 11.04.2016 Shift : 1
+‘Ans: (b) Mean = Sum of numbers
+number of numbers
+1,1,3,1 11,3
+l4+e+st+—+—4+24+24-—4=—
+_~ 22°44 2°44
+9
+44+24+24+3414+84+241+3
+- 4 =26 _B
+9 36 18
+30. ‘If the mean of the given data 18, 16, 22, 13, ?
+is 16 then find the value of '?'.
+(a) 9 (b) 11
+(c) 10 (d) 12
+RRB NTPC 06.04.2016 Shift : 1
+Ans : (b)
+9
+Mean = 18+16+22+13+?
+5
+2
+16-92? = 6947=16x5
+2=80-69=11
+31. The mean of 9 observations is 18. Four more
+observations is added, the new mean becomes
+19. What will be the mean of four new
+observations?
+(a) 21.25 (b) 20.25
+(©) 19 (d) 22
+RRB NTPC 22.04.2016 Shift : 3
+Ans: (a) Sum of 9 observations = 18 x 9 = 162
+Sum of 13 observation = 19 x 13 = 247
+So mean of four new observations = “ae
+= bd =21.25
+4
+32. Find out the mean of first 6 prime numbers?
+(a) 14/73 (b) 3
+(c) 41/6 (@) 13/2
+RRB NTPC 29.03.2016 Shift : 1
+Ans : (c) First 6 prime numbers = 2,3,5,7,11,13
+. 24+3+5+7+11413 41
+“. Mean = —————__ => —
+6 6
+Elementary Statistics 57
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0006_right.png =====
+33. Find out the median of the given observations—
+(a + 4), (a — 3.5), (a — 2.5), (a — 3), (a — 2), (a+
+0.5), (a +5) and (a- 0.5).
+(a) a-1.25 (b) a-2.5
+(c) a-15 (d) a-0.75
+RRB JE - 27/05/2019 (Shift-1)
+Ans: (a) Writing the number in ascending —
+(a-3.5), (a-3), (a-2.5), (a-2), (a-0.5), (at+0.5), (a+4),
+(at5)
+order (n) = 8(sum)
+(z}m term +(2 41} terms
+median = 7 a SS
+2
+_ 4"term +5" term
+>
+_a-2+a-05
+7 2
+_ 2a-2.5
+>
+=
+34. Find out the median of the given below data?
+income 14 19 24 [29 | 34 39
+[Emmee | |" YP]? [YP
+employee
+(a) 20 (b) 12.33
+(c) 26.4 (d) 25.13
+RRB JE - 30/05/2019 (Shift-I)
+Ans: (d)
+daily income in (2) Number of staff Cumulative
+frequency
+95-145 5 5
+14.5- 19.5 10 15
+19.5 — 24.5 15 30 =cf
+29.5 — 34.5 10 60
+34.5 — 39.5 5 65
+n=65
+n_ 65
+oo iar ae 32.5
+it is included in the cumulative frequency 50
+So median class interval will be (24.5 — 29.5)
+minimum limit (L) = 24.5
+square height (h) =5
+frequency (f) = 20
+J YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0007_left.png =====
+The cumulative frequency of the class before the|
+median class. (cf) = 30
+Bcf
+«median =L + 2 xh
+=245+{225=30),5
+20
+= 24,5425 :
+4
+= 24.5 + 0.625
+= 25.125 = 25.13
+35. Find out the median of the positive factore of
+48.
+(a) 16 (b) 12
+(c) 8 qd) 7
+RRB RPF SI - 12/01/2019 (Shift-II)
+Ans: (d) all positive factors of 48 are—
+1,2,3,4,[6],[8],12,16,24,48
+In = 10 (even)
+‘a
+~. median = terms value (3+ i) st terms value
+5"*terms value + 6" terms value
+2
+6+8 14
+=——=—=7
+2 2
+36. What will be the median of the given below
+data 1.9, 8.4, 3.6, 5.8
+(a) 5.1 (b) 4.7
+(c) 52 (d) 56
+RRB Paramedical Exam —21/07/2019 (Shift-III)
+Ans : (b) Ascending order — 1.9, 3.6, 5. 8, 8.4
+n=4 (even)
+- 1} n™ nn.)
+Median=—|— term+|—+1] term
+2/2 2
+Median = 4 [ana term+3" term |
+2
+1 1
+=—[3.6+58]=—%x9.4=47
+2 2
+37. Find out the median of the given below data-
+1p 3 42113
+244 a4
+1 1
+= b) —
+(a) 4 (b) 2
+1 3
+ce) = dy) =
+(©) 6 (d) 4
+RRB RPF Constable — 22/01/2019 (Shift-III)
+Elementary Statistics 57
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0007_right.png =====
+Ans : (b) Putting in ascending order to the figure-
+itt 33
+4°4°2°2°2°4'4
+n= 9 (Odd)
+Median = nal stterm = Eda} rd term
+2 2
+1
+=5" term = —
+erm = 5
+38. What will be the median of the given below
+data 5, 2, 2, 7,3 and 8
+(a) 3.5 (b) 4.5
+(c) 4 qd) 3
+RRB RPF Constable — 22/01/2019 (Shift-III)
+Ans : (c) 5, 2, 2, 7, 3,8
+Writing in ascending order
+2, 2,3,5,7,8
+n=6
+a” ny
+Median = 2 terms vatue+(2 + 7 term value
+2
+_ 345
+2
+=224
+2
+39. If a school has 50 girls of class X the height
+survey data (in cm) is as follows:
+es a
+less than 145cm pom]
+less than 150 cm |e
+Fesaonsem [|
+less than 160 cm } 6
+less than 165 cm
+Find the median of their height.
+(a) 144.03 cm (b) 148.89 cm
+(c) 145.03 cm (d) 149.03 cm
+RRB Group-D — 30/10/2018 (Shift-II)
+Ans: (b)
+length (in cm) frequency Cumulative frequency
+135-140 4 4
+140-145 7 ll
+145-150 18=f 29
+150-155 11=f, 40
+155-160 6 46
+160-165 4 50
+Zf=N=50
+y YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0008_left.png =====
+N f,
+5 tb
+Median =L+|-2—— |xi where N_50_y5
+f 2 2
+25-11
+=145+ SM), 5 L- low limit
+70 ee
+= 145+ ie f— original frequency
+145 + 3.88 = 148.88 = 148.89
+i- original frequency
+f, — below frequency of original frequency
+40. The following graph shows the price of 12]
+months of cabbage what is the median of their
+values?
+Price per kg
+in 8080
+a0 20
+70
+60
+so so
+40 40° am $2 49 —— Price per kg
+30 30
+ao -
+10
+°
+Jan Feb Mac Ape May un Jul Aug Sep Oct Nov Dee
+(a) 55 (b) 40
+(©) 50 (d) 60
+RRB Group-D — 17/09/2018 (Shift-I1I) |
+Ans. (c) : Writing in ascending order to the given|
+numbers, 30, 40, 40, 40, 40, 50, 50, 50, 80, 80, 80, 80
+Total number (n) = 12(even)
+th ‘h
+(3) terms value (3+ 1) terms value
+Median. = AAA AH
+2
+st st
+2) terms + Ray terms
+\2 2
+2
+_ 6" term+7" term _ 50+50 =50
+2 2
+41. The mean of the given data 12, 13, 15, 18, X, 28,
+18, 12, 6 and 8 is 15. Find out the median of the
+given data?
+(a) 14.5 (b) 13.5
+(c) 14 (d) 13
+RRB Group-D — 25/09/2018 (Shift-IIT
+Ans. (c) : mean of given 12, 13, 15, 18, x, 28, 18, 12, 6,}
+8
+mean = 15
+6+8+124+12+13+15+18+18+28+x =15
+10
+=130+x=150
+x= 150-130=20
+Elementary Statistics 57%
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0008_right.png =====
+writing in ascending order to the figure
+/-6,8,12,12,[13,15],18,18,20,28
+terms number here = 10(even)
+mediam- 1 Ath term+{ 241 |th term
+212 2
+=1/10 th term + way th term
+2142 2
+= ; [5"" term + 6" term]
+median = 3415 _ 28 _14
+2 2
+42. Find the median of the firt 10 numbers of the
+Fibonacci series: A Fibonacci number of that
+series is the sum of two last numbers first two
+Fibonacci numbers arte 0 and 1 respectively.
+(a) 4 (b) 3
+() 5 (d) 45
+RRB Group-D — 11/10/2018 (Shift-III)
+Ans: (a)
+Number = 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+terms number(n) = 10 (even)
+median = (5th term+6th term) _ 345 _ 4
+2 2
+43. What will be the median of the given data— 5,
+17, 68, 17, 32, 45, 64, 37, 93, 45, 78, 32, 35 and
+45
+(a) 41 (b) 44
+(c) 42 (d) 43
+RRB Group-D — 12/11/2018 (Shift-I)
+Ans. (a) : Writing is ascending order of numbers-
+5, 17, 17, 32, 32, 35, 37, 45, 45, 45, 64, 68, 78, 93
+terms number = 14 (even)
+median mes 2th term+{ 241} th term
+22 2
+= 3" term + 8" term)
+=137+45]
+2
+= 22 41
+2
+44. Find the median of the all prime number from
+1 to 55.
+(a) 22 (b) 20
+(c) 21 (d@) 19
+RRB Group-D — 08/10/2018 (Shift-III)
+3 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0009_left.png =====
+Ans : (c) According to the questions
+All prime number of till 1 to 55 = 2, 3, 5, 7, 11, 13, 17,
+19, 23, 29, 31, 37, 41, 43, 47, 53
+n= 16 (even)
+(3) term {+1} term '
+.. median= May 2
+2
+16 16
+. (f)m tem +( 19-41) h term
+- 2
+_ 8th term+9th term
+7 2
+_19+23
+— 2
+ane
+=5 :
+=21
+So median of all prime numbers between | to 55 = 21
+45. Points scored by 12 people are 6, 17, 8, 9, 16,
+10, 15, 21, 9, 11, 12 and 16 find the median.
+(a) 11.5 (b) 11.6
+(c) 104 (d) 12
+RRB Group-D — 01/10/2018 (Shift-IT,
+Ans, (a) : Putting in ascending order to the series.
+6, 8, 9, 9, 10, 11, 12, 15, 16, 16, 17, 21
++: n= 12 (even)
+(3) term {21h term
+Median =|\24 2)
+2
+(2) term +( 2) term
+mw) 2
+7 2
+_ 6th term+7th term _11+12
+7 2 2
+= 23 =11.5
+2
+46. By a Kabbaddi team, in a series of matches
+obtained marks are given as follows—
+17, 2, 7, 27, 15, 5, 14, 8, 10, 24, 48, 10, 8, 7, 18,
+28 find the median of the marks obtained by
+the team?
+(a) 11 (b) 12
+(c) 16 (d) 15
+RRB Group-D — 18/09/2018 (Shift-II1)
+Ans. (b) : Writing in increasing order of digits— 2, 5, 7,}
+7, 8, 8, 10, 10, 14, 15, 17, 18, 24, 27, 28, 48
+total terms number(n) is = 16(even)
+Elementary Statistics 57
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0009_right.png =====
+th th
+median = (3) tem +(2+1) term |+2
+2 2
+_ 8th term+9th term _10+14 _ 24 _1,
+2 2 2
+47. What will be the median of the given following
+data—
+7, 21, 2, 17, 3, 13, 7, 4,9, 7,9
+(a) 4 (b) 17
+(c) 7 qd) 9
+RRB NTPC 17.01.2017 Shift-3
+Ans: (c) Ascending order to given figure—
+2,3,4,7,7, [7], 9, 9, 13, 17, 21
+n= 11 (odd)
+. 11+1
+median = > st term = 6 term=7
+48. Find the median of the given following data—
+9,0,2,8,5,3,5,4,1,5,2,7
+(a) 5 (b) 6.5
+(co) 4.5 (d) 4
+RRB NTPC 04.04.2016 Shift : 2
+Ans : (c) Ascending order to the the given figure—
+0, 1, 2, 2,3, 4, 5,5, 5,7, 8,9
+n =12 even
+median = 1 Ray term (21 st term
+2,2 2
+= ; [6th term + 7th term]
+1 9
+=>(4+5)=-=45
+3 ) 2
+49. The median of the following numbers arranged
+in ascending order is 2.5, so find x?
+0,0, 1,1, 2, 2,x,3, 3,4, 5,7
+(a) 2 (b) 3
+(c) 4 @ 0
+RRB NTPC 03.04.2016 Shift : 2
+Ans: (b)0, 0, 1, 1, 2, 2, x, 3, 3,4,5,7
+n=12 (even)
+median = 1 2th term {21 th term
+22 2
+2.5 =i Ray term +} 12.41) hterm
+2,2 2
+= ; [6th term + 7th term]
+25=4[2+x]
+2
+=>2+x=5
+>x=3
+) YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0010_left.png =====
+50. For the given following data what will be the
+median? 25, 23, 26, 29, 31, 39 and 11
+(a) 25 (b) 26
+(c) 29 qd) 31
+RRB NTPC 02.04.2016 Shift : 1
+Ans : (b) Writing in ascending order,
+11, 23, 25, 26, 29, 31, 39
+Number of terms = 7 (odd)
+-. Median -() st tern = 4th term = 26
+51. Find the median of the given number- 55, 53,
+59, 56, 61, 69, and 31
+(a) 55 (b) 56
+(©) 59 (d) 61
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (b) Writing in ascending order to the given
+numbers —
+31, 53, 55, 56, 59, 61, 69
+n=7 (odd)
+ntl (7 +)
+median = —— st term =| —— |st term
+2 2
+= 4th term
+= 56
+52. What will be the median of the given number.
+2, 3, 4, 3, 0, 5, 1, 1, 3, 2
+(a) 0 (b) 3
+(c) 2.5 (d) 24
+RRB NTPC 31.03.2016 Shift : 3
+Ans : (c) 2, 3, 4, 3, 0, 5, 1, 1, 3, 2 writing in
+ascending order — 0, 1, 1, 2, 2, 3, 3,4, 5
+n=10 (even)
+. 1jn n
+median = [Se tem-+(2 vi}s te
+= 1[ ea term + (2 + is te]
+212 2
+= > [5th term + 6th term] :
+1 5
+=5(3+2)= 3 =25
+53. If the numbers 3, 6, 7, 11, x, 15, 19, 20, 25 and
+28 are in ascending order and median of these
+numbers are 13, then find the value of x?
+(a) ll (b) 12
+() 13 (@) 14
+RRB NTPC 28.03.2016 Shift : 3
+Ans : (a)
+Given number 3, 6, 7, 11, x, 15, 19, 20, 25, 28
+here terms number = 10 (even)
+2th term +101} term
+“ Median = 2 ia
+2
+Elementary Statistics 58
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0010_right.png =====
+7 thterm+ Way thterm
+2 2
+J3asf4—__ <7
+2
+B= Sth term + 6th term
+2
+26= x+15
+x=11
+54. What will be the median of the given data as
+follows -3, 4,0, 4, -2,-5,1,7, 10,5
+(a) 2 (b) 2.5
+(c) 2.75 (d) 3
+RRB NTPC 11.04.2016 Shift ; 2
+Ans : (b) Writing in ascending order to the figure -
+—5,-3,-2, 0, 1, 4, 4,5, 7, 10
+n= 10 (even)
+~. median -1 Pthterm+/ 241} th term
+22 2
+= 5 [sth term + 6th term]
+= tn +4]
+2
+=2.5
+55. Find out the median of the given numbers as
+follows 3, 3, 5, 7, 8, 8, 8, 9, 11, 12, 12
+(a) 9 (b) 7
+() 8 (d) 12
+RRB NTPC 19.01.2017 Shift : 3
+Ans : (c) Writing in ascending order to the figure-
+3,3, 5,7, 8, 8, 8,9, 11, 12, 12
+=> terms number(n) = 11
+if terms number are odd then-
+median an th term
+= TT th term = 6th term = 8
+56. | What will be the median of the given data-
+87, 21, 53, 12, 86, 98, 23, 64, 87, 23, 23, 87,
+56, 12, 53
+(a) 53.5 (b) 54
+() 53 (d) 56.5
+RRB NTPC 28.04.2016 Shift : 3
+Ans : (c) Arranging in ascending order to the given
+data—
+12, 12, 21, 23, 23, 23, 53, 53, 56, 64, 86, 87, 87, 87, 98
+Total number of digits (n) = 15 (odd)
+7 n+l
+median = > st terms value
+So, median = ‘) st tems value = 8th terms value
+So median = 53
+) YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0011_left.png =====
+57. The median of the following term was}.
+determined: 32, 12, 23, 17, 28, 25, 43. Later it
+was found that 17 was written by mistake
+instead of 29. Now what will be the changeable
+median?
+
+(a) 29 (b) 17
+(c) 23 (d) 28
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (d) 32, 12, 23, 17, 28, 25, 43
+arranging in ascending
+12, 23, 25, 28, 29, 32, 43
+n=7 (odd)
+median = (=) th term
+= (728) term = 4th term = 28
+Type -3
+
+58. What will be the mode of the given data as
+follows— 3, 12, 4, 6, 8, 5, 4
+(a) 5 (b) 8
+©) 4 (d) 3
+
+RRB RPF SI - 06/01/2019 (Shift-II)
+
+Ans : (c) Mode = the highest frequency number
+
+Mode = 4
+
+59. Find out the mode of the given distribution—
+Class 1-10 |10-20]20-30|30-40|40-50|50-60
+interval
+frewnal 3 [16 [38 [ar |e |e |
+(a) 34.5 (b) 35
+(c) 42 (d) 32.5
+
+RRB JE - 27/06/2019 (Shift-1)
+
+|
+
+Class 1-10 |10-20 /20-30 |30-40 |40-S0 |50-60
+
+interval
+
+frequency] 3 | 16 [Cor /GHF[GoF | 8 |
+
+Most frequency class is (30-40)
+
+So mode category(30-40)
+
+“ L, = 30, L, = 40
+
+F, = 31, F, = 16, Fo = 26
+formula— Mode = L; + = Lb) =F)
+
+2-5
+Mode = 30 + 40=30)G1- 26)
+2x31-26-16
+Mode = 30422
+20
+
+Mode = 30 + 2.5
+
+Mode = 32.5
+Elementary Statistics 581
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0011_right.png =====
+60. 20 homes from a local area by a group of
+students household family members in a survey
+conducted on of the following frequency table
+related to the number of family numbers.
+ee
+Find the mode of the given data.
+
+(a) 3.571 (b) 3.444
+(c) 3.628 (d) 3.286
+RRB Group-D — 20/09/2018 (Shift-III)
+Ans : (b)
+Size of family Family numbers
+1-3 T=fy
+3-5 9=f
+5-7 2=h
+TO 1
+9-11 1
+The frequency of category 3-5 is the highest so
+polymer category is 3-5
+L=3, fo=7, f1=9,  =2 and h=2
+mode = oe}
+2f, -f, -f,
+=34—2) x2
+18-7-2
+2 31
+a34gx2= >= 3.444
+
+61. Wickets taken by a bowler in 12 cricket
+matches are as follows:
+2,6,4,3,5,0,3,2,1,3,2,3
+What will be the mode of the given data?
+
+(a4 (b) 2
+(©) 3 @ 1
+RRB Group-D — 18/09/2018 (Shift-II)
+
+Ans. (c) : Polymer means that the number has come
+
+more often or has a higher frequency.
+
+Therefore, the given polymer has a high frequency of 3
+
+“ Polymer of figures = 3
+62. What will be the mode of the given following
+data?
+25, 45, 58, 87, 45, 54, 65, 12, 25, 59, 42, 60
+(a) 25 (b) 45
+(0) 45, 54 (d) 45, 25
+RRB Group-D — 09/10/2018 (Shift-I)
+[ YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0012_left.png =====
+Ans. (d) : given figures- 25, 45, 58, 87, 45, 54,
+65, 12, 25, 59, 42, 60
+It has a maximum frequency of 25 (twice) and 45
+(twice) also.
+So Required mode is 25, 45
+63. Details of number of people taking loans from
+bank based on their age group interval given
+below Find the mode?
+20-30 [30-10
+Find the mode.
+(a) 45.33 (b) 44.89
+(c) 45.67 (d) 45.12
+RRB Group-D — 15/11/2018 (Shift-III)
+Ans ; (a):
+here - L= minimum limit of mode category = 40
+f, = number of mode category = 70
+fo = Number of the persons belongs to upper|
+cless of polymer class = 38
+f; = Number of persons belongs to the class|
+below the polymer class = 42
+i= higher limit — lower limit (quadratic) = 10
+f,-f .
+id =L+— 2 _
+mode (z) 3B —f,-f, |
+= 4040-38 _ 19
+70x 2-38-42
+=40+— 2x10
+140-80
+= 404320 - 4045.33= 45.33
+60
+64. Below, details of 100 students present in the
+class is given on the basis of ther presence
+(day).
+The number of days of 10- | 14- | 18- | 22-
+presence 14 | 18 | 22 | 26
+Number ofstdenis [9 [ax [34 [1s [11 |
+What will be the mode of the data?
+(a) 15.09 (b) 15.01
+(©) 14.71 (d) 15.04
+RRB Group-D — 12/11/2018 (Shift-I)
+Elementary Statistics 58:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0012_right.png =====
+Ans. (a) :
+Number frequncy
+6-10 9
+10-14 28 = fy
+14-28 34-f
+18-22 18 =f
+22-26 11
+= fi=fy 3
+z (Mode) = L+ 2, -f, -f, xi
+L=14 £, = 34 fy =28
+f= 18 i=4
+714448 _ 4 = 14424
+68-28-18 22
+z= 15.09
+65. | What will be the mode of the given data?
+12, 1, 10, 1, 9, 3, 4, 9, 7,9
+(a) 9 (b) 12
+(©) 1 qd) 7
+RRB NTPC 17.01.2017 Shift-1
+Ans : (a) In the given data the mode = 9 (3 times)
++s mode is the highest frequency number.
+66. What will be the mode of the given data as
+follows— 32, 34, 35, 36, 35, 34, 33, 35, 33, 31
+and 37
+(a) 33 (b) 34
+(c) 35 (d) 32
+RRB NTPC 04.04.2016 Shift : 3
+Ans :(c) 32, 34, 35, 36, 35, 34, 33, 35, 33, 31, 37
++ highest frequence is 3 of the number 35.
+So mode = 35
+67. | What will be the mode of the given data given
+as — 12, 14, 15, 16, 15, 14, 13, 15, 13, 11 and 17
+(a) 13 (b) 14
+(co) 15 (d) 12
+RRB NTPC 03.04.2016 Shift : 3
+Ans :(c) If the frequency of a number is the most
+frequent in the data, then that number is the mode of the
+given data.
+So mode of data = 15
+68. What will be the mode of the given data given
+as— 2, 4, 5, 6, 5, 4, 3, 5, 3, 1 and 7
+(a) 3 (b) 4
+() 5 (d) 2
+RRB NTPC 02.04.2016 Shift : 3
+Ans: (c) 2, 4, 5, 6, 5, 4, 3, 5, 3, 1,7
+Frecquency of 5 is highest in the given data.
+-. mode = 5
+J YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0013_left.png =====
+69. If the mode of the given data is 52, then find
+the value of x?
+52, 45, 49, 54, 56, x-3, 56
+(a) 52 (b) 55
+(c) 54 (d) 56
+RRB NTPC 29.03.2016 Shift : 2
+Ans: (b) ‘* Mode of figures = 52
+“x-3=52>
+70. What will be the mode of the given data—
+p13 42112
+93°94? 4 2 44
+1 1
+a) — b) =
+(a) 4 (b) 2
+3
+co) = d) 1
+(©) 4 (d)
+RRB NTPC 07.04.2016 Shift : 3
+Ans :(b)
++s frequency of is maximum (3) in data.
+: 1
+“. mode = —
+2
+Type -4
+71. Find the standard deviation of {11, 7, 10, 13, 9}.
+(a) 1 (b) 2
+(©) 4 qd) 5
+RRB RPF SI — 10/01/2019 (Shift-II)
+ee
+Ans: (b) Standard deviation = =x)"
+n
+|Where
+x — mean
+n— The number of terms
+x a LIAT+1041349 _ 50 _ 19
+5 5
+ED (xx = (11-10) + (7-10)? +(10-10) + (13-10)? +
+(9-10 =1+9+0+9+1=20
+Standard deviation = 2 =2 |
+72. The value of the 5 variance is 16. If each value
+becomes double then find the new value of
+standard deviation?
+(a) 16 (b) 4
+(c) 10 (@) 8
+RRB JE - 28/05/2019 (Shift-I)
+Elementary Statistics 58:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0013_right.png =====
+Ans: (d) We know that-
+Standard deviation = Variance
+Standard deviation = 4
+Note : if the figures are added subtracted, multiplied or,
+divided by a given number, then the standard deviation|
+is the same process.
+Hence the new standard deviation = 4x 2 = 8
+73. The variance of the 5 values is 36. If each value
+becomes double, then what will be the standard
+deviation?
+(a) 12 (b) 6
+(c) 18 (d) 10
+RRB JE - 30/05/2019 (Shift-I11)
+Ans: (a) Variance = 0”
+Standard deviation = vo? = 36
+Standard deviation = 6 = 6
+New standard deviation = Ao
+(Where A = n times each value)
+=2x6
+=12
+74, What will be the standard deviation of the
+given following data—
+6, 12, 9, 7, 8, 4, 3, 12, 15, 4
+(a) 3.80 (b) 2
+(c) 3.48 (d) 4
+RRB JE - 26/06/2019 (Shift-I)
+Ans. (a)
+[ x Je [2 fot 7 [sf 4] 3 fe tist a
+d=
+— |-2|+4 0|-4|-5 |} 44) +7|-4
+(x-x)
+L_& [4 [6 |i] t Jo] 16 | 25] 16 [49 [16 |
+zd’ = 144
+Mean (x)= 6+12+94+7+84+443412415+4 =8
+10
+2
+Standard deviation = , zd" a =v14.4=3.8
+n
+75. What will be the standard deviation of the first
+n natural number?
+2
+n*-1 n(2n +1)
+a b) So
+@ V5 (b) 3
+2
+n+l n(n+1)
+ja dy)
+OVS @ FG
+RRB JE - 02/06/2019 (Shift-11)
+3 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0014_left.png =====
+Ex/) (zx, )
+Ans. (a) o (S.D) = Ge) (ax)
+n n
+First 'n' natural number
+exj=1+24+3+——-tn= wet )
+(Bx, )'= (12 +22 +324 +n’) =neeben+)
+og = {n+ DQn +1) _(n(n+l) °
+6xn 2n
+jo = [@tD@n+) (a+?
+6 4
+jo = fens S04 2=30-3)
+12
+2
+lo = (n+1)(n—-1) _ [A -1
+12 12
+76. Sachin Tendulkar scored run in ten innings
+agains Australia 38, 70, 48, 34, 42, 55, 63, 46, |’
+54, and 44. Find the average deviation with
+respect to mean.
+44 4B
+a) b) =
+(a) 5 (b) 3
+41 42
+ORea d) >
+(©) r (@) 5
+RRB Group-D — 05/12/2018 (Shift-III)
+Ans: (b)
+34+38+42+44+46+48+54+55+63+70
+average =
+10
+_ 494 a7
+10 5
+34438442+44+46 — 48+54+55+63+70
+mean= -+———— L____j
+204 290
+5 5
+Standard deviation = 247 _ 204 = &
+5 5 5
+77. If the standard deviation of the given numbers |
+is 255. Then find the value of 'd'
+1,1+4d, 1+ 2d......1+ 100d
+(a) 20.2 (b) 10.1
+(c) 20.0 (d) 10.5
+RRB Group-D — 16/11/2018 (Shift-I)
+Elementary Statistics 58:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0014_right.png =====
+Ans : (b) 1,1 + d, 1 + 2d......1+ 100 d is in arithmetic
+progression.
+-: Number of total terms = 101
+—)_ 1+(1 ceee(141
+Arithmatic mean (x) = 14(1+d)+....-(14 100d)
+101
+_ 101(1+50d)
+101
+x=1+50d
+1% _
+deviation = — -
+mean deviation ioe! x|
+nll —50d | +|—49d | +....|-d]+0+|d|+| 2d |+......+| 50d )}
+1
+955 = 24 (50%5 )
+101 2
+255-41 50x51
+101
+= 295x101 _ 25755 _ 49,
+50x51 2550
+78. What will be the standard deviation of the
+gtiven data-3, 10, 10, 4, 7, 10, 5
+49 19
+a) — by) =
+(a) 7 (b) 7
+50 18
+do = do =
+OF @ 7
+RRB NTPC 17.01.2017 Shift-1
+Ans: (d) Data 3, 10, 10, 4,7, 10,5
+3+10+10+4+7+10+5 49
+Mean = ——————__ = —
+7 7
+Mean = 7
+S,|M — Xi
+Mean deviation = > Mx
+iON
+_[7-3]+|7-10|+|7—10|+|7-4]+|7-7|+|7-10]+|7-5|
+7 7
+4434343404342
+7
+79. What will be the standard deviation of the
+given set {10, 11, 12, 9, 8}
+@ 1 @) V2
+(©) 2 @ we
+RRB NTPC 31.03.2016 Shift : 2
+7 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0015_left.png =====
+‘Ans: (b) xa lOFU1412+9+8 _ 50 _ 19 '
+5 5
+Y(x, -x) = (10-10) + (11-10)? + (12-10)? + (9-10)
+i}
++ (8-10)
+=0+1+4+1+4=10
+. <\
+x,-X
+~. Standard deviation = Pilea = fe =V2
+N 5
+80. If the standard deviation of a distribution is 6,
+then what is the value of variance? !
+(a) 8 (b) 24
+(c) 36 (d) 12
+RRB NTPC 18.01.2017 Shift : 3
+Ans: (c) Variance = (Standard deviation)”
+= (6? = 36
+81. If the variance of a data set is 196, the standard
+deviation will be?
+(a) +14 (b) 14
+(c) 96 (d) 98
+RRB NTPC 11.04.2016 Shift : 1]
+Ans: (b) Standard deviation
+82. If the variance of data set is 121, then find the
+standard deviation of the data.
+(a) +11 (b) 11
+(c) 21 (d) 60.5
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (b) Standard deviation of data = J variance
+= Vi21=11
+83. If the variance of data set is 81, then find the
+standard deviation of the data?
+(a) +9 (b) 9
+(c) 81 (d) 40.5
+RRB NTPC 11.04.2016 Shift : 3
+Ans : (b) Standard deviation of data = /81
+=+9=9
+84. The coefficiant of a set of data is 64, then find
+out the standard deviation?
+(a) +8 (b) 8 '
+() 14 (d) 64
+RRB NTPC 07.04.2016 Shift : 1
+Ans: (b)
+Elementary Statistics 58:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0015_right.png =====
+85. The variance of a data set is 361, then find out
+the value of standard deviation?
+(a) +19 (b) 19
+(c) 361 (da) 180.5
+RRB NTPC 07.04.2016 Shift : 3
+Ans :(b) Standard deviation = V variance
+= 361
+=+19
+Since the standard deviation is not negative
+So standard deviation = 19
+86. The variance of a data set is 169, then what will
+be the standard deviation?
+(a) +13 (b) 13
+() 69 (d) 845
+RRB NTPC 26.04.2016 Shift : 2
+Ans: (b) Standard deviation = J variance
+= V169
+=413
+=13
+87. In n observations X19X75X3 yeeeeeXy y
+frequency will be given as f),f),f3......0f.
+What will be the standard deviation x
+n _ n 3
+LAG -H DAG -¥)
+(a) [= = (by fet -
+afi ni
+isl isl
+FF (2
+DAC -x) ,
+© =|=— _  @ | 4e-v
+vA isl
+i
+isl
+RRB NTPC 26.04.2016 Shift : 3
++ 2
+Df -B
+Ans : (b) Standard deviation = |=1———_
+di
+isl
+where x = mean
+88. Mean of given observation Xj, X2, X3, ....0Xn iS
+x.What will be the standard deviation of the n
+observation?
+X(x -) Xi -x)
+(a) ¥-———_ (ob) y+——_
+n n
+5 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0016_left.png =====
+d(0-) D(x-%)
+(©) \-—— @ y+——
+n n
+RRB NTPC 30.04.2016 Shift : 3
+D(x -x/)
+Ans : (b) Standard deviation (S.D.) = \])_+————_
+n
+where )0(x, -X)’ = variables
+7
+Type -5
+89. When a number is chosen at random, what will
+be the probabily of two digit numbers, but
+number not a co-prime?
+(a) 7/30 (b) 23/30
+(c) 21/90 (d) 67/90
+RRB JE - 29/05/2019 (Shift-I)
+Ans : (b) Total number of two digits = 90
+Total prime numbers of two digits = 21 ;
+Total composite numbers of two digits = 69
+Probability = number of favorable results _ 69 _ 23
+number of total results 90 30
+90. When a pair of dice is thrown, what is the
+probability of the sum of numbers being odd?
+(a) 1 (b) 0.25
+(c) 04 (d) 0.5
+RRB JE - 29/05/2019 (Shift-Il)
+Ans : (d) When two dice are thrown,
+The probability of occurrence of some event is n (s) =|
+36
+The probability of odd sum of numbers = n (E) = 18
+: 1 n(E)_18 1
+«". probability of adding odd = ——=—=—=0.5
+P ty 8 n(S) 36 2
+91. Satish puts 5 yellows and 3 blue balls in a
+closed box. His brother Manish picks two balls
+at random. Calculate the probability that balls
+picked are of the same colour.
+15 15
+2 b) =
+(a) 28 (b) B
+13 11
+— d) —
+© 238 © 3
+RRB RPF Constable — 17/01/2019 (Shift-III)
+Elementary Statistics 58
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0016_right.png =====
+Ans: (c) Number of total balls = 8
+Probability of picking balls of the same colour
+5C,#C, a n!
+= ¢, ==
+C, ri(n-r)!
+5! 3!
+ty
+_ 3Ix2! 1x2!
+7 8!
+21x 6!
+5x 4x3}! + 3x2!
+2x1x3!_ 21
+8x 7x6!
+2x1x6!
+5x4 +3
+= 2x1
+8x7
+2x1
+5x4, 26
+-2 23
+8x7/2 56 28
+2
+52. In a shooting competition, to hit a target,
+probability 1/2 for A, 2/3 for B and 3/4 for C. If
+they hit the target together, then what will be
+the probability of penetration for each of
+them?
+(a) 16 (b) 3/8
+(c) 2/3 (d) 1/4
+RRB JE - 28/05/2019 (Shift-I)
+Ans : (d) Probability of A goal (A) = ;
+And the probability of not penetrating the goals of A
+11
+A) = 1--==
+(A) 273
+a 2
+Probability of B goal (B) = 3
+a Pe . 2/1
+And probability of not hitting B goal (B') =1 3 = 3
+Probability of C's target (C) = 3
+and probability of not hitting the goals of
+31
+C)= 1-==—
+(Cc) 44
+Probability of hitting the target of one when B and C are
+Hitting simultaneously
+= (AxBxC’}+(A'xBxC’) + (A'xB'xC)
+—11,1,1.2.51, 1.153
+= SK =x —4 =x = x= 4+ = Kx
+234234234
+1,2,3 6.1
+= 42425 ==
+24 24 24 24 4
+J YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0017_left.png =====
+93. One black, one red and one green dice are |'
+thrown together, what is the probability of sum
+of three numbers is >17
+(a) 7/216 (b) 5/216
+(c) 1/54 (d@) 1/36
+
+RRB JE - 30/05/2019 (Shift-II1)
+
+‘Ans : (c) The probability of the sum of the numbers|
+
+exceeding from 17 or 17 when throwing all three passes|
+
+itogether—
+
+(5, 6, 6), (6, 5, 6), (6, 6, 5), (6,6,6)
+
+Total probability = 6 x 6 x 6 =216
+
+op 4 1
+«. Intended probability = he 54
+94, Find the probability of the sum being 10, when | ;
+a dice are thrown two times randemely.
+(a) 3 (b) 1/36
+() 1/12 (d) 5/36
+RRB RPF SI - 05/01/2019 (Shift-Il)
+Ans: (c) 2 times a dice is thrown—
+Total probability N(E) = 6’= 36
+The probability of the sum of digits being 10 is N(S) =|
+(4, 6) (6, 4) (5, 5) =3
+. a. _ NS)
+So intended probabilityP(E) = N®
+-2 1
+36 12
+95. What will be the probability to remove face
+card from card dick?
+6 12
+(a) B (b) B
+3 3
+OF @
+RRB Group-D — 12/10/2018 (Shift-I)
+Ans. (c) : Total number of cards = 52
+Number of face card = 12
+so probability of face card= 2
+5213
+96. To ace out the deck of cards probability can be
+12 15
+(a) B ©)
+9 1
+(c) B (d) B
+RRB Group-D — 16/10/2018 (Shift-I)
+
+Ans. (d) : The number of card is 52.
+
+The number of Ace in deck of card is 4.
+
+Probability of getting ace out of the deck of cards
+
+-4l
+~ 52.13
+Elementary Statistics 58°
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0017_right.png =====
+97. A box contains 100 pens, out of which eight are
+defective. One pen is out from the box. Find the
+probability that the pen is not failse.
+
+(a) 23/25 (b) 8/100
+(c) 100/8 (a) 25/23
+RRB Group-D — 29/10/2018 (Shift-II1)
+
+Ans: (a)
+
+Number of total pens = 100
+
+Number of waste pens = 8
+
+Probability of taking waste pens = =
+
+Probability of not having waste pen
+
+=1-8_ - 2 23
+100 100 25
+
+98. If a box contians 3 white cushions, 4 red
+cushions and 5 blue cushions. What is the
+probability of selection of one white or blue
+cushion?
+
+(a) 2/3 (b) 3/4
+(c) 1/4 (d) 1/9
+RRB NTPC 28.04.2016 Shift : 2
+Ans: (a) White cushion = 3
+red cushion = 4
+blue cushion = 5
+Probability = Svorable events
+total events
+Total events = "C,
+favorable probabilities to choose 1 white or 1 blue
+custion = °C, +°C,
+a  3C, + °C In
+So probability =———+ "C=
+P ry 2G, “E Inor
+Bb
+= U1 [S=1
+7 12
+ll 12-1
+BIS 3x2, 5xl4
+-2 4_ 2 |4 _3+5_ 8 _2
+— P22 xf 22 3
+Wu Wu
+
+Note :- use [+] for 'or' and |x! for ‘and’.
+
+99. When a coin is tossed once, what are the
+prabability of coming Head?
+
+(a) 1 (b) 1/2
+(c) 2 (d) Zero
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (b) Head favorable probability when a coin is
+tossed
+. ae Favourable probability _ 1
+Re d probability =——_—_—_——= = —
+equired probability =~ otal probability 2
+So probability to come Head = x
+y YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0018_left.png =====
+100. Find the range of data - 9, 5, 9, 3, 4, 7, 8, 4, 8, 9,
+5,9
+(a) 3 (b) 5
+(c) 6 (d) 4
+RRB RPF Constable — 24/01/2019 (Shift-III)
+Ans: (c) Data range = highest value — lowest value
+=9-3=6
+101. Find the range of data-11, 13, 9, 17, 13, 19, 10,
+iW
+(a) 6 (b) 10
+() 1 (d) 13
+RRB RPF SI — 12/01/2019 (Shift-I])
+Ans : (b) Data range = highest value — lowest value
+=19-9=10
+102. The standard diviation of a group of values is
+4.5. If each value increases by K. then find the
+variance of group of new values?
+(a) 10.5 (b) 20.25
+(c) 100.25 (d) 4.5
+RRB JE - 26/06/2019 (Shift-I)
+(Ans. (b) If in each value is increased by K, the standard]
+deviation will have no effect.
+Variance = (Standard deviation)”
+= (4.5)? = 20.25
+103. The variance of a set of values X;, X2,....X,
+by which of the following formula has given?
+rx? (Ex)
+0
+n n
+rxVP Ex
+o
+n n
+zx)
+o&)
+n
+mx =x
+@ = -=
+n n
+RRB JE - 01/06/2019 (Shift-II)
+2 2
+Ans : (a) Variance (o”) = = (2)
+n n
+104. What will be the range of first 7 prime
+number?
+(a) 15 (b) 83
+(c) 9 (d) 17
+RRB JE - 27/06/2019 (Shift-III)
+Ans : (a) First 7 prime number= 2, 3, 5, 7, 11, 13, 17
+Range = maximum number — minimum number
+Range = 17-2 = 15
+Elementary Statistics 58!
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0018_right.png =====
+105. If the upper quartile represents 75% of the
+data and if the lower quartile represents 25%
+of the data, then which will show the median?
+(a) 20% (b) 100%
+
+(c) 50% (d) 80%
+RRB Group-D — 05/12/2018 (Shift-III)
+
+Ans: (c) Median = Been = we =50%
+
+106. A set of four numbers. The mean of these three
+smallest numbers is 19 and the mean of three
+larger numbers is 23. What will be the range of
+this set?
+
+(a) 18 (b) 12
+(c) 14 (d) 15
+RRB Group-D — 24/09/2018 (Shift-II)
+Ans : (b) Sum of the three smallest number in four
+numbers = 19 x 3 =57
+sum of three smallest numbers = 23 x 3 = 69
+Range of sets = 69 — 57 = 12
+
+107. The mean of three numbers is 20. The range of
+this data set is 12, while the difference between
+two smallest numbers is 3. Find the larger
+number.
+
+(a) 28 (b) 25
+
+(c) 27 (d) 24
+
+RRB Group-D — 28/09/2018 (Shift-II)
+
+Ans. (c) : Suppose numbers = x, y, z where x <y <z
+As per the question-
+x+y+z=60-(i)
+z-x=12>52z=12+x......(ii)
+y-x=3> y=3+4x.....(iii)
+
+to solving of equation (i),(ii) and (iii)
+
+xt+y+z=60
+
+x+34+x+12+x=60
+
+3x + 15=60
+
+3x = 45
+
+x=15
+
+y=18
+
+Z=12+x
+
+z=12+15
+
+zZ=27
+
+k= 27]highest number (z) = 27
+
+108. The mean of three numbers is 33 and the range
+of data is 29. The middle number is 27 more
+than the sum of the other two numbers. What
+is the largest number among these three
+numbers?
+
+(a) 46 (b) 45
+(c) 48 (d) 47
+RRB Group-D — 03/12/2018 (Shift-I1)
+3 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0019_left.png =====
+Ans : (a) Suppose three number is x > y > z
+as per question—
+X#Y+2Z 33
+3
+xty+z= 99 —----------(I)
+X—Z= 29 --------------(Il)
+and y=x+z-27
+y+27=x+z ——-----(IIl)
+from equation (I) and (III) -
+yty+27=99
+2y=72,
+y =36
+Putting the value of y in equation (III)
+y+27=x+z
+36+27=x+z
+x + z= 63 ----------(IV)
+equation (II) + (IV)
+2x =92,
+x= 46
+‘Putting the value of x in equation (IV)-
+z= 63-46
+z=17
+So number x, y and z is 46, 36, 17
+So largest numbers = 46
+109. The mean of three numbers 35 and the range
+of data was 24. Difference between largest and
+middle number is equal to three times of the
+difference between the smallest and the middle
+number. What are the largest of these three
+numbers?
+(a) 51 (b) 50
+(c) 49 (d) 52
+RRB Group-D — 23/10/2018 (Shift-II1)
+Ans: (c) Suppose numbers is as a, b, c where a> b> c
+Mean = cea 35
+3
+atbte = 105 ...........(1)
+range a-c=24...........(2)
+and a-b = 3(b-c) ......(3)
+where a-b = 3b -3¢
+at3e= 4b
+at+c=4b-2c .....(4)
+Putting equation (4) to the value of a + c in equation (1)
+b+ 4b-2c=105
+5b-2c= 105......(5)
+Putting equation (2) to a = 24 + c in equation (1)
+24+ +b +c =105
+bt2c = 81 ......(6) |
+Solving equation (5) and (6)
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0019_right.png =====
+b=31 c=25
+from equation (1)
+a+31+25= 105
+a+56=105
+Hence, the largest number = a = 49
+110. What will be the range of the following data?
+6, 7, 8, 9, 5, 6, 7, 4, 8, 9, 5, 9
+(a) 2 (b) 3
+(c) 4 (d) 5
+RRB NTPC 31.03.2016 Shift : 1
+Ans: (d) lowest limit = 4
+highest limit = 9
+~. highest limit — lowest limit = 9-4 =5
+111. What will be the range of the following data?
+2, 1, 2, 3, 4, 5, 7, 3, 5, 2, 4
+(a) 5 (b) 4
+(ce) 3 dd) 6
+RRB NTPC 31.03.2016 Shift : 2
+Ans: (d) lowest limit = 1
+highest limit = 7
+Range = highest limit — lowest limit
+o Range =7-1=6
+112. What will be the range of the following data?
+12, 11, 18, 28, 19, 13, 19, 18
+(a) ll (b) 17
+(c) 18 (d) 19
+RRB NTPC 30.03.2016 Shift : 2
+Ans : (b) The difference between the highest and
+lowest values of the given data is called of the range.
+Range = 28-11 = 17
+113. If the standard deviation of a population is 9.5,
+then what will be its variance?
+(a) 19 (b) 90.25
+(c) 81.25 (d) 93.25
+RRB NTPC 19.04.2016 Shift : 1
+Ans: (b) Variance = (Standard deviation)”
+= (9.5)
+= 90.25
+114. If the standand deviation of a population is 4.5,
+then what will be its variance?
+(a) 20.25 (b) 20
+(c) 9 (d) 18
+RRB NTPC 16.04.2016 Shift : 1
+Ans: (a) Variance = (Standard deviation)”
+= (4.5)° = 20.25
+) YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0020_left.png =====
+115. If the variance of data 2, 4, 5, 6, 8, 18 is 23.33
+then what will be the variance of the given
+following data 4,8, 10, 12, 16, 36
+(a) 11.66 (b) 46.66
+(c) 93.3333 (d) 483
+
+RRB NTPC 11.04.2016 Shift : 1 |
+Ans: (b) .°.Data numbers have doubled, so their|
+variance will also be doubled.
+
+«. Variance = 2 x 23.33
+
+= 46.66
+
+116. What will be the range of the following data?
+10, 21,5,1,3,17,19,2
+(a) 19 (b) 10
+(c) 20 (d) 17
+
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (c) Range of numbers = high limit — low limit
+
+117. The following information is 60) x’ = 18000,
+ys =960 variance is related to the size of a
+sample.
+
+(a) 55 (b) 44
+(c) 22 (d) 16
+RRB NTPC 07.04.2016 Shift : 3
+Ans :(b) 60x? = 18000
+2 _ 18000
+rx’ = 7) => |Zx? = 300
+o =x =960
+average of 60 terms = 200 _ 16
+60
+Ex? = (16) =>
+
+~. Variance = 300 — 256 = 44
+
+118. If the standard deviation of the population is
+11, then what will be the variance of
+population?
+
+(a) 44 (b) 121
+(c) 22 (d) 33
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (b) Standard deviation of population = 11
+
+Population variance (standard deviation)’=(11)? = 121
+
+119. What will be the range of the following data?
+3,1, 4, 6,5, 7, 3, 8,1, 4
+(a) 3 (b) 8
+() 7 (d) 6
+
+RRB NTPC 26.04.2016 Shift : 1
+Ans : (c) writing in given increasing
+1, 1,3, 3,4, 4,5, 6, 7,8
+Data rang = large number — small number
+=8-1=7
+Elementary Statistics 591
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0020_right.png =====
+120. If the standard deviation of a distribution is 4
+then what is the value of variance?
+(a) 8 (b) 9
+(c) 16 (d) 12
+RRB NTPC 28.04.2016 Shift : 3
+Ans:  (c) Standard deviation = 4
+<. Variance = (Standard deviation’ = (4° = 16
+Type - 7
+121. The mean of a distribution is 24 and the
+standard deviation is 6. Then what is the value
+of variance cofficient.
+(a) 50% (b) 25%
+(c) 100% (d) 75%
+RRB RPF SI — 11/01/2019 (Shift-I)
+Ans : (b) Variance coefficient = Standard deviation
+mean
+6
+=—x100=25%
+24
+122. If the standard deviation of the population is
+10, then what will be the variance coefficient?
+(a) 100 (b) 30
+(c) 5 (d) 20
+RRB RPF Constable — 25/01/2019 (Shift-I)
+Ans: (a)
+Standrad deviation of population= 10
+So variance coefficient = (standard deviation)”
+=(10" =100
+123. The mean of the distribution is 14 and the
+standard deviation is 5. Find the variance
+coefficient.
+(a) 60.4% (b) 27.9%
+(c) 35.7% (d) 48.3%
+RRB JE - 01/06/2019 (Shift-I)
+Ans: (c) Variance coefficient = Standard deviation
+mean
+=2x100
+14
+= 500 _ 35.7%
+14
+124. The ratio of number of blue and red balls in a
+bag is constant. When the number of red balls
+are 68 the number of blue balls was 36.
+Number of blue balls being 63, what is the
+number of red balls in the bag?
+(a) 119 (b) 98
+(c) 110 (d) 102
+RRB Group-D — 23/09/2018 (Shift-I)
+) YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0021_left.png =====
+Ans ; (a) blue : red = 36 : 68
+=9:17
+When blue balls number is 63 then suppose red balls
+numbers is n then-
+89
+n 17
+9n = 63 x 17
+n= 63x17
+9
+n=7x17
+n=119
+So red balls number = 119
+125. In the given following data find out the LCM of
+mode, median and mean?
+7, 2, 10, 4, 3, 12, 8, 4, 6, 4.
+(a) 30 (b) 20
+(c) 12 (d) 60
+RRB Group-D — 26/09/2018 (Shift-I)
+Ans : (d) 7, 2, 10, 4, 3, 12, 8, 4, 6,4
+Writing in ascending order- 2, 3, 4, 4, 4, 6, 7,
+8, 10, 12
+=> Mode = 4 (the highest frequency)
+- ifn" (n,,\"
+Median -3[3 “(+1
+Median = 2 (5 +6°)term haa n= terms number
+2 n=10
+1 1
+= 7446) =5 =g7xl0=5
+total sums _ 2+3+4+4+4+6+7+8+10+12
+Mean = ————. =
+total number 10
+60
+mean = oO” 6
+LCM of 4, 5,6=2x2x3x5=60
+126. For the following data what is the
+(modexmedian+mean)
+9,1, 11, 3, 2, 12, 8, 4, 6, 4.
+(a) 34 (b) 31
+(c) 26 (d) 29
+RRB Group-D — 30/10/2018 (Shift-I)
+Ans : (c) Mode = 4(maximum)
+writing in ascending order-
+1, 2,3, 4, 4, 6, 8,9, 11, 12
+14+2+3+44+4+6+8+9+11+12
+mean. = A
+10
+06
+10
+Elementary Statistics 59)
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0021_right.png =====
+Total number(n) = 10 (even)
+n n
+= terms value+ G + 1) terms value
+2 2
+median = @2@£@—-——-~W_7#—_—___
+2
+_ 5"terms value +6" terms value
+2
+=4+6_10_,
+2 2
+= mode x median + mean
+=(4x5)+6=26
+127. If the mean and median of the numbers 3, 4, a,
+b, 10 are 6 and 5 respectively where a>b, What
+will be the value of a and b.
+(a) 7,6 (b) 5,8
+(c) 6,7 (d) 8,5
+RRB Group-D — 19/09/2018 (Shift-ITI)
+Ans. (b) : mean of 3,4,a,b, 10 is 6 and median 5 a<b
+sum of total number
+Mean = ————_—_——
+total number
+6= 3+4+a+b+10
+5
+30=17+at+b
+at+b=13
+median is 5—
+. n+l
+median when terms number are odd— >
+terms number(n) = 5
+median= (=) " term= 3" term
+S=a
+a+b=13
+5+b=13
+b=8
+a=5, b=8
+128. The mean of the three numbers was 15 and the
+range of figure was 9. Difference between
+larges number and middle number is equals to
+two times of the difference between middle
+number and smallest number what will be the
+largest number in the given three numbers?
+(a) 20 (b) 21
+(c) 19 (d) 22
+RRB Group-D — 22/10/2018 (Shift-II)
+Ans : (a) Suppose three numbers is a, b and c
+where a<b<c
+a+bt+e_ 15
+3
+=>atb+c=45-----(I)
+{ YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0022_left.png =====
+then c—a=9 --------(II)
+and c—b=2(b-a)
+=>c-b=2b-2a
+=> 3b=2ate>b = 7248 __ ay
+Putting 'b' value in equation (I) from equation (III)—
+a+(22) +c =45
+3
+=> 5a+4ce=135------(IV)
+from equation (IV) + equation (II) x 5—
+9c = 180 > c= 20
+from equation (II)
+20-a=9=>a=I11
+from equation (Ill) - b= 2%11+20 a =14
+So largest number = 20
+129. The four integers a, b, c and d arranged in
+ascending order, the range of the set is 20. The
+difference between c and a is equal to the
+difference between d and b. The integral mean
+of the numbers is 25. In the following what will
+be the value of a?
+(a) 13 (b) 15
+(c) 14 (d) 16
+RRB Group-D — 16/11/2018 (Shift-I)
+Ans. (b) As per question,
+c-a=k..(i)
+d—b=k...(ii)
+on subtracting
+c-a-d+b=0
+btc=atd — ...(iii)
+w mean = 25
+atbtctd_, 5
+4
+a+(b+c)+d=100
+atd+a+d=100 [from equation (iii)]
+a+d=50 .iv)
+but d-a=20
+d=20+a
+o a+20+a=50
+2a=30
+a=15
+130. 4 out of 5 cricketers have played the innings of
+13, 9, 5, 11 respectively. If the mean of the data
+set is 9. Then what will be the number of
+innings played by that 5" player?
+(a) 9 (b) 8
+(©) 7 (d) 6
+RRB NTPC 05.04.2016 Shift-1
+Elementary Statistics 59:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0022_right.png =====
+Ans : (c) Total number of innings played by all five
+players= 5x9 = 45
+Total number of innings of four Players
+= 13+9+5+11 = 38
+«’. Fifth player's total number of innings = 45-38 = 7
+131. The mean of 8 observations is 10.5. In the given
+observation of the seven observations are 3, 15,
+7, 19, 12, 17 and 8. Find the 8" observation-
+(a) 10 (b) 11
+(c) 3 (d) 12
+RRB NTPC 04.04.2016 Shift : 1
+Ans: (c) Sum of seven observation = 3 + 15 +7 + 19|
++12+17+8=81
+-. eight observation= 8 x 10.5 - 81
+= 84.0-81=3
+132. What will be the mean, mode and median of
+the given numbers- 3, 4, 5, 3, 6, 3, 4, 5, 3
+(a) 44,4 (b) 4,4,3
+(c) 3,4,4 (d) 4,3,4
+RRB NTPC 31.03.2016 Shift : 1
+Ans: (d) Writting data in ascending order
+3,3, 3,3,4,4,5,5,6
+Mean = 34+34+3434+44+44+54+5+6 364
+9 9
+Mode = 3 (the highest frequent number)
++ Terms number (n) = 9 (odd)
+~. Median= (az * ‘) h term = (22) term
+2 2
+= 5" term =4
+133. What will be the median, mode and mean of
+the given numbers?
+9, 5, 8, 9, 9, 7, 8, 9, 8
+(a) 9,9,9 (b) 9,8,9
+(c) 8,9,8 (d) 8,9,9
+RRB NTPC 31.03.2016 Shift : 2
+Ans : (c) Writing data in ascending order,
+5,7, 8, 8, 8, 9,9, 9,9
+*: terms number = 9 (odd)
+--median = Cz) th term
+= gal =5" term =8
+2
+mode = 9 (the highest frequent number)
+5+74+84+8+8+94+9+949
+mean = $A
+9
+Pig
+9
+, YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0023_left.png =====
+134. What will be the mode and median of the given
+digits—
+8,6,8,7,8,6,8,7,6
+(a) 7 and8 (b) 6 and7
+(c) 8 and 7 (d) 6 and8
+
+RRB NTPC 30.03.2016 Shift : 1
+Ans: (c) writing number in ascending order,
+
+6, 6, 6, 7, 7, 8, 8, 8, 8
+
+mode = 8 (most frequent)
+
+terms number = 9 (odd)
+
+~. median = 72) =5"term =7
+
+135. What will be range, mode and median of the
+given following data?
+
+13, 14, 13, 12, 15, 21, 16, 18, 13
+
+(a) 9, 13, 14 (b) 6, 13, 14
+
+(c) 8, 13, 14 (d) 5, 13, 14
+
+RRB Paramedical Exam — 20/07/2018 (Shift-III)
+Ans: (a) Range = 21-12 =9
+
+Mode = 13 (Most frequent)
+
+Writing data in ascending order
+
+12, 13, 13, 13, 14, 15, 16, 18, 21
+
+“| n=9 (odd)
+
+«Median -(2) “term = 5"term = 14
+
+136. What will be the mean and mode of the given
+following data?
+
+1, 9, 5, 4, 2, 1, 9, 9, 2, 1, 9, 1, 2,1
+(a) 4 and9 (b) 5 and1
+(c) 4 and 1 (d) 5 and 9
+RRB NTPC 29.03.2016 Shift : 3
+Ans : (c) Mean
+—149454442414+94942414+94+14241
+7 14
+64
+14
+
+Mode of data = 1(term of most frequent)
+
+137. The mean of a distribution is 13 and the
+standard deviation is 7. What is the value of
+variance coefficient?
+
+(a) 50% (b) 76.77%
+
+(c) 53.85% (d) 38.88%
+
+RRB NTPC 19.04.2016 Shift : 1
+Ans: (c)
+Variance coeffcient — Standard deviation ,, 100%
+mean
+= x100= 53.85%
+13
+
+Elementary Statistics 59:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0023_right.png =====
+138. The mean of 20 observations is 19. One another
+observation is included and the new mean is 20.
+What is 21" observation?
+
+(a) 20 (b) 30
+
+(c) 40 (d) 42
+RRB NTPC 19.04.2016 Shift : 2
+Ans: (c) Total sum of 20 observations=20 x 19 = 380
+
+Sum on inclusion of new observation = 21 x 20 = 420
+
+-. Value of 21* observation = 420 — 380 = 40
+
+139. The mean of a distribution is 18 and the
+standard deviation is 4.5. What is the value of
+variance coefficient?
+
+(a) 50% (b) 25%
+(c) 100% (d) 75%
+RRB NTPC 19.04.2016 Shift : 2
+Ans ; (b) Distribution mean = 18
+Standard deviation = 4.5
+~. Variance coefficient = ex 100 %
+= 450 _ 450%
+18
+
+140. The mean of a distribution is 11 and the
+standard deviation is 5. What is the value of
+variance coefficient?
+
+(a) 45.45% (b) 35.35%
+(c) 25.25% (d) 55.55%
+RRB NTPC 18.04.2016 Shift : 1
+
+Ans : (a) To calculate the variance coeffi divide the
+
+standard deviation by the mean and multiply by 100. or
+
+Variance coefficient = Variance
+
+coefficient
+= 2.100%
+x
+= +x100%
+11
+= 45.45%
+
+141. The mean of a distribution is 10 and the
+standard deviation is 5. What is the value of
+variance coefficient?
+
+(a) 50% (b) 100%
+(c) 150% (d) 200%
+RRB NTPC 18.04.2016 Shift : 2
+Ans: (a)
+Variance coefficient — Standard deviation 100%
+mean
+5
+=—x100= 50%
+10
+3 YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0024_left.png =====
+142. If the standard deviation of a population is 8,
+then what will be its variance?
+(a) 64 (b) 16
+(c) 32 (d) 24
+RRB NTPC 18.04.2016 Shift : 2
+
+Ans : (a) Standard deviation of variance coefficient= 8
+
+Variance = (Standard deviation)”
+= (87 = 64 |
+
+143. The mean of a distribution is 24 and the
+standard deviation is 8. What is the value of
+variance coefficient?
+
+(a) 16.66% (b) 66.66%
+(c) 33.33% (d) 100%
+RRB NTPC 18.04.2016 Shift : 3
+Ans : (c) Mean of distributer = 24
+Standard deviation= 8
+Variance coefficient kaa x100%
+mean
+8
+=—x100%
+71 x100%
+100 4,
+3
+= 33.33%
+
+144, The mean of a distribution is 20 and the
+standard deviation is 4, so find out its variance
+coefficient?
+
+(a) 10 (b) 20
+
+(c) 40 (d) 60
+
+RRB NTPC 16.04.2016 Shift : 1
+Ans: (b) Mean = 20
+Standard deviation = 4
+~. Variance coefficient — Standard deviation x100%
+mean
+= = x100 = 20%
+
+145. The mean of a distribution is 18 and the
+standard deviation s 7. What is the value of
+variance coefficient?
+
+(a) 50% (b) 76.77%
+(c) 54.44% (d) 38.88%
+RRB NTPC 16.04.2016 Shift : 2
+Ans:(d) = Mean = 18
+Standard deviation = 7
+.. Variance coefficient = Standard deviation, x100%
+mean
+=2x100%
+18
+= 700/18 = 38.88%
+Elementary Statistics 59.
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0024_right.png =====
+146. The mean of a distribution is 21 and the
+standard deviation is 7. Find the variance
+coefficient?
+
+(a) 16.66% (b) 66.66%
+(c) 33.33% (d) 100%
+RRB NTPC 16.04.2016 Shift : 3
+Ans : (c) Variance coefficient = F100 = 33.33%
+
+147. The average of the results of 35 trials is 21. The
+average result of first 17 trials and last 17 trials
+are 19 and 22 respectively. What is the value of
+the result of the 18" test?
+
+(a) 42 (b) 36
+(c) 38 (d) 34
+RRB NTPC 12.04.2016 Shift : 2
+Ans ; (c) average of 35 observations = 21
+
+sum of 35 observations = 35x21 = 735
+
+average of 17 observations = 19
+
+sum total of 17 observations = 17x19 = 323
+
+average of last 17 observations = 22
+
+sum total of these = 17x22 = 374
+
+Value of 18" obsevation = 735 — 374 — 323 =38
+
+148. The mean of a distribution is 15 and the
+standard deviation is 5. What is the value of
+variance coefficient?
+
+(a) 16.66% (b) 66.66%
+(c) 33.33% (d) 100%
+RRB NTPC 12.04.2016 Shift : 3
+Ans: (c)
+Variance coefficient — Standard deviation 100%
+mean
+=2x100
+15
+=100 . 33.33%
+3
+149, If the value of the mode is 14 and arithmetic
+mean is 5, then find the value of median?
+(a) 8 (b) 18
+(c) 12 (d) 14
+RRB NTPC 10.04.2016 Shift : 3
+Ans : (a) mode = 3 x median — 2 x mean
+14 = 3x median — 2 x 5
+3x median = 14 + 10
+median= 24 8
+3
+} YCT
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0025_left.png =====
+150. What is the value of mode as well as median of
+the given following numbers—
+3,4,5,5,3,6,7,3,5,5,6
+(a) 5 and 5 (b) 3 and 5
+(c) 5 and 4 (d) 3 and 4
+
+RRB NTPC 09.04.2016 Shift : 3
+Ans: (a) 3, 4, 5, 5, 3, 6, 7, 3, 5, 5, 6
+Writing in ascending order = 3,3,3,4,5,5,5,5,6,6,7
+mode = 5 (most frequent)
+.’. where n= 11(odd)
+Median = n+l) _Ua4l =6" term =5
+2 2
+151. The variance of a given data is 324, then what
+will be the value of standard deviation?
+(a) +18 (b) 18
+(c) 324 (d) 162
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (b) Standard deviation =/ Variance
+~. Variance = 324
+-. Standard deviation = /324
+=+18
+=18
+
+152. If the mean value of 12 men's height is 1.70 m.
+and the mean value of 8 women of height is
+1.60 m. What will be the sum of the total height
+of 8 women (in metre).
+
+(a) 12.9 (b) 128
+(c) 124 (d) 13
+RRB NTPC 19.01.2017 Shift : 1
+Ans: (b) Sum = number x mean
+
+8 women's total height = 8x1.60 = 12.8m
+
+153. The mean of a distribution is 80 and the
+standard deviation is 16. What is the value of
+variance coefficient?
+
+(a) 10% (b) 20%
+(©) 40% (d) 60%
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (b) distribution mean = 80
+Standard deviation = 16
+Variance coefficient — Standard deviation deviation ,, 100%
+distributers
+= ($) x100 %
+80
+1
+==x100%
+5
+= 20%
+Elementary Statistics 59:
+
+
+===== Part 27 — Elementary Statistics (pp. 571–595)maths-571-595_page-0025_right.png =====
+154. If the standard deviation of the population is
+13, then what will be the variance of the
+population?
+
+(a) 78 (b) 39
+(c) 26 (d) 169
+RRB NTPC 22.04.2016 Shift : 3
+Ans: (d) Required variance = (standard deviation)”
+=13 x 13= 169
+155. What is the value of median, mode and mean of
+the given following numbers?
+9, 8, 3, 5, 1, 9, 8, 2,9
+(a) 9,9,6 (b) 9,6,9
+(c) 8,9,6 (d) 85,6
+RRB NTPC 26.04.2016 Shift : 1
+Ans: (c) ascending order
+1, 2, 3, 5, 8, 8,9,9,9
+n=9 (odd)
+th
+Median = (2) th term = 22) term
+2 2
+= 5" term =8
+sum of all numbers
+Mean = —————_——_
+Total numbers
+= 94 84+34541494+84249 4 _¢6
+9 9
+Mode =9 (Most frequent)
+Hence median mode and mean is 8, 9, 6.
+
+156. If the standard deviation of a distribution is 9.
+
+Then find the value of variance.
+(a) 18 (b) 27
+(c) 81 (d) 36
+RRB NTPC 28.04.2016 Shift : 2
+Ans : (c) Variance = (Standard deviation)”
+=(9P =81
+
+157. The mean length of 6 rods is 44.2 cm. If the
+mean length of 5 rods is 46 cm. then what is the
+value of length of the 6th rods?
+
+(a) 35 (b) 35.2
+(c) 35.1 (d) 35.5
+RRB NTPC 30.04.2016 Shift : 3
+Ans: (b) Mean length of 6 rods = 44.2 cm.
+
+Total length of 6 rods = 44.2 x 6 = 265.2
+
+Mean length of 5 rods = 46 cm
+
+Total length of 5 rods = 46 x 5 = 230
+
+Length of 6" rod = 265.2 — 230 = 35.2 cm
+
+5 YCT

@@ -1,0 +1,1410 @@
+
+
+===== Part 17 — Average (pp. 351–362)_page-0001_left.png =====
+17.
+os
+1. Find the average of 3/4, 5/8, 7/12, 15/16
+(a) 139/192 (b) 135/64
+(c) 11/32 (d) 21/64
+RRB RPF SI - 05/01/2019 (Shift-II)
+Ans: (a)
+sum of terms
+Average = ————_—_
+number of terms
+3,5,7 15
+j +i ++ —
+Average =44 12 16
+36+30+ 28 +45
+= 48
+Average 4
+_ 139 _ 139
+48x4 192
+139
+
+Average 192
+
+2. The average of 5 consecutive even numbers is
+40. Find the value of smallest number among |
+these numbers. )
+(a) 35 (b) 36
+(c) 44 (d) 48
+
+RRB RPF Constable — 19/01/2019 (Shift-ID
+Ans : (b) Let the 5 consecutive even numbers are x, x
++2,x+4,x+6andx+8
+
+According to question,
+
+X+X+2+X+44+X+6+x+8
+
+—=—aoaeovbe jpgpd=4)
+5
+
+5x +20 = 200
+
+5x = 180
+
+Therefore, smallest number is x = 36.
+
+3. If the average of 4 numbers a, b, c, d is 26. If
+the average of 'a' and 'b' is 19.5 then average of
+cand d will be.
+
+(a) 33 (b) 35.5
+(c) 31.5 (d) 32.5
+RRB RPF Constable — 18/01/2019 (Shift-I
+Ans : (d) According to first condition,
+a+b+c+d_ 6
+4 |
+“atbtot+d=104 (i)
+According to second condition,
+Average of a and b = 19.5
+a+b=39 (ii)
+Average 35
+
+
+===== Part 17 — Average (pp. 351–362)_page-0001_right.png =====
+Average
+a
+putting the value of at+b of equation (ii) in equation (i)
+at+b+c+d=104
+
+39+e+d= 104
+c+d= 104-39
+c+d=65
+Therefore Average of c and d = se
+=S_ 32.5
+2
+4. W, X, Y and Z are four numbers arranged in
+ascending order.The average of smallest 3
+numbers is 22 while the average the largest 3
+numbers is 28. Find the range of data?
+(a) 19 (b) 18
+(c) 17 (d) 16
+RRB Group-D — 10/10/2018 (Shift-IT.
+Ans : (b) Let the numbers are w< x <y<z
+wtxt+y=22x3_ (i)
+xty+z=28 x3 ii)
+Range = Greatest number— smallest number
+by subtracting equation (i) from equation (ii)
+>z-w=84-66=18
+5. The average of three numbers is 7. The average
+of first two is 5, while the average of last two is
+8. Which are three consecutive numbers?
+(a) 3, 7 and9 (b) 2, 8 and 8
+(c) 5, 5 and 11 (d) 4, 6 and 10
+RRB Group-D — 15/10/2018 (Shift-1
+Ans : (c) Let the numbers are x, y, z
+According to question—
+=> TEL iy
+3
+xty_ -.
+> 2 5 (ii)
+> +e =8 --(ii)
+> from equation (i) and (ii)
+> z=21-10=11,z=11
+> putting the value of z in equation (iii)
+> y=16-11=5,y=5
+> putting the value of y in equation (ii)
+> x=10-5=5,x=5
+Therefore, the numbers are 5,5 and 11
+6. Arranging the four digits in ascending order,
+their order is w, x, y and z. The average of
+smallest three digit is 25.5. While the largest
+three digit average is 29.5. Find the rang of
+data.
+[ YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0002_left.png =====
+(a) 13 (b) 12
+(c) 10 qd) 1
+RRB Group-D — 24/09/2018 (Shift-I
+
+Ans: (b) Let the number are z>x>y>w
+According to the question,
+a =25.5
+wtxt+y=76.5.......(1)
+_ =29.5
+xty+z= 88.5 ..........(2)
+by subtracting equation (i) from equation (ii) :
+
+Therefore, range = greatest digit — smallest digit
+
+z—-w=12
+
+7. The average of three numbers is 8. The average
+of first two numbers is 6 and the average of last
+two numbers is 9. Find the three numbers.
+
+(a) 4,9,9 (b) 4,8, 12
+(c) 5,7, 12 (d) 6,6, 12
+RRB Paramedical Exam — 20/07/2018 (Shift-IID
+Ans : (d) Let the three numbers are a, b and c.
+According to question,
+atb+c_ 8
+3
+at+b+c=24 -----(i)
+arb _¢
+2
+
+at+b=12 ------(ii)
+
+and bee =9
+2
+
+b+c=18 ------(iii)
+
+from equation (i) , (ii) and (iii)
+
+a=6,b=6andc= 12
+
+7 c=24-12=12
+
+Therefore, three numbers are 6, 6 12 respectively.
+
+8. The average of three number is 28. If in the
+smallest number 2 is added and from the
+largest number 5 is subtracted, then the middle
+digit becomes the arithmetic mean, while the
+range of this new set becomes 36. What is the
+largest number among these three numbers of
+the original set.
+
+(a) 50 (b) 48
+(c) 47 (d) 45
+RRB Group-D — 01/12/2018 (Shift-I
+Ans : (a) Let all the three numbers are x, y, z and x <
+y<z
+xty+z =28x3
+xty+z= 84 —------(i)
+According to condition-
+(x+2)+y+(z-5)
+eet =y
+3
+xtyt+z=3y+3
+x-2y+z=3 --------(ii)
+with the same condition range is
+Average 35:
+
+
+===== Part 17 — Average (pp. 351–362)_page-0002_right.png =====
+z-5-(x+2)=36
+Z-x= 43 --------(iii)
+by subtracting equation (ii) from equation (i)
+y=27
+from equation (i)
+xty+z=84
+x+z=84-27
+x+z=57
+#z-x=43
+2z= 100
+z=50
+There, largest number of original set = 50
+. The average of three numbers is 28. If 7 is added
+in the smallest number and 10 is subtracted from
+the largest number, then the middle digit is the
+arithmetic mean and the range of this new set
+becomes 20. What is the largest number among
+the original set of three numbers?
+(a) 47 (b) 40
+(c) 45 (d) 50
+RRB Group-D — 24/10/2018 (Shift-I11
+Ans. (a) : Let the first, second and third number is x, y|
+and z respectively and x < y<z
+According to question,
+sum of all three numbers = 28 x 3
+xt+y+z=84...(i)
+according to second condition
+z-l0+y+x+7
+. =y
+3
+x ty+z-3 =3y
+x+z-2y=3......(ii)
+z-10-x-7=20
+Z—x=37.....(iii)
+from equation (i), (ii) and (iii)
+xt+y+z=84
+z-37+ a +2=84
+2z - 74 + 2z— 40 + 2z= 168
+6z= 168 + 114
+6z = 282
+z=47
+10. Four numbers a, b, c and d are such that their
+total average 39. The average of a and b is 29.5.
+The average of c and d will be —
+(a) 48.5 (b) 48
+(c) 49.5 (d) 47.5
+RRB Group-D — 09/10/2018 (Shift-ID
+Ans. (a) : sum of the number = atb+ct+d = 39x4
+= 156
+sum of number = a+b = 29.5 x 2=59
+sum of the number = c+d = [(a+b+c+d) — (a+b)]
+= [156 - 59] = 97
+«. Average of number =c+d = 2 =48.5
+11. Average of first 50 natural number is—
+(a) 26.5 (b) 25.5
+(c) 26 (d) 25
+RRB NTPC 17.01.2017 Shift-3
+, YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0003_left.png =====
+Ans: (b) *: Average of first n natural numbers
+_ntl
+2
+.. Average of first 50 natural numbers = ae = 25.5
+12. The sum of 7 numbers is 1050. The average of
+first 3 numbers is 120, fourth number is 126,
+then find the average of last 3 numbers.
+(a) 200 (b) 165
+(c) 188 (d) 173
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (c) Sum of first three numbers = 120x3 = 360
+Sum of last three numbers = 1050- (360+ 126)
+= 1050-486
+= 564
+564
+Average of last three numbers are = s = 188
+13. Find the averge of 8, 5, 6, 3, 7, 4, 3,9
+(a) 5.63 (b) 5.64
+(c) 5.65 (d) 5.66
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (a) Average = sesreeeneee
+ane 5.625 =5.63
+8
+14. Find the averge of 1, 9, 7, 3, 5, 5, 6, 4, 2,8
+(a) 3 (b) 4
+(c) 5 (d) 6
+RRB NTPC 05.04.2016 Shift : 3
+Ans :(c) Average =e
+= 50. 5
+10
+15. _ Find the average of first 20 multiples of 7—
+(a) 66.5 (b) 67.5
+(©) 73.5 (d) 74.5
+RRB NTPC 03.04.2016 Shift : 3
+Ans : (c) Sum of the first n coefficients of K
+K+]
+2
+. 7x(20(20+1)]
+Sum of the first 20 coefficients of 7 = a
+_ 7x20x21
+2
+= 1470
+Average = sum total
+n
+Average = 1470
+20
+Average = 73.5
+16. Find the average of first 20 multiples of 8—
+(a) 78 (b) 80
+(c) 84 (d) 82
+RRB NTPC 02.04.2016 Shift : 1
+Average 35:
+
+
+===== Part 17 — Average (pp. 351–362)_page-0003_right.png =====
+Ans : (c) 8, 16, 24......... 160
+Sum of terms = AG +0)
+= 2(8+160) = 10 x 168 = 1680
+.. Average = 1680 =84
+20
+17. What is the average of first 30 multiples of 9?
+(a) 142 (b) 138.5
+(c) 139.5 (d) 143.5
+RRB NTPC 16.04.2016 Shift : 1
+Ans : (c) Sum of the first n coefficient of K|
+_K[N(N+D]
+2
+9[30(30+1
+«. Sum of the first 30 coefficient of 9 = 2pag0+0)
+_9x30x31
+2
+= 4185
+Average = 4185 _ 1395
+30
+18. Three numbers are given in which second
+number is thrice the first, and twice of the
+third number. If the average of three numbers
+is 66. Then find the first number?
+(a) 36 (b) 54
+(c) 108 (d) 72
+RRB NTPC 12.04.2016 Shift : 3
+Ans: (a) Let the second number = x
+-. first number 3
+third number ar
+~. from question,
+x x
+S+x+—
+3 _ 2-66
+3
+= 2x +6x+3x = 66
+6x3
+> Ux 66
+18
+=>x=6 x 18= 108
+«. first number = (5 = 108 =36
+3 3
+19. The average of 5 consecutive numbers is 50.
+What is the difference of the products of the
+largest and smallest number to the product of
+fourth and second number?
+(a) 3 (b) -3
+(c) 0 (d) 10
+RRB NTPC 27.04.2016 Shift : 1
+3 YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0004_left.png =====
+Ans : (b) Let the 5 consecutive numbers are x, x + 1, x |
++2,x+3 and x+4
+. X+(x+1)+(x+2)+(x+3)+(x+4) 50
+5
+5x +10=250
+5x = 240
+x= 48
+-. from question,
+xx +4)— (x + 1) (+3)
+=x? + 4x— (x? + 4x $3) =-3
+20. The average of 5 consecutive numbers is 10
+then which will be the middle number?
+(a) 10 (b) 11
+(c) 8 (d) 9
+RRB NTPC 29.04.2016 Shift : 3
+Ans. (a) : Let the 5 consecutive numbers are x, x + 1, x
++2,x+3andx+4
+Total sum —
+xt+(x+1)+(x+2)+(K4+3)+(x+4)=10*5
+5x+10=50
+5x=40
+x=8
+.. Middle number = (x + 2) =8+2=10
+21. The average of 5 consecutive number is 100,
+find the first number?
+(a) 98 (b) 99
+(c) 100 (d) 101
+RRB NTPC 30.04.2016 Shift : 1
+Ans : (a) Let the five consecutive numbers are
+xX,X+1,x4+2,x+3,x+4
+. constant 100
+5x +10=500
+5x = 490
+x=98
+Therefore, first number is 98.
+
+22. The average of 5 consecutive number is 100,
+then the difference of the square of highest
+number and the square of the lowest number
+will be?
+
+(a) 800 (b) 990 (c) 900 (d) 1000
+RRB NTPC 30.04.2016 Shift : 2
+
+Ans : (a) Let the first consecutive numbers are: x, x
++1,x+2,x+3 and x + 4 respectively
+
+According to the question,
+
+K#XFIFXFIFKFZ EXT _ J QQ
+
+5
+5x+10_ 100
+5
+
+5x +10=500
+
+5x = 490
+
+Largest number = x + 4 = 98 + 4= 102
+
+Smallest number = x = 98
+
+Therefore, difference between squares of largest and
+smallest numbers
+
+=(102)’ -(98)’ = (102 + 98)(102-98) = 200 x 4 = 800
+Average 35:
+
+
+===== Part 17 — Average (pp. 351–362)_page-0004_right.png =====
+23. The average mark of 3 students of a class in a
+test is 18 out of 25. Two new students take test.
+How much is such minimum number that can
+be obtained by the new student and this be less
+than other students and the total average of
+other 5 students is raised to 20.
+
+(a) 23 (b) 20
+(c) 21 (d) 22
+RRB RPF SI - 06/01/2019 (Shift-I)
+Ans : (c) Maximum marks of three students
+= 25 x 3=75 Marks
+
+and sum of their marks = 18 x 3 = 54 marks
+
+Total marks of 5 students = 20 x 5 = 100 marks
+
+5-3 =2 marks obtained by students. ie 00-54 = 46
+
+(because maximum marks is 25)25 21
+
+Maximum marks — minimum marks
+
+There minimum 21 marks can be obtained by a student.
+
+24. The number of students of three groups of a
+college G,;, G, and G; is 20, 40 and 60
+respectively. The average marks obtained by
+group G,, G, and G; is 50%, 60% and 70%
+what is the average marks of all the sudents of
+the college?
+
+(a) 62% (b) 61%
+(c) 60% (d) 63%
+RRB Group-D — 03/10/2018 (Shift-ID
+
+Ans : (d) According to question-
+
+Total marks of G; = 20 x 50 = 1000
+
+Total marks of G, = 40 x 60 = 2400
+
+Total marks of G3 = 60 x 70 = 4200
+
+Total marks of G,, G, and G;
+
+= 1000 + 2400 + 4200 = 7600
+
+Total students = 20 + 40 + 60 = 120
+
+7600
+Average of marks of all students = 0°
+= 63.3% ~ 63%
+
+25. The average marks obtained by Reena in 16
+tests is 26. The average marks obtained by
+shreya till now is 24, but she has taken only 12
+tests till now. How much average marks has to
+be obtained by shreya in order to equalise the
+performance of Reena in the rest tests.
+
+(a) 28 (b) 32
+
+(c) 30 (d) 26
+
+RRB Group-D — 06/12/2018 (Shift-II1)
+
+Ans. (b) : Average of marks obtained by Reena in 16)
+examinations = 26
+-. Total marks = 26 x 16=416
+Average of marks obtained by Shreya in 12
+examinations = 24
+-. Total marks = 24 x 12 = 288
+
+Total difference of Reena and Shreya's marks = 416 —
+
+288 = 128
+
+} YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0005_left.png =====
+Difference between their examinations = 16-12 =4
+Average score of 4 tests of Shreya = “ = 32 marks
+Therefore, In order to perform like reena, shreya has to|
+score 32 marks in 4 examinations.
+
+26. Inaclass there were 9 boys and some girls. Ina
+test, the mean score obtained by the boys was
+13 while that obtained by the girls was 15. If
+the overall average was 14.28, what was the
+total number of students in the class?
+
+(a) 24 (b) 25
+(c) 26 (d) 27
+RRB Group-D — 18/09/2018 (Shift-I
+Ans. (b) : Let the number of Girls = x
+According to question -
+9x 13+ 15x x= 14.28 (x+9)
+117 + 15x = 14.28x + 128.52
+0.72x = 11.52
+1152
+xa
+72
+x=16
+
+Therefore number of girls = 16
+
+[Number of total students = x + 9 = 16 +9 =25
+
+27. Ina 25 marks test the mean of marks obtained
+by three students is 16. Two new students took
+part in the test. In order to raise the average of |
+students to 19 how much marks have to be
+obtained by the new student who obtains less
+marks than other new student?
+
+(a) 22 (b) 21
+(c) 20 (d) 23
+RRB Group-D — 01/11/2018 (Shift-I)
+Ans: (a) Let the three boys are x, y and z
+According to question,
+xty+z=48 ----- (i)
+
+Let there be tow newly included students A and B
+
+Then sum of the marks obtained by 5 students =
+
+xty+z+A+B=95 — -----(ii)
+
+from equation (i) and (ii),
+
+A+B=95-48
+A+B=47 -----(iii)
+
+Maximum marks for A + B = 25 + 25 = 50 marks
+
+If we give the highest marks to A, then the minimum|
+
+marks obtained by B is 47 — 25 = 22 marks.
+
+28. The average marks obtained in a test of 18
+boys of a class is 16, while the average of the
+total 30 students of the class is 18.1 what is the
+average of the girls?
+
+(a) 21.25 (b) 20.5
+
+(c) 20.75 (d) 21
+
+RRB Group-D — 25/09/2018 (Shift-I1)
+Ans : (a) Average of marks obtained by 18 boys in the
+test = 16
+total marks = 16 x 18 = 288
+
+Average of all 30 students = 18.1
+Average 35:
+
+
+===== Part 17 — Average (pp. 351–362)_page-0005_right.png =====
+total marks = 18.1 x 30 = 543
+total obtained mark by 12 girls = 543 — 288
+= 255
+Average of all 12 girls = = =21.25
+29. The average of the marks of three students in
+an examination with a total of 45 marks is 38.
+Two new students participated in the
+examination. What is the lowest number of
+marks that can be scored by a new student who
+has scored less than another new student,
+making the total Average mark of five students
+to be 40?
+(a) 41 (b) 42
+(c) 40 (d) 43
+RRB Group-D — 19/09/2018 (Shift-IT.
+Ans. (a) Sum of marks of all 5 students = 40 x 5 = 200
+Sum of mark of first three students = 38 x 3 = 114
+Sum of mark of remaining two new students = 200-|
+114 = 86
+Maximum marks in examination = 45
+Hence, one of both new students can score a maximum
+45 marks.
+and second student will be able to get minimum 86-45
+= 41 marks
+30. The average marks of 12 test obtained by
+Raghuveer is 25. The average of Rumela is 23
+marks till now but she had taken part only in 8
+tests. How much marks Rumela has to get in
+the rest 4 test in order to equal Raghuveer's
+average?
+(a) 27 (b) 29
+(c) 26 (d) 28
+RRB Group-D — 22/09/2018 (Shift-1
+Ans : (b) Total score in 12 tests by Raghuveer = 12 x
+25 = 300
+Total score in 8 tests by Rumela = 8 x 23 = 184
+Required marks of 4 tests to reach at the level of
+Raghuveer = 300 — 184 = 116
+Intended Average = us =29
+31. The group of five students took an exam. One
+more students later joined the group after
+taking exam. If his marks are included then the
+average of group is raised by 2 marks. Without
+including his average marks this student scored
+the __ more marks?
+(a) 18 (b) 14
+(c) 12 (d) 15
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (c)
+Let the five students are A, B, C, D, E and their average
+=x
+According to question,
+>A+B+C+D+E=5x (i)
+Let the newly included student = F
+J YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0006_left.png =====
+=> A+B+C+D+E+F=6 (x+2) =6x+12___ (ii)
+from equation (i) and (ii)
+
+=> 6x+12-S5x=F
+
+=>F=x+12
+
+Hence, the marks of the newly included student is 12
+
+more than the average marks. .
+
+32. There were 28 boys and some girls in a class. In
+an exam the average marks obtained by boys
+was 12.5. While the girls obtained 14.5 if the
+total average was 13.1 then what was the total
+no. of students in the class?
+
+(a) 42 (b) 40
+
+(c) 44 (d) 38
+
+RRB Group-D — 03/10/2018 (Shift-I
+Ans: (b) Let the number of girls = x
+According to question,
+B1= 28x12.54+xx14.5
+28+x
+
+366.8 + 13.1x = 350+ 14.5 x ;
+14x=168
+x= 12
+
+number of boys in class = 28
+
+number of girls in class = 12
+
+Total number = 28 + 12 = 40
+
+33. Ina class of 40 students the ratio of boys and
+girls is 7:3. Average marks of boys is 65 and
+the average marks of the girls is 72. What is the
+average mark of the whole class?
+
+(a) 67.1 (b) 68.4
+(c) 68.3 (d) 68.2
+RRB Group-D — 31/10/2018 (Shift-I1)
+Ans: (a) No. of boys = 40 x i= 28
+No. of girls = 40 3- 12
+Ratio of Boys and Girls = 7 : 3
+Total marks of boys = 65x7 = 455
+Total marks of girls = 72x 3 = 216
+Total marks = 671 :
+Number = 10
+671
+
+Therefore, Average of whole class =T9 =[67.1]
+
+34. Ina class of 45 students. The ratio of boys and
+girls is 4:5 average marks of boys is 75 and that
+of girls is 82. What is the approximate average
+marks of the class?
+
+(a) 78.6 (b) 78.5
+(c) 78.9 (d) 79.0
+RRB Group-D — 05/11/2018 (Shift-I
+Ans. (c) : Let the number of boys and girls in a class 0:
+45 students are 4x, 5x respectively.
+” 4x + 5x =45
+9x = 45
+x=5
+
+‘Number of boys 4x5 = 20
+
+(Number of Girls 5x5 = 25
+
+Average 35
+
+
+===== Part 17 — Average (pp. 351–362)_page-0006_right.png =====
+Total marks of boys 75x20 = 1500
+Total marks of girls 25x82= 2050
+Total marks of girls and boys = 1500+2050 = 3550
+Average of marks of class = = 78.88, =78.9
+35. The average test score of 18 boys in a class was
+15, while the over all average of all the 25
+students of the class was 16.12. What was the
+average score of the girls?
+(a) 18.5 (b) 19.5
+(c) 19 (d) 18.8
+RRB Group-D — 01/11/2018 (Shift-ID
+Ans : (c) Number of girls = 25-18 =7
+Hence the average test score of a girls
+— 25x16.12-18x15
+7
+= 403-270 _ 133 iy
+7 7
+36. The average marks of students in 5 subject is
+75. Average of his first two subjects is 65 and
+the average of his last two subjects is 85. How
+much did he score in the third subject?
+(a) 80 marks (b) 65 marks
+(c) 75 marks (d) 70 marks
+RRB Group-D — 12/12/2018 (Shift-1
+Ans. (c) Average marks of obtained by the student in 5
+subjects = 75
+Total marks obtained by the students = 75 x 5 = 375
+* Average of first 2 subjects = 65
+Sum of first 2 subjects = 65 x 2= 130
+*. Average of last 2 subjects = 85
+Sum of last two subjects = 85 x 2 = 170
+Obtained marks in third subject =
+sum of all five subjects — (sum of first two
+subjects+ sum of last two subjects)
+= 375 — (130 + 170) = 375 — 300 = 75
+Hence obtained marks in third subject is = 75
+37. Ina class of 50 students, the ratio of boys and
+girls is 2:3. The average marks of the boys is 60
+and the average marks of the girls is 70. What
+is the average of the class?
+(a) 65 (b) 66
+(c) 67 (d) 64
+RRB Group-D — 12/11/2018 (Shift-ID
+Ans : (b) Given—
+Ratio of girls and boys is 2 : 3
+Number of boys = =20
+Number of girls = a =30
+Average marks of whole class = ean
+_1200+2100 _ 3300 = 66
+50 50
+J YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0007_left.png =====
+38. A group of 19 students took a test, one more |:
+students took test and joined the group. By
+including his marks, the average is raisedby 1.5
+marks. Without including him this student
+obtained more marks than the average?
+
+(a) 25 (b) 30
+
+(c) 24 (d) 28.5
+
+RRB Group-D — 12/10/2018 (Shift-IT)
+Ans : (b) Let the Average marks of 19 students = x
+student, +student, +—--——-+student,, _ :
+19 7
+
+student, + student, + -----+student)y = 19x ---- (i)
+After including new student—
+student, + see ~aaatstudentyy _ x4L5
+
+student, + student, + -----+studenty) = 20x + 30 --- (ii)
+
+by subtracting equation (i) from equation (ii)
+
+student) = 20x + 30 - 19x =x +30
+
+It is clear that the student included in the group has
+
+scored 30 marks more than the average-
+
+39. The average marks obtained by Suvir in 15
+exams is 29. Ruchira has maintained the
+average of 27 but till now she has taken only 11
+tests. How much Ruchira has to perform in the
+rest test to match the average of Suvir
+performance?
+
+(a) 35 (b) 34.5
+(c) 36 (d) 35.5
+RRB Group-D — 04/10/2018 (Shift-I
+
+Ans. (b) Given-
+
+Average marks of suveer in 15 examinations = 29
+
+Total marks of suveer = 29 x 15 = 435 |
+
+Average marks of Ruchira in 11 examinations = 27
+
+Total marks of Ruchira = 27 x 11 = 297 .
+
+Total required marks of Ruchira in remaining 4
+
+examinations = 435-297 = 138
+
+(Hence, Required average marks of Ruchira = ee = 34.5
+
+40. A group of seven students took an exam. After
+exam one more students joined the group.
+After including the new students the average
+marks is raised by 2. In comparison with the
+average marks of initial seven students, how
+much more marks did the new student obtain?
+(a) 16 (b) 18
+(c) 14 (d) 20
+
+RRB Group-D — 01/10/2018 (Shift-ID
+
+Ans. (a) : Let Average marks of 7 students = x
+
+.. Total obtained marks by 7 students = 7x
+
+Again let the marks of new student = y
+According to question,
+
+PY =(x42)
+
+Tx + y= 8x+16
+
+y=x+16
+
+Hence, student scored 16 marks more than the average}
+
+marks.
+
+Average 35°
+
+
+===== Part 17 — Average (pp. 351–362)_page-0007_right.png =====
+41. In a class the average marks obtained by 35
+students is 63. If two more students whose
+average is 85.5 is added, then the new average
+of the class is?
+
+(a) 64.20 (b) 67.90
+(c) 63.62 (d) 65.35
+RRB NTPC 04.04.2016 Shift : 2
+Ans : (a) Total sum of marks of 35 students
+= 35x63=2205
+from question-
+New Average of class = 2205+ 285.5
+35+2
+= 2205+171 _ 2376 _ 64 91 = 64.20
+37 37
+
+42. The average marks obtained by James in
+maths, science and history is 89. If the marks of
+Language is also added then the averages
+decreases to 88.25. Find out the marks
+obtained by him in the language.
+
+(a) 90 (b) 82
+(c) 86 (d) 83
+RRB NTPC 28.03.2016 Shift : 3
+Ans ; (c) maks obtained by him in the language
+= 4 x 88.25 - 3 x 89
+= 353 - 267= 86
+Type -7
+
+43. In a class of 10 students, the average age was
+16 years. When two students dropped the class
+then the average age of the rest students was
+16.25 years. What was the total age of the
+dropped students?
+
+(a) 32 years (b) 30 years
+(c) 34 years (d) 28 years
+RRB RPF Constable — 20/01/2019 (Shift-III)
+Ans : (b) Total average age of 10 students
+= 16 x 10= 160
+Total average age of remaining 8 students = 8 x 16.25
+= 130.00
+
+Total age of dropout students = 160-130 = 30 Years
+
+44. Ina group of 5 people the ratio of the average
+age of first three and the last two is 9:7. If the
+difference of their age is 12, then what will be
+the average age of all the five?
+
+(a) 46.8 (b) 49.2
+(c) 48.4 (d) 64.8
+RRB Group-D — 03/10/2018 (Shift-II)
+y YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0008_left.png =====
+Ans: (b) Average age of group of 3 people = 9 x years |] :
+Average age of group of 2 people = 7x years
+Average age difference of both group = 12
+©. 9X— Tx = 12
+2x=12
+Average age of 3 people = 9 x 6 = 54 years
+Average age of 2 people = 7 x 6 = 42 years
+Total age of 3 people = 3 x 54 = 162 years
+Total age of 2 people = 2 x 42 = 84 years
+Total age of 5 people = (162+84) = 246 years
+Average age of 5 people = * = 49.2 years
+45. The average of 40 students age is 30 years,
+average of 25 students age is 36 years. Find the
+average age of the rest of the students?
+(a) 20 (b) 15
+(©) 25 (d) 18
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (a) Average age of remaing students
+_ 40x30-25x36
+40-25
+_ 1200-900
+15
+= 300 = 20 years
+15
+46. If the average age of 40 students of class first is
+10 years and the average age of 30 students in
+class II" is 12 years. Find the average age of all
+students (in years).
+@ WU (b) 10.54
+(c) 10.58 (d) 10.85
+RRB NTPC 29.04.2016 Shift : 2
+Ans : (d) Total age of 40 students = 10x40 = 400 years
+Total age of 30 students = 12 x 30 = 360 years
+Average age of all students = ae
+= 760 = 10.85 years
+70
+Type -7 ,
+47. Average of 81 results is 54. If the average of
+first 59 results is 52 and last 21 results is 60,
+then calculate the 60th result?
+(a) 52 (b) 60
+(c) 46 (d) 62
+RRB Group-D — 11/12/2018 (Shift-I)
+Ans. (c) : Grand Total of 81 results = 81x54= 4374
+Grand Total of first 59 results = 59 x 52 = 3068
+Grand Total of last 21 results = 21 x 60 = 1260
+60" result = 4374 — 3068 — 1260 = 46
+Average 35!
+
+
+===== Part 17 — Average (pp. 351–362)_page-0008_right.png =====
+48. Average of 11 results is 50. The average of first
+6 results is 49 and last 6 results average is 52.
+Then what will be the value of the 6th result?
+(a) 48 (b) 51
+(c) 56 (d) 49
+
+RRB NTPC 02.04.2016 Shift : 3
+Ans : (c) 6" result = grand total of first 6 results +
+grand total of last 6 results - grand total of 11 results.
+=6x49+6x52-11x50
+= 294+312-550
+= 606-550 = 56
+
+49. The average of 45 results is 23. The average of
+first 22 is 18 and last 22 is 21. What is the value
+of 23 result?
+
+(a) 172 (b) 190
+(c) 177 (d) 187
+RRB NTPC 18.04.2016 Shift : 3
+
+Ans: (c) Total value of 45 results = 45 x 23 = 1035
+
+Average of first 22 results = 22 x 18 = 396
+
+Averge of last 22 results = 22 x 21 = 462
+
+value of 23rd results = 1035 — (396+462)
+
+= 1035-858 = 177
+Type -5
+
+50. A person received 4 packets in January, whose
+average weight was 300g and in February 8
+packets were received whose average weight
+was 400g. What will be the average weight (g)
+in received by that person in the two months?
+(a) 350g (b) 366.67g
+(c) 412.67g (d) 376.67g
+
+RRB RPF SI — 10/01/2019 (Shift-I
+
+Ans : (b)
+
+In January, total weight of 4 packets = 4300 = 1200 g
+
+In February, total weight of 8 packets = 8400 =3200g
+
+Average weight of total packets
+
+_ __sumof total weight
+Number of total packets
+_ 1200+3200 _ 4400 _ 1100
+12 12 3
+= 366.67 g
+
+51. The average weight of 25 items is 50 kg. If any
+other item X weight included, then average
+weight is increased by 500 g. What is the
+weight of item X ?
+
+(a) 28kg (b) 36kg
+(c) 82kg (d) 63 kg
+RRB Group-D — 25/09/2018 (Shift-I1)
+Ans : (d) Total weight of 25 goods = 25 x 50
+= 1250 kg
+Total average weight of including the weight of
+the new object X
+=(50+.5)kg =50.5kg
+Hence total weight of total 26 goods = 50.5 x 26
+= 1313 kg
+Weight of X = 1313-1250 = 63 kg
+3 YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0009_left.png =====
+52. The mean weight of six kids is 17.5 kg. If the
+individual weights of 5 of those kids are 14, 19,
+23, 21 and 13 kg, respectively, find the weight
+of the sixth kid.
+(a) 17kg (b) 15kg
+(c) 16kg (d) 18kg
+RRB Group-D — 05/11/2018 (Shift-IIL.
+Ans. (b) : Let the weight of 6th child is x kg
+14+19+23+21+13+x
+0 ATS= rr
+105.0=90+x
+x=15
+Hence weight of 6th child = 15 kg
+53. The average weight of 42 boys of a class is 41 |
+kg. A boy of 39 kg weight joins the class. A boy
+already present in the class, whose weight was
+counted as 34 kg in place of 43 kg. What will be |
+the new average?
+(a) 39.81 (b) 40.74
+(c) 41.16 (@) 40.92
+RRB NTPC 26.04.2016 Shift : 1
+Ans: (c) Total weight of 42 boys = 42 x 41 = 1722
+On inclusion of 39 kg boy
+New weight = 1722 + 39 = 1761
+According to question,
+New Average = 1761+ 43~34 _ 1770 _ 41 16
+43 43
+54. Average of 5 person weight is 76 kg. in these
+four persons weight is 72, 74, 75 and 81 kg. Sth
+persons weight in kg will be.
+(a) 77 (b) 78
+(c) 79 (d) 80
+RRB NTPC 26.04.2016 Shift : 3
+Ans : (b) Total weight of 5 people =76x5=380
+weight of 4 people = 72+74+75+81
+=302
+weight of Sth person = 380-302 = 78kg
+55. In a class the average of 30 student age is 25 kg.
+If the class teacher's weight is also included in
+this, then average weight is increased by two
+kg. What is the weight of the class teacher (in
+kg)?
+(a) 86 (b) 84
+(c) 81 (d) 87
+RRB NTPC 27.04.2016 Shift : 1}
+Ans : (d) Weight of teacher in the class = 31 x 27-30
+x 25
+= 837 — 750 = 87 kg
+56. The average weight of 29 students of any class
+is 48. If the class teacher weight is added then
+the average weight is increased by 1/2 kg. Class
+teacher weight (in kg) is?
+(a) 63 (b) 65
+(c) 60 (d) 68
+RRB NTPC 29.04.2016 Shift : 3
+Ans. (a) : Total weight of 29 students = 29 x 48 = 1392
+when the weight of the class teacher is added.
+Then total weight = 30 x 48.5 = 1455 kg
+«. weight of class-teacher = 1455 — 1392 = 63 kg
+Average 35!
+
+
+===== Part 17 — Average (pp. 351–362)_page-0009_right.png =====
+57. The average weight of 30 students of a class is
+15 kg. If the weight of the class teacher is
+included in it then the average weight is
+increased by 1 kg. What is the weight of the
+class teacher (in kg).
+
+(a) 46 (b) 45
+
+(c) 16 (d) 92
+
+RRB NTPC 30.04.2016 Shift : 1
+Ans : (a) Total weight of 30 students in the class
+= 30x15 = 450
+Total weight if class teacher is also included
+= 31x16 = 496
+Hence the weight of class teacher = 496 — 450 = 46 kg
+Type - 6
+
+58. The average score of a group of cricketers was
+42. A new player joins and score 250% of the
+average of the group. As a result the overall
+average is increased by 30% what was the
+numbers of cricketers in the group before, the
+new player joined?
+
+(a) 3 (b) 5
+(©) 6 qd) 4
+RRB RPF Constable — 22/01/2019 (Shift-IT)
+
+Ans : (d) Let the Number of cricketers in the group =x,
+
+and average = 42
+
+the, total score = 42x
+
+Number of cricketers after including one player in the
+
+group = x+1
+
+42x130
+New average =————
+100
+
+= 54.6
+
+Score of new player = 42250 =105
+100
+
+Now total score = (105 + 42x)
+Hence sum = average x number
+
+105 + 42x = 54.6 (x + 1)
+
+105 — 54.6 = 54.6x — 42x.
+
+50.4 = 12.6x
+
+x= 30.4 =4
+
+12.6
+
+Therefore number of cricketers in first group (x) = 4
+
+59. After 11 innings, the average score of a
+batsman is 52 per innings. After 13 innings, the
+average is raised to 54. If the batsman made 16
+runs more than the last inning in the 13 inning
+then how much did he make in 12th inning?
+
+(a) 54 (b) 57
+(c) 56 (d) 55
+RRB Group-D — 25/09/2018 (Shift-IIT.
+Ans. (b) : Total score after 11 innings = 52x11 = 572
+total score after 13 innings = 54x13 = 702
+12th inning+ score of 13th inning = score of 13 innings|
+
+— score of 11 innings = 702 - 572 = 130
+
+According to question-
+
+Let the Run in 12th innings = x
+
+) YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0010_left.png =====
+Run in 13th innings = x+16
+then, x + (x+16)= 130
+2x = 130-16
+2x=114
+60. The average score of 12 members of a group
+was 8. While another group of n members had |
+an average score of 10. If the joint average was
+9.2 find the value of n.
+(a) 18 (b) 24
+(c) 16 (d) 30
+RRB Group-D — 24/10/2018 (Shift-IT.
+Ans. (a) : Sum of group of 12 members = 12x8= 96
+Sum of the group of n members = 10Xn = 10n
++: Combined average = 9.2
+-. According to question-
+92= 96+10n
+(12+n)
+(124+n) = 260+100n
+92
+1104 +92n =960+100n
+144=8n
+144
+n=—=18
+8
+“n=18
+61. The average run scored by a batsman is 125 in
+5 matches. In the first two matches is average
+score was 150. The average of runs scored in
+the last two matches is 110. How many runs
+that batsman scored in the third match?
+(a) 115 run (b) 125 run
+(c) 105 run (d) 95 run
+RRB Group-D — 03/12/2018 (Shift-I1T.
+Ans. (c) : Total score make in 5 matches = 125x5= 625
+Total score make in first 2 matches = 150 x 2 = 300
+Total score make in last 2 matches = 110 x 2 = 220
+.. Total runs scored in the third match
+= 625-(300+220)
+= 625 - 520 |
+= 105 run
+62. After 12 innings, a batman per inning average
+score was 55. After 14 innings his average score
+reached to 60. If the batsman scored 20 runs
+more in the 14th innings than the last innings,
+then how much did he score in the 13th
+innings?
+(a) 90 (b) 85
+(c) 80 (d) 75
+RRB Paramedical Exam — 21/07/2018 (Shift-D)
+Ans : (c) Average score of 12 innings = 55
+o Total score = 55x12= 660
+Average score of 14 innings = 60
+on Total score = 14x60 = 840
+Average 36
+
+
+===== Part 17 — Average (pp. 351–362)_page-0010_right.png =====
+Total score of 12th and 14th innings = 840 - 660 = 180
+Let the score of 13th inning is x. then score of 12th
+inning = x + 20
+According to question-
+“X+20+x=180
+2x = 160 > x= 80
+63. In a football tournament Real madrid did 33
+goals and 22 goals were done against it. Find
+the average number of goals done by each
+player of the real madrid?
+(a) 1 (b) 2
+(c) 3 (d) 0
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (c) Real Madrid average number of goals scored
+for each palyer
+— Number of goalsinrealmadrid _ 33 _ 3
+number of players of football ll
+64. After 10 innings the average score per innings
+of a batsman was 52. After 12 innings the
+average score to 54. If the batsman had scored
+16 more runs in the 12" innings than in the
+previous one, how many runs did he score in
+the 11" innings?
+(a) 55 (b) 56
+(c) 54 (d) 53
+RRB ALP & Tec. (14-08-18 Shift-I.
+Ans ; (b) According to question,
+Total score of 10 innings = 10 x 52 = 520
+Total score of 12 innings = 12 x 54 = 648
+Let, makes x run in 11th innings
+According to question,
+X+x+16 = 648-520
+2x = 128-16
+2x = 112
+x= 56run
+Hence the bats man has scored 56 runs in 11th innings.
+65. The sales quanity in a shop is recorded for four
+different quarters. Following data is-
+[Quarter2 [100
+per quarter average selling is?
+(a) 300 (b) 500
+(c) 250 (d) 350
+RRB RPF SI - 12/01/2019 (Shift-IID}
+Ans: (a) Average sales per quarter
+(200+100 +350 +550)
+4
+1200
+4 300
+) YCT
+
+
+===== Part 17 — Average (pp. 351–362)_page-0011_left.png =====
+66. Based on the following table, what is the
+average number of screws manufactured in the
+unit in given 6 months?
+
+No. of screws manufactured
+(a) 300 (by 200
+(c) 250 (d) 150
+RRB Group-D — 28/09/2018 (Shift-I
+Ans. (c) : Average = —_Sumof terms _
+number of terms
+Average of the screw
+= 200+ 300+ 250+ 250+ 2504250 |}
+6
+— 1500 _ 250
+6
+
+67. A private swimming pool offers different time
+slots for its users, and the following table
+represents the number of pool visitors of the
+week?
+
+No. of users of swimming pool
+a
+ee
+[Seer
+On average how many visitors visited on a day
+of that week?
+(a) 12 (b) 16
+(c) 14 (d) 15
+RRB Group-D — 15/10/2018 (Shift-1
+|Ans : (b) Number of visitors in the whole week =
+8+4+15 +15 +20 +25 + 25= 112
+average = ue 16 ’
+
+Hence, an average of 16 visitors visited throughout the|
+
+week.
+
+68. Two football teams, Team A and Team B
+played in a tournament and following are the
+goals done in six matches.
+
+Goal by Team A | Goal by Team B
+[Kewetf 2 TT
+[Resee[
+PRewes [0
+[Keued [Oe
+[Keueo] 2? TE
+Average 36)
+
+
+===== Part 17 — Average (pp. 351–362)_page-0011_right.png =====
+Based on average targets, what conclusion we
+can derive?
+(a) The average score of Team A and B is same.
+(b) Team A's average score is comparatively
+more than B.
+(c) Team A is similar to B.
+(d) Team B's average score is comparatively
+more than A.
+RRB Group-D — 26/09/2018 (Shift-IID)
+Ans: (a) Average score of Team A
+_ 24140444342 -2_,
+6 6
+Average score of Team B
+_ 34041454241 -2_,
+6 6
+69. What is the difference in average price per kg (
+in 2) for vegetables, three months between two
+years, according to the data given in the
+following table?
+
+Price-year 1 | Price-year 2
+Ee
+[Februay [| |_|
+[Maren [40
+
+(a) There is no difference in the average price.
+(b) We can't compare values.
+(c) The average price of vegetables in year | is
+less than year 2.
+(d) The average price of vegetables in year 2 is
+less than year 1.
+RRB Group-D — 27/09/2018 (Shift-I
+Ans. (a)
+Average price of first years = pal) “ 40. 40
+Average price of second years = sees =40
+Difference = 40 - 40 = 0
+Hence, there is no difference in the average price.
+70. The number of people going through the way
+of shop is recorded for four different quarters.
+The following data is given for this. What is the
+average number of people going through the
+shop way in all the quarters?
+[Quartert [2000 |
+(a) 12,000 (b) 4,000
+(c) 10,000 (d) 3,000
+RRB Group-D — 22/10/2018 (Shift-III)
+{ YCT

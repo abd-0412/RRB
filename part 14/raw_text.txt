@@ -1,0 +1,2115 @@
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0001_left.png =====
+14.
+——————
+1. A person borrows %5000 for 2 years at the rate
+of 4% per annum of simple interest and lends
+it to another person for 6 years at an annual
+rate of 6.25%. Find the profit received by him
+every years.
+(a) 7150 (b) 7112.50
+(c) %167.50 (d) 7125
+RRB JE - 22/05/2019 (Shift-I11
+Ans : (b)
+2 years simple interest at the rate of four percent on|
+5000.
+Simple interest = 5000%4%2
+100
+Simple interest = 7400 )
+. . 400
+Simple interest of one year = 2 = 200
+2 years simple interest at the rate of 6.25% on 5000.
+7 . 5000 x 6.25x2
+Simple interest = ——————_
+100
+= 50 x 12.50 =%625
+- 625
+Simple interest if one year = > % 312.50
+Profit = 312.50 - 200 = 112.50
+A person gains %112.50 by lending to another person at,
+6.25% interest instead of 4% per annum. :
+2. After 10 years the simple interest on a sum of
+money will be %600. If the principal is
+increased thrice after 5 years, what will be the
+total interest after 10 years?
+(a) 3300 (b) 900
+(c) 21200 (d) 600
+RRB JE - 23/05/2019 (Shift-II)
+RRB JE - 25/05/2019 (Shift-I
+Ans : (c) Simple interest of 10 years = a
+-.600=P*R*10 _, pp = 6000
+100
+According to the question,
+Total simple interest = Five year's SI, + five years SI,
+= 5xPXR | 5x3PXR _ pp 20 |
+100 100 100
+= 6000%22 =1200
+100
+Total Simple interest = %1200
+Simple Interest 27)
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0001_right.png =====
+°
+Simple Interest
+TT
+3. What is the simple interest received at 72400 in
+4 years 6 months at the rate of 4.5% per
+annum?
+(a) 3486 (bo) % 816
+(c) %796 (d) %926
+RRB JE - 24/05/2019 (Shift-I
+Ans : (a) Given-
+Principal (P) = % 2400
+Rate (R) = 4.5%
+Time (T)=4 years 6 months =3 years
+. : PxRxT
+Simple interest (S.1) = ————
+imple interest (S.1) 100
+ 2400x4.5%9 _ 2 yee
+100x2
+4, Find the ratio of simple interest of 4 years and
+8 years for a particular amount at a fixed rate.
+(a) 1:2 (b) 2:1
+(c) 2:3 (d) 1:4
+RRB JE - 30/05/2019 (Shift-I)
+Ans : (a)
+simple interest of 4 year
+simple interest of 8 year
+pxrx4
+-—100__1_),
+Pxrx8 2 ba
+100
+5. In two different schemes, find the ratio of
+simple interest received from the same amount
+invested at the same rate for 6 years and 10
+years respectively.
+(a) 4:3 (b) 3:5
+(c) 4:5 (d) 3:4
+RRB JE - 29/05/2019 (Shift-I
+Ans : (b)
+PxRx6
+SI ___ 100
+> SI, PxRx10
+100
+SI 6 3
+=> beat
+SI, 10 5
+SI) 2S. =3:5
+6. Find the simple interest from 5 February 2017
+to 19 April 2017 for an amount of $5000 at the
+rate of 6.25% annual interest.
+(a) 762.50 (b) 748.50
+(c) 264 (d) %80
+RRB RPF SI — 10/01/2019 (Shift-I)
+[ YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0002_left.png =====
+Ans : (a) Rate = 6.25%, Amount = 7 5000
+[5S February 2017 to 19 April 2017 = 73 Day)
+= 3B Years
+365
+. . 5000 x 6.25 x 73
+Simple interest = ————_—
+100x365
+— 50x625x73
+100x365
+= 1x125x23B _g gy 5
+2x73
+7. At a fixed simple interest, the sum of 7800
+becomes 2956 in 3 years, If the rate is increased
+by 4%. What will be the increase in
+investment?
+(a) % 108 (b) %96
+(c) % 1052 (@) %72
+RRB JE - 28/06/2019 (Shift-IIT.
+Ans, (b) S1.= PXRxT
+100
+Amount ~ Principal = 956-800 = ek
+156=8xRx3
+pe 2A,
+8 2
+. . 13 21
+Again Rate increased to 4% = z +4= ry %
+“ SL= 800x21x3 _ 2252
+100x2
+increase investment = 252-156 = 96
+8. How much interest will be received on the
+simple interest of 73680 at 4% annual simple
+interest rate in 2.5 years?
+(a) 2368 (b) 292
+(c) 2184 (d) 2274
+RRB RPF Constable — 17/01/2019 (Shift-I1I)
+Ans. (a) : Principal = % 3680
+Rate = 4%
+Time = 2.5 years
+: . PxRxT _ 3680x4x2.5
+simple interest =—————_ = ———————
+100 100
+3680x10.0
+=e =k
+100 368
+9 What will be the interest received in 2 years
+and 3 months at 22500 at the rate of 6% annual
+interest?
+(a) € 423.50 (b) = 445
+(c) 337.50 (d) %375
+RRB Group-D — 05/10/2018 (Shift-I)
+Simple Interest 27:
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0002_right.png =====
+Ans. (c) ; 2 year 3 months = 23 a Years
+12 4
+. . PxRxT
+Simple interest = ————
+100
+2500x6x2
+Interest received = ————4.
+100
+= B 233750
+2
+10. How much interest will be received in 10 years
+on the amount of 21600 if the rate of intrest is
+7.25% per annum?
+(a) = 1240 (b) & 1160
+(c) = 1220 (d) = 1180
+RRB Group-D — 20/09/2018 (Shift-I
+Ans. (b) : Principal = 1600
+Time = 10 Years
+Rate = 7.25%
+. : PxRxT _ 1600x7.25x10
+Simple interest =————-_ = —————__
+100 100
+= 16 x 10 7.25 = 71160
+11. Divide %6,600 into two parts such that the
+simple interest received on the first part at the
+rate of 10% per annum for 3 years is equal to
+the simple interest received on the second part
+at 9% per annum for 4 years.
+(a) 23600, 3000 (b) %4000, 2600
+(c) %5000, 1600 (d) 26000, 600
+RRB Group-D — 31/10/2018 (Shift-II)
+Ans : (a) Suppose first part x 6600 is abstract then
+Second part = % (6600 — x)
+According to the question,
+xx 2210 | (6600-2) xX?
+100 100
+5x = 39600-6x
+11x = 39600
+First part, x =& 3600
+Second part, 6600 — 3600 = 3000
+12. Sarathi deposited %3125 in a bank on which
+8% simple interest was payable annually by
+the bank. If sarathi puts the money in the
+bank for 5 years, how much interest will be
+earn?
+(a) = 1,290 (b) & 1,250
+(c) % 1,240 (d) & 1,280
+RRB Group-D — 28/09/2018 (Shift-II)
+Ans. (b) :
+Simple interest = Exext
+100
+According to the question-
+Simple interest = 3125x8 x5 =7 1250
+100
+J YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0003_left.png =====
+13. What will be the interest in 5 years at 74600 at
+the rate of 4.5% annual simple interest?
+(a) % 1,020 (b) % 1,025
+(c) & 1,035 (d) & 1,045
+RRB Group-D — 28/09/2018 (Shift-II1)
+Ans : (c) Principal =% 4,600 , Rate = 4.5% Annual,
+Time = 5 Years, interest =?
+Simple interest =PxRxT
+100
+= 4600%4.5%5 ag ages
+100
+= 1035
+14. 5.25% simple interest per annum will earn an
+interest___ in 8 years on an amount of 73250.
+(a) % 1,425 (b) 1,395
+(c) & 1,365 (d) & 1,465
+RRB Group-D — 03/10/2018 (Shift-IIT)
+Ans : (c) Interest Rate = 5.25%
+Principal Amount =% 3250
+Time = 8 Years
+. . PxRxT
+Simple interest = ————
+100
+_ 3250x5.25x8
+100
+=F 1365
+15. Akshay borrows %3000 at the rate of 6% simple
+annual interest for 2 years and lends the same
+amount to his friend at 9% annual simple
+interest for 2 years. How much will akshay
+benefit in a year?
+(a) %90 (b) 180
+(c) %120 (@) 150
+RRB Group-D — 25/09/2018 (Shift-II)
+Ans : (a) Simple interest of amount taken by Akshay
+. : 3000 x 6x2
+Simple interest. =—————
+100
+=%360
+Simple interest on money given to a friend
+— 3000x9x2
+100
+=%540
+Akshay profits in two years = 540 — 360
+= 7 180
+Profit ina year = ” =790
+16. An interest on an amount borrowed at an
+annual rate of 6% in x years is 1/3 of its
+principal. Find x.
+@ 52 ) 42
+9 29
+3 3
+(©) 6 7 d@) 5 4
+RRB NTPC 03.04.2016 Shift : 2
+Simple Interest 27:
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0003_right.png =====
+Ans : (a) Suppose Principal= P
+from the question-
+Px6xx_1,
+100 3
+6xx 1 100
+>— ==> x=
+100 3 6x3
+50 5
+>x=—>x=5=
+9 9
+17. What is the ratio of simple interest earned on
+certain amount at the rate of 12% for 6 years
+and that for 12 years?
+(a) 1:2 (b) 2:3
+(c) 3:4 (d) 4:5
+RRB NTPC 30.03.2016 Shift : 1
+Ans : (a) Suppose certain Amount = &x
+*. Simple interest for 6 years me SACE LS
+~ simp , 100 100
+Simple interest for 12 years = Xx12x12 = a
+100 100
+~. Intended ratio = 2x 14x _ 1:2
+100 100
+18. Find the simple interest on Rs. 50 for 6 months
+at the rate of 10% per months.
+(a) & 35 (b) 240
+(c) % 25 (@ = 30
+RRB NTPC 18.04.2016 Shift : 1
+Ans : (d) simple interest = PxRxT
+100
+ 50%10%6 _ 500%6 _ 249
+100 100
+19. At a certain rate of simple interest, %800
+becomes %956 in 3 years. If this principal
+becomes %1052 in the smae period, what is the
+percentage of increase in the rate of interest?
+(a) 7% (b) 4%
+(c) 5% (d) 9.5%
+RRB NTPC 16.04.2016 Shift : 2
+Ans : (b) Interest = Amount — Principal
+= 956 — 800 = 7156
+Simple interest =PxRxT
+100
+156=800x3xR , Rao
+100 8
+According to the second dcondition, suppose growth
+rate in r.
+800x +2 + )
+252=___\°_/
+100
+21 52
+S=—str
+2 8
+r=10.5-65
+r=4%
+Hence rate increaed by 4%.
+3 YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0004_left.png =====
+20. Find the total simple interest on % 500 at 7%
+per annum, on & 700 and 10% per annum and
+%1000 at 4% per annum for 3 years.
+
+(a) 435 (b) 500
+(c) 700 (d) 1000
+RRB NTPC 12.04.2016 Shift : 3
+Ans : (a) S.= PRT
+100
+S1yy = 20X23 = 195
+100
+Sla= 700x10x3 _ 210
+100
+Sly = 1000x 4x3 =120
+100
+. SL =S.1.q) + S.L.gy + S.Le)
+= 105 +210 + 120 =%435
+
+21. Find the approximate simple interest on % 2000
+from March 9, 2010 to May 21, 2010 at 8.25%
+per annum.
+
+(a) %43 (b) %37
+(©) %33 (d) %40
+RRB NTPC 12.04.2016 Shift : 3
+Ans : (c) From question,
+Principal (P) = 2000
+Annual Interest Rate (R) = 8.25%
+
+Time (T) = days number till 9" march, 2010 to 21°
+
+may, 2010 = 22+ 30+ 21
+
+= 73 days = B Years
+
+365
+73
+simple interest = PRT 565
+P 100 100
+— 2000825 x73 _ 533
+100x 100x365
+
+22. Rita invested a sum at 2.5% rate for 4 years.
+Sita invested the same amount at the same rate
+for 6 years. What is the ratio of the simple
+interest earned by Sita to that earned by Rita?
+(a) 3:2 (b) 2:3
+() 1:3 (dd) 1:4
+
+RRB NTPC 28.04.2016 Shift : 2
+
+Ans : (a) Suppose amount is %x.
+
+«. Simple interest for Rita = XX25%x4 x
+100 10
+Simple interest for Sita = Xx2.5%6 _ 3x
+100 20
+«. Intended ratio = 3x :X=3:2
+20 10
+
+23. The interest earned on % 3,675 at the rate of 4%
+simple interest per annum for 2 years will be?
+(a) = 289.50 (b) % 292
+(c) 294 (d) % 288.50
+
+RRB ALP & Tec. (31-08-2018 Shift-II)
+
+Simple Interest 27
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0004_right.png =====
+Ans. (c) ; simple interest =PxRxT
+100
+_3675x4x2 =204
+100
+24. A sum of 2,000 invested at the rate of 8.5%
+simple interest per annum for 6 years will yield
+an interest of:
+(a) %935 (b) 21,020
+(c) %510 (d) 21,275
+RRB ALP & Tee. (31-08-2018 Shift-IID
+Ans : (b) simple interest = PXRxT
+100
+_ 2000x8.5x6 =21020
+100
+25. %x invested at 9% simple interest per annum
+for 5 years yields the same interest as that on
+Ry invested at 7.5% simple interest per annum
+for 4 years. Find x: y.
+(a) 45:30 (b) 2:3
+(c) 16:15 (d) 8:9
+RRB ALP & Tec. (30-08-2018 Shift-IID
+Ans : (b) «- SI= PXRxT
+100
+According to the question, EX9xS = ¥XTSx4
+100 100
+xx9x5 = LATA
+10
+3x =2y
+xy = 2:3
+26. Saathi deposited Rs. 825 in a bank that
+promised 8% simple interest per annum. If
+Saathi kept the money with the bank for 5
+years, she will earn an interest of :
+(a) 2280 (b) %330
+(c) %290 (d) %480
+RRB ALP & Tec. (20-08-2018 Shift-I)
+Ans : (b) Simple interest = PxRxT
+100
+7 . 825 x8 x5 __ 825x2 _ 1650
+Simple interest = ————— = ——— = —
+100 5 5
+Simple interest = %330
+27. | What will be the amount received in 6 years at
+simple annual interest rate of 7.6% at 71,640.
+(a) %750 (b) %748
+(c) %742 (d) %738
+RRB Group-D — 25/09/2018 (Shift-I)
+Ans : (d) Principal =% 1640
+Rate = 7.5% Annual
+Time = 6 Years
+- . PxRxT _ 1640x7.5x6
+«. Simple interest = ——— =———~—_
+100 100
+Simple interest = % 738
+} YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0005_left.png =====
+Type - 1
+28. If the amount of 7750 becomes 71000 in 5 years
+at simple interest, then how much will it be in
+10 years at simple interest?
+(a) = 1750 (b) % 2000
+(c) 1250 (d) % 1500
+RRB JE - 02/06/2019 (Shift-I.
+. 7 PxRxT
+Ans, le int t = ————
+ns. (c) simple interest 100
+250= 750xRx5
+100
+R=20/3% .
+Second simple interest = AE
+100
+Simple interest = 500
+Total Amount = 750 + 500 = 31250
+29. A sum of money was invested at a fixed rate of
+simple interest for 10 years. If it had been
+invested at a 5% higher rate, the interest would
+have been %1200 more. Find the amount.
+(a) = 2500 (b) % 2000
+(c) % 3000 (d) % 2400
+RRB JE - 26/06/2019 (Shift-I
+Ans. (d) Suppose Amount = % x
+Rate of Interest = 1 %
+If rate of interest are r% then,
+Simple interest = PxRxT
+100
+— xxrxl0_
+100-10
+If rate of interest are (r + 5)% then,
+Simple interest = Kx(F+5)x10 _ K+ 5K
+100 10
+According to the question,
+WK+5K IX _ 1999
+10 10
+IK+5SX=IK _ 1999
+10
+5 < 1900
+10
+x=% 2400
+30. 2 years simple interest on an amount is %400. If
+'r' was 4% more than the simple interest would
+have been 7400 more. What is the original
+amount.
+(a) & 4000 (b) & 12000
+(c) % 5000 (d) = 10000
+RRB JE - 22/05/2019 (Shift-I
+Ans : (c) Suppose principal = %P, Rate = 1%
+According to the first condition
+400 = Pxtx2 (i)
+100
+Simple Interest 27:
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0005_right.png =====
+According to the second condition -
+400+ 400 = P*@+4)x2
+100
+g00 =P xt 4x2 (ii)
+100
+On division of equation (i) in (ii)
+tlt
+2 +4
+r=4%
+So p= Six100 = 400%100 _ x sagg
+txr 2x4
+31. A seem of 226000 is divided into two amounts
+in such a way that 5 years simple interest at the
+rate of 10% one part is equal to simple interest
+of 6 years at the rate of 9% on the other part.
+Find the amount invested for 5 years at the
+rate of 10%.
+(a) 715000 (b) 12500
+(c) %13500 (d) %14000
+RRB JE - 24/05/2019 (Shift-I1)
+Ans : (c) Let first amount = &x
+Time = 5 Years, Rate 10%
+and second Amount = & (26000-x)
+Time = 6 Years Rate = 9%
+According to the question-
+Simple interest of first amount = Simple interest o:
+second amount
+xx5x10 _ (26000-x)x9x6
+100 100
+50x = 26000 x 54 -— 54x
+104x = 26000 x 54
+xe 26000 x54 = 213500
+104
+Hence invest amount for 5 years at the rate of 10% =
+713500
+32. An investment of 716000 at 8% simple interest
+for 1 years and another investment at 18%
+simple interest for the same period, yields a
+profit of 10% on the total investment. Find the
+total amount invested.
+(a) %22000 (b) 20000
+(c) %20500 (d) 718000
+RRB JE - 27/05/2019 (Shift-IIL
+Ans : (b) Suppose second investment =% P
+From question—
+16000x8x1 | Px18x1_ (16000+P)10
+100 100 100
+oP P
+1280+— =1600+—
+*50 0 10
+329=2P_P
+50 10
+ee 320
+50
+P= 4000
+Total investment = 16000+P = 16000 + 4000 = %20000
+5 YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0006_left.png =====
+33. If 15 months simple interest at 7.5% per
+annum on an amount is %32.50 more than 8
+months simple inerest at 12.5% annual rate on
+the same amount, find that amount.
+
+(a) = 3000 (b) 73060
+(c) %3120 (d) % 2900
+RRB JE - 29/05/2019 (Shift-IT
+Ans : (c) Suppose that Amount is = P
+Px7Sx15 _Px12.5%8 _45 59
+100x12 100x12
+_? 4 12.5-100) = 32.50
+10012
+P x 12.5 = 32.50 x 100 x 12
+P x 125 = 325 x 100 x 12
+7. P=% 3120
+
+34. The simple interest charged in 2 years on any
+money borrowed at the rate of 7% per annum
+is the same as the amount of 4 years at 5% per
+annum for an amount of 71750. Find the
+amount.
+
+(a) 71800 (b) 71600
+
+(c) %2500 (d) %2400 .
+
+RRB JE - 30/05/2019 (Shift-I
+Ans : (c) Let that amount is %x
+According to the question,
+xx7x2 _1750x5x4
+100 100
+xe 1750x5x4 = 2500
+7x2
+
+35. Pj, P2 and P; are invested at 4%, 6% and 8%
+respectively in such a way that the simple
+interest received from all the three amounts at
+the end of the year is equal. If the sum of the
+three invested amounts is 72600, find the values
+of P;, P2 P3 respectively.
+
+(a) 71100, 800, = 700
+(b) 21200, = 600, = 800
+(c) %1000, % 900, = 700
+(d) 21200, € 800, = 600
+RRB JE - 28/05/2019 (Shift-ID
+|Ans : (d) Simple interest is equal to P;, P2, P3 and time|
+is also equal.
+
+Let simple interest (S.1) = ®x
+
+Time (T) = 1 Years .
+
+For P;
+
+gy -PxRxT
+100
+P,x4x1
+xe oe
+100
+P) = 25x
+For P2
+P, x6x1
+xeon"
+100
+Simple Interest 27
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0006_right.png =====
+50x
+P, =-—
+3
+For P3
+P, x8x1
+xe
+100
+= 258
+2
+P; + P2 + P3 = 2600
+25x + 50K , 25x = 2600
+3 2
+ees = 2600
+325x = 2600 x 6
+x =%48
+P, = 25x = 25 x 48 = 21200
+P2= 30x _ 30 4g = 2800
+303
+p, = 25% 354g z600
+2 2
+36. A fixed seem of money was invested for 5 years
+at a fixed rate at simple interest. If it had been
+invested at a 10% higher rate, it would have
+gained %2000 more. What was the principal
+invested?
+(a) %3500 (b) %4000
+(c) 24500 (a) %5000
+RRB RPF Constable — 22/01/2019 (Shift-IL
+Ans : (b) Suppose Principal = %P Rate =R% Time
+=5 Years
+From question-
+Px(R+10)x5_ PxRx5_ 2000
+100 100
+SPR+S50P_5PR = 2000
+100 100
+5PR+50P—5PR =2000
+100
+SOP — 2000
+100
+P = 2000x 2 =%4000
+37. At the end of 35 years at 6% simple interest
+per annum, a sum of %2940 is received. What
+was the amount invested?
+(a) 22,350 (b) 2,400
+(c) 2,550 (d) 22,600
+RRB RPF SI - 11/01/2019 (Shift-I1D}
+Ans : (b) Rate = 6%
+Time = 33 Years = 5 vears
+4 4
+Amount = %2940, Principal = P
+p YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0007_left.png =====
+Amount = Principal [Baextime + i]
+100
+15
+6x—
+2940 =P fa =» +1]
+100 400
+40
+2940x 40
+=> P=——
+49
+=> P=60x40 .
+=> P= 2400
+Hence amount invested =% 2400
+38. The interest earned on the money invested for
+6 years at a simple interest rate of 9.5% per
+annum was %456. What was the amount
+invested?
+(a) = 750 (b) %775
+(c) % 800 (d) = 850
+RRB RPF Constable — 19/01/2019 (Shift-I)
+Ans : (c) Given-
+simple interest = % 456
+Rate (R) = 9.5%
+Time (T) = 6 Years
+. . PxRxT .
+simple interest = ————
+100
+=> 456 x 100 = Principal x 9.5 x 6
+— 45600
+=> Principal =———
+57
+Principal = 800
+39. An amount becomes %457 in 5 years and %574
+in 10 years at the same simple interest rate.
+Find the value (in rupees) of the sum.
+(a) 500 (b) 280
+(c) 340 (d) 420
+RRB Group-D — 06/12/2018 (Shift-ID
+Ans. (c) : Suppose Principal = = P
+land Rate = r % per years
+p4PXS*T _ 457 (i)
+100
+p4PxlOxr _ oq. (ii)
+100
+subtracting equation (ii) from equation (i)—
+e117 = PXEXS
+100
+Pxr oe
+“117 20 seeeeee(iii)
+.. from equation (i)
+457 =P +117
+-.P=457-117
+P = % 340
+Simple Interest 27
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0007_right.png =====
+40. Sushmita takes an annual rate of 7900, at 6%
+simple interest, how much amount will she
+have to returen after 4 years?
+
+(a) 2261 (b) 71161
+(c) T1116 (d) %216
+RRB NTPC 26.04.2016 Shift : 2
+7 . PxRxT
+Ans : (c) Simple interest = ————
+100
+900x6x4
+7 = 216
+100
+Amount = Simple interest + Principal
+=216 + 900 =Z1116
+
+41. Find out the principal which becomes %1000 in
+a months at 8% annual rate of simple interest?
+(a) 2781.40 (b) 981.40
+(c) %943.40 (d) %843.40
+
+RRB NTPC 28.03.2016 Shift : 3
+
+Ans : (c) Suppose Principal = &x
+.. Simple interest = (1000 — x)
+
+Xx8x9 _1999_x
+
+10012
+
+3x = 50000 —50x
+
+53x = 50000
+
+x = 30000 | 2043.40
+
+53
+
+42. Ona certain sum, simple interest for 5 years at
+an annual rate of 12% is %50 less than the
+interest on the same sum for years at an
+annual rate of 10%. Find the sum.
+
+(a) = 1,500 (b) = 1,000
+(c) = 2,000 (d) & 1,200
+RRB Group-D — 18/09/2018 (Shift-I
+Ans. (b) : Let Amount =% P
+aa According to the question,
+Px10x7 _Px12x5 _ 54
+100x2  100x2
+Px35_ Px30 =50
+100 100
+PxS_ 50
+100
+P=Z 1000
+
+43. At the rate of 8% simple interest, a amount
+becomes %924 in 6 years. What amount was
+deposited initially.
+
+(a) % 626 (b) 7650
+(c) 7600 (d) 675
+RRB Group-D — 03/10/2018 (Shift-IIT.
+Ans : (c) Rate = 8%, Time = 62 Years <2 Years
+Amount = 924
+A=P(14+ 22
+100
+y YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0008_left.png =====
+924=P (1 + 2s)
+4x100
+924=P (: + 2)
+50
+oo4a TP _, p_924x50
+50 77
+P=% 600
+
+Deposite amount (Principal) in the starting = % 600
+
+44, The difference of interest of 4 years at the rate
+of 12% per annum simple interest on a sum of
+money and 5 years interest at the rate of 9%
+per annum simple interest on the same amount
+is 412.50. What is the sum?
+
+(a) 213,900 (b) % 14,630
+(c) 214,080 (d) %13,750
+RRB Group-D — 03/12/2018 (Shift-IT)
+Ans : (d) Suppose that amount is x
+According to the question- .
+I2x4xx _9x5*X _ 419 59
+100 100
+48x — 45x = 41250
+3x = 41250
+x = 13750
+So that amount is 13750.
+
+45. A person has %2000. He gives a portion of the
+amount at 5% simple interest rate and the
+remaining amount at 4% simple interest rate.
+After one year he earns 796. What amount did
+he pay at 4% interest rate?
+
+(a) %500 (b) 7480
+(c) %400 (d) %420
+RRB Group-D — 26/10/2018 (Shift-I) |
+Ans : (c) Let amount given at 4% Interest Rate =% x
+“ Amount given on 5% = (2000-x)
+According to the question,
+xx4x1 | (2000-x)x5x1 _ 4
+100 100
+Ax, 2000x5-5x _9¢
+100 100
+x , 10000
+i00* 100°
+a4
+100
+Hence amount given at 4% interest rate = 400
+
+46. %600 was given to two persons, of which the
+first one was given at 5% annual interest rate
+and the second one at 10% annual interest rate.
+After one year, the sum of interest of both is
+%40. Find the amount given to the first person.
+(a) = 400 (b) & 420
+(c) & 380 (d) & 200
+
+RRB Group-D — 27/11/2018 (Shift-I)
+
+Simple Interest 27%
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0008_right.png =====
+Ans. (a) : Let the amount given to other person at 10%|
+interest = & x.
+Then the amount given to the first person at 5% interest
+rate = (600 — x)
+simple interest = % 40
+According to the question,
+> (x(a) +-{(600-»)< x1} =40
+100 100
+x 1
+> X+{(600-x)x} =40
+10 20
+> X+{30-%} 40
+10 20
+=> = 40-30
+20
+x=% 200
+Given amount to the first person = 600 — x
+= 600 — 200 = %400
+47. An amount invested for 2 years 9 months at the
+rate of 8% annual simple interest becomes
+2915 at the end of the period. How much was
+invested initially?
+(a) %725 (b) 700
+(c) %675 (d) 750
+RRB Group-D — 05/11/2018 (Shift-IT)
+Ans : (d) Let principal is x
+PxRxT
+Interest = ————
+100
+xx8x/t
+915—x =——_4
+100
+91500 — 100x = 22 x
+122x = 91500
+x =%750
+48. The interest received in 3.5 years on the
+amount invested at 16% simple interest rate
+per year is equal to the interest received on
+investing another amount for 5 years at 12.6%
+simple interest rate. What is the ratio of the
+two invested amounts?
+(a) 14:9 (b) 8:7
+(c) 9:8 (d) 6:5
+RRB Group-D — 11/12/2018 (Shift-I
+Ans. (c) : Simple interest = PxRxT
+elias 100
+Let first invest Amount = P,
+and second invest Amount = P,
+According to the question-
+P,x16x3.5 _ P)x12.6x5
+100 100
+P, x 163.5 =P, x12.6x5
+P, x11.2=P, «12.6
+P,_ 12.6
+P, 112
+P:P,=9:8
+3 YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0009_left.png =====
+49. When an amount was invested for 5 years, it
+yillded an amount of % 5250. If the simple
+interest was 2% more per year, the amount
+received was %5600. What was the amount of
+investment.
+
+(a) %4,000 (b) 23,750
+(c) %3,250 (d) 23,500
+RRB Group-D — 04/10/2018 (Shift-I
+
+Ans, (d)
+
+Suppose principal is %x and Interest Rate a %
+
+According to the question,
+
+{re PGePS| (ao 825} senso }
+100 100
+
+Lae 350
+
+100
+
+=> x =F 3500
+
+50. When an amount is invested for 5 years, the
+amount becomes %3640. If the rate of simple
+interest is already increased by 2% per annum,
+then this amount becomes %3920 what is the
+principal amount invested.
+
+(a) 2,560 (b) 22,690
+(c) 2,750 (d) 22,800
+RRB Group-D — 25/09/2018 (Shift-IIT
+Ans. (d) : Let rate x% and principal & y
+
+According to the question,
+
+yx(K+2)x5_ yxxx5 = 3920-3640
+100 100
+
+yx2x5_
+
+100 % 280
+y =% 2800 ’
+
+51. The simple interest for 'y' years at the rate of
+y% of a principal is y rupees. Find the
+principal.
+
+(a) 100+y (b) 100xy
+(c) 100y" (d) 100+"
+RRB NTPC 16.04.2016 Shift : 1
+
+Ans : (a) Let Principal = =P
+
+From question,
+
+Simple interest = PXRxT
+
+100
+_ Pxyxy
+¥*T00 }
+P= 100xy
+yxy
+p = 100
+y
+
+52. %x invested at 9% simple interest per annum
+for 5 years yields the same interest as that on %
+y invested at 6.25% simple interest per annum
+for 8 years. Find x: y.
+
+(a) 16:15 (b) 10:9
+(c) 45:50 (d) 5:8
+RRB ALP & Tec. (31-08-18 Shift-II)
+Simple Interest 275
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0009_right.png =====
+Ans : (b) According to the question
+5x9xx _ 8x6.25xy
+100 100
+x _ 8x6.25
+y 5x9
+_8x1.25 _ 8x125_ 8x125
+9 900 = =9x100
+x_8x5_10
+y 9x4 9
+x:y=10:9
+53. At5% simple interest per annum a certain sum
+yields a total amount of %2,790 at the end of
+34 years. The sum invested was :
+(a) % 2,350 (b) % 2,400
+(c) & 2,600 (d) = 2,550
+RRB ALP & Tec. (17-08-18 Shift-ID)
+Ans : (b) SI= PxRxT _ Px5x13 -§ p
+100 100x4 400
+According to the question,
+P+ & p = 2790
+400
+465P
+—— = 2790
+> 400
+2790x400
+=> P=——_.
+465
+=> P=6x400
+=> P=2400
+So invested amount = 72400
+54. Rahi deposited & 600 in a bank that promised
+8% simple interest per annum. If Rahi kept the
+money with the bank for 5 years, she will earn
+an interest of:
+(a) 240 (b) 2200
+(c) %280 (d) %480
+RRB ALP & Tec. (14-08-18 Shift-ID)
+Ans : (a) Given
+Principal = %600, Rate = 8%, Time =5 Years
+ao. _ PxRxT
+simple interest = ————
+100
+simple interest = 600%8%5 =%240
+100
+55. At 6% simple interest per annum a sum of
+money becames 2834 in 6 years. The sum
+initially invested was :
+(a) 7600 (b) % 626
+(c) 2675 (d) % 650
+RRB ALP & Tec. (13-08-18 Shift-I)
+Ans : (a) Given-
+Rate of simple interest = 6%
+Time = ot -B Years
+2 2
+) YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0010_left.png =====
+Simple amount =& 834
+Let investing Amount = =P
+simple interest => 834-P :
+834_-P= Px6x13
+100x2
+g34—p=22P
+100
+jor 83400=139P
+or P=%600
+56. A sum of money was invested at the rate of
+7.5% simple interest per annum for 4 years. If
+the investment was for 5 years, the interest
+earned would have been % 375 more. What was
+the initial sum invested?
+(a) %4,500 (b) %5,000
+(c) %3,750 (d) %4,750
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (b) Let principal Amount is x.
+According to the question,
+Xx7.5x5_Xx7.5x4 =375
+100 100
+{.°. simple interest = PXRxT }
+“Simp 100
+= xXx7.5x1 =375
+100
+375x100
+x=
+75
+x = 50 x 100 =%5000
+Hence invested Amount will be %5000.
+57. % x invested at 8% simple interest per annum |
+for 5 year yields the same interest as that on %
+y invested at 7.5% simple interest per annum
+for 6 years. Find x: y.
+(a) 9:8 (b) 5:6
+(c) 16:15 (d) 40:45
+RRB ALP & Tec. (21-08-18 Shift-I)
+Ans : (a)
+- - PxRxT
+simple interest = ————
+100
+According to the question,
+8xxx5_ 7.5x6xy
+100 100
+x _ 7.5x6
+aoe’
+y 8x5
+45_45_9
+a
+4 40 8
+“ xi: y=9:8
+Simple Interest 281
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0010_right.png =====
+Type -3
+58. If an amount doubles at a fixed rate in 4 years,
+then in how many years will this amount
+become 16 times at the same rate of simple
+interest?
+(a) 25 Years (b) 16 Years
+(c) 12 Years (d) 60 Years
+RRB JE - 23/05/2019 (Shift-II1)
+Ans : (d)
+-1)xT,
+T= (a. =1)xT a, [ T= Years, n= Double ]
+(a, -1)
+16-1)x4
+1 l=
+(2-1)
+=15x4= 60 Years
+59. At what rate of interest will an amount double
+itself in 30 years?
+(a) 35% (b) 3%
+© 32% @ 34%
+7” 4”
+RRB JE - 26/05/2019 (Shift-IIL
+Ans : (a) Let principal (P) =x
+Amount (A) = 2x
+Simple interest (S.1.) = 2x-x =x
+PRT
+<SL=—_
+100
+xxRx30
+xo
+100
+R= 100 _ glo,
+30 3
+60. | At what rate will a sum of money double itself
+in twelve years?
+(a) 8% (b) 85%
+() sd% (a) sty
+=% —%
+3 4
+RRB RPF SI - 12/01/2019 (Shift-I)
+Ans : (c) Let Principal = = P
+Amount = & 2P
+Rate = r % Annual
+Time = 12 Years
+Simple interest = 2P —-P == P
+2 pobre?
+100
+100 _ 25
+r=— =>
+12. 3
+r= giog
+3
+) YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0011_left.png =====
+61. In how many years will a certain sum be}
+doubled at an annual interest rate of 28.75%,
+(a) 6.00 (b) 3.47
+(c) 3.00 (d) 3.90
+RRB Group-D — 16/10/2018 (Shift-IID)
+Ans : (b) Let Amount = %P Rate = 28.75%
+Interest = =P
+PxRxT
+Interest = ————
+100
+P= Px 28.75xT
+100
+T= 10000 =3.47 Years
+2875
+62. In how much time will the amount invested will
+be tripled at the rate of 123% per annum |;
+simple interest?
+(a) 12 Years (b) 8 Years
+(c) 16 Years (d) 4 Years
+RRB Paramedical Exam — 20/07/2018 (Shift-ID)
+Ans: (c) The amount considered will triple in T years.
+from the formula,
+T = year
+n= number
+R= rate
+T- (G=-1100 _ 2x100
+3 5
+2 2
+T= 16 Years
+63. At what rate percent will an amount be
+doubled in 15 years?
+(a) 50% (b) 25%
+(c) 200, (d) 33.33%
+3
+RRB Group-D — 16/11/2018 (Shift-IIT
+Ans. (c) : Let Amount = P , Interest = 2P-P = %P
+Time = 15 Years, Rate = R% |
+. . PxRxI15
+simple interest. =—————
+100
+P= PxRx3 _p 204,
+20 3
+64. At what percentage simple interest per annum
+a certain sum will double in 10 years?
+(a) 7% (b) 8%
+(c) 9% (d) 10%
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (d) Let Principal = x , Amount = 2x
+.. simple interest = Amount — Principal
+= 2x-x=x
+xxRx10
+—— =x
+100
+Rate = 10%
+Simple Interest 281
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0011_right.png =====
+65. Asum of money (P) becomes twice in 10 years.
+How much will this amount become in 20 years
+at the same rate of simple interest?
+
+(a) P (b) 2P
+(c) 3P (d) 4P
+RRB NTPC 16.04.2016 Shift : 3
+Ans : (c) simple interest = PxRxT
+100
+According to the question, P = ao
+R=10%
+
+According to the second condition—
+
+Total amount after 20 years (P + SI)
+
+=P+ Px20x10
+100
+=P+2P=3P
+
+66. A sum of money becomes 3 times of itself in 5
+years. In how many years will this amount
+become 5 times of itself at the same rate of
+interest?
+
+(a) 5 year (b) 10 year
+(c) 9 year (d) 8 year
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (b) Let (Principal) = P, Rate = R%
+Amount = 3P
+an Interest = 2P, Time = 5 Years
+sI=- PxTxR
+100
+np —Px5xR _, 200
+100 5
+R=40%
+When S.I = 4P
+gy=PTR
+100
+PxTx40_ 4p
+100
+T=10 Years
+Type - 1
+
+67. On deposits of 75000 for 4 years and %4000 for
+5 years, a uniform annual rate of simple
+interest yields a total interest of $2400. Find the
+annual rate of interest.
+
+(a) 4% (b) 7%
+(c) 6% (d) 8%
+RRB RPF Constable — 20/01/2019 (Shift-ID)
+
+Ans : (c) «: $1=2 8%
+
+100
+According to the question
+2400 = 5000x4xR 4 4000x5xR
+100 100
+2400 = 200 R + 200R
+2400 = 400R
+R=6%
+{ YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0012_left.png =====
+68. An amount of 725000 becomes %32000 in 4
+years. Find the annual rate of interest.
+(a) 6.5% (b) 8%
+(c) 7% (d) 6%
+RRB JE - 25/05/2019 (Shift-IIT.
+Ans : (c) Given,
+simple interest = 32000 — 25000 = 7000
+. 7 PxRxT
+simple interest = ————
+100
+7000 = 25000xRx4 |
+100
+R= 7000 _ M
+1000
+
+69. On a certain amount, the compound interest
+for 2 years is 3309 and the simple interest is
+300. Find the annual rate of interest.
+
+(a) 7% (b) 6%
+(c) 9% (d) 8%
+RRB JE - 22/05/2019 (Shift-IIT.
+
+Ans : (b) Simple interest = PxRxT
+
+100
+300= PxRx2
+100
+PR = 15000....... (i)
+difference in simple interest and compound interest for
+2 years.
+RY
+vo 1(8)
+100
+309-300 = Px xR
+100 100
+9= nk (from the equation (i))
+R=6%
+
+70. If an amount is 4 times of itself in 20 years,
+
+then find the rate of simpel interest.
+1 !
+(a) 13-% (b) 10%
+3
+(c) 20% (d) 15%
+RRB JE - 24/05/2019 (Shift-I1T.
+
+[Ans : (d) 4P =P(1+ Rae)
+
+100
+4-1-8
+5
+R=15%
+
+71. The loan of 2400 is repaid by giving an
+amount of %3264 at the end of the loan term,
+the duration of the years and the rate of
+interest is statistically equal. What is the rate of
+simple interest?
+
+(a) 6% (b) 18%
+(c) 5% (d) 10%
+RRB JE - 27/05/2019 (Shift-II1)
+
+Simple Interest 28:
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0012_right.png =====
+Ans : (a) Given— Rate (R) = Time (t)
+simple interest = PxRxT
+100
+(3264-2400) = M00xR xR
+100
+864 = 24 x R?
+p86
+24
+
+R’=36
+
+R=6%
+
+72. If an amount becomes 220720 in 4 years and
+%24080 in 6 years, find the amount and the rate
+of simple interest.
+
+(a) 716000, 8% (b) 214000, 10%
+(c) 714000, 12% (d) 216000, 12%
+RRB RPF SI — 05/01/2019 (Shift-I1D}
+Ans : (c) Let that amont be P and the rate of simple
+interest is x%
+Apa Pxrxt
+100
+According to the question,
+20720-p=P%t*4 (iy
+100
+24080-P =P%X6 iy
+100
+equation (i) divided by (ii)
+20720-P _Pxrx4 100
+24080-P 100 -Pxrx6
+20720-P 2
+24080-P 3
+62160 — 3P = 48160 — 2P
+P= 14000
+putting the value P in equation (i)
+20720-14000 = 4000x1%4
+100
+
+6720 = 560 r
+
+r= 12%
+
+73. An amount at the same rate of simple interest
+becomes %9800 in 5 years and %12005 in 8 years
+what is the rate of interest?
+
+(a) 12% (b) 15%
+(c) 8% (d) 5%
+RRB JE - 31/05/2019 (Shift-I
+
+Ans : (a) According to the question,
+
+interest of three years
+
+= amount of 8 Years— amount of 5 years
+= 12005-9800 = 2205
+interest of one year = ae =735
+15 = {9800 —(735x5)} x Rate x1
+100
+
+73500 = (9800 — 3675 )x R
+
+73500 = 6125 xR
+
+R=12%
+
+J YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0013_left.png =====
+74. The amount of 7800 2956 in 3 years at a fixed
+rate of simple interest. Find the rate?
+(a) 8.2% (b) 8%
+(c) 7.5% (d) 6.5%
+RRB JE - 31/05/2019 (Shift-IIT.
+Ans. (d) Principal = %800, Time = 3 Years, Rate =||'
+ir % (Let)
+Amount = %956
+simple interest = 956 — 800 = 7156
+=> — 156=800x—x3
+100
+> r= 156 => r= 6.5% annual
+24
+
+75. Vimal that %5000 to Kamal for 2 years and to
+sumal %3000 for 4 years at simple interest at
+same interest rate and received %2200 as
+interest from both calculate interest rate per
+year.
+
+(a) 13% (b) 15%
+(c) 23% (d) 10%
+RRB Group-D — 10/10/2018 (Shift-II1)
+
+Ans : (d) both interest = % 2200
+
+5000x2xR 43000x4xR =2200
+100 100
+100R + 120 R= 2200
+220 R = 2200
+R=10%
+
+76. Find the simple interest rate at which a sum of
+money becomes five times the rate of simple
+interest in 10 years.
+
+(a) 40% (b) 35%
+(c) 25% (d) 50%
+RRB NTPC 18.04.2016 Shift : 2
+
+Ans : (a) Time = 10 Years
+
+Let Principal = %x '
+a Amount = 5x
+Interest = 5x—x = 4x
+Rate = R%
+. . PTR
+simple interest = ——
+100
+4x =2% 10xR
+100
+R=40%
+
+77. Anju invested same money in a scheme for 3
+years at a simple interest rate of 12% per
+annum. In addition he invested three times in
+the second scheme for 2 years. If he has earned
+the same simple interest from both the |:
+schemes, what is the normal interest rate of the
+second scheme.
+
+(a) 12% per year (b) 18% per year
+(c) 6% per year (d) 9% per year
+RRB Group-D — 27/09/2018 (Shift-III)
+Simple Interest 28.
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0013_right.png =====
+Ans : (c) According to the question,
+Px12x3_3Px2xR
+100 100
+12x3 = 3x2xR
+R= 6% per years
+
+78. In investement of 775 for 6 years yields 7372
+as interest. What is the annual rate of simple
+interest?
+
+(a) 7% (b) 8%
+(c) 9% (d) 7.5%
+RRB Group-D — 16/10/2018 (Shift-IIL.
+
+Ans : (b) Given- Principal = %775
+
+Interest = 8372
+
+Time = 6 Years
+PxRxT
+
+Interest = ————
+
+100
+
+372= TISxRx6
+100
+
+200 _
+
+71S
+
+R= 8%
+
+so annual rate of simple interest will be 8%
+
+79. Mani deposits 712500 in a bank and it becomes
+15500 in 6 years at the rate of simple interest
+what is the rate of interest?
+
+(a) 4% (b) 5%
+(c) 3% (d) 6%
+RRB Group-D — 11/10/2018 (Shift-ID
+
+Ans : (a) SI. = PRT
+
+100
+S.I. = 15,500 — 12,500
+S.I. =%3000
+3000 = 12500xRx6
+100
+R=4%
+
+80. An investment of %1125 for three months yields
+an interest of %27. Annual rate of simple
+interest will be:—
+
+(a) 7.2% (b) 12%
+(c) 9.6% (d) 2.4%
+RRB Group-D — 22/09/2018 (Shift-I
+
+Ans : (c) Principal = 1,125
+
+Time = 3 months 4 3/12 Years
+
+Interest = % 27
+Rate = ?
+Rate = interest x100
+principal x time
+27x100 _ 0 go,
+1125x3/12 aie
+
+81. The money invested for 6 years yields %852
+interest on 71775. What is the rate of simple
+interest per annum?
+
+(a) 8% (b) 9%
+(c) 7% (d) 7.5%
+RRB Group-D — 03/12/2018 (Shift-II1)
+
+3 YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0014_left.png =====
+Ans. (a) :
+. . PxRxT
+simple interest = ————
+100
+952= 1775xRx6
+100
+R= 85200 _ 8%
+10650
+
+82. If the value of a bill of %600 becomes 2660 in
+two years. What is the rate of simple interest
+per annum?
+
+(a) 10% (b) 4%
+(©) 6% (d) 5%
+RRB Group-D — 12/11/2018 (Shift-I)
+
+Ans. (d) : simple interest = 660 — 600 == 60
+
+simple interest = PxRxT
+100
+60= 600 x Rate x 2
+100
+Rate = 60x 100
+600x2
+Rate = 5%
+
+83. Simple interest on a fixed amount is 1/36 of the
+principal. If the rate of interest and number of
+years are equal then what is the rate of
+interest?
+
+6, 5
+—% b) =%
+(a) 19° (b) 37°
+10, 10
+=% d) —%
+© 7% @ 5%
+RRB Group-D — 12/11/2018 (Shift-IIl)
+Ans : (b) Let Principal = % P
+‘ - P
+.. simple interest =—
+36
+Let Time =n Years
+-, Rate =n %
+simple interest = pat22
+P 100
+P_Pxnxn
+36 100
+2_ 100 25
+ws—=>
+369
+5
+n=— Years
+3
+-. Rate = 3 %
+3
+
+84. An investment of 71080 for 3 months yielded
+27 as interest. The annual simple interest rate
+was:
+
+Simple Interest 28:
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0014_right.png =====
+(a) 7.5% (b) 5%
+(c) 2.5% (d) 10%
+RRB Group-D — 11/10/2018 (Shift-I)
+
+Ans : (d) Given-
+
+Principal = % 1080, Time = 3 months = Sf Years
+
+Interest = 27
+Rate =?
+Simple interest = PxRxT
+P 100
+w= 1080xrx1
+100x4
+r=10%
+
+85. %875 invested for 3 months earns %21 as
+interest what was the rate of simple interest per
+year?
+
+(a) 12% (b) 2.4%
+(c) 7.2% (d) 9.6%
+RRB Group-D — 01/10/2018 (Shift-I)
+
+Ans. (d) : Given,
+
+Interest = € 21,
+
+Principal =& 875,
+
+Time = 3 ‘Years
+
+12
+
+. + PxRxT
+simple interest = ————
+
+100
+u1- 875 x Rate x3
+100 x12
+Rate = 21%100%4 _ 9 60,
+875
+
+86. The simple interest is the 9/16" part of 'P' at a
+certain amount of 'P' and 'R'% per annum. If
+'R' is equal to the number of years (N) then
+find the value of N.
+
+(a) 85 (b) 7
+(c) 7.5 (d) 6
+RRB NTPC 17.01.2017 Shift-2
+Ans : (c) Given—
+R=N
+2p-FRT s1=P8t
+16 100 100
+= 2 p_PXNXN
+16 100
+2
+=n? =2-x100 -(2
+16 4
+=>N=75
+7 YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0015_left.png =====
+87. The maturity value after 3 years and 5 years at
+the same rate of simple interest as a fixed sum
+of money is 38255 and %9425 respectively. Find
+the annual rate of interest.
+
+(a) 9% (b) 8%
+(c) ™% (d) 6%
+RRB NTPC 31.03.2016 Shift : 1
+
+Ans : (a) Simple interest of 2 years = 9425 — 8255
+
+=%1170
+
+Simple interest of 3 years = wes =1755
+
+«. Principal = 8255 — 1755 =%6500
+o SL= PRT
+100
+1755 = 6500xRx3 R= 1755 =9%
+100 65x3
+
+88. Simple interest at the rate of 12% is added to
+the principal at the end of every six months.
+Then what will be the annual effective rate of
+interest?
+
+(a) 12.34% (b) 12.26%
+(c) 12.38% (d) 12.36%
+RRB NTPC 30.03.2016 Shift : 2
+
+Ans ;: (d) Let Principal = 7100
+
+-. Interest in last six months = 100x126 _ 6
+100x12
+.. Principal for next six months = 100 + 6 =%106
+Interest = es 6.36
+100x12
+«Annual rate of effective Interest = 6+6.36 = 12.36% ||’
+
+89. Ram lent 26,000 to Shiva for 3 years and %8,000
+to Krishna for 5 years at the same rate of
+simple interest per annum. He got total interest
+of Rs. 5,220 from both. Find the rate of interest
+per annum.
+
+(a) 6% (b) 7%
+(c) 8% (@) 9%
+RRB NTPC 29.03.2016 Shift : 3
+
+Ans : (d) Let annual rate of interest = R%
+
+7 6000xR x3 + 8000xRx5 _ 5220
+100 100
+180 R + 400R = 5220
+580 R = 5220
+R= 5220 =9%
+580
+
+90. The simple interest at the amount of %8500
+deposided for 3 years is 72040. Find the annual
+rate of interest.
+
+Simple Interest 28:
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0015_right.png =====
+(a) 8% (b) 8.5%
+(c) 9% (d) 7.5%
+RRB NTPC 18.01.2017 Shift : 1
+
+Ans : (a)
+
+sI= PxRxT
+100
+2040 = 8500xR x3
+100
+2040 =85 xR x3
+R= 2040 _ gy,
+85x3
+
+91. The simple interest for 2 years 8 months on
+27800 is T1976. Find the annual rate of interest.
+(a) 8.5% (b) 9%
+
+(c) 9.5% (d) 10%
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (c) Principal = 77800
+Time- 2Years 8 months=(2+-5) Years -; Years
+Rate = ?
+simple interest = 1976
+SL- PxTxR
+100
+7800xR x8
+1976 = —~__——
+300
+1976x300 _ R
+78008
+R=2-9.5%
+
+52. The numerical value of the percentage and
+time of the given rate of interest are equal and
+the simple interest on an amount is 9/16 of the
+principal. Find the rate of simple interest.
+
+(a) 9/2% (b) 11%
+(c) 15/2% (d) 12%
+RRB NTPC 22.04.2016 Shift : 3
+
+Ans : (c) Simple interest = Principal a
+
+Simpleinterest 9
+Principal 16
+R=N
+©. Interest & Rate (R) = 100%
+16xR
+R= 900
+16
+R=, {208 _ 30 _ 159,
+16 4 2
+5 YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0016_left.png =====
+93. If the interest earned over a period of 8 years is
+equal to the principal, what is the rate of
+simple interest applied?
+
+(a) 8 (b) 10.5
+(c) 12 (d) 125
+RRB NTPC 29.04.2016 Shift : 1 ||
+Ans : (d) Time (T) = 8 Years
+Rate (R) =?
+Principal (P) = Simple interest (SI)
+P=SI
+. gi =PIR
+100
+. pe Px8xR
+100
+i R= Px100
+Px8
+> R=12.5%
+
+94. %750 invested for 3 months gave an interest of
+= 18. What was the simple rate of interest per
+annum?
+
+(a) 24% (b) 9.6%
+(c) 7.2% (d) 12%
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (b) simple interest = PxRxT .
+100
+750%R x2
+1g=——_2
+100
+18 x 100 =750%R x
+18x100x4 _ R
+750
+R= 18x2x4 _ 48
+15 5
+R= 9.6% per years
+Type -5
+
+95. In how much time will an amount double if
+
+invested at a simple annual rate of 12.5%.
+
+(a) 6 years (b) 7 years
+
+(c) 9 years (d) 8 years
+
+RRB RPF SI — 16/01/2019 (Shift-I)
+Ans : (d) Let invested Amount = %x
+Amount = Principal | 1 + Rate xTime
+100
+=> 2x=x 14 225xt
+100
+
+Simple Interest 281
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0016_right.png =====
+2-14 125xt
+1000
+>l1= L
+8
+Time (t) = 8 Years
+56. If an amount becomes 4 times in 7 years. In
+what time will this amount become 16 times at
+the same rate of simple interest?
+(a) 25 years (b) 28 years
+(c) 20 years (d) 35 years
+RRB JE - 27/06/2019 (Shift-III)
+Ans : (d) Let Principal = P
+Amount = 4P
+Interest = 4P — P = 3P
+Time = 7 Years
+Rate of Interest = ee
+Time x Principal
+3Px100 _ 300,
+TxP 7
+Time when the amount is 16 times = ASP x100
+300
+—xP
+7
+_ 15x100x7 =35 Years
+300
+57. If the simple interest is 12.5% more than the
+principal and (n) the number of years. n and
+the rate (r) is numerically in a ratio of 2:1 then
+find the value of n and r.
+(a) n=12,r=6%
+1
+(b) n=15,r= 13%
+(c) n=20,=10%
+(d) n= 14,r=7%
+RRB JE - 24/05/2019 (Shift-I)
+Ans : (b) Let Principal = % P
+Time = 2x Years, Rate = x%
+.. Simple interest = 125 Vp
+100
+Simple interest = EXExT
+100
+112.5 Px2xxx
+ee yp = Mee
+100 100
+112.5 = 2x?
+x = 56.25
+x=7.5= 7a
+2
+Hence Rate 75% and Time (n) = IxT5=15 Years
+p YCT
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0017_left.png =====
+98. If a loan increases 3 times in 6 years at simple
+interest, then how much time will it take to get
+8 times.
+(a) 15 Years (b) 22 Years
+(c) 20 Years (d) 21 Years
+RRB JE - 29/05/2019 (Shift-I1)
+Ans : (d) Let Principal is = x
+-. amount =% 3x
+According to first condition,
+simple interest = 3x — x =% 2x
+. . PxRxT
+simple interest = ————
+100
+ax = X* Rx6
+100
+p= 1g
+3
+According to second condition,
+simple interest = 7x = XxRxn
+100
+1= 100/3xn
+100
+n=21 Years
+99. Raghu has invested 71000 and received 71300
+after x years at a simple interest rate of 6% per
+annum. Find the value of x?
+(a) 2 Years (b) 5Years
+(c) 3Years (d) 4Years
+RRB Group-D — 27/09/2018 (Shift-I
+Ans. (b) Interest = 1300 — 1000 =% 300
+Interest = PxRxT
+100
+300= 1000x6xx
+100
+x=5 Years
+100. In what time will simple interest of 2390
+yielded at 5% rate at 71800 per annum.
+(a) 5 years 3 months
+(b) 5 years 4 months
+(c) 4 years 4 months
+(d) 4 years 2 months
+RRB Group-D — 16/10/2018 (Shift-II)
+Ans : (c) Principal = 21,800
+Rate =5%
+simple interest = 7390
+. . PxRxT
+simple interest = ————
+100
+300 = 1800 x5 x time
+100
+Time =38 = 26 =B Years
+18 6 3
+Time =45 Years or 4 year 4 months
+Simple Interest 28’
+
+
+===== Part 14 — Simple Interest (pp. 271–287)_page-0017_right.png =====
+101. Simple interest on a fixed amount is 9/4 of the
+principal amount. If the number of years and
+the rate of interest are the same, then for what
+period the amount was deposited?
+
+(a) 12 years (b) 5.5 years
+(c) 15 years (d) 7.5 years
+RRB Group-D — 26/10/2018 (Shift-II1)
+. . PxRxT
+Ans: le interest = ————
+ns : (¢) simple interes' Too
+According to the question, Rate = Time
+9P _ Pxtimex time
+4 100
+
+a“ =Time x Time
+
+Time = 9x25 =15 Years
+
+102. In how much time simple interest will be 7400
+on %4000 (principal) at 6% per annum.
+
+(a) 20 months (b) 22 months
+(c) 14 months (d) 18 months
+RRB NTPC 18.01.2017 Shift : 2
+Ans : (a) simple interest = pas 228
+100
+4000x6xt
+400 = ——_—_
+100
+Time = 40000 _ 10 cars = 10, 12= 20 months
+4000x6 6 6
+
+103. In how much time a sum of money will become
+7/6 of itself at the rate of 25% simple interest?
+(a) 6 months (b) 8 months
+(c) 9 months (d) 10 months
+
+RRB NTPC 18.04.2016 Shift : 3
+
+Ans : (b) Let Principal is x and amount is %.
+
+Then According to the question,
+
+my _ xx25x Time
+6 100
+x _ xx 25x Time
+>---eees
+6 100
+=> Time= 4 Years = ox2 months = 8 months
+
+104. At what time will the simple interest of 78750
+becomes 6/25 of the principal at an annual rate
+of 8%?
+
+(a) 3 years (b) 4 years
+(c) 2 years Years (d) 5 years
+RRB NTPC 28.03.2016 Shift : 2
+Ans :(a) From Question—
+Simple Interest = 8150%5- = 2100
+8750xnx8 _, 100
+100
+n= 210000
+© 8750x8
+n=3 years
+y YCT

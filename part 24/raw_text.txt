@@ -1,0 +1,2751 @@
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0001_left.png =====
+24.
+os
+Type -4
+1. If tan A + cot A = 2, then find the value of
+tan’A + cot” A
+(a) 4 (b) 2
+() 1 qd) 1/2
+RRB RPF Constable — 22/01/2019 (Shift-I)
+Ans: (b) Given, tan A+ cot A=2
+Square of both sides
+(tan A + cot AY =4
+tan’ A + cot’A + 2tan A cot A=4
+tar’ At+cotA+2x1=4 = ("tanAcotA=1)
+tan’ A + cot? A=4-2=2
+2. If cos’ x + sin x = 5/4, then find the value 'sin x'
+(a) 3/4 (b) 1/2
+() -1/2 (d) 3/2
+RRB JE - 24/05/2019 (Shift-I)
+Ans : (b)
+2S
+“2 cos’ x +sin x =—
+4
+1-sin? x +sinx _
+4
+sin? x—sinx+1=0 )
+4
+2 1 1
+sin’ x-2x—xsinx+—=0
+2 4
+2
+(si x- 3) =0
+2
+sinx — a =0
+2
+. 1
+sinx =—
+2
+3. If cosecO — sin6 = P and sec@ — cos@ = q, then
+which of the following is correct?
+2 2
+(@) (p’q)? - (pa? =1
+1
+b) sinOsecO = —
+(b) _ sint P
+. 1
+(c) sin@tand = —
+q
+2 2
+(4) (p’q)? +(pq?)? =1
+RRB RPF SI — 16/01/2019 (Shift-Il)
+Trigonometry 51
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0001_right.png =====
+Trigonometry
+———————————————————————
+Ans. (d) Given—
+
+cosecO — sind = p secO — cos0 = q
+1 : 1
+“ ——-sin0= ——-cos0=
+sin® sinveP cos® cose
+1-sin? 0 _ 1-cos? 0 _
+sin® 7 cos® 4
+cos’ 0 = psin® sin’@ = q cos0
+p= cos8 q=si08
+sin cos®
+2g = £08'0, sin’ 0
+Pa sin? 0” cos®
+p’q=cos’ 0
+i
+(p*a)’ =cos0
+2
+(p*a)’ = cos? @....(i)
+Similar
+2
+(ap)? = sin’ @.....(ii)
+Adding equation (i) equation (ii)
+2 2
+(p’q)’ +(pq?)? =1 (-- sin’0+c0s"0 = 1)
+4, If sec0 + tan@ = 12.5, then sec@- tan =?
+(a) 1 (b) 0.08
+(c) 0.8 (d@) 04
+RRB RPF Constable — 19/01/2019 (Shift-II
+Ans. (b) : sec0+ tan@ =12.5
+Multiplying to (sec@—tan@) in both sides
+Sec*@— tan’@ = 12.5(sec @— tan) (-sec*— tan? @ = 1)
+1=12.5(sec® — tan0)
+or, sec@—tan@ = a=
+12.5
+Sec 6 — tan® = 0.08
+5. If sec’@ — sec’6 = 3, then tan*6 + tan’0 = ?
+(a) 2 (b) 0
+(©) 3 @ 1
+RRB Group-D — 08/10/2018 (Shift-II1)
+Ans: (c) If Sec’@ - Sec’@ =3
+Sec*@(Sec@-1)=3 [+ sec?0~ tan’0 = 1]
+(tan?0 +1) tan? 0 =3
+tan‘0 + tan? 0 =3
+So
+7 YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0002_left.png =====
+6. If cot*O+cot?O = 2.2, then cosec*d — cosec’O = ?
+(a) 0 (b) 11
+(c) 2.2 (d) 3.3
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (c) cot*@ + cot?@ = 2.2
+cote (cot’® + 1) =2.2
+(cosec”0 — 1) (cosec’@ — 1 + 1)=2.2
+(cosec’@ -1) (cosec’®) =22
+cosec’® — cosec’@ = 2.2
+7. If (tan6 + cot@) = 5, then find the value of
+(tan’6 + cot’)?
+(a) 23 (b) 27
+(c) 25 (d) 21
+RRB Group-D — 08/10/2018 (Shift-II)
+Ans : (a) tan + cot =5 nonna=====-(i)
+Square of both sides
+tan*0+cot’6+2tan0.cot0=25 —_[tan0.cot0=1]
+tan’0+cot’0 = 25-2 = 23
+8. If secO + tan6 = 3.2, then what is sec0?
+(a) 2.28 (b) 16
+(c) 1.75625 (d) 1.92625
+RRB Group-D — 30/10/2018 (Shift-I
+32 16.
+Ans: 0+tan@ =3.2=—=—.....
+ns : (c) secO+tan 107 5 (i)
+multiplying to (sec @ — tan 6) of equation (i) in both
+sides.
+(sec® + tan®) (sec@ — tan0) = & (sec@ — tan0)
+o [sec’@ — tan’@ = 1]
+sec@—tan0 = =i)
+from equation (i) + (ii)
+2secO =16, 5 = 281, 2secO = 3.5125
+5 16 80
+secQ= 2528 = 1.75625
+9. If sin®-cos@=0, than what is the value of
+sin‘® + cos‘0 +tan‘0
+5 3 7
+= b) = = d) 2
+(a) 4 (b) 2 (©) 4 (d)
+RRB Group-D — 17/09/2018 (Shift-I1T.
+Ans. (b) : sin0-cos?=0 then sin‘6+cos‘@+tan‘o
+value will be-
+sin@—cos@=0
+sin 8 = cos 8
+* 6 = 45° on sin 8 = cos 0
+0 = 45° putting
+sin‘ ® + cos*@ + tan’
+= sin‘ (45°) + cos* (45°) + tan* (45°)
+LY (1 ays
+=|—|]| +|/ =] +(1
+(3) a) 0
+at yt yy 24 eb 41 3
+4 4 4 2 2
+Trigonometry 51
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0002_right.png =====
+10. If cot*0+cot”0 = 3.6, then cosec*@-cosec”0 =?
+(a) 0.6 (b) 3.6
+(c) 2.4 (d) 1.8
+RRB Group-D — 17/09/2018 (Shift-I11)
+Ans. (b) : cot’ 0 + cot” 0 = 3.6
+cot” 6 (1 + cot” 0) = 3.6
+cosec”@ -cot?@ =1
+cosec’@ =1+cot’O
+cosec?@ - 1 =cot”0
+cot?@. cosec?@ = 3.6 }......(i)
+(cosec?0 -1). cosec” 0 = 3.6
+cosec® — cosec’® = 3.6
+11. If cosx+sinx = 2cosx , then what is the value
+of cot x ?
+@ v2 () 1
+© v2+1 @) 2-1
+RRB Group-D — 25/09/2018 (Shift-I.
+Ans: (c)
+cosx + sinx = V2 cosx
+sinx divide from sinx,
+cotx +1= V2 cotx
+V2cotx —cotx =1
+cot x (v2 - 1) =1
+cot x = t
+v2-1
+or
+(V2 +1)
+cot x = ——___—_
+(v2 -1)(v2+1)
+v2+1
+cotx = ——_
+2-1
+cotx = V2 +1
+12. Ifsec @ + tan 6 = 1.25, then sec6 — tanO = ?
+(a) 1 (b) 0.80
+(c) 0.75 (d) 0.25
+RRB Group-D — 26/09/2018 (Shift-II1)
+Ans: (b) sec@+tan@=1.25= BS
+100
+(sec@ + tan @)(secO—tanO) _ 125
+(sec @—tan 0) 100
+2 9 —tan?
+sec’ O=tan’ 9 _ 125 {sec? @-tan? 6 =1}
+(secO-tan@) 100
+Ls
+(sec@—tan@) 100
+secO—tan@ = 100
+125
+secO—tan@ = 0.80
+5 YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0003_left.png =====
+13. If tan‘@ + tan’@ = 11, then sec’@ - sec’*@ =?
+(a) 12 (b) 11
+(©) 13 (d) 10
+RRB Group-D — 27/09/2018 (Shift-I11)
+Ans : (b) -- tan’@ + tan’ = 11
+<. tan’@ (1 + tan’@) = 11
+tan’0. sec’@ = 11
+(sec’0 -l) sec’@ =11 {elt tan?0 = sec’0}
+sec’ — sec?@ = 11
+14. If cot’@ + cot’@ = 4, then what is the value of
+cosec‘6 — cosec’® =?
+(a) 4 (b) 0
+(©) 2 (d) 3
+RRB Group-D — 04/10/2018 (Shift-IT
+Ans: (a) cot’0+ cot? =4
+(cosec”0-1)° + cosec”0-1 = 4
+cosec’O+1 2 cosec"@ + cosec’® 1=4
+cosec*®— cosec’@ = 4
+15. If secO + tan6 = 8, then sec@ — tan6 = ?
+(a) 0.5 (b) 0.625
+(c) 0.125 (d) 08
+RRB Group-D — 05/12/2018 (Shift-IT)
+Ans. (c) Given- secO + tan0=8 __......(i)
+Multipling to (secO — tan®) of equation (i) in both|
+sides—
+(secO + tan®) (secO — tan) = 8(sec6-tan0)
+oO (sec*@ — tan’0 = 1)
+(sec@ — tanO) = ;
+(sec@ — tanO) = 0.125
+16. If tana = 3-2-2 , then what is the value of
+tana — cota, ?
+(a) -4 (b) 3+2V2
+() -4V2 (a) -8V2
+RRB Paramedical Exam — 20/07/2018 (Shift-IT
+Ans. (c) tana = 3 - 22 Ai)
+then, tana-—cota =?
+= tana — t (i) from equation
+tana
+1
+= (3-2V2)-——~
+( ) 3-22
+34+2V2
+= (3-2v2 jen?) )
+(3-2V2)(3+2V2)
+3+2V2)
+= (3-2V2)- (+22)
+0-22)
+3422
+= (3 - 2y2) b+)
+=3-2¥2-3-2V2
+=-4V2
+Trigonometry Si
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0003_right.png =====
+17. If secO + tan 0 = 6, then secO = ?
+1 1 1
+3— b) 3= 3 d) 3
+@ 35 3 © @) 35
+RRB Group-D — 28/11/2018 (Shift-I
+Ans: (a) secO + tan @=6 then secO =?
+wt sec’@ — tan’@ = 1
+ve (sec@—tan8) (sec + tan®) = 1
+oo secO—tano=——!_
+secO + tanO
+1
+oo sec@—tan0 =—...(i
+6 (i)
+sec0+ tanO = 6...(ii)
+Adding of equation (i) and (ii)
+1 -
+secO—tan0=—......(i
+6 (i)
+sec + tan 6 =6......(ii)
+2secO = i +6
+6
+2sec® = 37
+6
+sec = 37 = 3h
+12 12
+18. If secO + tanO = 2.5, then what is the value of
+secO — tan =?
+(a) 1 (b) 0.4 (c) 08 (d) 0.6
+RRB Group-D — 02/11/2018 (Shift-I.
+Ans. (b) secO + tanO = 2.5
+Multipling to (secO — tan®) in both sides
+(secO + tanO) (sec® — tan®) = 2.5(secO — tan®)
+sec’O — tan’0 = 2.5 (sec — tan)
+o J. secO — tan®
+2.5
+sec — tan@ = Ed
+25
+19. If cos@ + sin6 = m, sec6 + cosec6 = n, then what
+is the value of m/n?
+(a) 1 (b)_ sin @ cos
+(c) sec @ cosec 0 (d) cot 0 tan@
+RRB NTPC 03.04.2016 Shift : 1
+Ans : (b) cos0 + sin@=m............(i)
+and sec 8 + cosec 9=n
+1 1
+——+——=n
+cos@ sind
+sin@+cos@
+> ————=n
+cos@sind
+> — =n [sin0+cos0 = m from equation (i)]
+cos@sin@
+=> ™ =sindcosd
+n
+J YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0004_left.png =====
+20. If secO—tanO =} » then what is the value of
+secO+tan0?
+@ 1 (9 © 3 @ 19
+RRB NTPC 28.03.2016 Shift : 2
+Ans : (c) sce0—tan0 = ;
++: sec’@—tan’@ = 1
+\(sec® — tan®) (sec@ + tan) = 1
+; (secO + tan0) = 1
+secO + tanO = 3
+21. — If 4sin6 — 3cos6 = 0, then secOcosecO = ?
+(a) 5/12 (b) 25/12
+(©) 13/12 (d) 12/5
+RRB NTPC 29.04.2016 Shift : 2
+Ans : (b) Given— A
+4sinO — 3 cos0 = 0
+4 sin® = 3cos0 3
+sin@ _ 3
+cos8 4 al 4 fa
+tanO = 3 _ Perpendicular
+4 base
+from the Pythagoras theorem-
+(hypotenuse) = (Perpendicular)’ + (base)
+(AC) = 3? +4? =9 + 16 =25
+AC (hypotenuse) = /25 =5 |
+Then, —_sec0. cosecO = hypotenuse x _hypotenuse_
+base perpendicular
+5.5
+=oxt
+4 3
+secO. cosecO = 25
+12
+22, 1fsinx +cos x= V2sin x , then the value of tan x is:
+(a) V2+1 (b) 1
+(©) Vv2-1 (a) v2
+RRB ALP & Tec. (21-08-18 Shift-ID)
+Ans : (a) sinx + cosx = V2sinx
+divide by cosx in both sides
+sinx 4 S08 _ y2sinx
+cosx COSX cosx
+tanx +1=V2 tanx
+1 =¥2 tan x -tanx
+1=tanx (v2 - 1)
+tanx = a
+¥2-1
+tanx=—24! a
+(/2-DW2 +1
+Trigonometry i
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0004_right.png =====
+23. Ifsec 6+ tan 6 = 4, sec 6 — tan 0 =?
+(a) 1 (b) 0.75
+(c) 0.25 (d) 0.5
+RRB ALP & Tec. (13-08-18 Shift-ID)
+Ans : (c) Given that,
+(sec 8 + tanO )=4
+=> (sec@ — tan) (sec + tan 0) = 4(secO — tan@)
+> (sec? @-tan? (2) = 4(sec@ - tan 0)
+> 1= 4(sec0-tan@)
+=>  (secO-tan@) =1/4
+=> __(secO—tanO) = 0.25
+24. If cosec 6 + cot 6 = 2, then cot @=?
+(a) 0 (b) 1
+(c) 0.75 (d) 0.5
+RRB ALP & Tee. (10-08-18 Shift-I
+Ans: (c) given- (cosecO + cot0 = 2)
+and cosec@ + cot = 2 ssaveres (1)
+cosec’0—cot?0@=1 (from formula)
+*: (cosec @ + cot 8) (cosec 6 — cot 0) =1
+(2) (cosec6 — tot0) = 1
+“. cosec@ — cot = ; . (ii)
+Subtracting equation (ii) from (i)
+2cot® = 2-4 =1.50
+ae cot = 139 0,75
+2
+Type - 2
+25. What is the value of Vcot”@-cos’0
+(a) 1 (b) cot@cosecd
+(c) cot@cos@ (d) cos@cosecO
+RRB JE - 23/05/2019 (Shift-I
+Ans: (c)
+2
+Vcot” @-cos’ 0 =, eos caste
+sin’
+__ [cos? 0—sin? cos” @
+sin’ 0
+cos’ @(1—sin?@
+= cos’ 0(1-sin’ 8) = cot? 6.(1-sin? 6) =cot0. cos0
+sin’ 0
+26. | What is the value of cos’ A - sin" A
+(a) cos2A (b) sin’A + cos?A
+(c) 0 (d) 2
+RRB JE - 23/05/2019 (Shift-I
+Ans: (a) cos’A ~ sin’A = (cos A)" — (sin"A)”
+=(cos“A + sin"A) (cosA — sin’A)
+=cos’A-sin’A {- cos’ A+sin? A= 1}
+= cos2A
+27. What is the value of (1- cos” 0)(cot. 0+ 1) -1
+(a) 0 (b) sec” 0
+(©) 2 (d) -2
+RRB JE - 23/05/2019 (Shift-I)
+] YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0005_left.png =====
+Ans : (a) (1-cos’@) (cot?0+1)— 1 .
+{ 1 —cos’@ = sin°0
+1 + cot’® = cosec*0}
+= sin’@ x cosec” @-1=1-1=0
+28. Simplify : cos 0/(1 + sin 0)
+(a) cosec @ +cot® (b) sec@ -tan@
+(c) cosec 6 - cot 6 (d) sec@ +tanO
+RRB RPF Constable - 18/01/2019 (Shift-II1
+Ans: (by C252
+1+sin0
+Multiplying to (1 — sin @) in denominator and numerator] |.
+(1-sin0)xcos0
+=+——_— = (sec 0- tan®)
+cos’ 8
+29. Find the value of '6'
+cos® cosO 2
+1-sin@ 1+sin®
+(a) 45 (b) 90°
+(c) 30° (d) 60°
+RRB JE - 23/05/2019 (Shift-IL.
+Ans : (a) 0080 0080 =2
+1-sin@ 1+sin0
+= cos @(1+sin @)—cos(1-sin®) _ 2
+(1-sin? 6)
+cos0+cos0.sin @—cos®+cos@.sin@
+2 DTT
+cos’ @ .
+— 2¢088.sin® _, [os tan4s° = 1]
+cos’ @
+=> tanO = 1 = tan45°
+=> 0=45°
+30. If x=rsin A cos B, y =r sin A sin B and z=r
+cos A, then find the value of x” + y? +z”
+(a) (cos? B+cos? A) (b) 2°
+(c) 327° dd)
+RRB JE - 24/05/2019 (Shift-IT
+Ans: (d)x=rsin AcosB
+y=rsinA sinB
+z=rcos A
+x? + y> +z” =(r sinA cosB)’+ (r sinA sinB)’+ (r cosA)*
+=r sin’A cos’B +r’ sin’A sin’B +r cos’A
+=r sin’A (cos’B + sin’B) +r cos’A
+=r sin-A +r cos’A [sin’B + cos*B=1]
+=r (sin’A + cos"A) =r
+31. Simplify: sin (A+B) sin (A-B)
+(a) sin’ A - sin’?B (b) sin? A+ sin? B
+(c) cos 2A (d)_ cos? A - cos’ B
+RRB JE - 24/05/2019 (Shift-IIT.
+Ans : (a) sin (A+B) sin (A—-B)
+formula (a+b) (a—b)=a’—b?
+\(sinA.cosB + cosA.sinB) (sinA.cosB — cosA.sinB)
+(sinA.cosB)” - (cosA.sinB)?
+sin’A.cos’B — sin’B.cos’A
+sin?A(1-sin’B) — sin’B (-sin’A)
+sin"A — sin’A.sin’B -sin’B + sin°A.sin’B
+Trigonometry Si
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0005_right.png =====
+32. Simplify: cos 0 (1 — tan 0) + sin 0 (1 — cot 0)
+(a) sin® +cos® (b) sin® —cos 0
+(c) 0 (d) tan@ +cot6
+RRB JE - 27/05/2019 (Shift-I
+Ans: (c) cos 6 (1 — tan @) + sin 6 (1 — cot 6)
+sin® - cos®
+= cos0(I ~ 08) +sino( - 2)
+= cosd—cos 059 4 sin sin 29S
+cos® sin®
+= cos0 — sin® + sind—cos0 =0
+33. If x=asec@+b tan @ and y =a tan @ + b sec
+6, then find the value of x’ — y
+(a) a? +b? (b) Va?+b?
+(c) atb (d) a’-b?
+RRB RPF SI - 12/01/2019 (Shift-ID)
+Ans: (d)
+x =asecO+b tanO and y=a tan +b sec ®
+x-y=?
+x’— y’ =(a sec + b tan0)’ — (a tan 0 + b sec)”
+= a’ sec’® + b tan’0 + 2ab secO tanO — a” tan’0 -
+b’sec’@ — 2ab sec tan 0
+=a? sec’@ + b” tan’0 — a” tan’0 — b” sec’0
+= a’ (sec’O — tan’0) — b” (sec”0-tan’0)
+x°— y” = (a*-b’) (sec’0-tan’0)
+xy =a’-b* {sec’@ — tan’0 = 1
+34. Simplify:
+sin 9 -2sin’ 0
+2cos’ O-cosO
+(a) tan® (b) sin@ —cos@
+(c) 2sin6 cos 6 (d) sin®@ +cos 0
+RRB JE - 31/05/2019 (Shift-I
+Ans : (a) sin o- 2sin’ @ _ sin@d— 2sin’ 0)
+2cos*@-cos@ cosA(2cos’ 9-1)
+_ Sin @.cos20 _ tan 0
+cos 6.cos20
+35. Simplify:
+tan A + cot A
+(1+tan? 4)? (1+cot? 4)
+(a) 2sinAcosA (b) sin A-cos A
+(c) sinAcosA (d) (sin Atcos Ay
+RRB JE - 31/05/2019 (Shift-IL
+Ans. (c) id yt ota x
+(1+tan A)” (1+cot” A)
+sin A cos A
+__cosA_, sind
+(sec? Ay (cos ec?A)"
+= SIDA cost A+ 2084 gint A
+cos A sinA
+= sinA . cos’A + cosA .sin?A
+=sinA .cosA (cos’?A + sin’A)
+=sinA . cosA (Cs sin’A +cos?A = 1)
+3 YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0006_left.png =====
+36. Simplify:
+sin 6/(1 - cos 6)
+(a) tan @- sec 0 (b) cosec 6+ cot @
+(c) cosec @ -cot 0 (d) tanO+sec@
+RRB JE - 02/06/2019 (Shift-
+sind
+Ans : (b) ———
+®) 1-cosé
+= — Sin (1+ 0088) _ (rationalization) )
+(1-cos 0)(1+ cos 0)
+__ sind (1+cos@) _sin@(1+cos®)
+1-cos’ 0 sin’ @
+= Leos 1, 0088 _ coe g + cot 0
+sin? sinO sin@
+37. Simplify:
+—t
+(secO - tan0)
+(a) sec? @—tan?6 (b) cos@+sin®
+(c) cosec@—cot 6 (d) secO+tanO
+RRB JE - 01/06/2019 (Shift-IIL.
+(Ans. (d)
+—!
+(sec® — tan®)
+Multiplying in denominator and numerator of (secO +].
+tan0)
+1(sec6 + tan 0)
+>—————rrarnae
+(sec @— tan )(sec 6+ tan6)
+j—> (sec 9+ tan 8) {sec? @- tan? 6 =1}
+(sec? 6- tan? 0)
+=> (secO + tand)
+38. Simplify: (sin“ @/cos 8) +(cos’ @/cos 8)
+(a) tan (b) cot 6
+(c) cosec 0 (d) secO
+RRB JE - 28/06/2019 (Shift-IID)
+= 2 2 “2 2
+Ans. (4) sin’ 0 4 £08 6 _{ sin’ 6+cos" 0
+cos® cos cos0
+J. secO
+cos0
+39, sinA +sinB + cosA + cosB _
+" cosA-cosB sinA-sinB ~
+(a) sin AcosB (b) 0
+(c) tan A tanB (d) cos AcosB
+RRB Group-D — 17/09/2018 (Shift-I) |
+Ans: (b)
+sinA+sinB 4 208A + cosB
+cosA—cosB sinA-sinB
+_ (sin A +sinB)(sin A —sin B) + (cos A + cosB)(cosA —cosB)|
+- (cos A —cos B)(sin A —sin B)
+_ sin? A -sin? B+ cos” A-cos’B
+(cos A -cosB)(sin A -sinB)
+Trigonometry Si
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0006_right.png =====
+(sin? A +cos” A)—(sin” B+ cos” B)
+"(cos A—cosB)(sin A sin B)
+(sin? 0 +cos* @ = 1)
+_ 1-1 =0
+(cos A —cosB)(sin A—sin B)
+40. Complete the following—
+AABC, cos (B+C/2) =?
+(a) cos A (b) sin A/2
+(c) sn A+B/2 (d) cotB
+RRB Group-D — 29/10/2018 (Shift-II1)
+Ans: (b) °° A+B+C= 180°
+B+C=180-A
+B+C_(180-A
+2 2
+180°-A
+2 2
+voa( PS) = cos 90" -4)
+2 2
+B+C A
+cos] —— | =sin—
+2 2
+41. If 2x=secA and (2) =tanA, then find the
+x
+21
+value of 2] x" -— |=
+x
+(a) 1 (b) 1/2
+() 1/4 (d) 13
+RRB Group-D — 10/10/2018 (Shift-IID)
+Ans: (b)
+2x=secA........ (i)
+2 tan A. (ii)
+x
+Squaring of equation (i) and (ii) then subtracting
+4x? 4 =sec? A-tan? A
+x
+{sec A-tan? A =1}
+1
+4{x?-—]=1
+or (x x )
+or ax - +) al
+x 2
+42. In triangle ABC, find the value of
+tan? A + tan? B + tan? £
+2 2 2
+(@) >1 (b) 21
+() <1 @ <1
+RRB Group-D — 22/10/2018 (Shift-IT)
+Ans :(b) *: in A ABC,
+A+B+C=n
+We know
+) YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0007_left.png =====
+2 2 2
+(1an4.—tan®) +(1anB-tanS) +(an$-tan 4) =o]
+2 2 2 2 2 2
+= 2{ an’ S+0an? B+tan'S)
+2 2 2
+-2 anton +n tan tan tan) 0..(0
+2 2 2 2 2 2
+A+B+C=n
+A+B+C _z
+2 2
+Beez ae
+2 2 2
+tan A,B = tan) zc
+2 2 2 2
+A B
+tan + tan ~cot®
+1-tan4 tanB 2 .
+2 2
+tan” + tanB
+2 2_ 1
+A B Cc
+1—tan— tan— =
+tan tan tan
+tan tan€ + tanBtan£ =1— tan tan®
+2 2 2 2 2 2
+tan” tanB + tanB tan © + tan tan © = 1...)
+2 2 202 2 2
+Putting value in equation (i) to equator (ii) -
+a( tan? $+ tan? 2-tan ©)-2120
+2 2 2
+(tan? tan? Btn ©) 1
+2 2 2
+43. If  x=rcosOcosd, y=rcosOsingd and
+z=rsin®@, then find the value of x? +y? +22
+@ y¥ ) x
+©? @ 2
+RRB Group-D — 26/10/2018 (Shift-I)
+Ans : (c) given-
+x=rcosOcos> — ............(1) .
+y=rcos@sing _............. (2)
+z=rsin@ seeeesteereee(3)
+Squaring of equation (1), (2) and (3) by Add-
+x? +y? +2? =r? cos” @cos” +r? cos? Osin? +1? sin?
+=r’ cos? 8[ cos? o+ sin? 4] +r’sin’@
+=r? cos’0+r’sin?0 [+ sin” §+ cos” =1
+=1(sin? 0+cos” 8)
+Trigonometry 521
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0007_right.png =====
+44. Find the value of (sec - tan 0)"
+(a) cot®
+(b) (1-sin@)/(1+sin@)
+(c) cos@xcosecO
+qd 1
+RRB NTPC 04.04.2016 Shift : 2
+aN?
+Ans : (b) (sec@-tan0)” -(4,-*4)
+cos@ cos@
+(ey _(1-sino)’
+cos® cos’ @
+1-sindy’
+= (sine 6 sin? 040080 =1)
+1-sin’ 0
+_(l-sin6)(1-sin0) _ 1-sin@
+(l-sin6)(1+sin®) 1+sin
+45. sin’A + cos’A- 1 is equal to
+(a) —3sin’Acos’A (b) 1-3sinAcosA
+(c) 1+3sin’Acos"A. (d) 0
+RRB NTPC 18.04.2016 Shift : 1
+Ans : (a)
+sin°A + cos°A-1
+= (sin"A)? + (cos"A)*-1
+Formula,
+Form, a°+b’ = (atb)*-3ab (atb)
+= (sin’At+cos’A)*—3sinA.cos”A(sin’A+cos*A)-1
+= (1)'-3sin’A.cos’A(I)-1_{sin? A +cos A = 1}
+= 1-3sin’A.cos’A-1
+=—3sin?A.cos’A
+46.  Simplify:(sin@ / cos®) x (cot® / cosec8)
+(a) cos0 (b) sind
+(c) tan@ (d) secO
+RRB NTPC 06.04.2016 Shift : 2
+‘Ans : (b) sind x cot
+cos8 cosec®
+cos®
+sind | sin@ _ sin®
+coso I
+sin
+47. What is the value of sin@ tan@ — secO
+(a) -cos0 (b) 1
+(c) -secO (d) cosecO
+RRB NTPC 28.04.2016 Shift : 1
+Ans : (a) sinO tan - sec =sin gino 1
+cos@ cos@
+_sin’'@ 1
+cos® cos®
+in? in? 2
+_ Sin’ _/ sin’ 6+cos’ 0 {1= sin’0 + cos?0}
+cos® cos®
+sin’ @—sin? @—cos*@ _—cos’®
+= = —— = - 0s 8
+cos® cos®
+) YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0008_left.png =====
+48. Solve the following :
+1 1
+——_ + ——__ =?
+1+sin® 1-sin@
+(a) 0 (b) 2Cos’e
+(c) 2Sec?0 (d) 1
+RRB ALP & Tee. (17-08-18 Shift-IIL.
+Ans: (c) 1 4 1 — ins rl-ksin®
+1+sin® 1-sin® 1-sin ®
+2 2 2
+= ——_— -.1-sin® 0 = cos” 0
+1-sin? 0 [ ]
+a = 2sec0
+cos” 0
+Type -3
+49. If sin (A - B) = sin A cos B - cos A sin B, then
+what is the value of sin15°?
+v3-1 v6-V2
+@ = (b) ——
+4 2
+v3-v2 v6-V2
+(c) a (d) on
+RRB RPF Constable — 17/01/2019 (Shift-I
+Ans : (d) sin (A — B) = sinA cosB — cosA sinB
+sin15° = sin (60° — 45°) = sin 60° cos45° — cos60° sin45°
+. 3 1 11
+sin 5° == x—~--x—
+2° 22
+Bt |
+22 22
+¥3-1
+sin15° =~——
+22
+«a _(Y3-1)V2 _ V6-v2
+sin 15° = ———-—_ = —_——
+2x2 4
+50. The value of Cos(-780°) is
+3 V3
+(a) xf (b) yf
+J -|
+oOo % @
+RRB RPF SI — 13/01/2019 (Shift-ID)
+Ans: (c) Cos(-780°)
+= Cos 780° [:.: Cos (-8) = Cos®]
+= Cos (2 x 360° + 60°)
+1
+= Cos 60° ==
+OS 2
+51. If tan 2A = cot(A-18") and 2A is acute angle,
+then find the value of 'A'
+(a) 36° (b) 24°
+(c) 28° (d)_ 18°
+RRB JE - 22/05/2019 (Shift-IT.
+[Ans : (a) tan2A = cot (A — 18°)
+cot (90° — 2A) = cot (A — 18°) |
+90°-2A=A-18° [~~ cot (90° — 6) = tan0]
+108° = 3A
+A= 36°
+Trigonometry 521
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0008_right.png =====
+52. Find the value of sin 75°?
+6+ V2 6-2
+( Vor? (oy Vo=x2
+4 4
+v3-1 V3+1
+© = @ >
+2/2 2
+RRB JE - 23/05/2019 (Shift-I0
+Ans : (a) sin (75°)
+= sin (45° + 30°)
+= sin45°. cos30° + cos45°. sin30°
+1 3,1 1
+=X + =x
+v2.02 V2 2
+22°22 22 V2
+_Ve+v2
+4
+53. tan (60° + 30°) — tan (60° — 30°) =?
+1 3
+= b) =
+(a) 3 (b) 2
+(c) Infinite (d) 1
+RRB Group-D — 30/10/2018 (Shift-
+Ans : (c) tan (60 + 30) — tan ( 60 — 30)
+= tan 90° - tan 30°
+-1_1_¥3-0_¥3_,,
+0 v3 0 0
+54, 2sin 30° 4 Lkc0s30° =?
+1+cos30° —_sin30°
+(a) 4 (b) 8
+(c) 4-2N3 @) 6-v3
+RRB Group-D — 26/09/2018 (Shift-IIL
+Ans: (a) 2sin30 4 1400830)
+1+cos30° —_sin30°
+2
+2x I +{ 1+ 3
+_ 2sin? 30°+(1+c0s30°)? _ 4 2
+sin30°(1+cos309) 1 3
+14M
+2\° 2
+2
+1 (2+v3)
+1 (2+v3) 2+v3 243
+22
+243 2-3
+_18+8V3-93-12 _¢ og
+4-3
+tan45°_ 1+sin45°
++ =?
+6 1+cos45° cot 45°
+(a) 32 (b) v2
+[ YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0009_left.png =====
+(c) 3-2V2 (d) 2
+RRB Group-D — 30/10/2018 (Shift-ITI)
+Ans. (a) :
+tan45° — 1+sin45°
+ane sin
+1+cos45° cot 45°
+1+
+1 v2
+wt 1
+v2
+V2_ 241 _2+(V241? _2+241+2V2
+V2+1 V2 ¥2(2 +1) 22 +1)
+54+2V2
+V2(/2 +1)
+(5+2v2) v2(v2-1) _10+4V2-5V2-4 |
+ALS) SET =
+v2(V2+1) v2(V2-1) 2(2-1)
+_6-V2 _,_V2
+2 2
+56. Which of the following is sin(90°-@)
+(a) cosec 8 (b) cot @
+(c) sin® (d) cos 0
+RRB Group-D — 06/12/2018 (Shift-II)
+Ans. (d) : sin(90—8) =cos®
+57. Given that tan(A +B) = fanA + tanB
+1-tanAtanB
+then what is the value of tan75°?
+(a) 24+2v3 (b) 2-3
+(©) 2+v3 (d) 2-2¥3
+RRB Group-D — 27/11/2018 (Shift-I)
+Ans. (c) : on putting A = 45° and B = 30°,
+© "
+= tan 45° + tan 30° _ tan (45° +30°)
+1—tan 45° tan 30°
+a tans? + tan30° _ 750
+1—tan 45° tan 30°
+1+ +L
+> —h =tan75° |
+1-lx—=
+“B
+1+ 1
+= 8H an rse
+;-L 3-1
+v3
+rationalization,
+B+ B41
+>a x
+v3-1 V3+1
+Trigonometry 52:
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0009_right.png =====
+(3+)
+=>
+(3-51)
+(BH) (V8) +O e2xVFa
+=>
+(V3-1)(84) (v3)'-07
+formula—
+‘s (a+b) =a? +b? +2ab and
+a’—b? =(a+b)(a—b) from,
+34142V3 _ 442v3 °
+= = = tan 75
+3-1 2
+2(2+.3
+29) ars = 2+ 3 = tan 75°
+58. If sinlS° = ae then approx value of
+tan15°?
+(a) 2-23 (b) 2423
+(©) 2- V3 (d) 2423
+Ans. (c) : sin 15° = fee
+following value sin15° = sin (45° — 30°) got the solution
+by formula sin (A — B). Likewise for tan 15° = tan (45°
+— 30°) will used of tan (A — B)
+tan (45° — 30°) = tn 45°—tan30"
+1+ tan 45° tan 30°
+jt Ba
+-_ 3 _ WB _ 3-1, V3-1
+lalx B41) V341 V3-1
+BB
+2
+(Sy-@
+_ 4-2y8 _2(2-¥3)
+= oo et 8
+2 2
+59. If coses(A-B)= SecAsecB_ , then coses 15°= ?
+tanA-tanB
+(a) v6-V3 (b) V6-V2
+(©) V6+v3 (@) V6+V2
+RRB Group-D — 05/11/2018 (Shift-II)
+Ans. (d) :
+Suppose
+A= 60°
+B= 45°
+cosee(60°- 45°) = sec 60° xsec 45°
+tan 60° — tan 45°
+J YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0010_left.png =====
+2x2
+cosecl 5° = ———
+¥3-1
+=e xt 7 2
+¥3-1 (¥3+1) (3) -(1y
+_W6+2V2 _ We +2V2 _2(V6+V2)
+3-1 2 2
+cosecl5° = V6 +2
+60. Identify the in compatible:
+AY i Cc D
+(a) B (b) C
+(c) A (dd) D
+RRB Group-D — 23/10/2018 (Shift-I11)
+Ans: (b) Sin 90° =1
+Cos0° = 1
+tan 90°= 00 |
+and tan 45° = 1
+tan 90°
+tan 90° is inconsistent because trigonometry
+ratio got the value 1 in other when tan 90° is undefined
+()
+61. Find the value of
+5cos? 60° +4sec? 30° -tan? 45° _,
+sin? 30° +.cos? 30°
+(a) 1 (b) 2
+49 67
+= d 26 |
+© @
+RRB Group-D — 09/10/2018 (Shift-IT)
+50s” 60° +4 sec” 30° — tan? 45°
+Ans. (d) : ~~ ao
+sin* 30° +cos* 30
++: sin? @+cos*@=1
+1y 2Y 2 1 4
+5x{—] +4x{ | -(1 sgt
+a ‘() (5) iW gt eal |
+1 1
+25,16, _15+64-12 _ 67
+43 2 12
+(coss0® + sin60” )
+6 ceo -aineo®)
+(cos6o -sin60 )
+(a) -(v3+2) () (¥3-2) |
+3
+(©) -l @) -->
+RRB Group-D — 08/10/2018 (Shift-I11)
+Ans: (a) (x 60° + sin *)
+cos 60° — sin 60°
+Trigonometry 52:
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0010_right.png =====
+13 1+ 3
+222) _ 727 a
+1B) WB IN
+2 2 2
+~ (I-¥3) (1+3)
+Multiplying in denominator and numerator from
+(1 +v3 )
+2
+_ (1+3) = 143+2V3
+ay-(ay 3
+_14342N3 _ (4+2y3)
+a
+2(2+3)
+= = (V3 +2)
+63. Find the value of [sin (45°) + cos (45°)]
+(a) 1/2 (b) 1/N2
+(c) 3/2 (d) 2
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (d) [sin (45°) + cos (45°)
+v2 2
+2) 4
+=|] =-=2
+(a) 3
+64. If cot 52°=b, tan 38°=?
+(a) vb (b) vb/2
+() @ b
+RRB NTPC 05.04.2016 Shift : 3
+Ans :(d) cot52° =b
+cot (90° - 38°) =b
+tan38° =b [-- e0t(90° - 6) = tan 0}
+65. What is the value of tan (315°)?
+(a) 1 (b) -1
+(c) W/v2 @ -/V2
+RRB NTPC 04.04.2016 Shift : 3
+Ans: (b) tan315° = tan(360° -45°)
+=-tan4s° —_[-- tan(360°-0)=-tan0
+=-1
+66. Find the value of tan (1125)) is
+(a) 1 (b) -1
+(©) 0 (d) ©
+RRB NTPC 31.03.2016 Shift : 1
+Ans: (a) tan(1125")
+= tan (3 x 360° + 45°)
+= tan 45° [-= tan (nx360°+0) = tan6]
+=1
+] YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0011_left.png =====
+67. Find the value of tan (405°)
+(a) 1 (b) -1
+(c) © (@ 0
+RRB NTPC 29.03.2016 Shift : 3
+‘Ans : (b) tan (405°)
+=-tan 405°
+= ~tan(360° + 45°)
+=-tan45° = -1
+[-- tan (360°+6)= tan9]
+68. cosec(90° -6) =?
+(a) tan® (b) cotO
+(c) sec (d) cos®
+RRB NTPC 06.04.2016 Shift : 1
+Ans: (c) cosec(90-@) = sec
+69. Find the value of cos0° is:
+(a) 0 (b) Infinite
+(c) Not defined (d) 1
+RRB NTPC 27.04.2016 Shift : 3
+Ans: (d) cos0"= 1, :
+= 930
+70. Evaluate: 023_
+cos67
+(a) 12 (b) 2
+(©) 1 (d) 28
+RRB NTPC 29.04.2016 Shift : 1
+per ery ano
+Ans : (¢) sin ay _ sin 23 _ sin23 -1
+cos67° —cos(90° — 23) sin23°
+71. Find the value of cos ec60°
+(a) V3/2 (b+) V2
+©) 2/3 (d) v2
+RRB NTPC 30.04.2016 Shift : 1
+1 1 2
+Ans: 60°=— == =
+ns : (c) cosec sno" B a
+2
+Type -4
+72. Find the value of sin 120° sin 240° sin 270°
+(a) -1/8 (b) -1/2
+() 3/4 (@ 18
+RRB JE - 22/05/2019 (Shift-I
+Ans : (c) sin120° sin240° sin270° :
+=> sin (90° + 30°) sin (180° + 60°) sin (180° + 90°)
+=> cos30° (-sin60°) (—sin90°)
+3, 8 x(-1) -3
+2 2 4
+. . 7a. a. 3a. 5H
+73. Find the value of sin —-sin —sin — sin —
+4 4 4 4
+(a) 1 (b) !
+a) — =
+4 8
+Trigonometry 52.
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0011_right.png =====
+©) u @) 3
+°° — a
+16 16
+RRB JE - 22/05/2019 (Shift-I
+Ans : (a)
+. 7m mt . 3m. St
+sin —sin—sin —sin——
+4.4 4° 4
+= snl 22 in in inf *)
+= sin| t+— |sin—sin—sin| t+—
+4 4 4 4
+( in sin sin 2 in”)
+= | -sin— |sin—sin—] —sin—
+4 4 4 4
+3m. nt . 3m.
+= sin—sin—sin—sin—
+4 4 4 4
+. Tu). 1. nm). 0
+= sin| t—-— |sin—sin| t-— |sin—
+( i) 4 ( 1) 4
+= sin sin sin=sin == ty4ty,t,tt
+4°4 4 4 V2 J2 V2 V2 4
+74. Simplify: cos18° + cos 162°+sin 126°+ sin 234°
+(a) 2 (b) 1
+(c) 2 (d) 0
+RRB RPF Constable — 24/01/2019 (Shift-IIT
+Ans : (d) cos 18 °+ cos 162°+ sin 126° + sin 234°
+= cos18°+cos (180°-18°) + sin 126° + sin (360° — 126°)
+= cos 18° + (-cos 18°) + (sin 126°) + (-sin 126°)
+=cos 18°—cos 18°+ sin 126° — sin 126° = 0
+75. If tan’ 45° - cos’ 60° = x sin 45° cos 45° cot 30°,
+Find the value of 'x'
+3 1
+@ — (b)
+2 v2
+2 3
+© @ =>
+B 2
+RRB JE - 24/05/2019 (Shift-I
+Ans : (a) tan? 45° - cos? 60° = x sin 45° cos 45° cot 30°
+2
+1 11
+1-[=] =xx= 3
+(3) v2 V2
+3x
+f= =xy3
+repeal
+23 2xV3__ 2
+76. Simplify: sin 780° sin 480° + cos 120° sin 30
+(a) 23 (b) 13
+(©) 0 (d) 12
+RRB JE - 24/05/2019 (Shift-I
+Ans : (d) sin 780° sin 480° + cos 120° sin 30
+= sin (2x360°+60°) sin (360° + 120°) + cos120° sin30°
+= sin60° sin (120°) + cos120° sin30°
+= sin60° sin(90° + 30°) + cos (90° + 30°) sin30°
+= sin60° cos30° — sin30°sin30°
+= 3,43 1123 11221
+2,=2 22 44 4 2
+7 YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0012_left.png =====
+77. Simplify:
+cos 5° + cos 24° + cos 175° + cos 204° + cos 300°
+(a) 1/2 (b) 1
+(c) -1/2 (d) 0
+RRB JE - 25/05/2019 (Shift-I
+Ans : (a)
+cos 5°+ cos 24° + cos 175° + cos 204° + cos 300°
+= cos5® + cos24° + cos (180° — 5°) + cos (180° + 24°) +
+cos (270°+ 30°)
+= cos5° + cos24° — cos5° — cos24° + sin30°
+= sin30° = 1
+2
+78. Find the value of tan 10° tan 15° tan 80° tan 75°
+(a) 1/3 (b) 1
+(©) 1/2 (d) 28
+RRB JE - 25/05/2019 (Shift-I1)
+Ans : (b) tan10°. tan 15°. tan 80°. tan75°
+= tan10°. tan 15° . tan(90°-10°) tan (90°-15°) |]!
+= tan10°. tan 15°. cot 10°. cot 15° |
+= tan 10°. tan15°x—— x1 _
+tan10°  tan15°
+=1
+79. Find the value of tan’ 60° - 2 tan’ 45° — cot 30°
++2 sin? 30° + 3/4 cosec” 45°
+3
+@ —> (b) 0
+(©) 2 (d) -1
+RRB JE - 31/05/2019 (Shift-I)
+Ans : () tan’ 60° — 2 tan* 45° — cot” 30° + 2 sin” 30° +
+3/4 cosec’ 45°
+2
+(V3 P-2«1 - +23) +3 x(a)
+2 4
+3-2-342x li 30
+44
+1,3
+3-S+ —+>
+22
+6-10+1+3 _ 10-10 =0
+2 2
+80. tan 34° tan42° tan48° tan56° + tan60° cot 30° -
+cosec30° sec60° = ?
+(a) 0 (b) 1.5
+© 1 (d) 2
+RRB Group-D — 26/09/2018 (Shift-III)
+Ans: (a) tan 34° tan42° tan48° tan56° + tan60° cot 30°
+- cosec30° sec60°
+= tan (90°-56°) tan(90°-48°) tan48° tan56° + tan60° cot,
+|(90°-60°) - cosec(90°-60°) sec60°
+= Cot 56° cot 48° tan 48° tan 56° + tan’60° - sec”60°
+1x 14(1)=1-1=0 tan @.cot@ =1 !
+= 1x “I=1-1= '
+sec’ 9—tan? 0 =1
+81. Find the value of tan8° tan22° cot60° tan68"
+tan82°
+(a) 1 wo
+v3
+Trigonometry 52:
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0012_right.png =====
+1
+°: @ 8B
+( B )
+RRB Group-D — 16/10/2018 (Shift-I)
+Ans: (c)
+tan 8° tan 22° cot 60° tan 68° tan 82°
+= tan8° tan 22° cot 60° tan(90° 22°). tan(90° -8”)
+= tan8°.tan 22° cot 60°.cot 22°.cot8°
+= tan 8° x x tan 22° x ,..cot 60°
+tan8 tan 22'
+=1x 1x cot60°
+1 1
+=1xlx— + oot60" =|
+3 3B
+ot
+v3
+82. Find the value of sin 12° x cos 18° x sec 78° x
+cosec 72°
+1
+@ 5 o) 3
+3
+© 8 @ 1
+Ans. (d) : sin 12° x cos 18° x sec 78° x cosec 72°
+sin 12° x cos 18°x—L_ x1.
+cos78  sin72
+_ sin12° xcos18°
+cos 78° xsin72”
+_ sin(90-78) x cos(90—72)"
+cos 78° xsin 72°
+_ cos78° xsin72° =1
+cos 78° xsin72”
+83. What is the sum of the value of all six
+trigonometric ratio when the angle a = 45°?
+(a) 2432 (b) Sosa
+(0) 6 (@) 24+4V2
+RRB Group-D — 23/10/2018 (Shift-I)
+Ans. (a) : Sum of all six trigonometry ratio
+= sina + cosa. + tana + cota + seca + cosecar
+= sin 45° +cos 45° + tan 45° + cot 45° + Sec45° + cosec45°
+1 1 2
+=a tet ltl 4 V2 4V2 = 42422
+v2 2 v2
+=V2+2+2V2 = 3¥2+2 = 2+3V2
+84. —_sin’60" + cos”30° + cot” 45° +sec’60° =?
+7 5
+a) = ‘b) =
+(a) 2 (b) 2
+13 15
+Oh d) =
+(©) 2 (d) 2
+RRB Group-D — 18/09/2018 (Shift-I)
+5 YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0013_left.png =====
+Ans. (c) : sin’ 60° + cos” 30° + cot? 45° +sec? 60° =?
+BY (BY ae cpoy
+=|—] +/—] +(1) +(2
+(4) -(E) oe
+a3 Sara g = O45 = 0420 _ 26 _B
+44 4 4.4 2
+85. What is the value of following expression?
+(Cot1° Cot2® Cot3° Cot4? Cot’ ..... Cot90°)
+(a) 0 (b) 1
+(c) 2 (d) 1/2
+RRB NTPC 28.04.2016 Shift : 3
+Ans : (a) (Cot1° Cot2° Cot3° Cot4’ Cot5° ..... Cot90°)
+“Cot 90°=0
+So (Cotl® Cot2° Cot3° Cot4? Cots° .. Cot89° « 0) =0
+86. The value of cos 100” cos10" + sin100" sin 10” is |'
+equal to?
+(a) 0 (b) cos 110°
+(c) sin 110° qd 1
+RRB NTPC 10.04.2016 Shift : 3
+Ans: (a) cos (A-B) = cosA. cos B + sin A. sin B
+from the question
+cos100°. cos10° + sin 100°. sin10°
+= cos (100°-10°) = cos90° = 0
+87. Find the value of tan24. tan48, tan42.tan66
+(a) 0 (b) 1
+(c) 12 (d) 2
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (b) tan 24° tan 48°. tan 42° tan 66°
+= tan 24° tan 48°. tan (90° — 48°). tan (90° - 24°)
+= tan 24°. tan 48°. cot 48° cot 24°
+{-- tan(90° - 8) = cot o}
+=1
+88. What is the value of the following expression
+(tan0° tan1° tan2° tan3° tan4’.........tan89°) |
+(a) 0 (b) 1
+(c) 2 (d) 1/2
+RRB NTPC 28.04.2016 Shift : 2
+Ans: (a) *." tan0°=0
+~. tan0® tan1° tan2° tan3° ..........tan89°= 0
+Type -5
+89. If Cotx -3 , then sin x —sec x=?
+229 229
+ait b)
+(a) 65 (b) 6
+109 109
+— dy -—
+(©) 65 (d) 65
+RRB RPF SI — 05/01/2019 (Shift-I1
+Ans: (d)
+Z
+12 . 3 |
+y 3 x
+Trigonometry 52
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0013_right.png =====
+“Cot x = We +
+yz 12
+In right angle A xyz from Pythagoras theorem
+(hypotenuse)” = (perpendicular)” + (base)
+(xz)? = (yz)? + (xy)?
+(xz)? = (12) + 6)"
+(xz)? = 144 +25
+xz= V169
+xz= 13
+«. Sin x -Sec x
+_12_13 60-169 __ 109
+13. 5 65 65
+90. If cos A = 12/13, then sin A(1-tanA) =?
+(a) 32/135 (b) 32/137
+(c) 35/152 (d) 35/156
+RRB RPF SI — 11/01/2019 (Shift-I11)
+Ans: (d) Given-
+cos A = 12 = __base__
+13 hypotenuse
+an (perpendicular? = (hypotenuse)? — (base)?
+= (13)? - (12)? = 25
+So perpendicular = 25 =5
+.sinA.(I-tanA}= (1-2) ¢-- gino =Perrendicular
+13 12 hypotenuse
+tan = Perpendicular }
+base
+5 7 _ 35
+=x =
+13 12 156
+1
+1. If tan o =1/2, tan B= 3 then find the value of
+at+p
+(a) 0° (b) 135°
+(c) 90° qd) 45°
+RRB JE - 24/05/2019 (Shift-II1)
+Ans : (d) tana => tanB = + a+p=?
+tan (+8) - tana +tanB
+1-tana.tanp
+11 3+2 5
+a4. 27f 2
+-273 6 6.)
+i yl 5
+23 6 6
+tan (a + B) = 1 = tan 45°
+a+Bp=45°
+2. «If coto=4, , then find the value of 2080 = sin®
+b cos@ +sin®@
+(a) b/a (b) (a—b)a+b)
+(c) a/b (d) a/b?
+RRB JE - 25/05/2019 (Shift-I)
+D YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0014_left.png =====
+Ans : (b)
+sino( £082 1)
+cos®~sin® _ sin@
+cos6 +sin® sino( S05? “)
+sin® !
+= cotO-1 E cot 0 = |
+coté+1 b
+a
+ab! la-b
+a.,  atb
+b
+93. If cosec a = V2, then find the value of
+2sin’a + 3cos’a
+cosec’a + cot?a.
+5 5
+2 b) 2
+(a) D (b) 3
+5 5
+2 dy) 2
+(©) 3 (d) 6
+RRB JE - 01/06/2019 (Shift-IID)
+Ans. (d) coseca = v2 = cosec45°
+Ba a=45°
+2sin? a+3cos’a _ 2sin? 45°+3cos? 45°
+cosec’a+cot?@ — cosec?45°+cot? 45°
+2 2
+1 1
+2x| —= | +3x|—= '
+ta) Gs)
+— 2
+(v2) +P
+1 1 3.5
+2+1 3 3.23 6
+94. If sind -; then What is the value of 16cos’@ +
+tan’0
+58 60
+a) = b) =
+@ > o% >
+55 62
+c) = d =
+(©) 7 (d) 7
+RRB RPF SI — 10/01/2019 (Shift-I
+Ans : (a) sind =3 (given)
+_2 !
+16cos°@ + tan’@=16 cos?o-+ Sit
+cos’ 8
+. in? @
+=16(1-sin?@ )+—S™ > _
+( ) (1-sin* @)
+9
+9 16
+=16x/1-— |+—16_
+ai
+16
+Trigonometry 52’
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0014_right.png =====
+a
+=16-{ 7 J+ 16 =7+2 =58
+16) (7 7 7
+16
+5. If tan -{ , then the value of sin 9 + cos 0?
+6 7
+a4 b) —
+@) 5 (b) 5
+4
+©) 1 @ Fs
+RRB Group-D — 23/09/2018 (Shift-
+Ans : (b) tan -4 then sinO + cos0 =?
+tand = Perpendicular
+base
+Perpendicular = 4
+base = 3
+Then hypotenuse = ,/(4)° +(3)° = V25
+hypotenuse = 5
+sind = Perpendicular _ 4
+hypotenuse 5
+cosg = —Pase__ 3
+hypotenuse 5
+then sin0+cos® =4,3 =1
+5.505
+96. If 4 cot® = 5, then find the value of
+(Ssin 9 +3cos®)
+(S5sin® —3cos@)
+(a) 3 (b) 9
+(©) 7 @ 4
+RRB Group-D — 03/10/2018 (Shift-II1)
+Ans : (c) Acot=5 = c0t0= 2
+- cos
+Ssin0+3cos0 _ sino(5+3 “|
+5sin@—3cos0 sino(5-3 os8)
+sin®
+5 15
+_ 5+3cotO _ 5+3x7 _ s+ _35_ 7
+© 5-3cot0 5 515 5
+5-3x2 5-—
+“44
+97. If tanO = 5, then what is the value of
+12sin-Scos0
+12sin0+5cosO *
+2 1
+£ b) —
+(a) 3 (b) 3
+3 1
+as d) —
+OF Os
+RRB Group-D — 19/09/2018 (Shift-III)
+y YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0015_left.png =====
+Ans. (b) :
+tand = 5 then 12sin® — Scos® =?
+A 6 12sin@ + Scos
+From Pythagoras theorem,
+AC? = AB? + BC?
+5 “> AC = 9+ 67
+é AC’=61
+AC= V6l
+B Sc
+6
+5 '
+sind = —,
+vol
+Putting the cos @ —— = value in equation
+vi6
+12sin® —Scos@
+12sin@ + Scos®
+5 6
+12x—=- 5x
+5 Jai °* Joi
+12x 45x
+vol ~ Vol
+> 60-30
+ver
+60+30
+vor
+30 30 Vél_ 1
+> — === =
+ver V6l 903
+90
+voi
+98. Find the value of sina cosB — cosa sinB. If a
+and B complementary angle and coseca, = 5/3
+~25 7
+= b) —
+(a) 7 (b) 75
+7 25
+a4 d)
+(©) 25 (d) 7
+RRB Group-D — 30/10/2018 (Shift-IIL
+Ans. (b) :
+5
+cos eca, = =
+3
+1.5
+sina 3
+. 3
+sina ==
+By
+Cc
+vA
+a4 —Op
+sino = Perpendicular - 3
+hypotenuse 5
+base 4
+cosa = ————— = —
+hypotenuse 5
+Trigonometry 52!
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0015_right.png =====
+3 4
+Y sinB = 3
+3
+cosB ==
+sinacosB-cosasinB
+3,53 4 4
+2y2 2,2
+55 5 5
+9 _16 _-7
+25-25 25
+9. If tand =, then find the value of sinO+cos0.
+(sin® and cos@ both are positive).
+(a) 1 (b) 7
+1 2
+2- d) l=
+© 2, Oe
+Ans. (d) :
+A
+tano=4 Hypotenuse
+3 5 4
+AC? = AB? +BC2 Perpendicular
+AC? =(4) +(3)° CRs 3 B
+AC? = V16+9
+AC? = 25
+AC =5
+then, sino=4,cos0=2
+5 By)
+sin® + cosO
+4,3 _,2
+=—=4ie14
+5.5 5
+100. If tanA= 3, then
+{1/2}+ {(+cosA)(I—-cos A) /(1+sin AX1-sinA)}-1=?
+1 12
+—_ b) ——
+@ ©) 35
+-9 -1
+cc) = d) —
+© 35 @ r)
+RRB Group-D — 08/10/2018 (Shift-I
+Ans. (a) : If tan =>
+1 + (1+cos A)(l—cos A) -1=9
+2 (1+sin A)(1—sin A) :
+2 2
+-1, {Q=e0s'a)]_) 1, {sina
+2 1-sin’ A 2 (cos*A
+lo, 1. (3Y
+=—+tan?A-1 =—4+/=] -1
+1 tan ++(3)
+1,9 8+9-16 _ 17-16
+=-¢2-[s27 =
+2.16 16 16
+16
+3 YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0016_left.png =====
+101. If TanA => and TanB=—_ > then
+8 24
+Tan(A-B)=?
+304 304
+Rah b)
+® 297 © Bs
+416 87
+“a d 2o
+© © 416
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (a) Tan A =} tan B -2
+8 24
+15_7
+Tan A-TanB 8 24
+Tan(A — B) =———___ = ">_<
+1+TanATanB 1,15. 7
+8 24
+45-7
+_ 24 __ 38x8_ 304
+© 192+105 297 297
+8x24
+102. If sin 4 then cosec x + cot x =
+(a) 31/12 (b) 35/12
+() 2 (d@) 12
+RRB NTPC 17.01.2017 Shift-1
+Ans: (c)If sinx = : then cosx -2
+then cosec x + cot x
+1 + COsx 4 5
+sinx sinx
+13/5 NS
+aa 3
+5.5
+343-8.
+44 4
+1 2
+103. If tan@ =——, then cosec’@ =?
+5
+(@ 5 ) V5
+© vB (d) 6
+RRB NTPC 17.01.2017 Shift-2
+1
+Ans: (d) tan@=—=
+@ WA
+= coto= V5
+cosec’@ =1+cot” 0
+=1+(¥5) =1+5=6
+104. If sin® = 5/13, find cos®.
+(a) 8/13 (b) 12/13
+(c) 23/13 @ 1
+RRB NTPC 04.04.2016 Shift : 1
+Trigonometry 52!
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0016_right.png =====
+Fi 5
+Ans: (b 0= >
+ns: (b) sin B
+sin?@=—2>-
+169
+7 25 144 12
+0=V1-sin’? 6 =,/1-— =, ,— ==
+“os sn 8 T69 V6 13
+105. Find the value of (3sin 6 — 2 cos®) + (2 sind +3
+co@s). If 5 tan = 4.
+(a) 6/23 (b) 2/23
+() 4/23 (@) 5/23
+RRB NTPC 31.03.2016 Shift : 3
+Ans: (b) Given- 5tan8=4> tan=4
+3sin0—2cos®@
+2sin0+3cos@
+328) -2 28)
+_ _\cosd cos 0
+2( 880) +3( 2082)
+cos® cos 0
+(divided by cos® in numerator and denominator)
+3 4 2 12-10
+_3tan@-2x1_"%5 7“ _ 5
+2tan0+3 4,4,, 8415 23
+5 5
+106. Find the value of cos26. If /3tan0 =1.
+(a) 1/2 (b) 1/3
+(©) 13 (d) 1
+RRB NTPC 12.04.2016 Shift : 1
+Ans: (a) From the question,
+\BtanO=1
+1
+=> tan0 =—~ = tan30°
+3
+10=30°
+©. cos 2 0 = cos 2 x 30°
+= cos 60° = i
+2
+107. If Sinx= , then S&%-?
+5) Sinx
+23 25
+2 b)
+® > oF
+4 25
+= d 2
+(©) 5 qd) D
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (d) Sinx -:
+sinx= Perpendicualr
+hypotenuse
+(base)” = (hypotenuse)’ — (Perpendicular)
+) YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0017_left.png =====
+base = (5)°-(4)
+base = V25-16
+base = /9
+base = 3
+then sec x= hypotenuse _ 5
+base 3
+5
+snx 4 3 4 12
+5
+. 4
+108. If sinx= 3 then tanx + cosx =?
+31 29
+a by) 2
+(a) 15 (b) 12
+15 29
+= d =
+© 3 @
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (d)
+: 4 Perpendicular
+sin x = = =——————_
+5 hypotenuse
+7 base = hypotenuse’ — Perpendicular
+= (5) (4) = V25=16 = V9 =3
+.. from the question,
+tan x + cos x
+_ Perpendicular 7 base
+base hypotenuse
+nae ed
+3.5 15 15
+15 7
+109. If tanA ry and tanB “4 , then cosec (A—
+B)=?
+425 425
+=< b)
+® 304 ® 46
+425 425
+a“ d) 2
+© 7 397
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (a) tana = 5 and tanB=—
+8 24
+Perpendicular _ 15, Perpendicular _ 7
+base 8 base 24
+hypotenuse = (15)? + (8)? |hypotenuse = /(24)? +(7)?
+= 225+ 64 =V576+49
+= 289 =V625
+=17 =25
+«. sin (A-B) = sinA . cos B—cosA . sinB
+cosec(A -B) = —_!_
+sin(A —-B)
+Trigonometry 53
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0017_right.png =====
+1
+~ sin A.cos B—cos A.sinB
+1 1
+“De 8 7 30_ 36
+17 25 17 25 425 425
+425 _ 425
+360-56 304
+425
+o A-B)=——
+cosec( ) _
+110. If 2cos@ = V3, then cos6 x tan@ =?
+@ 1 (b) 3/3
+(©) \3/2 qd) 12
+RRB NTPC 06.04.2016 Shift : 2
+Ans : (d) 2cos@ = V3 cso
+cos® = cos 30°
+0=30°
+cos0 x tand = eos 30 x tan 30 = 23-1
+2° V3 2
+111. If sin x = 4/5 then secx + tanx=?
+(a) 37/20 (b) 31/12
+(c) 3 (d) 13
+RRB NTPC 19.01.2017 Shift : 3
+Ans: (c) sinx =< A
+from triangle ABC,
+BC = VAC? - AB’ 5
+= v5) = 4
+= 25-16 = v9
+BC = 3 unit Cc B
+5.4 3
+secx +tanx ==+—
+3 3
+a23
+3
+112. If A+B=90° and cosB =o then the value of
+sin A
+(a) 1/2 (b) 1/4
+(©) 13 (d) 23
+RRB NTPC 27.04.2016 Shift : 1
+Ans: (c) A+B=90°
+B=90°-A
+taking cos both side
+cosB = cos (90°—A)
+ cosB= I
+3
+1
+cos(90°-A) = 3
+sin A = i
+3
+) YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0018_left.png =====
+113. If sin a=4 and sinB= 5 then cot (A-B)=?
+56 65
+aad b) —
+(a) 33 (b) 33
+33 16
+= d 2
+©) 56 (d) 3
+RRB NTPC 30.04.2016 Shift : 3
+Ans: (a) sinA= : |
+sinA = Perpendicular _ 4
+hypotenuse 5
+base = ./(Hypotenuse)’ —(Perpendicular)”
+base = (5) -(4)°
+base = V25-16
+base = V9
+base =3
+cot A= ——Case@_
+perpendicular
+cotA = 3
+4
+Likwise
+sinB= Ss - Perpendicular
+13. hypotenuse
+then base = 12
+o cotB= B
+5
+cot(A-B) = cotAcotB +1
+cotB—cotA
+312 41 36+20
+-4 5 220 6
+12_3 48-15 33
+5.4 20
+114. If tan =F then find the value of p such that
+tan@—secO _ -p
+sind 28
+(a) 25 (b) 75
+(c) 50 (d) 100
+RRB ALP & Tec. (09-08-18 Shift-I1T}
+Ans : (b) given- tan@ = L = Perpendicular
+24 base
+-. hypotenuse = y(base)’ + (Perpendicular)?
+=V24+7? = 625 =25
+-. from the question
+tanO-secO _—P
+sin® 28
+Trigonometry 531
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0018_right.png =====
+J 3
+= 24_24 _-P
+7 28
+25
+-18 25 _ —-P
+>a xS=
+24° 7 28
+pe 18x 25x28 =75
+24x7
+Type - 6
+115. The angle of depression of two points in the
+same direction on the road from an aeroplane
+over a flat road are 45° and 30° respectively.
+The distance between the two points is one mile
+(1.61 km). Approximate distance of aeroplane
+from land in kilometers?
+(a) 18 (b) 22
+(c) 2.4 (d) 2.0
+RRB RPF SI — 11/01/2019 (Shift-IT)
+Ans. (b) : Suppose distance of ship from the land
+=hkm
+H
+ay
+30!
+dB A
+B
+“Tork” km
+in ABOH,
+tan 45° = h
+x
+in A AOH,
+tan 30° =? —
+1.61+x
+1h
+V3 (1.61+x
+V3h=1.61+x
+V3h=1.61+h {+ from the equation (i)}
+(1.732-1)h=1.61
+h= 1.61
+0.732
+=2.19%2.2km
+h=2.2km
+116. The angle of elevation of a hot air balloon
+going upward in vertical direction when viewed
+from a distance of 300 m from the flight point
+at 10:00 am, changing from 30° to 60° at 10:02
+am. Find the speed of the balloon in the vertical
+direction.
+(a) 2 m/sec. (b) 2.18 m/sec.
+(c) 3.4 m/sec. (d) 2.9 m/sec.
+RRB JE - 22/05/2019 (Shift-III)
+{ YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0019_left.png =====
+Ans : (d) Suppose position of balloon may be ¢
+A to C in 2 minutes. yt Minute
+jin AABD, ZL Ki
+x ba
+tan 30° = ——
+“55 iw |
+tL >=300m—>
+v3 300
+300 3
+x= x= = 10043 m
+3B
+in ACBD,
+tan 60° = <7¥
+300
+aekty
+300
+x+y= 300V3
+100V3 + y = 300V3
+y =200V3
+; y_ 200/35
+«. Speed of ball = 5=[— == y3
+peed of balloons = <= ral
+= ane =5 x 0.577 = 2.885 =2.9 m/sec
+117. An aeroplane is flying at a steady altitude 'h'.
+At 10:00 am, it appears at an elevation angle of
+30°. After 1 minute, it appears at an elevation
+angle of 60°. If the speed of the aeroplane is 960
+km/h, find the value of 'h'.
+(a) 15km. (b) 13.86 km.
+(c) 20 km. (d) 12.46 km.
+RRB JE - 26/05/2019 (Shift-I
+‘Ans: (b)
+-. Speed = distance/time ps ,
+@ mai
+960 =—_—_
+Iminute < | h
+20041 _ > d=16km Va |
+60 se * 5 9
+from AAED-
+tan 60° = h => x3 =h.....(i)
+x
+from ABEC-
+h 1 h -
+tan30° = > ~=——.......
+md 3 ter
+from equation (i) and (ii)—
+AL wd
+V3 16+x
+16+x=3x
+2x = 16
+x= 8 km
+2 h=xy3 =8V3
+h = 1.732 x 8 = 13.86 km
+Trigonometry 53:
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0019_right.png =====
+118. The angle of elevation of a steep ladder
+supported by a wall is 45° and its lower end is
+10 meters from the wall. Find height of the
+ladder.
+(a) 10 J2 meter (b) 13 meter
+(c) 15 meter (d) 16 meter
+RRB RPF Constable — 19/01/2019 (Shift-IT)
+Ans: (a) A
+As per figure—
+height of ladder = AC
+in A ABC -
+cos 45° = BC/AC A
++18 c 10% >
+v2 AC
+AC =10V2 meter
+119. The elevation angles formed when looking at
+the top of the tree from two points located 'x'
+meters and 'y' meters from both the foot of the
+tree are a, B respectively. If a + B = 90°, then
+find the height of tree.
+2
+x+y
+(a) (ey) (b) yxy
+(c) xcosat+ycosB (d) (x-y)*
+RRB JE - 31/05/2019 (Shift-ID
+Ans : (b)
+Suppose height of is h.
+a +B =90° -—--(i)
+i A les
+in “ane Cc —7 7 D
+tana =— ----(ii)
+x
+in AABD,
+tan B= h
+y
+h a
+tan (90-Q) = — {from equation (i) }
+y
+cota = Ah ----(iii)
+y
+from equation (ii) and (iii)-
+hoh
+tan @cota =—x—
+x y
+2
+yeh
+xy
+h=vxy
+120. The angle of depression of the foot of a building
+from the top of a tower of 32V3 meters height
+is 60°. How far is the building from the tower?
+(a) 32 meter (b) 16V3 meter
+(c) 32V3 meter (d) 16 meter
+RRB RPF SI - 06/01/2019 (Shift-II)
+J YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0020_left.png =====
+Ans. (a) : height of tower AB = 32V3 m
+Let distance of tower to building is x m.
+Then tango? = 43 6
+CB
+323
+pu 33
+x
+LD)
+
+x=32m ADT?
+
+121. A 45° elevation angle is formed from the top of
+a 150 meter high building A to the top of
+building B. A depression angle of 30° is formed
+at the bottom of building B. What is the height
+of building B?
+
+(a) 150 (I1+V3)m —(b) 250m
+450
+c) 150V3m d) =
+(©) (d) im
+RRB RPF Constable — 20/01/2019 (Shift-IIT
+Ans : (a)
+P
+is
+T Se
+— buileing (4)
+150m 150m
+Y)
+s ¥ R
+in AQPT -
+h
+tan45° = —
+x
+1-4
+x
+h=x (i)
+in ASRQ-
+tan30° = 150
+x
+1 _ 150
+>=
+V3 x
+x=150,3
+h=150V3
+<. Total height of building (B) = 150 +h
+=150+150V3
+= 150 (1+V3)m
+
+122. The angle of elevation of the top of a large
+building from a 18 meter high tower is 45° and
+the angle of depression of bottom of the same
+building is 60°. What is the height of building
+(in meters)?
+
+(a) (a9) (b) 6(3+V3)
+(c) 18+V2 (@) 12+6y3
+RRB Group-D — 20/09/2018 (Shift-I1)
+Trigonometry 53:
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0020_right.png =====
+Ans : (b) E
+in AABC
+tan 0° = 18 x
+y
+b= 18 Ae D
+y
+18 18
+ve y=—= 6v3
+v3 Ni
+in AADE 8 y
+x x
+tan 45° = —=———
+y 63
+jo
+6v3
+x=6V3
+So x=y
+then height of building = 18 +x
+CE=18+6V3
+CE=6(3+3)m
+123. A 13 meter long ladder is placed along the wall
+and the lower part of the ladder is 6.5 meter
+from the wall. What is the angle of elevation of
+the ladder tilted along the wall?
+(a) 45° (b) 60°
+(c) 105° (d) 30°
+RRB Group-D — 22/09/2018 (Shift-I
+Ans : (b) Given
+length of ladder AB = 13m Al
+distance from wall = 6.5 m
+Let angle of height is 0 13m
+in A ACB
+base
+cos § = ————_ fe B
+hypotenuse 6.5m
+BC _65_1
+=> cos0 = — =—— =—
+AB 13 2
+=> cos0=cos 60°
+6 =60° [ cos60° = 5
+So angle of height 6 = 60°
+124. From the top of the stage the elevation angle of
+the top of the tower at a distance of 503
+meter is 30°. If the height of the tower is 60
+meter; what will be the height of the stage?
+(a) 20/3 m (b) 10m
+(©) 40m (@ 45V3 m
+RRB Group-D — 28/09/2018 (Shift-II1)
+Ans : (b) Let height of stage = y m
+As per question— ]
+x xm
+tan30° =——=
+Ae /
+V3 50V3 | i
+x=50m *
+J YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0021_left.png =====
+x +y=60
+y=60-x
+y= 60-50
+y=10m
+
+so height of stage = 10 m
+
+125. The angle of elevation of a point A from the top
+of a tower to the ground is 30°. When moving
+to the point X at 20 meter towards the foot of
+the tower, the elevation angle changes to 60°.
+What is the distance of the tower from point
+A?
+
+(a) 5Vilm (b) 30m
+(c) 5m (d) 16m
+RRB Group-D — 28/09/2018 (Shift-IIT)
+Ans : (b) Let height of tower CB = hm
+and distance of point A from the tower = d m
+an distance of point X from the Ce =(d-20)m
+,
+—) D)
+A 20m X Cc
+——_ 4 ———
+From the figure, tan30° -4
+th
+3 d
+d
+h=—
+3
+and
+tan 60° = —h_ =V3= —_
+(d-20) (d—20)
+Putting the value of ‘h'
+d
+f-—t_
+V3(d—20)
+3(d-20)=d
+3d—d=60
+2d= 60
+d=30
+
+So distance of point A from the base = 30 m.
+
+126. A 15 meter tall house situated on the banks of a
+river opposite to a chimney situated on the
+other bank of the river. The angle of
+depression of the bottom of chimney from the
+roof of the house is 30° and the elevation angle
+of the top of the chimney from the bottom of
+the house becomes 60°. Find the approximate
+width of the river and the height of the
+chimney.
+
+(a) 24mand 47m
+
+(b) 20 mand 25 m
+
+(c) 26mand 45m
+
+(d) 25mand41m
+
+RRB Paramedical Exam — 21/07/2018 (Shift-I)
+Trigonometry 53
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0021_right.png =====
+Ans : (c) AABC in—
+Let breadth of river = x m
+Chimney
+Home
+| h
+VAN
+—xm—
+tan30° = ib
+x
+4s
+V3 x
+x=15V3___(i)
+tan 60°= A
+x
+a4
+x
+h=V3xx (ii)
+Putting the value of equation (i), in equation (ii)
+h=V3x15V3 = 45m
+breadth of river (x) = 15 x 1.732 = 25.98 = 26m
+height of chimney (h) = 45m
+127. A 5 meter long staircase with a stable base on
+the road can reach two windows 4 meter and 3
+meter high on the other side of the road. What
+is the width of the road?
+(a) 6.2m (b) 6m
+() 7m (d) 5.5m
+RRB Group-D — 11/10/2018 (Shift-ID
+Ans: (c)
+Sem Sem 4m
+3em
+B Cc D
+BD=BC’ +VCD?
+=V9? 3? +5? -4?
+=VP 4V¥ =443=7m
+So breadth of road = 4 + 3 = 7m
+128. From the top of a platform of 7 meter height,
+the elevation angle of a tower which is 47 meter
+in height is 30°. How far is the tower located
+from the platform.
+(a) 453m (b) 40m
+(©) 40V3m (@) 15¥3m
+RRB Group-D — 18/09/2018 (Shift-II)
+! YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0022_left.png =====
+Ans. (c) :
+-: AB= height of tower = 47m A
+CD = BE = height of platform = 7 m
+“. AE=47-7=40m |
+from AADE , 7 IE 47m
+tango 2E_ 400
+ED DE ¥
+w DE=BC= c B
+(distance between platform to tower)
+. 1.”
+- V3 DE
+DE=40V3m or BC=40¥3m
+129. The elevation angle of the top was 40° from the
+initial position of a woman standing on the
+ground floor with a 43.5 tall tower. She moves
+in a straight line from the position of the tower
+in such way that the angle of the alevation of
+the tower from its final position becomes 30°
+then what will be the changed distance.
+(a) 245 meter (b) 293 meter
+(0) 24 meter (d) 29 meter
+RRB Group-D — 20/09/2018 (Shift-I.
+Ans. (b) : Let primary distance of lady from the tower
+= y m. and distance after change place = x m.
+(AB) height of tower = 43.5 m
+A
+“ KA.
+aN CN
+B Cc D
+ky tke x
+in AABC,
+Tan60° = AB
+BC
+J3- 43.5
+y
+y= BS
+v3
+By =43.53}.........(i)
+in AABD,
+Tan30° = AB
+BC
+1 435
+v3 xty
+x+y =43.53|.........dii)
+Putting the value 43.53 in equation (ii)
+xty=3y
+x=2y
+=x
+a)
+Trigonometry 53:
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0022_right.png =====
+Again putting the value of y in equation (i)
+3x > = 43.53
+x 43:5N3 x2
+3
+873
+x=oe
+3
+=29V3 m
+130. The elevation angle of the top of a tower 78 feet
+high is 30° from the initial position of the
+person standing on the ground. He moves
+towards the tower in such a way that he finds
+its initial position and final position are all in
+the same straight line. The angle of elevation of
+the top of the tower from its final position is
+60°. How far did he go from her initial
+position?
+(a) 52 feet (b) 26V3 feet
+3
+(c) 52V3 feet @ 6 feet
+RRB Group-D — 15/11/2018 (Shift-III)
+Ans. : (c) Tower AB = 78 feet
+in AABC,
+A
+A
+Li h
+cD B
+ai)
+tan 30° = —_—__
+(cD+BD)
+CD + BD = 783 feet ----(i)
+in A ABD
+tan 60° = 8
+BD
+2B a
+BD=—=------(ii)
+V3
+Putting the value of BD in equation (i)
+2B
+CD =78V3-——
+v3
+cD= 156
+3
+cp - 15693
+V3xv3
+CD =52N3 feet
+So the travels a distance of 52V3 feet from his initial to
+his final position.
+5 YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0023_left.png =====
+131. From the top of a platform 18 meter high, the
+elevation angle of the top of the tower is 30°. If
+the platform is located 75/3 meter away from
+the tower, then what is the height of the tower?
+(a) 93m (b) 50 ¥3m
+(©) 75m (@) 375 V3 m
+
+RRB Group-D — 01/11/2018 (Shift-IT)
+[Ans : (a) Drawing the diagram according to the
+statement.
+B
+|
+x
+1
+ain] i
+18m 18m
+i
+=n
+in AABE,
+x
+tan30° = ———=
+75N3
+ts
+V3 75N3
+x= 75m
+
+So height of Tower = 18+ 75 = 93m
+
+132. Two pillars of 5 meter and 10 meter stand
+straight on the ground. If the distance between
+their bottoms is 12 meter, find the distance
+between their tops.
+
+(a) 11 meter (b) 12 meter
+(c) 13 meter (d) 14 meter
+RRB NTPC 04.04.2016 Shift : 3
+Ans: (c)
+D
+ml
+sp
+plum at
+Let distance between top of the pillars = AD m
+AE =BC=120m
+DE =CD-CE=10-5
+DE = 5m
+from pythagoras theorem in AAED
+AD? = AE? + DE? =(12)° +(5)° = 144425
+AD? = 169 => AD=13m
+
+133. The shadow of a tower of 25V3 height
+increases by 50 meters when the angle of
+depression by the sun is 60° to X°. Find the
+measure of X.
+
+(a) 45° (b) 30°
+(©) 78° (d) 90°
+RRB NTPC 19.04.2016 Shift : 1
+Trigonometry 531
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0023_right.png =====
+Ans: (b) A
+KoA
+In AABC &
+tan 60° = 253 253
+BC
+PENES
+a |
+BC ——- 8
+BC=25......(1)  *—%0—™
+again in AABD,
+tanx = 2583
+50+BC
+50425. 75 VB
+tan x = tan 30°
+x= 30°
+134. The length of the shadow of a pillar decreases
+by 24 meter. When the angle of elevation of the
+sun increases from 30° to 60°, the length of the
+pllar is.
+(a) 10v3 () 8v3
+(co) 16V3 (@ 12V3
+RRB NTPC 18.04.2016 Shift : 2
+Ans: (d)
+[e;
+hs.
+! A 307 8
+XD 24
+Tan 30? =—P_
+x+24
+oe
+V3 x+24
+V3h=x+24 essen)
+Tan 60° = h
+x
+=h
+x
+h=v3x vecssseen( ID)
+Putting the value of h in equation (I)
+VBxV3x =x+24
+3x=x+24
+2x=24
+x=12
+Tan 60° ms
+12
+h
+V3=>
+12
+h=123m
+D YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0024_left.png =====
+135. The angle of depression of two stones in the
+same direction from an aeroplane vertically
+above a straight road is 30° and 45°
+respectively. If the plane is flying at an altitude
+of 1.365 km, then what is the distance between
+the two stones?
+
+(a) 1 km (b) 2 km
+(©) 3 km (d) 4km
+RRB NTPC 16.04.2016 Shift : 2
+Ans: (a) *: from ADBC 420
+o 1.365 30 VA
+tan 45° =———
+an DB
+DB = 1.365 km 1.365 km
+from A ABC, A is
+1.365 A DB
+tan30° =>
+a AB
+
+AB = 1.365V3
+
+: AD = AB-DB
+
+AD = 1.3653 - 1.365 = 1.365 (V3 -1)
+
+= 1.365 x 0.73 = 0.99 = 1 km
+
+So distance between the stones is 1 km.
+
+136. From the top of a platform of 5 m height, the
+angle of elevation of a tower was 30°. If the
+tower was 45 m high, how far was the platform
+from the tower.
+
+(a) 40m/40 meter
+(b) 40V3 y_\ 40V3 meter
+(c) 45V3 y\45v3 meter
+(a) 15V3 pq\15V3 meter
+RRB ALP & Tec. (21-08-18 Shift-II)
+Ans : (b) c
+from picture A DEC, | |
+CE som
+tan30°=——
+DE t D, 4s |
+tang0°=49 = 140 I
+x V3 x [
+
+x= 40¥3 m A 8
+
+137. The angle of elevation of the top of a 36 m long
+tower from the initial position of a woman on
+the ground was 60°. She walked away in a
+manner that the bottom of the tower, her initial
+position and the final position were all in the
+same straight line. The angle of elevation of the
+top of the tower from her final position was
+30°. How much did she walk from her initial
+position?
+
+Trigonometry 53°
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0024_right.png =====
+(a) 24m/24 meter
+(b) 36v3 m/36v3 meter
+(©) 24V3 m\ 24,3 meter
+(@) 123 m\l2v3 meter
+RRB ALP & Tee. (21-08-18 Shift-II)
+Ans : (c)
+| B
+1
+| \ len
+A D Cc
+From A ABC-
+tan 30° = AB
+AC
+tn 30° = 26
+AC
+AC = 36x V3
+AD + DC= 36x43 ....... (i)
+From A ABD-
+tan 60° = AB _ 36
+AD AD
+36 we
+AD =—~....... (ii)
+v3
+from equation (i) and (ii)
+36
+= +DC=36¥3
+v3
+1
+DC =36 V3 +)
+(Os
+23
+=36 x x 2 =24V3 m
+3 3
+138. The angle of elevation of the top of a hill from
+the foot of the tower is 60° and the angle of
+elevation of the top of the tower from the foot
+of the hill is 30°. If the tower is 50m high, then
+what is the height of the hill?
+(a) 100m/100 meter
+(b) 120m/120 meter
+(c) 180m/180 meter
+(d) 150m/150 meter
+RRB ALP & Tec. (14-08-18 Shift-I)
+y YCT
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0025_left.png =====
+‘Ans : (d) In AABD |
+50 1 _ 50
+tan 30° =~ =—~=-—
+an AB 3 AB
+=> AB =50V3m
+Cui
+Tower
+t Pp |
+| AMO JB
+.. In A ABC,
+h
+tan 60° = ——
+50V3
+=> h=50V3xV3
+>h= 150m
+So height of hill is 150 meter.
+139. From the top of a platform, the angle of
+elevation of a tower was 30°. The tower was 45
+m high and the horizontal distance between the
+platform and the tower was 40V/3 m. What was
+the height of the platform?
+(a) 40 m/40 meter
+(b) 5m/5 meter
+(c) 45 m/45\3 meter
+(@) 203 m/ 20/3 meter
+RRB ALP & Tec. (14-08-18 Shift-II)
+[Ans : (b) Given the height of tower EC = 45 meter
+E
+ii
+45-h
+A {s
+i i °
+rh ao
+Elevation ZEAB = 30°
+Horizontal distance DC =40V3 meter = AB
+Let height of platform is h meter.
+-. in AABE -
+tan30° = EB
+AB
+>  _L_45-h
+V3 40¥3
+=> 45-h= 40
+> h=45—40
+> h= Smeter
+Trigonometry 53!
+
+
+===== Part 24 — Trigonometry (pp. 514–538)_page-0025_right.png =====
+Type -¢@
+140. If 0°< 6 < 90°, then what is the value of 0,
+where cos“0 -3cos0 +2 = 2sin76
+(a) 30° (b) 60°
+(c) 90° (d) 45°
+RRB RPF SI — 10/01/2019 (Shift-I)
+Ans : (c) if 0°< 0 < 90°
+then cos”@ — 3cos@ + 2 = 2sin’®
+cos’0 — 3cos0 + 2 = 2(1-cos?6)
+cos’0 — 3cos0 + 2 = 2 — 2cos”0
+30870 = 3cos0
+3cos’@ — 3cos = 0
+cos’@ — cos@ = 0
+cos (cos0-1) = 0
+if cos = 0° = cos90°
+then @ = 90°
+if cos0 = 1 = cos 0°
+@=0°
+141, If 3sec?x — 2tan’x = 6 and 0°<x < 90° then x =?
+(a) 60° (b) 45°
+(©) 30° (d) 90°
+RRB Group-D — 20/09/2018 (Shift-III)
+Ans : (a) 3sec” x — 2 tan’x = 6
+3 (1+tan?x) — 2 tan’x = 6 [sec?x = 1 + tan’x]
+3+3 tan’ x—2tan’x=6
+tan’x = 3
+tanx = B
+tan x = tan 60°
+x= 60
+142. If 8 sec’x —7 tan’x = 11 and 0°< x < 90°, then
+find the value of x
+(a) 90° (b) 45°
+(c) 30° (60°
+RRB Group-D — 01/10/2018 (Shift-I)
+Ans. (d) : If 8sec” x—7tan? x =11 then x=?
+> 8sec? x—7tan? x =11
+=> &(I+tan?x)-7tan? x =11
+> 8+8tan? x—7tan? x =11
+> tan? x =11-8
+> tan? x =3
+> tanx= 3B
+> tanx = tan 60°
+3 YCT

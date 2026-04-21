@@ -1,0 +1,4322 @@
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0001_left.png =====
+16.
+
+Pre
+——————
+1. The difference of age of father and son is 24
+
+years. Two years before the age of father was
+as the twice of the present age of the son what
+is the present age of the father?
+(a) 46 (b) 42
+(c) 44 (d) 38
+RRB JE - 24/05/2019 (Shift-ID
+Ans : (a) Let the present age of father is = x years
+and present age of son = y years
+difference between the age of father and son = 24 years
+x-y=24 ----(i)
+According to question,
+x-2=2y
+x-2y=2 ----(ii)
+from eq” (i) and (ii)— .
+x -y=24
+x-2y=2
+y = 22 years
+Putting the value of y in eq” (i)
+x-y=24
+x-22=24
+x= 46
+Hence, Present age of father = 46 years
+2. The ratio of age of mother and daughter is 9:2.
+At the time of daughters birth, mothers age
+was 28 years. What is the age of daughter?
+(a) 12 Years (b) 8 Years
+(c) 4 Years (d) 6 Years
+RRB JE - 27/05/2019 (Shift-I
+Ans : (b) Let the age of daughter = 2x years
+|Age of mother = 9x years
+According to question,
+** At the time of daughter's birth the age of mother = 28}
+years
+~. At the time of daughter's birth the age of mother
+= (9x — 2x) years
+. 9X— 2x = 28
+Tx = 28
+x=4
+Age of daughter = 2x = 2 x 4 = 8 years
+3. The difference between the age of mother and
+daughter is 20 years. After 5 years the age of |’
+daughters will be half of her present age of
+mother. What is the age of daughter?
+(a) 15 Years (b) 12 Years
+(c) 10 Years (d) 8 Years
+RRB JE - 30/05/2019 (Shift-I)
+Problems Based on Age 31
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0001_right.png =====
+yblems Based on Age
+
+a
+
+Ans : (c) Let the present age of mother is x year and the|
+
+present age of daughter is y year.
+
+According to question,
+
+x-y=20 wi)
+After 5 years the age of daughter will be half of the|
+present age of mother
+x
+> 37Y +5
+x-2y=10 efi)
+by subtracting equation (i) from equation (ii)
+x-y=20
+x-2y=10
+—40-
+y=10
+
+Hence, present age of daughter is 10 years.
+
+4. After 4 years, the total age of the two members
+of the family will be 64. Four years ago the
+ratio of their age was 3 : 1. Find the age of the
+younger member.
+
+(a) 10 (b) 16
+(c) 12 (d) 15
+RRB JE - 01/06/2019 (Shift-I1)
+
+Ans : (b) Let the age of younger member = y year
+
+and age of elder member = x year
+
+First condition-
+
+xt4t+y+4=64
+xty=56 ----(i)
+Second condition-
+x-4_ 3
+y-4 1
+x-4=3y-12
+x-3y=-8 ----(ii)
+from equation (i) and (ii)
+xty=56
+x-3y=-8
+= + +
+4y =64
+y=16
+
+Hence the age of younger member = y = 16 years
+
+5. The sum and the difference of the ages of two
+children is 33 and 3 respectively. What is the
+age of the elder one?
+
+(a) 15 Years (b) 16 Years
+(c) 18 Years (d) 24 Years
+RRB JE - 01/06/2019 (Shift-I1)
+) YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0002_left.png =====
+Ans : (c) Let the age of elder child = x years
+And age of younger child = y years
+According to question,
+xt y= 33 ----(i)
+x-y=3 ----(ii)
+from equation (i) and (ii)
+xt y= 33
+x-y=3
+2x = 36
+x=18
+Hence age of elder child = 18 years
+6. The ratio of age of three persons are 4:7:9, 8
+years before total age of them were 56. What is
+present age of the eldest one?
+(a) 28 (b) 32
+(c) 36 (d) 42
+RRB JE - 01/06/2019 (Shift-I11
+Ans. (c) Let the present age of first person = 4x years
+Present age of second person = 7x years
+Present age of third person = 9x years
+before 8 years sum of ages of all three persons = 56}
+years
+4x —8 + 7x-8+9x-8=56
+20x = 80
+x=4
+Hence present age of eldest person
+= 9x =9 x 4 = 36 years
+7. The father's age at the time of his sons’ birth
+was equal to the present age of son. If the age
+of son is 20, then find the present age of the
+father.
+(a) 39 Years (b) 30 Years
+(c) 60 Years (d) 40 Years
+RRB JE - 26/06/2019 (Shift-I1T.
+Ans : (d) If present age of son = 20 Years
+So presents age of father = (20+20) = 40 Years
+8. P is 2 years older than Q, Q is 4 years younger
+than R. If the sum of their ages is 27 then the
+age of Q is?
+(a) 8 Years (b) 9 Years
+(c) 11 Years (d) 7 Years
+RRB JE - 27/06/2019 (Shift-I11
+Ans : (d) Let the age of Q =x Years
+Age of P = (x +2) Years
+Age of R = (x + 4) Years
+from question—
+(kK+x4+2+x+4)=27
+3x+6=27
+3x=21
+x=7
+The age of Q is 7 years.
+9. Six years ago, the ratio of the ages of two
+persons P and Q was 3 : 2. After four years,
+ratio their age will be 8:7. What is the age of P?
+(a) 10 Years (b) 12 Years
+(c) 14 Years (d) 8 Years
+RRB RPF Constable — 19/01/2019 (Shift-II)
+Problems Based on Age 321
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0002_right.png =====
+Ans : (b)
+Let the age of P and Q befor 6 years was 3x and 2x.
+Present age of P and Q is (3x+6) year and (2x+6) years
+According to question,
+3x+10_ 8
+2x+10 7
+21x + 70 = 16x + 80
+5x=10
+x=2
+Present age of P = (3x+6) = 3x2+6 = 12 Years
+10. The ratio of the age of Deepika and her mother
+is 3: 11. After 3 years theirs age ratio becomes
+1:3. What is the age of Deepika.
+(a) 15 Years (b) 9 Years
+(c) 13 Years (d) 11 Years
+RRB RPF SI — 11/01/2019 (Shift-I.
+Ans. (b) : Let the age of Deepika and her mother is 3x|
+and 11x years respectively.
+According to question,
+3x+3 1
+11x+3 3
+=> 9x+9 = 11xt3
+=> 2x=6
+=>x=3
+Therefore age of Deepika = 3x3 = 9 Years
+11. The ratio of present ages of X and Y is 3 : 4.
+Five years ago their age ratio was 5:7. Then
+what is the present age of Y.
+(a) 50 Years (b) 60 Years
+(c) 30 Years (d) 40 Years
+RRB RPF Constable — 17/01/2019 (Shift-I)
+Ans. (d) : Let the present age of X and Y is 3x and 4x)
+years respectively.
+The Ratio of age before 5 years = 5:7
+3x-5 _5
+4x-5 7
+21x — 35 = 20x — 25
+21x — 20x =-25 + 35
+x=10
+So present age of Y = 4x =4 x 10=40 Years
+12. The ratio of the age of father, mother and
+daughter is 22:20:9. After 10 years the age
+ratio of will be 27:25:14. Find the present age
+of the mother.
+(a) 21 (b) 26
+(c) 27 (d) 40
+RRB Group-D — 07/12/2018 (Shift-II1
+Ans : (d) Let the age of father, mother and daughter is
+22x, 20x and 9x years respectively.
+According to question,-
+22x+10 _ 27
+20x+10 25
+550 x + 250 = 540x + 270
+10x = 20
+x=2
+The present age of Mother = 20x
+= 20 x 2=40 Years
+) YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0003_left.png =====
+13. 6 years ago, the ratio of age of Saina and Sagar
+was 6 : 5 therefore in the next four years the
+ratio of their age will be 11:10. What is the
+present age of Sagar?
+
+(a) 14 Years (b) 16 Years
+(c) 12 Years (d) 18 Years
+RRB Group-D — 31/10/2018 (Shift-I
+Ans: (b)
+Let the age of Saina and Sagar before 6 years
+= 6x, 5x Years
+
+The present age of Saina and Sagar = (6x + 6)Years,
+
+(5x + 6) Years
+
+According to question,-
+
+6x+6+4 11
+5x+6+4 10
+
+60x + 100 = 55x + 110
+5x=10
+
+x=2
+
+Present age of Sagar = 5x + 6=5X2+6= 16 Years
+
+14. Sis 7 years younger than R. If their age ratio is
+7:9, then what is the age of S.
+
+(a) 16 Years (b) 28 Years
+(c) 18 Years (d) 24.5 Years
+RRB Group-D — 26/09/2018 (Shift-I)
+Ans : (d) Let the age of S = x Years.
+Age of R = (x + 7) Years
+According to question,-
+aed
+x+7 9
+
+> 9x = 7x +49
+
+> 2x = 49
+
+> x= 24.5 Years
+
+Therefore Age of S is 24.5 years.
+
+15. The sum of the ages of 6 persons A, B, C, D E
+and F working in the same company is 105
+years. There is a diffeence of 5 years when they
+are born. What is the age of the eldest one?
+
+(a) 20 Years (b) 25 Years
+(c) 30 Years (d) 15 Years
+RRB Group-D — 03/10/2018 (Shift-II)
+Ans: (c) Let the age of eldest person = x years
+.. Therefore the age of All 6 people is
+
+x, (x -5), (x — 10), (x-15), (x — 20) and (x - 25) Years
+
+According to question,
+
+x+x-5+x-10+x-15+x-20+x-25 = 105
+
+6x — 75 = 105
+
+6x = 180
+
+Therefore the age of eldest person = 30 years.
+
+16. The present age ratio of Naresh and suparna is
+7:3, three years later from now their age ratio
+will be 2:1. Present age of Naresh is _ years.
+(a) 10.5 (b) 28
+() 14 (d) 21
+
+RRB Paramedical Exam — 20/07/2018 (Shift-I)
+
+Problems Based on Age 32)
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0003_right.png =====
+Ans : (d) Let the present age of Naresh = 7 x
+Present age of suparna = 3x
+Age of Naresh after 3 years = (7x + 3)
+Age of suparna after 3 years = (3x + 3)
+According to question,
+1x43 2 43 = 6x46)
+3x+3 1
+>x=6-3
+=
+Present age of Naresh = 7 x 3 = 21 Years
+17. The ratio of the present ages of x and y is 5: 4.
+Three years later from now, their age ratio will
+be 11:9. What is the present age of Y.
+(a) 26 Years (b) 22 Years
+(c) 27 Years (d) 24 Years
+RRB Group-D — 25/09/2018 (Shift-IT)
+Ans : (d)
+Let the present age of X and Y = 5x and 4x Years
+According to question,
+5x+3_11
+4x+3 9
+45x + 27 = 44x + 33
+x=33-27
+x=6
+Present age of Y = 4 x 6 = 24 Years
+18. The present ages of S and A are in the ratio of
+5: 4 respectively. Therefore after three years,
+their age ratio will be 11:9 respectively. What
+is the present age of S in years?
+(a) 24 (b) 30
+(c) 40 (d) 27
+RRB Group-D — 10/10/2018 (Shift-I)
+Ans: (b) Let the present age of S = 5x years
+Present age of A= 4x Years
+from question—
+5x+3_11
+4x+3 9
+45x + 27 = 44x + 33
+x=6
+Therefore present age of S = 5x = 5 x 6 = 30 Years
+19. Aman is as young as vinay and he is older than
+Arun. If the sum of the ages of Arun and Vinay
+is 40 years, then what is the age of Aman?
+(a) 20 Years (b) 22 Years
+(c) 25 Years (d) 30 Years
+RRB Group-D — 05/12/2018 (Shift-I)
+Ans: (a) According to question,
+Age of Vinay — age of Aman = age of Aman — age of,
+Arun
+Age of Vinay + age of Arun = 2 x age of Aman
+2 x Age of Aman = 40
+Age of Aman = 20 Years
+{ YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0004_left.png =====
+20. The present age ratio of J and K is 11:6. After 5
+years their age ratio will be 12 :7. What is the
+present age of K.
+
+(a) 30 Years (b) 60 Years
+(c) 55 Years (d) 35 Years
+RRB Group-D — 05/12/2018 (Shift-I])
+Ans, (a) Let the present age of J and K is 11x and 6x
+years respectively.
+According to question,
+x+5_ 12
+6x+5 7
+71x + 35 = 72x + 60
+71x — 72x = 60-35
+5x=25
+x=5
+Therefore, present age of K = 6 x 5=30 Years
+
+21. The ratio of present age of Rekha and Rashmi
+is 7:4, Three years later from now their age
+ratio will be 8:5. What is the present age of
+Rashmi (in years)?
+
+(a) 15 (b) 9
+(©) 8 (d) 12
+RRB Group-D — 12/11/2018 (Shift-I)
+
+Ans. (d) : Let the present age of Rekha and Rashmi is|
+
+7x and 4x years.
+
+According to question,
+
+Tx+3_8
+4x+3 5
+
+35x + 15 =32x +24
+
+3x =9
+
+x= 3
+
+Therefore, Present age of Rashmi = 4x = 4x3 =
+
+12Years
+
+22. The ratio of present age of Meena and Seena is
+4:3. After 6 years age of Meena will be 26.
+What is the present age of Seena?
+
+(a) 12 Years (b) 19 Years 6 months
+(c)_ 15 Years (d) 21 Years
+RRB Group-D — 12/11/2018 (Shift-II1)
+Ans : (c) Let the present age of Meena = 4x Years
+and present age of Seena = 3x Years
+According to question,
+4x+6=26
+4x=20
+x=5
+
+Present age of Seena = 3x = 3 x 5=15 Years
+
+23. When the age of father is 54 years, then the
+difference between the ages of the two sisters is
+4 years. Father is two years older than mother.
+The younger sister is half of the age of the
+mother. Find the age of the elder sister.
+
+(a) 26 (b) 27
+(c) 29 (d) 30
+RRB NTPC 06.04.2016 Shift : 1
+Problems Based on Age 32:
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0004_right.png =====
+Ans: (d) The age of father = 54 years
+oe Age of mother = 54 - 2 = 52 Years
+Age of younger sister = Ageot Mother -2 =26year
+Age of elder sister — age of younger sister = 4 years
+Age of elder sister — 26 = 4
+oe Age of elder sister = 4 + 26 = 30 Years
+24. There is a difference of two years in the age of
+two sisters, while the age of her father is 52
+years. Father is two years older than mother. If
+the age of the elder sister is half of the age of
+mother, find the age of the younger sister.
+(a) 27 (b) 21 (c) 25 (d) 23
+RRB NTPC 06.04.2016 Shift : 2
+Ans : (d) Let the age of elder sister = x Years
+then age of younger sister = (x-—2) Years
+Age of father = 52 Years
+Age of Mother = 52 -2 =50 Years
+Ageot mother = Age of elder sister
+50
+=x
+2
+Elder sister (x) = 25 Years
+Younger sister = x—2 = 25 — 2 = 23 Years
+25.  Sarika has three children. First is 5 years older
+than the second one and the second one is 4
+years older than the third. The sum of their
+ages is 22 years. Find the age of the eldest child.
+(a) 7 (b) 9 (ce) 11 (d) 12
+RRB NTPC 29.04.2016 Shift : 1
+Ans : (d) Let the age of second child = x Years
+then age of third child = (x — 4) Years
+and age of first child = (x + 5) Years
+According to question,
+x-44+x+x+5=22
+3x+1=22
+3x=21
+x=7
+Age of eldest child = x + 5=7+5= 12 Years
+26. Neetu is 10 years elder to Meetu, and Meetu is
+7 years elder to Geetu. If the sum of their ages
+is 48 years, what is Neetu's age (in years)?
+(a) 25 (b) 22
+(c) 28 (d) 27
+RRB ALP & Tee. (30-08-18 Shift-II)
+Ans : (a) According to question, where
+N= Neetu
+N=M+10 an) M=>Meetu
+G=>Geetu
+M=G+7 eeeefii)
+N+M+G=48 .....(iii)
+from equation (i), (ii) and (iii)-
+M+10+M+M-7=48
+3M = 45
+M=15
+Age of Meetu is 15 years,
+Age of Neetu = M + 10 = 25 Years
+J YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0005_left.png =====
+27. Two-thirds of my present age is the same as |
+three-fourths of that of one of my cousins'. My
+age three years ago will be his age four years
+hence. My present age is years. .
+(a) 72 (b) 63
+(c) 54 qd) 81
+
+RRB ALP & Tec, (29-08-18 Shift-I,
+
+Ans : (b) If my present age = x year and present age of|
+
+my cousin = y year
+
+Then according to first condition—
+
+2x _3y
+3.4
+
+8x-9y=0 seen (i)
+
+According to second condition—
+
+x-3=yt4
+
+xy=7
+
+y=x-7
+
+y = X-7 putting in equation (i)-
+
+8x—9 (x-7) =0
+
+8x-9x + 63=0
+
+-x+63=0
+
+x = 63 years
+
+28. The ages difference between A and B is 16
+years. If 6 years ago, the elder one was 3 times
+as old as the younger one, find the present age
+of the younger between A and B ?
+
+(a) 15 years (b) 11 years
+(c) 14 years (d) 12 years
+RRB ALP & Tec. (20-08-18 Shift-II) |.
+Ans: (c) Let Age of B =x Years
+«. Age of A= (16 +x) Years
+According to question, before 6 Years—
+3 (x6) = (16 + x-6)
+3x-18 =x +10
+2x = 28
+x=14
+
+Therefore, the age of younger person is 14 years.
+
+29. Present ages of Sai and Sateesh are in the ratio
+of 5: 4 respectively. Three years after, the ratio
+of their ages will be 11 : 9 respectively. What is
+the present age of Sateesh in years?
+
+(a) 22 (b) 23 .
+(c) 21 (d) 24
+RRB ALP & Tec. (10-08-18 Shift-I)
+
+Ans : (d) Let the present age of Sai and Sateesh is 5x)
+
+years, 4x years respectively.
+
+According to question,
+
+5x+3 11
+4x+3 9
+
+=> 9(5x+3) = 11(4x+3)
+
+=> 45x+27 = 44x +33
+
+=> 45x — 44x = 33 - 27
+
+> x=6
+
+Therefore, Present age of Sateesh = 6x4 = 24 Years
+
+Problems Based on Age 32.
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0005_right.png =====
+30. Neeraj's age is half of suraj's age. If 8 years is
+subtracted from Neeraj's age and 5 years is
+added in Suraj's age then Suraj's age will be 5
+times more than Neeraj. Suraj's and Neeraj's
+age was -
+
+(a) 30 Years and 15 Years
+(b) 28 Years and 14 Years
+(c) 26 Years and 12 Years
+(d) 28 Years and 13 Years
+RRB RPF SI — 16/01/2019 (Shift-IT
+
+Ans. (d) : Let the present age of suraj is x years, and|
+
+present age of Neeraj is 2 years.
+
+According to question,
+
+x
+
+(3 8) (x+5)
+> XX _49 =x+5
+
+2
+> ox x=5+40
+
+2
+> 3x =45
+
+2
+> x = 30 Years
+
+Age of Suraj before 2 years = 30 —- 2 = 28 Years
+
+Age of Neeraj before 2 years = 15-2 = 13 Years
+
+31. The age ratio of A and B is 3:2. After 10 years
+the sum of their age will be 80. What is their
+present age?
+
+(a) 27,28 (b) 36,24
+(c) 42, 28 (d) 45,30
+RRB JE - 23/05/2019 (Shift-1
+Ans: (b) Let the present age of A = 3x Years
+Present age of B = 2x Years
+
+According to question,
+
+3x + 10+ 2x + 10=80
+
+5x = 60
+
+x=12
+
+Present age of A = 3 x 12 = 36 Years
+
+Present age of B = 2 x 12 = 24 Years
+
+32. One year before the age ratio of two sisters was
+2:3. Sum of their present age is 12. Find their
+present age.
+
+(a) 9,3 (b) 7.5, 4.5
+(c) 8,4 (d) 5,7
+RRB JE - 23/05/2019 (Shift-I11.
+Ans : (d) Let the present age of both sisters is x years|
+and y years.
+xty=12......(i)
+According to question,
+x-l_ 2
+y-l1 3
+=> 3x-3=2y-2
+3 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0006_left.png =====
+=> 3x-2y=1........ (ii)
+
+from equation (i) and (ii)
+
+[k+y=12]x2 {multiplying by 2 in eq" (i)}
+3x-2y=1
+
+Sx = 25
+
+x= 5
+
+putting the value of x in equation (i)
+
+x+y=12 .
+
+Sty=12
+
+y=7
+
+Therefore, their present age is = 5 Years and 7 Years
+
+33. The sum and the difference of age ratio of two
+brothers is 5:1. If the product of their age is 96,
+then find their age?
+
+(a) 8,12 (b) 6, 16
+(c) 6,10 (d) 24,4
+RRB JE - 26/06/2019 (Shift-IIT.
+
+Ans : (a) Let the age of both brothers = x, y Years
+According to question,
+
+xty 5
+
+x-y “1
+
+xt+y=5x-Sy
+
+6y = 4x
+
+a2
+
+3
+xy =96 wi)
+
+xx2x=96
+
+3
+2 3
+
+x? =96x 2 |
+
+x= Vi44
+
+x=12
+putting the value of x in equation (i)
+
+12x y=96
+
+y=8
+
+Therefore, their age is 8, 12.
+
+34, The sum of the age of Sindu and Bindu is 30
+years? The product of their age is 221. What is
+theirs age?
+
+(a) 17 Years, 13 Years
+(b) 16 Years, 14 Years
+(c) 15 Years, 15 Years
+(d) 18 Years, 12 Years
+RRB Group-D — 16/10/2018 (Shift-I)
+
+Ans. (a) : Let the age of Sindu is x years and age of Bindu] |
+
+is (30-x) years.
+
+According to question,
+
+xx(30—x)=221
+30x-x? =221
+x? -30x +221=0
+Problems Based on Age 32:
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0006_right.png =====
+x? -17x-13x +221=0
+x(x-17)-13(x-17) =0
+(x -17)(x -13) =0
+If x-17=0
+x = 17 so another's age = 30-17=13 Years
+If x-13=0
+x =13 so another's age = 30-13 = 17 Years
+35. | Sudha's age is twice as of Radha. If 6 years is
+subtracted from Radha's age and 4 years is
+added to Sudha's age, then Sudha's age will be
+four times of Radha's age, Two years before
+from now, what will be the age of Sudha and
+Radha?
+(a) 30 Years and 14 Years
+(b) 26 Years and 12 Years
+(c) 34 Years and 20 Years
+(d) 30 Years and 16 Years
+RRB Group-D — 09/10/2018 (Shift-I)
+Ans. (b) : Let the present age of Radha is x years and
+present age of Sudha is 2x years.
+According to question,
+4(x-6)=(2x+4)
+> 4x-24=2x+4
+=> 4x-2x =28
+=> 2x =28
+>x=14
+7 age of Sudha before 2 Years = 2x-—2
+=2x14-2
+= 28-2=26 Years
+and age of Radha before 2 years = 14-2 = 12 Years
+36. Kiran said to Varun that her brother Abhi is 4
+year younger as compared to her. She also told
+that the sum of their age was 32. Help Varun in
+finding out the age of Kiran and Abhi.
+(a) Kiran's age is 18 years and Abhi's age is 14
+(b) Kiran's age is 16 years and Abhi's age is 12
+(c) Kiran's age is 12 years and Abhi's age is 16
+(d) Kiran's age is 10 years and Abhi's age is 14
+RRB Group-D — 11/10/2018 (Shift-III)
+Ans: (a) Let the age of Kiran = x Years
+Then age of brother Abhi = (x—4) Years
+7 x+x-4=32
+o 2x = 36, >x=18
+Age of Kiran (x) = 18 Years
+Age of Abhi = (x— 4) Years = 18-4 = 14 Years
+37. A man says to his son seven years before I was
+7 times of your age and three years after of
+your age, I will be three times of your age. Find
+his age.
+(a) 42,12 (b) 52,12
+(c) 40, 14 (d) 20,42
+RRB Group-D — 12/12/2018 (Shift-I)
+: YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0007_left.png =====
+Ans. (a) Let the age of father is y years and age of son|
+jis x years.
+
+According to question,
+
+7 (x= 7) =(y~7)
+
+Tx 49 =y-7
+
+7x -— y = 42 .....(i)
+
+And
+
+3(x + 3) =(y +3) :
+3x+9=y+3
+
+3x —y =-6 ......(ii)
+
+from equation (i) and (ii)
+
+Tx-y =42
+
+3x-y=-6
+
+- + +
+
+4x =48
+
+x= 12
+
+from equation (i)
+
+Tx-y =42
+
+7 x 12-y=42
+
+84-42=y
+
+y=42
+
+therefore age of father = 42 Years
+land age of son= 12 Years
+
+38. Ankita is two years younger than Anu. Four
+years after Anu's age before three years will be |.
+twice the age of Ankita. Find the present age of
+Ankita and Anu.
+
+(a) 14 Years and 16 Years
+
+(b) 15 Years and 17 Years
+
+(c) 12 Years and 14 Years
+
+(d) 13 Years and 15 Years
+
+RRB Group-D — 10/12/2018 (Shift-I
+Ans. (c) : Let the present age of Anu = x Years
+Then present age of Ankita = (x — 2) Years
+According to question,
+(x + 4)= (x-2-3) x2
+K+4=(x—5)x2
+x+4=2x-10
+x= 14
+Present age of Ankita = x—2
+=14-2=12 Years
+
+Therefore, the present age of Ankita and Anu is 12
+years and 14 years respectively.
+
+39, The sum of present age of Nitya and Satya is 40
+years.The product of their age is 351. What is
+their present age in years?
+
+(a) 27 and 13 (b) 28 and 12
+
+(c) 25 and 15 (d) 26 and 14
+
+RRB Group-D — 12/11/2018 (Shift-ID
+Ans : (a) Let the present age of Nitya = a years
+Present age of Satya = b years
+According to question, a + b = 40.........(i)
+ab = 351 ee (1))
+
+(ab)? = (a+b) - 4ab
+Problems Based on Age 32!
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0007_right.png =====
+= (402-4 x 351
+= 1600-1404
+a—b=VI196 = 14
+a-b=14 eemeen (11)
+from equation (i) and (iii)
+a=27,b=13
++: Their present age in years is 27 years and 13 years.
+40. Father's age is four times the age of the son. In
+20 years his age will be twice of his son's age.
+Find his age?
+(a) 36 Years, 9 Years
+(b) 44 Years, 11 Years
+(c) 40 Years, 10 Years
+(d) 60 Years, 15 Years
+RRB Group-D — 18/09/2018 (Shift-II1
+Ans. (c) : Let the present age of son = x Years
+Present age of father = 4x Years
+According to question,
+2(x+20) = 4x + 20
+2x +40 =4x +20
+40-20 =4x-2x
+2x = 20
+x= 10 Years
+Therefore present age of son = 10 Years
+present age of father = 4 x 10 = 40 Years
+41. Age ratio of two brothers is 5:8 and the
+difference of their age is 12 years, find their
+age.
+(a) 20, 32 (b) 16, 28
+(c) 18, 30 (d) 22, 34
+RRB NTPC 31.03.2016 Shift : 3
+Ans: (a) Let the age of both brothers is 5x and 8x years
+respectively.
+from question—
+8x —5x =12
+3x=12>x=4
+Therefore, the age of both brothers is 20 years 32 years.
+42. The difference in ages of Sunita and Sheela is
+12 years. If 9 years before the elders age was 4
+times than, that of younger one, then what is
+their present age?
+(a) 11 and 23 (b) 15 and 27
+(c) 13 and 25 (d) 23 and 35
+RRB NTPC 18.04.2016 Shift : 2
+Ans: (c) Let the present age of sunita = x Years
+Present age of sheela = (x — 12) Years
+According to question,
+x-9=4(x-12-9)
+x-9=4(x-21)
+x-9=4x- 84
+4x-x=84-9
+3x = 75
+x=25
+Present age of Sunita = x = 25 Years
+Present age of Sheela = x — 12 = 25-12=13 Years
+5 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0008_left.png =====
+43. The difference of the age of Vinay and Vijay is
+20 years. If 5 years before the elder boys age
+was 5 times of younger boy. Then what is their
+present age?
+
+(a) 15 and 35 (b) 5 and 25
+(c) 10 and 30 (d) 8 and 28
+RRB NTPC 22.04.2016 Shift : 3
+Ans : (c) Let the present age of Vijay = x Years
+Present age of Vinay = (x+20) Years
+According to question,
+x+20-5=5(x-5)
+x+15=5x-25
+4x =40
+ox =10
+
+Therefore, their present age is 10 and 30 years.
+
+44, The present age ratio of mother and daughter
+is 8:3. After 12 years their age ratio will be 2:1.
+What is the sum of the present age of mother
+and daughter.
+
+(a) 66 Years (b) 74 Years
+(c) 71 Years (d) 69 Years
+RRB RPF SI — 12/01/2019 (Shift-IT,
+
+Ans : (a) Let the present age of Mother and Daughter is|
+
+8x years and 3x years
+
+According to question,
+
+8x+12_ 2
+3x+12 1
+8x +12=6x +24
+2x = 12
+x=6
+«Present age of (Mother + daughter) = (8x + 3x) = 11x
+= 11 x 6 = 66 Years
+
+45. The age ratio of father and son is 3:1 and the
+product of their age is 147. Find the sum of
+their age.
+
+(a) 28 (b) 32
+(c) 36 (d) 35
+RRB JE - 24/05/2019 (Shift-I
+Ans : (a) Let the age of father = 3x Years
+Age of son = x Years
+According to question,
+3x x x= 147
+x= 49
+x=7
+Sum of age of father and son = 3x + x = 4x
+=4 x 7=28 Years
+
+46. The age ratio of mother and daughter is 12:5.
+After 10 years, mother's age will be twice to the
+age of daughter. What is the sum of their age at
+present?
+
+(a) 60 (b) 75
+(c) 65 (d) 85
+RRB JE - 27/05/2019 (Shift-Il)
+Problems Based on Age 32
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0008_right.png =====
+Ans : (d) Let the present age of mother is 12x years and|
+present age of daughter is 5x years.
+According to question,
+After 10 years the age of mother will be twice to the age
+of daughter
+12x + 10 =2 x (5x + 10)
+12x + 10= 10x +20
+2x= 10
+x=5
+sum of their age at present = 12x + 5x
+= 17x
+=17x5
+= 85 Years
+47. A's age is twice of B. Sum of their present age
+is 60 years. What will be the sum of their age
+after 5 years?
+(a) 70 (b) 80
+(c) 65 (d) 75
+RRB JE - 31/05/2019 (Shift-1
+Ans : (a) Let the age of B = a Years
+Age of A = 2a Years
+2at+a=60
+3a = 60
+a=20
+Sum of their age after 5 years = 2a+ St+a+5
+=2x20+5+20+5
+= 40+ 30=70 Years
+48. The difference between the age of A and B is 6.
+Their ratio is 3:5. Find the sum of their age.
+(a) 24 (b) 40
+(c) 16 (d) 32
+RRB JE - 31/05/2019 (Shift-IID)
+Ans. (a) Let the age of A= 3x Years
+and Age of B = 5x Years
+According to question,
+5x-3x=6
+2x =6
+x=3
+Age of A = 3 x 3=9 Years
+Age of B= 5x 3=15 Years
+Sum of their age = 9 + 15 = 24 Years
+49. If P's age is twice of Q's age and after 5 years
+the sum of their age is 70, then find their
+present age (in years).
+(a) 60 (b) 40
+(c) 30 (d) 50
+RRB RPF Constable — 22/01/2019 (Shift-ID)
+Ans : (a) Let the age of Q is x years and Age of P is 2x)
+years.
+So According to question,-
+2x+5+x+5=70
+3x = 60
+x=20
+Sum of age of P and Q = 2x +x = 40+ 20= 60 Years
+J YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0009_left.png =====
+50. The present age ratio of P and D is 3 : 4 while |.
+the present age ratio of D and A is 5:6. After 15
+years from now, the age ratio of P and D will
+be 4:5. What is the sum of the present age of all
+three?
+
+(a) 180 Years (b) 183 Years
+(c) 177 Years (d) 175 Years
+RRB Group-D — 26/11/2018 (Shift-III)
+Ans: (c)
+
+P:DandD:A
+
+3:4 5:6
+
+P:D:A
+
+3:4
+
+5:6
+
+P:D:A =15 : 20: 24
+
+Let the present age of P, D and A is 15x, 20x and 24x
+
+Age after 15 years
+
+Age of P = (15x + 15)
+
+Age of D = (20x + 15)
+
+According to question,
+
+I5Sx+15_ 4
+20x+15 5
+
+75x + 75 = 80x + 60
+
+5x=15 !
+
+Sum of Present age of all three people
+
+=15x3+20x3+24x3
+= 45 + 60 + 72 = 177 Years
+
+51. The difference between the age of Wagar and
+Nasima is 8 years. 30 years before they were
+married then the four times of Waqar's age
+was equal to 5 times of Nasima's age. Find the
+sum of their present age.
+
+(a) 130 Years (b) 134 Years
+(c) 132 Years (d) 135 Years
+RRB Group-D — 20/09/2018 (Shift-I)
+Ans. (c) : Let the present age of Nasima = x Year
+So present age of Wagar = (x + 8) Year
+before 30 Years,
+Age of Nasima = (x — 30) Years
+Age of Wagar = ( x + 8 — 30) Years
+= (x -22) Years
+According to condition,
+4(x-22)=5(x-30)
+4x — 88 = 5x- 150
+5x —4x = 150-88
+x=62
+.. Present age of Nasima = 62 Years
+
+Present age of Wagar = 62 + 8 = 70 Years
+
+Sum of their age = 62 + 70 = 132 Years
+
+Problems Based on Age 32°
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0009_right.png =====
+52. The present age ratio of X and Y is 3 : 8 while
+the present age ratio of Y and Z is 4:5. Two
+years before the age ratio of X and Y was 1:3.
+The sum of present age of all three is__?
+
+(a) 126 Years (b) 63 Years
+(c) 84 Years (d) 105 Years
+RRB Group-D — 06/12/2018 (Shift-ID
+
+Ans. (c) The ratio of present age of X and Y is 3:8 and
+
+Ratio of present age of Y and Z is 4: 5.
+
+Ratio of Present age of X:Y:Z is
+
+KX: Y:Z
+40:5
+12: 32 :40
+Let the present age of X and Y is 12x and 32 x|
+respectively.
+12x-2 1
+32x-2 3
+
+36x — 6 = 32x-2
+
+4x=4
+
+x=]
+
+Sum of present age of X, Y and Z = 12 +32+40
+
+= 84 Years
+
+53. 28 months before A's age was 3.5 times of B's
+age 4 months after from now A's age will be 2.5
+times of B's age. What is the sum of their
+present age?
+
+(a) 23 Years
+(b) 22 Years 8 month
+(c) 23 Years 2 month
+(d) 22 Years 10 month
+RRB Group-D — 28/11/2018 (Shift-I
+
+Ans : (b) Let the present age of A is x month and
+
+present age of B is y month.
+
+According to question,-
+
+x — 28 = 3.5 (y-28)
+
+x—3.5y =28— 98
+
+x-3.5 y=—-70......(i)
+
+After 4 years
+
+x+4=2.5(y+4)
+
+x—2.5y = 10-4
+
+x-2.5y=6......(ii)
+subtracting equation (ii) from equation (i)
+x-3.5y=-70
+x-2.5y=6
+—- + =
+-y=-76
+y=76
+from equation (ii),
+x-2.5 x 76=6
+x-190=6>x=196
+Sum of present age of A and B
+= x+y=76 + 196 = 272 months
+= 22 Years 8 months
+y YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0010_left.png =====
+54. At present the age ratio of Teertha and
+Pradeep is 2:3 while the present age ratio of
+Pradeep and Umar is 4:5. Four years before
+the age ratio of Teertha and Pradeep was 5: 8.
+What is the sum of ages of all three at present?
+(a) 140 Years (b) 120 Years
+(c) 90 Years (d) 105 Years
+
+RRB Group-D — 26/11/2018 (Shift-III)
+
+Ans: (d)
+
+Teertha : Pradeep = 2:3
+Pradeed : Umar = 4: 5 :
+Teertha : Pradeep : Umar
+2:3
+4:5
+8:12:15
+
+Let the present age of Teertha, Pradeep and Umar is 8x,
+
+12x and 15x years respectively.
+
+before 4 years.
+
+Age of Teertha = (8x-4) Years
+Age of Pradeep = (12x—-4) Years
+According to question,
+8x-4 5
+12x-4 8
+64x — 32 = 60x -— 20
+4x=12
+x=3
+The sum of present age of all three people
+=8x3+12x3+15x3
+= 24 + 36 + 45 = 105 Years
+
+55. Chavan's age before 15 years was 4 times of
+Pawan's age. Pawan's present age 1/3 of Sunil
+two years before age, while Chavan present age
+is 3/5 of Sunil present age. What is the sum of
+age of all three?
+
+(a) 130 Years (b) 120 Years
+(c) 128 Years (d) 125 Years
+RRB Group-D — 16/11/2018 (Shift-II)
+
+Ans. (d) : Let the present age of sunil = x Years :
+
+.’. present age of chavan = 3x Years
+
+so present age of pawan = & Years
+According to question,-
+
+3y-45 = (Sa5}
+
+5 3
+
+3x-75 -4(52-*)
+
+5 3
+
+3(3x —75) = 20 (x - 47)
+
+9x — 225 = 20 x- 940
+
+20x — 9x = 940 — 225
+
+11x=715
+
+715
+x=-2
+ll
+
+x= 65
+
+Problems Based on Age 323
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0010_right.png =====
+Sum of present age of all three people
+3. (x-2)
+=x+ix4+ =
+5 3
+_ 15x+9x+5x-10
+15
+_ 29x-10
+15
+— 29x 65-10 _ 1885-10 _ 1875 _ 125 Years
+15 15 15
+56. 9 months before, Trisha's age was three times
+of Rishabh's age who is 4 months older than
+Yawan. After 25 months from now Yavan 20
+times age will be equal Trisha 9 times age.
+What is the sum of present age of her?
+(a) 19 Years 11 months (b) 19 Years 9 months
+(c) 19 Years 5 months (d) 18 Years 9 months
+RRB Group-D — 15/11/2018 (Shift-II1)
+Ans : (c) Let before 9 months
+Age of Yawan = x month
+on Age of Rishabh = (x + 4) months
+Age of Trisha = (x + 4) x 3 = (3x + 12) months
+In present,
+Age of Yawan = (x + 9) months
+Age of Rishabh = (x + 13) months
+Age of Trisha (3x + 21) months
+According to question,
+After 25 months
+(3x + 46) x 9 = (x + 34) x 20
+27x + 414 = 20x + 680
+Tx = 266
+x= 38
+Therefore, present age of Yawan = x + 9= 47 month
+Present age of Rishabh = x + 13 = 51 month
+Present age of Trisha = 3x + 21 = 135 month
+Sum of present age of all people
+= 233 months or 19 Year 5 months
+57. Ten months ago, Tiyasha's age was 2.5 times of
+Rishi's age, who is 15 months older than
+Shravan. 30 months after from now. 16 times of
+Shrawan's age will be 7 times of Tiyasha's age.
+What is the sum of the present ages of Tiyasha,
+Rishi and Shravan?
+(a) 30 years 9 month (b) 31 years 9 month
+(c) 31 years 3 month (d) 31 years 11 month
+RRB Group-D — 15/11/2018 (Shift-IID)
+Ans : (c) Before 10 months,
+Let the age of shravan = x month
+an Age of Rishi = (x + 15) months
+Age of Tiyasha = (x + 15) x 2.5 = (2.5x + 37.5) months
+In present,
+Age of Shravan = (x + 10) months.
+Age of Rishi = (x + 25) months
+Age of Tiyasha = (2.5x + 47.5) months
+According to question,
+After 30 months,
+3 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0011_left.png =====
+(x + 10 +30) x 16 = (2.5x + 47.5 + 30) x7 ;
+(x + 40) x 16 = (2.5x + 77.5) x7
+16x + 640 = 17.5x + 542.5
+1.5x =97.5
+x= 65
+Therefore Present age of Shravan = (x+10) = 75 months
+Present age of Rishi = (x + 25) = 90 months
+Present age of Tiyasha = (2.5x + 47.5) = 210 months
+Sum of present age of all people = 75+90+210
+= 375 months
+375 months = 31 year 3 months
+58. Biju's age is 28 years less than three times of
+Subham's age. Subham's age is 16 years more
+than Amir's 4/5 age. Kaveri is 10 years younger
+than Amir and half of the age of Subham.
+What is the sum of their ages?
+(a) 196 Years (b) 182 Years
+(c) 180 Years (d) 188 Years
+RRB Group-D — 11/12/2018 (Shift-I
+Ans. (b) : Let the age of Shubham = x Years
+Age of Kaveri = > Years |
+Age of Amir = ( + io) Years
+Age of Biju = y Years
+According to question,
+y =3x-28
+3x —y = 28 ------------ (i)
+16+(Zs10}$-5
+2 5
+16+ 2x +8=x
+5
+24=x- 2x
+5
+m= 5x-2x
+5
+24= 3x
+5
+x = 40 Years
+putting the value of x in equation (i)
+3x-—y=28
+3x40 -y = 28
+y = 92 Years
+[Age of Shubham = x Years
+= 40 Years
+Age of Kaveri = 3 = 2 = 20 Years
+Age of Amir =F +10 = 2+10=30 Years
+Age of Biju = y Years = 92 Years
+Sum of age of all people
+= 40+ 20+30+92 =182 Years
+Problems Based on Age 32!
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0011_right.png =====
+59. 7 children with the same birth date were born
+in seven successive years. The sum of the ages
+of the eldest three children is 93 years. How
+many years will be the sum of the ages of the
+youngest three children?
+
+(a) 81 (b) 90
+(c) 87 (d) 84
+RRB Group-D — 12/11/2018 (Shift-IT.
+
+Ans : (a) Age of all seven children Respectively = x,
+
+(x +1), (x + 2), (x +3), (x +4), (x +5), (x + 6) Years
+
+Sum of age of eldest three children = 93
+
+(x +4) +(x+5)+(K+ 6) =93
+
+3x + 15=93
+
+3x = 93-15
+
+3x= 78
+
+So,
+
+Sum of age of youngest three children = x+(x+1)+(x+2)
+
+=3x+3
+
+putting the value of x,
+
+=3 x 26+3=78+3=81 Years
+
+60. Seven children with the same birth date were
+born in 7 successive years. The sum of the ages
+of the eldest three children is 63 years. How
+many years will be the sum of the ages of the
+youngest three children?
+
+(a) 57 (b) 54
+(c) 51 (d) 60
+RRB Group-D — 18/09/2018 (Shift-IIT.
+
+Ans. (c) : Let the age of all seven children = x, (x + 1),
+
+(x + 2), (x +3), (x +4), (x + 5), (x + 6) Years
+
+Sum of age of eldest three children
+
+= (xt+4)+(x+5)+(x+6)
+63 =3x+15
+3x = 48
+x=16
+
+Sum of age youngest three children
+
+=xt(xt1)+(x+2)=3x+3
+
+putting the value of x,
+
+=16x3+3=51 Years
+
+61. The difference between Peter and Preeti's ages
+is 5 years. When they married each other 35
+years ago, 4 times of Peter's age was the same
+as 5 times the age of Preeti. What is the sum of
+their present age?
+
+(a) 105 years (b) 110 years
+(c) 115 years (d) 112 years
+RRB ALP & Tec. (13-08-18 Shift-I
+Ans: (c) If the present age of peter is x years and age
+of Preeti is y years then,
+xy =5......()
+According to question,
+Before 35 years,
+A(x-35)=5(y-35)
+4x-140=Sy-175
+Ax—Sy=35...........(ii)
+) YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0012_left.png =====
+by multiplying 4 in equation (i) and on solving (ii)
+4x—4y=20
+4x—Sy=—35
+y=55_ Years
+putting y = 55 in equation (i),
+x-y=5
+x= 55+5=60 Years
+sum of present age of both = x+y = 60+55 = 115 years
+62. The difference between Charles’ and Shriya's
+age is 6 years. When they married each other
+30 years ago, 4 times of Charles's age was the
+same as 5 times the age of Shriya. What is the
+sum of their present age?
+(a) 112 years (b) 114 years
+(c) 115 years (d) 110 years
+RRB ALP & Tec. (10-08-18 Shift-IID
+Ans : (b) Let the age of Shriya = x years
+so charles age will be = (x+6) Years
+According to question,
+(x-30) x 5 = (x+6-30) x 4
+5x-150 = 4x-96
+x= 150-96
+x = 54 Years
+«. Age of Charles = x+6 = 54+6 = 60 Years
+Sum of age of both = 60+54 =114 Years
+63. If the present age of P is 15 years and after 6
+years the age of Q will become 26 years, then
+what is the ratio of their present age?
+(a) 4:1 (b) 2:3 '
+(c) 2:1 (d) 3:4
+RRB RPF Constable — 25/01/2019 (Shift-II1)
+Ans. (d) : Present age of P = 15 Years
+Let present age of Q = x Years
+According to question,-
+x+6=26
+x = 20 Years
+Present age of Q= 20 Years
+Ratio of present age of P and Q = 15:20=3:4
+64. The age of A, B and C are in the ratio of 2:4:5
+and the sum of their age is 77. Find the ratio of
+the age of A and B after 10 years.
+(a) 10:17 (b) 12:19
+(c) 13:18 (dd) 11:14
+RRB JE-24/05/2019 (Shift-I
+Ans : (b) Let the age of A = 2x Years
+Age of B = 4x Years
+Age of C = 5x Years
+According to question,
+2x + 4x +5x=77
+11x=77
+x=7
+Problems Based on Age 331
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0012_right.png =====
+.. Ratio of age of A and B after 10 years
+= 2x+10:4x+10
+=2x7+10:4x7+10
+= 24:38
+=12:19
+65. The daughter's age is one-fourth of her father's
+age. Five years later, she will be one third of
+her father's age. Later, after 5 years, what will
+be the ratio of her and her father's age?
+(a) 2:5 (b) 3:5
+(c) 3:4 (d) 5:2
+RRB JE - 27/05/2019 (Shift-I)
+Ans: (a) Let the present age of father = x Years
+.. present age of daughter = 5 Years
+According to question,
+4ox+5) -(3+5)
+x, 5_x
+3*374*>
+X10
+12° 3
+x = 40 Years (Age of father)
+Age of daughter = 3 = * = 10 Years
+Age of both after 10 years =
+40 + 10 =50 Years and 10 + 10 = 20 Years
+Age of daughter : age of father = 20 : 50
+=
+66. Seven years ago, the age ratio of Ajit and
+Ganesh was 5:7. If the product of their present
+age is 616, then find the ratio of their present
+age.
+(a) 15:17 (b) 17:15
+(©) 12:13 (d) 11:14
+RRB JE - 28/05/2019 (Shift-I)
+Ans: (d) A G {A= Ajit
+5x 7x (before 7 years) Ge
+Ganesh}
+Lo¢
+(5x+7) (7x+7) (present age)
+According to question,-
+(5x+7)(7x+7) = 616
+35x? + 35x +49x + 49 = 616
+35x’ + 84x - 567=0
+Sx’ + 12x-81=0
+Sx? + 27x-15x—81=0
+x(5x+27) — 3(5x+27) = 0
+(5x+27)(x-3) = 0
+x=3
+Ratio of present age = FL Sa ee ak at ee
+Txt+7 7x3+7 28 [14
+) YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0013_left.png =====
+67. The ages of A, B and C are in the ratio of 2:3:8.
+The sum of their ages is 108. What will be the
+ratio of their ages after 12 years?
+
+(a) 2:5:6 (b) 1:2:3
+(c) 1:3:5 (d) 3:4:5
+RRB JE - 29/05/2019 (Shift-III) |
+
+Ans : (d) Let the age of A, B and C = 2x, 3x, 4x Years
+
+from question—
+
+2x + 3x + 4x = 108
+
+9x = 108
+
+Ratio of their age after 12 years
+
+=2x+12:3x+12:4x+12
+= 24+ 12:36+12:48+12
+= 36: 48: 60
+
+Ratio of their ages = 3 :4:5
+
+68. The father's age is 3 times more than his son.
+After 8 years his age become 2.5 times of sons
+age what will be the age ratio of his and his son
+after 8 years?
+
+(a) 5:2 (b) 3:1
+(©) 2:1 (@) 11:4
+RRB JE - 29/05/2019 (Shift-lIT.
+Ans: (a) Let the age of son = x Years
+Age of father = 3x Years
+
+Age of son after 8 years =(x + 8)
+
+Age of father after 8 years = (3x + 8)
+
+from question—
+
+3x + 8 = 2.5 (x+8) )
+3x +8 = 2.5x + 20
+0.5x = 12
+12
+xo
+0.5
+Age of father after 8 years = 3x + 8
+=3 x 24+8=72+8=80
+
+Age of son after 8 years = x + 8 = 24+ 8 =32
+
+Ratio of their ages = 80 : 32 =5:2
+
+69. Before ten years, mother's age was three times
+her son's age. After 10 years her age will
+become twice of the age of son. Find the ratio
+of their present age.
+
+(a) 7:4 (b) 4:3
+(c) 7:3 (d) 3:2
+RRB JE - 30/05/2019 (Shift-II)
+Ans : (c) Let the age of son before 10 years = x Years
+“ age of mother before 10 years = 3x Years
+present age of son = (x + 10) Years
+present age of mother = (3x + 10) Years
+According to question,
+3x +10+10=2(x+ 10+ 10)
+3x + 20 =2x + 40
+x=20
+Problems Based on Age 33)
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0013_right.png =====
+«. Ratio of present age of both = 3x+10
+x+10
+_ 3x20+10 _70_7.3
+20+10 30
+70. Before four years, the ratio of age of A and B
+was 2:1. After four years, this ratio will become
+3:2. Find the ratio of their present age.
+(a) 5:2 (b) 2:5
+(c) 5:4 (d) 5:3
+RRB JE - 28/05/2019 (Shift-I1)
+Ans : (d) Let the age of B before 4 years = x years
+and age of A = 2x Years
+Present age of A = (2x + 4) Years
+Present age of B = (x + 4) Years
+According to question,
+After 4 years,
+2x+44+4 3
+x+4+4 2
+2x+8_ 3
+x+8 2
+4x +16=3x+24
+x=8
+Present age of A = 2x+4
+=2x8+4=20 Years
+Present age of B= x +4
+=8+4=12 Years
+Ratio of present age = A: B= 20: 12=5:3
+71. Pooja's age before 4 years is equal to Deepa's
+age after 4 years. The ratio of Pooja's age
+before 4 years and Deepa's age after 4 years is
+3:1. What is the ratio of their present age?
+(a) 5:7 (b) 5:2
+(c) 4:7 (d) 5:3
+RRB JE - 31/05/2019 (Shift-D
+Ans: (d) Let the present age of Pooja = x years
+and present age of Deepa = y Years
+First condition,
+x-4=yt+4
+x-y=8 -----(i)
+Second condition,
+xt+4_ 3
+y-4 1
+x+4=3y-12
+x-3y=-16 -----(ii)
+from equation (i) and (ii)-
+x-y=8
+x-3y=-16
+= + +
+2y = 24
+y=12
+putting the value of y in equation (i)
+x= 20
+Therefore, ratio of present age of pooja and deepa
+= 20:12 = 5:3
+{ YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0014_left.png =====
+72. The present age ratio of P and Q is 6:7. Q is 4
+years older than P. The ratio of their age after
+4 years will be—
+(a) 7:9 (b) 7:8
+(c) 5:8 (d) 8:3
+RRB JE - 02/06/2019 (Shift-IIT.
+Ans : (b) Let the present age of P = x Years
+Present age of Q = (x + 4) Years
+According to question,
+x _6
+x+4 7
+Tx = 6x + 24
+x=24
+Present age of P= 24 Years
+Present age of Q = 24+ 4=28 Years
+Ratio of age of P and Q after 4 years—
+2444 28 7_1 9
+28+4 32 8
+73. Before five years, the ratio of age of P and Q
+was 7:9 after 10 years this ratio will be 5:6.
+Find the ratio of their age at present.
+(a) 6:7 (b) 5:4
+(©) 2:1 (@) 4:5
+RRB JE - 01/06/2019 (Shift-I
+Ans: (d) Let the age of P before 5 years = 7x years
+Age of Q = 9x Years
+Present age of P = (7x + 5) Years
+Present age of Q = (9x + 5) Years
+Age of P after 10 years = (7x + 5 + 10) Years
+= (7x + 15) Years
+Age of Q after 10 years = (9x + 5 + 10) Years
+= (9x + 15) Years
+According to question,
+Tx+15_5
+9x+15 6
+42x + 90 = 45x + 75
+3x = 15
+x=5
+Present age of P = 7x +5
+=7x5+5
+= 40
+Present age of Q= 9x +5
+=9x5+5
+=50
+The ratio of present age—
+IP: Q=40: 50
+=4:5
+74. Y years before Mauma age was 1/5 of Saumi. Y
+years after from today Mauma age will be 1/4
+of Saumi age. What is the ratio of present age
+of Mauma and Saumi? |
+(a) 16: 25 (b) 4:5
+() 7:31 (@ 2:9
+RRB Group-D — 27/11/2018 (Shift-I1I)
+Problems Based on Age 33:
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0014_right.png =====
+Ans. (c) Let the present age of Mauma =a Years
+Present age of Saumi = b Years
+before Y years,
+1
+a-y=(b-y)—
+Y=b-y)>
+5a-S5y=b-y
+5a—b=4y .(i)
+After Y years,
+1
++y=(b+y)—
+aty=(bty)7
+4at+dy=b+y
+4a-b=-3y (ii)
+by solving equatin (i) and (ii)
+5a—b=4y
+4a—b=-3y
+= + +
+a=Ty
+Therefore,
+5a—b=4y
+5x Ty-b=4y
+b=35y-4y
+b=3ly
+a:b=7y:3ly
+Therefore: a:b=7:31
+75. Before y years Juthika's age was one fourth of
+Ruby's age. After y years from today Juthika
+age will be 1/3 of Ruby's age. What will be the
+ratio of present age of Juthika and Ruby?
+(a) 5:17 (b) 9:16
+(©) 3:4 (d) 2:7
+RRB Group-D — 27/11/2018 (Shift-II1)
+Ans. (a) Let the age of Ruby before y years = x years
+Age of Juthika =; years
+present age of Ruby = (x + y)
+and present age of Juthika = (5+ y)
+According to question,
+x 1
+—+y |+y=—[(xt+y)+
+(3 y) y=lety)+y]
+x+4y+4y _ x+2y
+4 3
+3x + 12y + 12y =4x + 8y
+3x — 4x = 8y— 12y- 12y
+x= loy
+o present age of Ruby = (l6y + y) = l7y
+and present age of juthika -(2+ v)= sy
+Therefore, Ratio of present age of Juthika and Ruby-
+Sy: 17y=5:17
+76. The ratio of the present age of father and son is
+2:1. The product of their age is 200, what will
+be the ratio of their ages after 5 years?
+(a) 9:5 (b) 10:7
+, YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0015_left.png =====
+(c) 9:2 (d) 5:3 )
+RRB Group-D — 05/11/2018 (Shift-ID
+Ans : (d) Let the present age of father = 2x Years
+present age of son = x Years
+According to question,
+2x x x= 200
+2x? = 200
+x= 100
+x=10
+Ratio of their ages after 5 years—
+2x+5_2x10+5 _ 25 _ 5 3
+x+5 10+5 15
+77. Before 10 years, father's age was three times
+more than his daughter's age. After 10 years,
+the father's age will be more than double of his
+daughter's age. What is the ratio of their
+present age?
+(a) 3:1 (b) 7:3
+(©) 5:2 (@) 4:7
+RRB Group-D — 15/10/2018 (Shift-I1
+Ans. (b) : Age of daughter age of father
+before 10 years— x Years (let) 3x Years
+At present —>  (x+10)years (3x + 10) years
+According to question,-
+2 (x +20) = (3x + 20)
+2x + 40 = 3x + 20
+x=20
+Present age of daughter = 20 + 10 = 30 Years
+Present age of father = 3 x 20+ 10 = 70 Years
+-. Required ratio = 70 : 30=7:3
+78. 10 years ago mother's age was three times her
+son's age. After 10 years the mother's age will
+be twice the age of his son. What is the ratio of
+their present age?
+(a) 7:3 (b) 12:5
+(c) 4:2 (d) 6:1
+RRB Group-D — 11/10/2018 (Shift-I) |
+Ans : (a) Let the present age of son is y years and
+present age of mother is x years.
+So according to question,
+(x- 10) =3(y- 10)
+x-10=3y-30
+x—3y=-30+10
+x —3y =— 20 --------(i)
+Their age after 10 years-
+(x + 10) =2 (y+ 10)
+x+10=2y+20
+x-—2y=20-10
+x —2y= 10 --------- (ii)
+By solving equation (i) and (ii),
+x=70
+y=30
+RequiredRatio = Ea 7:3
+y 30
+Problems Based on Age 33.
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0015_right.png =====
+79. Before 10 years Murali's age was three times of
+the age of his son Satish. Ten years later,
+Murali's age will be two times that of Satish.
+What is the ratio of their present age?
+
+(a) 9:2 (b) 13:4
+(c) 5:2 (d) 7:3
+RRB Group-D — 23/09/2018 (Shift-IT.
+
+Ans : (d) Let the present age of Murli is x years and
+
+present age of his son Satish is y years.
+
+According to question,
+
+Before 10 years—
+(x-10) =3(y-10)
+x-10=3y-30
+x—3y=-20---—~ (i)
+After 10 years, x+10=2(y+10)
+x-2y=10 -~---(ii)
+On solving both equation-
+x =70 and y = 30
+Ratio of present age of murli and satish
+_X_1_1_4.5
+y 30 3
+
+80. The age ratio of Jay and Jog is 5:2. The sum of
+their age is 63. What will be their age ratio
+after 9 years?
+
+(a) 5:2 (b) 2:1
+(c) 3:2 (d) 4:3
+RRB NTPC 03.04.2016 Shift : 1
+
+Ans : (b) Let the present age of Jay and Jog is 5x and 2x
+
+respectively.
+
+According to question,
+
+5x + 2x = 63
+Tx = 63
+x=9
+«. Ratio of age after 9 years = (5x9+9) : (2x9+9)
+=54 227
+=2:1
+
+81. The present ratio of the age of Seema and
+Reema is 2:3. Seema is 6 years younger than
+Reema. After 6 years the age ratio of Seema
+and Reema will be.
+
+(a) 2:3 (b) 2:7
+(c) 3:4 (d) 7:8
+RRB NTPC 22.04.2016 Shift : 1
+
+Ans : (c) Given—
+
+Present age of Seema and Reema is 2x and 3x
+
+respectively.
+
+According to question,-
+
+3x-2x=6
+x =6 Years
+
+Therefore Present age of Seema and Reema = 2x6, 6x3
+
+= 12 Years, 18 Years
+
+Ratio of age of Seema and Reema after 6 years—
+
+= (12+6) : (18 + 6)
+= 18:24 =3:4
+3 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0016_left.png =====
+82. The average age of 4 persons is 42 years. If
+their age are in the ratio of 1:3:4:6 respectively.
+Find the difference between the age of the
+youngest and the eldest person.
+(a) 61 Years (b) 60 Years
+(c) 70 Years (d) 59 Years
+RRB JE - 26/05/2019 (Shift-II)
+|Ans : (b) Let the age of all 4 people = x, 3x, 4x and 6x)
+years
+Average age of 4 people = 42 years
+Sum of age of all 4 people = 42 x 4= 168 Years '
+x+3x+4x + 6x = 168
+14x = 168
+168
+x=
+14
+Age of eldest person = 6x
+=6x12
+= 72 Years
+Age of youngest person = 12 Years
+Age difference between both = 72 —- 12 = 60 Years
+83. When Asha was born at that time her father's
+age was 38. When her brother was born. Who
+is 4 year younger than her, her mother's age
+was 36 years. Find the age difference of their
+parents.
+(a) 8 Years (b) 6 Years |
+(c) 4 Years (d) 2 Years !
+RRB JE - 28/05/2019 (Shift-II)
+Ans : (b) Let the present age of Asha = x Years
+Present age of father = (x + 38) Years
+Present age of borther = (x — 4) Years
+Present age of mother = (36 + x — 4) Years
+= (32 + x) Years
+lage difference between father and mother
+= (x+38) — (32+x) = 6 years
+84. When the age of mother was 43 years, there
+was a difference of 21 years between the age of
+mother and son. If the father is 3 years older
+than mother, when the father's age will be 50
+years, what will be the difference between the ||
+age of father and son?
+(a) 21 (b) 22
+(c) 23 (d) 24
+RRB RPF Constable — 20/01/2019 (Shift-II)
+Ans: (d) Age of Mother = 43 Years,
+Age of Son = 43-21 = 22 Years
+Age of Father = 46 Years
+Age difference b/w father and son after 4 years=
+= 50-26 = 24 Years
+Problems Based on Age 33
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0016_right.png =====
+85. Monica's father's age was 38 years old when
+Monica was born, while her mother age was 36
+when her four year old younger sister was born.
+What is the difference between the age of their
+parents?
+
+(a) 2 Years (b) 8 Years
+(c) 4 Years (d) 6 Years
+RRB Group-D — 28/09/2018 (Shift-IT.
+
+Ans. (d) : Monica's father's age when Monica's 4 years
+
+younger sister was born = 38 +4 = 42 Years
+
+Age of her mother at that time = 36 Years
+
+-. Age difference of mother and father = 42-36 = 6
+
+Years
+
+86. The ratio of the present age of X and Y is 2:1.
+After 14 years their age ratio will be 29:18.
+What is the difference between the present age
+of X and Y.
+
+(a) 22 Years (b) 11 Years
+(c) 9 Years (d) 13 Years
+RRB NTPC 19.04.2016 Shift : 3
+
+Ans : (a) Let the present age of X and Y is 2x and x
+
+respectively.
+
+According to question,
+
+2x+14 29
+x+14 18
+36x + 252 = 29x + 406
+Tx = 154
+x= 22
+
+«. Age difference = 2x—x =x =22 Years
+
+87. Tom's father is three times older than Tom. 10
+years ago, Tom's father was 7 times of his age.
+How old is Tom?
+
+(a) 15 Years (b) 16 Years
+(c) 14 Years (d) 17 Years
+RRB RPF SI — 11/01/2019 (Shift-I11
+
+Ans : (a) Let the present age of Tom = x years
+
+Then present age of Tom's father = 3x Years
+
+According to question,
+
+7(x-10) = (3x- 10)
+7Tx—70=3x-10
+4x = 60, x=15 Years
+
+Therefore, Present age of Tom (x) = 15 Years
+
+88. Rajan was married 8 years ago. Then he was
+5/6 of his present age. At the time of his
+marriage, his sister was 10 years younger than
+him. What is the present age of sister?
+
+(a) 38 (b) 32
+(c) 26 (d) 40
+RRB JE - 22/05/2019 (Shift-1
+Ans : (a) Let the present age of Rajan = x Years
+then present age of sister = (x — 10) Years
+According to question,
+1 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0017_left.png =====
+x-8= 5 x
+6
+x 5 x=8
+6
+Xu
+6
+x = 48 Years
+Therefore present age of sister = 48 — 10 = 38 Years
+89. Raja is three times older than Arun. Three
+years ago, he was four times older than Arun.
+How old is Raja now?
+(a) 6 (b) 15
+(c) 27 (d) 12
+RRB JE - 23/05/2019 (Shift-I)
+Ans: (c) Let the age of Raja = 3x Years
+Age of Arun =x Years !
+from question—
+(3x -3) = 4 (x-3)
+3x-3=4x-12
+Present age of Raja = 3 x 9 = 27 Years
+90. Present age of a son is 2/5 his mother's age. 8
+years later her age will be half of her mother's
+age. What is his mother's present age?
+(a) 36 (b) 42
+(c) 40 (d) 50
+RRB JE - 26/05/2019 (Shift-II1)
+Ans : (c) Let The present age of mother = x Years
+Present age of son = 3 years
+.. from question,
+2x gi X+8
+5 2
+2x+40_x+8
+5 2
+4x + 80=5x+40
+x=40 Years
+Present age of Mother = 40 Years
+91. Three times of my age before three years,
+Subtracting from three times of my age after
+three years, then my present age is found then
+find my present age.
+(a) 21 Years (b) 15 Years
+(c) 24 Years (d) 18 Years '
+RRB RPF SI - 06/01/2019 (Shift-II)
+Ans. : (d) Let My present age is x years.
+from question—
+3 (x+3) —3 (x-3) =x
+3x+9-3x+9=x
+x= 18 Years
+Problems Based on Age 33:
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0017_right.png =====
+92. The ratio of age of a brother and sister is 4:3.
+Afer 3 years the age of the sister will be double
+of her present age. What is present age of
+brother?
+
+(a) 4 Years (b) 12 Years
+(c) 6 Years (d) 8 Years
+RRB JE - 29/05/2019 (Shift-1
+
+Ans : (a)
+
+Let the present age of brother and sister is 4x, 3x years|
+
+respectively.
+
+Age of sister after 3 years = (3x + 3) Years
+
+According to question,
+
+(3x + 3)=3x x2
+
+3x + 3 = 6x.
+
+3 = 3x
+
+Present age of brother = 4x = 4 x 1 =4 Years
+
+53. The sum of the age of father and son is 45
+years. Five years ago, the product of their age
+was four times that of his father age at that
+time. What is the present age of father?
+
+(a) 36 (b) 42
+(c) 28 (d) 60
+RRB JE - 27/06/2019 (Shift-IIT.
+
+Ans : (a) Let the present age of son = x Years
+
+present age of father = (45 — x) Years
+
+Age of son before 5 years = (x — 5) Years
+
+Age of father before 5 years = (40 - x) Years
+
+According to question,-
+
+(x-5) (40 — x) = 4(40 - x)
+
+x-5=4
+
+x=9
+
+Present age of father = 45 — x = 45 — 9 = 36 Years
+
+94. A father is 5 times older than his son. Five
+years ago, he was six times older than his son.
+Find the age of his son.
+
+(a) 32 Years (b) 35 Years
+(c) 25 Years (d) 28 Years
+RRB JE - 27/06/2019 (Shift-II1
+Ans : (c) Let the present age of son = x years
+Present age of father = 5x Years
+Age of son before 5 years = x — 5
+Age of father before 5 years = 5x-5
+from question—
+5x-5=6(x-5)
+5x-—5 = 6x—30
+x= 25
+
+Therefore the age of son will be 25 years.
+
+95. A father's age is three times of his son's age
+and the son's age is 3/8 of his mother's age. If
+the difference between his mother's age and the
+father's age is 4 years, then find the age of the
+son.
+
+(a) 10 Years (b) 9 Years
+(c) 11 Years (d) 12 Years
+RRB RPF Constable — 24/01/2019 (Shift-III)
+5 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0018_left.png =====
+Ans : (d) Let the age of son = x years '
+o Age of father = 3x Years
+and age of mother = $x Years
+According to question,-
+3x - 8, =4
+3
+9x - 8x = 12
+x= 12 Years
+Therefore Age of son = 12 Years
+96. 17 years later from today chetna's age will be
+twice as Mahim's age. Before 5 years from
+today Mahim's age was one year less than 1/3
+part of chetna's age. What is the present age of
+chetna?
+(a) 65 Years (b) 63 Years '
+(c) 67 Years (d) 61 Years
+RRB RPF SI — 05/01/2019 (Shift-ID
+Ans : (a) Before 5 years-
+Age of Chetna = x Years
+Age of Mahima = 341 = (3) Years
+After 17 years,
+x+5+17= (A2+sei7)s2
+x+22= (A242).
+x+22= ass +44
+x 2X28 _ 49
+3
+3x —2x-6 = 66
+x= 60
+Present age of Chetna = 60 + 5 = 65 Years
+97. The sum of the present age of the two cousins is
+54. Before 11 years, the elder brother was three
+times old as the younger one. What is the
+present age of the eldest brother.
+(a) 36 Years (b) 35 Years
+(c) 32 Years (d) 34 Years
+RRB RPF SI — 13/01/2019 (Shift-I)
+Ans: (b) Let the present age of first brother = x years
+(elder brother)
+then present age of second brother = (54—x) years
+Age of both before 11 years would be-
+(x-11)years, (54-x-I])years or — (43--x)years
+respectively.
+According to condition-
+x-11 = (43-x) x3
+x—11=129-3x
+4x = 140
+x =35 years
+Therefore, present age of elder brother will be 35 years.
+Problems Based on Age 331
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0018_right.png =====
+98. A's present age is 9 years more than B. After
+10 years, A's age will be double of B's age, as of
+10 years ago. What is the present age of A?
+(a) 48 (b) 39
+(c) 36 (d) 23
+RRB JE - 30/05/2019 (Shift-1)
+Ans : (a) Let the present age of B = x Years
+present age of A = (x + 9) Years
+According to question,-
+x+9+10=2(x-10)
+x+19=2x-20
+x= 39
+Therefore present age of A = x +9
+= 39+9=48 years
+99. My age is 5 times more than my son's age. In
+six years, my age will be three times of my son's
+age. After two years what will be ours age.
+(a) 30 Years and 10 Years
+(b) 32 Years and 8 Years
+(c) 26 Years and 12 Years
+(d) 28 Years and 14 Years
+RRB Group-D — 15/10/2018 (Shift-II1)
+Ans. (b) : Let the present age of son = x Years
+.. Present age of father = 5x Years
+According to question,-
+(5x +6) =(x+6)x3
+5x+6=3x +18
+2x =12
+x=6
+present age of father > 5x= 5 x 6 = 30 Years
+Age of father after 2 years = 30 + 2 =32 Years
+Age of son after 2 years = 6 +2
+= 8 Years
+100. Pinaki is 9 years younger than Bhaswati. After
+thirteen years Bhaswati's age will be 1.2 times
+of Pinaki's age. Find present age of Pinaki.
+(a) 28 years (b) 32 years
+(c) 30 years (d) 33 years
+RRB ALP & Tec. (31-08-18 Shift-I.
+Ans : (b) Let the present age of Bhasvati = x Years
+Present age of Pinaki = (x-9) Years
+Age of Bhaswati after 13 years = (x+13) Years
+Age of Pinaki after 13 years = (x-9+13) = (x+4)Years
+According to question,
+(x+13) = 1.2 (x+4)
+x+13 = 1.2x+4.8
+0.2x = 8.2
+x= 82 24)
+0.2
+Therefore, Present age of Pinaki = (x-9) = (41-9) = 32
+Years
+J YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0019_left.png =====
+101. Priyamvad's present age is five years more
+than the twice of his cousin Ritika. 16 years
+later from today. Priyamvads age will be 150%
+more than Ritika. At present what is the age of
+Priyamvads (in years)?
+(a) 33 (b) 23
+(c) 26 (d) 17
+RRB Group-D — 22/09/2018 (Shift-ITI)
+Ans. (d) : Let the age of Ritika = x Years
+Present age of Priyamvad = (2x + 5) Years
+According to question,-
+(1+ 5 Jo +16) =2x+5+16
+100
+3
+50416) =2x 421
+3x+48=4x+42
+Present age of Priyamvad = 2x+5 = 2x6+5 = 17 Years
+102. 3/7" of my present age is same as 4/5" of one of
+my cousin's age my age before 3 years was
+equal to his age after 10 years. What is my
+present age?
+(a) 42 (b) 35
+(c) 21 (d) 28
+RRB Group-D — 19/09/2018 (Shift-II)
+Ans. (d) : Let my present age = x years
+land present age of cousin = y Years
+According to first condition -
+rxdeyx4
+7S
+15x = 28y seesseeseeseee()
+.. My age before 3 years = (x-3) Years
+.. The age of cousin after 10 years from now.
+= (y+10) Years
+According to second condition-
+(y +10) =(x-3)
+x=y+l3
+Putting x = y + 13 in equation (i)
+15(y +13) =28y
+15y+195 =28y
+1By =195
+or y=15 Years
+Now my present age = x = 15+13= 28 years
+103. Shan's present age is 4 yrs less than 1.6 times of
+Udhalaks age. Before 26 yrs Udhalaks age was
+one years less than half of the Shan's age. What
+is the present age of Shan?
+(a) 68 (b) 84
+() 76 (d) 60
+RRB Group-D — 22/09/2018 (Shift-I)
+Problems Based on Age 33°
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0019_right.png =====
+Ans : (c) Let the present age of Udhlak = x Years
+“ Present age of Shan = (1.6x - 4) Years
+“ Age of Udhlak before 26 years = (x - 26)
+“ Age of Shan before 26 years = 1.6x - 4 -26
+= (1.6x - 30)
+According to question,-
+el =x-26
+1.6x - 30 -2 = 2x -52
+0.4x = 52 - 32
+0.4x = 20
+20x10
+x=
+4
+x=50
+7 Present age of Shan
+50 x 1.6 - 4 = 80-4 =76 Years
+104. 18 years ago, Cyrus was 2.5 times older than
+Nikhil. The sum of their present age is 92
+years. What is the present age of Nihkil?
+(a) 31 Years (b) 32 Years
+(c) 34 Years (d) 33 Years
+RRB Group-D — 23/09/2018 (Shift-I
+Ans : (c) Let the age of nikhil before 18 years = x Years
+Age of Cyrus before 18 years = 2.5x Years
+Present age of Nikhil = (x + 18) Years
+Present age of Cyrus = (2.5x + 18) Years
+According to question,-
+(x + 18) + (2.5x + 18) = 92
+3.5x + 36 =92
+3.5x = 92-36
+3.5x = 56
+56
+x=
+3.5
+560
+xe
+35
+Present age of Nikhil = x +18 = 16 + 18 = 34 years
+105. Robin's father is 2.8 times older than his. Six
+years ago, age of Robin's father was 4 times of
+his age. What is Robin's present age?
+(a) 16 Years (b) 15 Years
+(c) 14 Years (d) 17 Years
+RRB Group-D — 24/09/2018 (Shift-ID)
+Ans : (b) Let the present age of Robin = x years
+Present age of Robin's father = 2.8x years
+Age of Robin before 6 years = (x — 6) Years
+Age of father before 6 years = (2.8x — 6) Years
+According to question,-
+(2.8x- 6) = 4 (x- 6)
+2.8x-6=4x-24
+2.8x—-4x=-24+6
+-1.2x =-18
+180
+x=
+12
+x=15
+Therefore age of Robin = 15 Years
+y YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0020_left.png =====
+106. After three years from now, Panna's age will
+be four years less than three times of Eugene's
+age. The sum of their present age is 54 years.
+What is the present age of Panna?
+
+(a) 36 Years (b) 43 Years
+(c) 39 Years (d) 41 Years
+RRB Group-D — 28/09/2018 (Shift-I
+
+Ans : (d) Let the present age of Panna = x Years
+
+..Present age of Eugene = (54 — x) Years
+
+after 3 years,
+
+Age of Panna = (x + 3) Years
+
+Age of Eugene = (54-x + 3)
+
+=(57-x) Years
+
+According to question,
+
+3(57-x)-4=x43
+171-3x-4=x+3
+4x = 164
+
+x=4l1 Years
+
+Therefore present age of Panna = 41 Years
+
+107. The total age of mother and daughter is 50
+years. After 5 years the mother's age will be 4
+times more than the daughter's age. Find the
+present age of the daughter?
+
+(a) 12 years (b) 10 years
+(c) 7 years (d) 15 years
+RRB Group-D — 03/10/2018 (Shift-IIL.
+
+Ans : (c) Let the present age of Daughter = x Years
+
+then present age of mother = (50 — x) Years
+
+Age of Mother after 5 years = (50—x +5) Years
+
+=(55-x) Years
+
+Age of Daughter after 5 years = (x + 5) Years
+
+So, according to condition—
+
+(55-x)=4(x+5)
+55-x=4x+20
+55-20=4x+x => 5x =35
+=>x=7
+
+Therefore present age of Daughter = 7 years
+
+108. Anish is three times older than as old as his son
+and the sum of their age is 48 years. Find age of
+Anish.
+
+(a) 36 (b) 20
+(©) 40 (@ 12
+RRB Group-D — 12/10/2018 (Shift-II1)
+Ans: (a) Let the age of son = x Years
+and age of Anish = 3x Years
+3x+x=48
+x=12
+
+Therefore, age of aneesh = 3 x 12 = 36 Years
+
+109. Five years ago, the son's age was one third of
+his mother's age at that time. If the sum of
+their present age is 70, find the present age of
+the mother.
+
+(a) 45 (b) 55
+(c) 50 (d) 60
+RRB Group-D — 15/10/2018 (Shift-I)
+Problems Based on Age 333
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0020_right.png =====
+Ans : (c) Let the age of Mother before 5 years = x
+Years
+oO Present age of Mother = (x + 5) Years
+and age of son before 5 years =3 Years
+an Present age of son = (: + 3} Years
+According to question,-
+x454+245=70
+3
+ax +10=70
+3
+4x +30=210
+4x = 180
+x=45
+Present age of Mother = x + 5 Years
+= 45 +5=50 Years
+
+Therefore, present age of Mother is 50 years.
+
+110. Soham is 10 years younger than Parth. Before
+8 years soham's age was three times of his
+present age that was 4 years more than twice of
+the age of Parth. Find Soham's present age.
+
+(a) 28 years (b) 32 years
+(c) 30 years (d) 33 years
+RRB Group-D — 18/09/2018 (Shift-I])
+
+Ans. (b) : Let the present age of Soham = x years
+
+Present age of Parth = (x + 10) years
+
+Age of Soham before 8 years = (x — 8)
+
+Age of parth before 8 years = x + 10-8 = (x +2)
+
+According to question,
+
+3(x — 8) =2(x +2) +4
+3x-24=2x+4+4
+x = 32 years
+
+Present age of Soham = 32 years
+
+111. Nilanjan is 11 years younger than Bharti.
+Fifteen years later, Bharti's age will be 1.2
+times as that of Nilanjan's age. What is
+Nilanjan's present age?
+
+(a) 38 Years (b) 40 Years
+(c) 42 Years (d) 43 Years
+RRB Group-D — 20/09/2018 (Shift-I)
+
+Ans. (b) : Let the present age of Bharti = x Years
+
+Present age of Nilanjan = (x- 11) Years
+
+According to question,-
+
+(x + 15) =(x-11 + 15) 1.2
+(x + 15) =(x +4) x 12
+(x + 15) = 1.2x+4.8
+15-4.8=0.2x
+10.2 = 0.2x
+x= 51 Years
+Present age of Nilanjan = 51-11 =40 Years
+3 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0021_left.png =====
+112. Srinivas is four times older than his daughter.
+Five years ago, Srinivas was nine times older
+than his daughter's age at that time. What is
+his daughter's present age?
+
+(a) 8 Years (b) 6 Years
+(c) 5 Years (d) 10 Years
+RRB Group-D — 22/09/2018 (Shift-I11)
+Ans. (a) : Let the present age of daughter = x Years
+Present age of Srinivas = 4x Years
+According to question,
+9(x-5)=4x-5
+9x-45=4x-5
+5x=40
+x=8
+
+‘Therefore Present age of daughter = 8 Years
+
+113. Eight years ago, Ashwin's age was 1 year less
+than 3 times of Arpit's age. Six years ago
+Ashwin's age was 1 year more than twice of
+Arpit's age. What will be the age of Arpit after
+7 years?
+
+(a) 19 Years (b) 15 Years
+(c) 16 Years (d) 12 Years
+RRB Group-D — 25/09/2018 (Shift-II1)
+Ans. (a) : Let the age of Arpit before 8 years = x years
+Age of ashwin = (3 x— 1) Years
+Present age of Arpit = (x + 8) Years.
+and present age of Ashwin = (3x + 7) Years
+According to question,-
+(x+7-6)=2(x+8-6)+1
+3x+1=2x+4+1
+x=4
+Present age of arpit = x + 8=4+8= 12 Years
+Age of arpit after 7 years = 12+7 = 19 Years
+
+114. After 19 years from now vinod's age will be
+twice of Anand's age. Seven years ago, Anand's
+age was 1/4 of Vinod's age. What is Vinod's
+present age?
+
+(a) 53 Years (b) 57 Years
+
+(c) 55 Years (d) 59 Years
+
+RRB Group-D — 25/09/2018 (Shift-II1
+Ans. (d) Let the age of Anand before 7 years = x Years
+
+Let the age of vinod 7 years ago = 4x Years
+Present age of anand = (x + 7) Years
+Present age of vinod = (4x + 7) Years
+According to question,
+2(x+7+19)=(4x+7+19)
+2x +52=4x +26
+2x = 26
+x= 13
+
+Present age of vinod = 4x + 7=4 x 13+7=59 Years
+
+115. After 11 years, Raghav's age will be 5 times of
+his 5 years before age. What is the present age
+of Raghav?
+
+(a) 7 Years (b) 8 Years
+(c) 4 Years (d) 9 Years
+RRB Group-D — 26/09/2018 (Shift-I)
+Problems Based on Age 33!
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0021_right.png =====
+Ans. (d) : Let, the present age of Raghav = x Years
+Age of Raghav after 11 years = (x+11) Years
+Age of Raghav before 5 years = (x-5) Years
+According to question,
+(x+11)= (x-5)x5
+xt11= 5x-25
+36=4x
+x=9
+.. Present age of Raghav = 9 Years
+116. Rani is two years older than Ragini, who is
+twice the age of Nag. If the age of Rani, Ragini
+and Nag is 27 years, then the age of Ragini will
+be?
+(a) 9 (b) 8
+(c) 10 (d) 7
+RRB Group-D — 26/09/2018 (Shift-II1)
+Ans: (c) Let the age of Ragini = x Years
+Age of Rani = (x + 2) Years
+Age of Naag = 3 Years
+According to question,-
+xtx+2+ 3 =27
+Qt Ix+44+x=54
+5x=50
+x= 10 Years
+117. Vishal is 20 years younger than Arya. After 12
+years Arya's age will be 1.25 times of Vishal's
+age. Arya's age now is years.
+(a) 72 (b) 68
+(c) 88 (d) 78
+RRB Group-D — 27/09/2018 (Shift-1
+Ans. (c) Let the age of Vishal = x Years
+age of Arya = (x +20) Years
+According to question,
+(x + 20+ 12) =(x + 12) 3
+x432= 5x +60
+4
+4x +128 =5x +60
+x= 68
+Therefore, Present age of Arya = x+20
+= 20+68 = 88 Years
+118. Five years before Rohit's age was 2/3 times of
+Rohan's age. After 5 years Rohan's age will be
+5/4 times of Rohit's age. What is the present
+age of Rohit.
+(a) 25 Years (b) 20 Years
+(c) 10 Years (d) 15 Years
+RRB Group-D — 27/09/2018 (Shift-IIT
+Ans : (d) Let the Present age of Rohit = x Years
+Present age of Rohan = y Years
+According to first condition,
+(-5)=(y-9)x2
+3
+) YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0022_left.png =====
+3x-15=2y-10
+3x=2y+5
+_ 2y+5 -
+x aw wei)
+According to second condition—
+Fx(x45)=(945)
+5x +25 =4y +20
+5x-4y=-5
+or, Sx=4y-5
+_ 4y-5 -
+x 5 weeen(ii)
+from equation (i) and (ii)
+2y+5_ 4y—-5
+3 5
+10y +25 = 12y-15
+2y=40
+y = 20 Years
+Putting the value of y in equation (i)
+2x20+5
+xo
+3
+x= 2 =15 years
+Therefore, Present age of Rohit = 15 Years
+119. One year ago, Akash's father age was 9 times
+of Akash's age. After 3 years his father's age
+will be 5 times of his age. What will be the age
+of Akash next year?
+(a) 6 Years (b) 8 Years
+(c) 5 Years (d) 4 Years
+RRB Group-D — 28/09/2018 (Shift-I
+Ans : (a) Let the present age of Akash's father is x years
+and age of akash is y years.
+According to question,
+(x-1) = 9 (y-1)
+x-1= 9y-9
+x-9y=-8 wee (i)
+Again after 3 years
+(x+3) = 5 (y +3)
+x+3=Sy+15
+x-5y=12 seeseee(ii)
+on solving both equation (i) and (ii)
+4y=20
+y=5
+Therefore, the age of akash next years = 5 +1 = 6 Years
+120. 5 years ago a man was 7 times older than his
+son. Now in 5 years, he will be 3 times older
+than his son. What was their age before two
+years?
+(a) 26 Years and 10 Years
+(b) 36 Years and 12 Years
+(c) 38 Years and 8 Years
+(d) 30 Years and 6 Years
+RRB Paramedical Exam — 21/07/2018 (Shift-II)
+Problems Based on Age 34
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0022_right.png =====
+Ans : (c) Let the age of father before 5 years = 7x
+Years
+Age of son before 5 years = x Years
+Present age of father = (7x + 5) Years
+Present age of son = (x + 5) Years
+According to question,
+Tx+5+5=3(x+5+5)
+Tx +10=3x +30
+4x = 20
+x=5
+Present age of father = 7 x 5+ 5 = 40 Years
+Present age of son = 5 + 5 = 10 Years
+Age of father before 2 years from now = 40-2 = 38
+Years
+Age of son before 2 years from now = 10-2 = 8 Years
+121. A person is 9 times older than his son. Two
+years after, the father will be one year less than
+6 times of his son. Find their present age?
+(a) 27 Years and 3 Years
+(b) 30 Years and 6 Years
+(c) 26 Years and 10 Years
+(d) 36 Years and 12 Years
+RRB Group-D — 10/10/2018 (Shift-II1
+Ans: (a) Let the present age of son = x Years
+.. Present age of father = 9x Years
+from question—
+(9x + 2) = 6 (x+2)-1
+9x+2=6x+12-1
+9x — 6x = 12-12
+3x=9
+Age of father = 9x = 9 x 3 = 27 Years
+Age of son =x =3 Years
+122. Daliya is 20 years older than Neetu and in two
+years her age will be twice the age of Neetu.
+What is Neetu's present age.
+(a) 18 Years (b) 16 Years
+(c) 20 Years (d) 22 Years
+RRB Group-D — 11/10/2018 (Shift-I1D)
+Ans: (a) Let the present age of Neetu = x Years
+then Present age of Daliya = (20 + x) Years
+According to question,
+[(20 + x) + 2] = 2(x+2)
+22+x=2x+4
+Therefore, present age of Neetu = x = 18 Years
+123. Before 5 Years Sindhu's age was three times as
+old Kaveri's age. 10 years later from now,
+Kaveri's age will be half of sindhu's age. After
+5 years from now, what will be Kaveri's age.
+(a) 15 (b) 20
+(c) 55 (d) 25
+RRB Group-D — 06/12/2018 (Shift-III)
+) YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0023_left.png =====
+Ans. (d) : Let the present age of Kaveri = x Years
+and Present age of Sindhu = y Years
+According to question,
+from first condition—
+y-5=3(x-5)
+y-5=3x-15
+3x-y=15-5
+3x-y=10 wi)
+from second condition—
+{y+10) =(x +10)
+y+ 10=2x+20
+2x-y = 10-20
+2x-y=-10 evel)
+by subtracting equation (ii) from equation (i)
+3x-y=10
+2x-y=-10
++ +
+3x — 2x = 20
+x= 20
+Present age of Kaveri = 20 Years
+Age of Kaveri after 5 years = 20 + 5 = 25 Years
+124. The sum of Daniel and Dinara's age is 115
+years. Five years ago two times of Dinara's age
+was equal to three times Daniel's age. What is
+the present age of Dinara?
+(a) 62 Years (b) 64 Years
+(c) 66 Years (d) 68 Years
+RRB Group-D — 05/12/2018 (Shift-I
+Ans: (d) Let the present age of Deniel = x Years
+and present age of Dinara = y Years
+According to first condition—
+xty=115 seve (1)
+According to second condition—
+3(x-5) = (y-5) x2
+3x-15=2y-10
+3x —2y =-10+15
+3x —2y =5.......(2)
+By multiplying 3 in equation (i) and adding in equation
+(ii)
+2x + 2y = 130
+3x-2y= 5
+Sx = 235
+x =47
+again from equation (i)—
+y = 115-47
+y=68
+Therefore, Present age of Dinara = y = 68 Years
+125. The sum of father and mother's age is 7.5 times
+that of son's age. Mother's age is 35 years. If
+the father's age is 4 times the age of his son,
+then what is the son's age?
+(a) 15 (b) 10
+(c) 18 (d) 12
+RRB Group-D — 04/12/2018 (Shift-Il)
+Problems Based on Age 34,
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0023_right.png =====
+Ans. (b) According to question,
+Father + Mother = 7.5 x age of son (i)
+Age of mother = 35Years --(ii)
+Age of father = 4 x age of son (iti)
+putting the value of equation (ii) and (iii) in equation (i)-
+4xage of son + 35 = 7.5xage of son
+(7.5 - 4) x age of son = 35
+3.5 x age of son = 35
+Age of son = 35/3.5 = 10 Years
+126. The sum of the present age of two persons is
+seven times the difference of their age. After 5
+years the sum of their age will be nine times the
+difference between their age. What is the
+present age of the elder person?
+(a) 32 Years (b) 10 Years
+(c) 20 Years (d) 35 Years
+RRB Group-D — 15/11/2018 (Shift-ID
+Ans: (c) Let the present age of both person is x and y|
+years.
+According to question,
+xty=7(x-y)
+xty=7x-Ty
+6x = By
+x_8
+y 6
+KoA yak y=3k
+y 3
+According to question,
+(x+5)+(y+5)=9 [x+5-(y+5)]
+x+y+10=9(x+5-y-—5)
+xt+y+10=9(x-y)
+9x-x-9y-y=10
+8x — 10y = 10
+Putting the value of x and y-
+x= 4k
+y=3k
+32k-30k=10
+2k = 10
+k=5
+x =4k
+=4x5
+= 20 Years
+y=3k
+=3x5
+= 15 Years
+Therefore, Age of eldest person = x = 20 Years
+127. The product of the age of Anusha and Neelima
+is 240. If twice the age of Neelima is equal to
+the 4 more over the age of Anusha, so how old
+is Anusha?
+(a) 18 Years (b) 16 Years
+(c) 20 Years (d) 14 Years
+RRB Group-D — 05/11/2018 (Shift-I)
+{ YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0024_left.png =====
+Ans. (c) : Let the age of anusha =x Years
+Age of Neelima = y Years
+According to question,
+xxy=240 cessseeeeees (i)
+And, x+4=2y
+x+4 a
+y-(44) (i)
+putting the value of y in equation (i)
+xx 4) =240
+2
+x? +4x = 480
+x? +4x—480=0
+x? +(24-20)x-480 =0
+x? +.24x —20x - 480 =0
+x(x+24)—20(x+24)=0
+(x +24)(x-20)=0
+x =-24, 20
+Therefore, age of Anusha = x = 20 Years
+128. 2/30f my age is 3/4 of my cousin's age. My age
+before 3 years was exactly what my cousin will
+be one year later. What is my present age (in
+years)?
+(a) 36 (b) 18
+(c) 45 (d) 27
+RRB Group-D — 05/11/2018 (Shift-II)
+[Ans : (a) Let My present age is x years and age o}
+cousin is y years-
+According to question,
+2x _3y
+304
+8x-9y=0 a0)
+And, x-3=y+l1
+x-y=4 .-. (ii)
+lby multiplying 9 in equation (ii) and subtracting from|
+equation (i)—
+8x-9y=0
+9x ~9y = 36
+-x=-36
+x = 36 Years
+129. The present age of Raghu and Sita are 17 years
+and 41 years respectively. 5 years before
+Raghu's age was of Sita age.
+(a) 3/4 (b) 1/3
+(c) 1/2 (d) 2/3
+RRB Group-D — 24/10/2018 (Shift-III)
+Ans. (b) : Present age of Raghu = 17 Years
+Present age of Sita = 41 Years
+Age ratio of both before 5 years = U-5 = B
+41-5 36
+=1:3
+Therefore, Raghu's age was 1/3 of Sita's age.
+Problems Based on Age 34:
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0024_right.png =====
+130. At present Bratin is 18 years old, while his
+cousin is 7 years old. In how many years
+Bratin's age will be 1.5 times that of his
+cousin's age?
+
+(a) 13 (b) 14
+(c) 16 (d) 15
+RRB Group-D — 01/10/2018 (Shift-II1)
+Ans : (d) Let after x years, Bratin's age will be 1.5
+times that of cousin's age.
+(x+18) =1.5(x+7)
+x+18 = 1.5x+10.5
+0.5x= 7.5
+x=15
+
+131. A man is 24 years older than his son. Four
+years later, his age will be twice of his son's
+age. What is the present age of father?
+
+(a) 40 Years (b) 44 Years
+(c) 42 Years (d) 48 Years
+RRB NTPC 04.04.2016 Shift : 3
+Ans: (b) Let the present age of father = x Years
+-. Present age of son =(x-—24) Years
+Age of father after 4 years =(x+4) Years
+and age of son after 4 years =(x-—20) Years
+According to question,
+x+4=2x(x-20)
+x+4=2x-40
+2x-x=44+40 > x=44
+
+Therefore, Present age of father is 44 years.
+
+132. At present, Ram is 4 times of his son's age.
+After 5 years he will be 3 times the age of his
+son. Find their present age?
+
+(a) 60,15 (b) 40,10
+(c) 20,5 (d) 32,8
+RRB NTPC 28.03.2016 Shift : 1
+Ans : (b) Let the Present age of Ram's Son = x Years
+Present age of Ram =4x Years
+According to question,
+4x+5=3(x+5)
+=> 4x+5=3x+15 >x=10
+
+Therefore, Present age of Ram and his son is 40 years
+
+and 10 years respectively.
+
+133. After five years, Mayank age will be 3/5th of
+his father's age. Five years ago the ratio of
+their age was 2:5. Find the present age of
+Mayank.
+
+(a) 17 (b) 13
+() 19 (d) 15
+RRB NTPC 19.04.2016 Shift : 3
+
+Ans : (b) Let before 5 years Mayank's age is 2x years
+
+and father's age is 5x years.
+
+Then after 5 years
+
+Ageof Mayank _ 3
+Ageof Father 5
+J YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0025_left.png =====
+2x+10_ 3
+
+5x+10 5
+
+10x + 50 = 15x + 30
+5x=20
+
+x=4
+
+Therefore, Present age of Mayank = 2x + 5
+
+=2x4+5=13 Years
+
+134. 6 years ago a man's age was 5 times of his son's
+age. After 10 years, he will be 3 times of his
+son. What is his son's present age?
+
+(a) 20 (b) 18
+(c) 24 (d) 22
+RRB NTPC 18.04.2016 Shift : 3
+
+Ans : (d) Let the present age of father and son is x and y|
+
+respectively.
+
+from question-
+
+x-6 = 5(y-6) => x-Sy =-24 wai)
+land
+
+x+10 = 3(y+10) = x-3y = 20 soeee (ii)
+from equation (i) and (ii)—
+
+x= 86, y=22
+
+Therefore, Present age of son is 22 years.
+
+135. 2 years after from today a man's age will be
+four times that of his son and 4 years after that
+the man's age will be 3 times of his son's age.
+After how many years will the father's age be
+twice of his son?
+
+(a) 15 years (b) 16 years
+(c) 17 years (d) 18 years
+RRB NTPC 10.04.2016 Shift : 3
+Ans: (d) Let the age of Man =x Years
+and age of son = y Years
+from question,
+(x+2)=(y+2)x4
+x+2=4y+8
+x=4y+6 ceceeeeee(i)
+again
+(x+6) = (y + 6) x3
+x +6=3y+18
+x=3y+12 ceveen(il)
+from equation (i) and (ii)
+4y+6=3y+ 12
+y =6 Years
+
+Putting the value of y in equation (i)
+
+x = 4x6+6
+
+x = 30 Years
+
+Now, Let after A years, father's age will be 2 times that
+
+of his son.
+
++“ B0+A)=(6+A)x2
+30+A=12+2A
+A= 18 years
+
+136. The product of Sapna and Anubha's age is 150.
+If 4 times the age of Anubha is 10 years more
+than the age of Sapna. Find the age of Sapna.
+(a) 20 (b) 27
+(c) 19 (d) 17
+
+RRB NTPC 22.04.2016 Shift : 1
+
+Problems Based on Age 34.
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0025_right.png =====
+Ans : (a) Let the age of Sapna =x Years
+Age of anubha = y Years
+
+According to question,
+xy =150 sesesseeeseee(L)
+4y=x+10 severeeeeee(di)
+
+from equation (i) y = a putting in equation (ii)
+
+4x 150 =x+l10
+
+x
+600 = x? +10x
+x? +10x-600=0
+x? +30x — 20x -600=0
+x(x +30)—20(x+30)=0
+(x +30)(x-20)=0
+x+30=0
+x =-30 (invalid)
+x-20=0
+x=20
+
+Therefore, Age of Sapna = 20 Years
+
+137. Bipul is 16 years younger than Saibal after. 12
+years from now, Saibal's age will be 1.5 times
+that of Bipul. Saibal is now years old.
+(a) 42 (b) 45
+(c) 40 (d) 36
+
+RRB ALP & Tec. (31-08-18 Shift-I
+
+Ans : (d) Let the present age of saibal = x years
+
+then, Present age of Bipul = (x—16) years
+
+Age of Saibal after 12 years = (x+12) Years
+
+Age of Bipul after 12 years = (x—16+12) = (x4) Years
+
+According to question,
+
+(x+12) = 1.5 (x-4)
+x+12 = 1.5x-6
+0.5x = 18
+
+18
+x=—
+
+0.5
+x = 36 Years
+
+Therefore, Saibal's present age is 36 years.
+
+138. 15 years ago, Shyam was twice as old as
+Prabhat. After 5 years from now Prabhat's age
+will be Sof Shyam's age. What is Shyam's
+present age?
+
+(a) 72 years (b) 75 years
+(c) 80 years (d) 64 years
+RRB ALP & Tee. (31-08-18 Shift-II])
+
+Ans : (b) Let the present age of prabhat = x years
+
+Present age of shyam = y years
+
+According to question,
+
+2(x-15) = (y-15)
+2x-30 = y-15
+2x-y = 15 sseeseeee (1)
+Both age after 5 years from present,
+(x+5) = av)
+3 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0026_left.png =====
+8x+40 = Sy+25
+8x-Sy =-15 sessseeseeseee (2)
+By multiplying 5 in equation (1)
+(2x-y)5 = 15x5
+10x—Sy = 75 sevsseeeseeeees (3)
+By subracting equation (3) from equation (2)—
+8x-Sy =-15
+10x—Sy = 75
+— + +
+—2x =-90
+x=45
+Putting the value of x in equation (1)-
+2 x45-y=15
+y = 90-15
+y =75 Years
+There, Prsent age of Shyam is 75 years.
+139. Jina is 24 years younger than her mother.
+Eight years after her mother's age will be
+5 times her age. What is Jina's present age (in
+years)?
+(a) 24 (b) 22
+(c) 26 (d) 28
+RRB ALP & Tec. (30-08-18 Shift-IID
+Ans : (d) Let the present age of Jeena = x Years
+Present age of Mother = (x + 24) Years
+Age of Jeena after 8 years = (x + 8) Years
+Age of Mother after 8 years = (x+24+8) Years
+According to question,
+x+32 =F +8)
+3x + 96 = 5x +40
+2x = 56
+x=28
+Therefore Present age of Jeena = 28 Years
+140. Priyankur's present age is seven years less than
+thrice the age of his cousin Rihana. After
+sixteen years from now Priyakur's age will be
+150% of that of Rihana. What is Priyankur's
+present age (in years)?
+(a) 17 (b) 23
+(c) 20 (d) 26
+RRB ALP & Tec. (29-08-18 Shift-IID
+Ans : (b) Let the Present age of Rihana = x Years
+Then Present age of Priyankur = (3x-7) Years
+According to question,
+150
+(3x-7+16) =(x +16)x 100
+(3x+9)=(x+16)x5
+6x+18 = 3x+48
+6x-3x = 48-18
+3x = 30
+x=10
+Present age of Priyankur = 3x-7 = 3x10-7
+= 30-7=23 Years
+Problems Based on Age 34:
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0026_right.png =====
+141. Jeremy is 26 years younger than his father.
+Eight years after his father's age will be two
+years less than twice his age. What is Jeremy's
+present age (in years)?
+
+(a) 20 (b) 24
+(c) 22 (d) 18
+RRB ALP & Tec. (21-08-18 Shift-ID)
+Ans : (a) Let the present age of Jeremyi = x Years
+Present age of Father = (x + 26) Years
+According to question,
+Then, 2 (x + 8)—2=(x + 26+ 8)
+2x+ 16-2 = x+34
+x= 34-14
+x = 20 Years
+
+142, The sum of the present age of a father and his
+son is 60 years. Six years ago, father's age was
+five times the age of the son. After 6 years,
+son's age will be:
+
+(a) 20 years (b) 21 years
+(c) 15 years (d) 19 years
+RRB ALP & Tec. (20-08-18 Shift-I.
+Ans ; (a) Let the age of son = x Years
+Then age of father = (60 — x) Years
+Age before 6 years
+According to question,
+5(x - 6) =(60-x-6)
+5x-30 = 54-x
+6x = 84,
+x= 14
+Age of son after 6 years = 14+ 6=20 Years
+
+143. Satheesh is two years older than Gautam who
+is twice as old as Sai. If the total of the ages of
+Satheesh, Gautam and Sai is 27, then how old
+is Gautam?
+
+(a) 12 (b) 10
+(c) 11 (d) 13
+RRB ALP & Tec. (20-08-18 Shift-IID)
+
+Ans: (b) Let the age of Sai = x Years
+
+Age of Gautam = 2x Years
+
+And age of Satish = (2x+2) Years
+
+According to question,
+
+x+2x+2x+2 = 27
+5x= 27-2
+x= 35 =5
+
+5
+
+So, Age of Gautam = 2x = 2x5= 10 Years
+
+144. John is 15 years younger than Jill. 12 years
+ago, Jill's age was 1.5 times that of John. Jill is
+now .......years old.
+
+(a) 57 (b) 45
+(c) 30 (d) 42
+RRB ALP & Tee. (17-08-18 Shift-IID
+Ans : (a) Let the age of John is x years and age of Jill
+is y years.
+According to question,
+y-x=15 ereeeseeeseeene(i)
+1 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0027_left.png =====
+and = (y-12) = (x- 12) 1.5
+
+y-12=15x-18
+y-15x=-6 penn )}
+From equation (i) and (ii)—
+y-x-(y— 1.5x ) = 15-(-6)
+y-x-y+15x=15+6
+05x=21
+21
+x=
+0.5
+x=42
+putting the value of x in equation (i)-
+y- 42 = 15
+y= 15+42=57
+
+So, Present age of Jill is 57 years.
+
+145. Roshan's present age is three years less than
+1.5 times that of Usha's. 12 years ago Usha's
+age was three years more than half of Roshan's
+age. What is Roshan's present age in years?
+
+(a) 42 (b) 39
+(c) 33 (d) 30
+RRB ALP & Tec. (14-08-18 Shift-ID
+
+[Ans : (a) Let the present age of Roshan is x years and]
+
+present age of Usha is y years.
+
+According to first Condition—
+
+x= 15y-3 svveeeee (i)
+
+According to second Condition—
+
+ROB eoey-12 en (T))
+
+Putting the value of x in equation (ii) from equation (i),
+
+(Sy 3) 2 gey-12
+1 Sy-15+6 = 2y-24
+O.5y = 15
+y=30
+Putting y = 30 in equation (i)
+x= 1.5x30-3
+x= 45.0-3
+x = 42 Years
+
+So present age of Roshan = 42 years.
+
+146. 13 years ago Ram was twice as old as Sunny.
+Three years from now Sunny's age will be 2 of
+Ram's age. What is Ram's present age?
+
+(a) 64 years (b) 72 years
+(c) 80 years (d) 77 years
+RRB ALP & Tec. (13-08-18 Shift-I
+Ans: (d) If present age of Ram =x Years
+
+and Present age of sunny = y Years
+
+Age of Ram and Sunny before 13 years would be (x-13)
+
+land (y-13) respectively—
+
+from question,
+
+(x-13)=(y-13)x2
+x-13=2y-26
+x-2y—13 evvseeeeee(i)
+Problems Based on Age 34!
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0027_right.png =====
+Age of Ram and Sunny after 3 years will be (x+3) and|
+
+(y+3) respectively.
+
+(x3) =yt3 => 3x+9=5y415
+
+or 3x-Sy=6 seeeseeseee (Ai)
+
+By Multiplying 3 in equation (i) and subtracting from
+
+equation (ii)-
+
+3x-6y =-39
+
+3x-Sy = 6
+
+y=45 Years
+
+Putting the value of y in equation (i),
+
+x-2x45 =-13
+
+x-90 =-13
+
+x = 77 years
+
+147. Three years from now Dharitri's age will be
+eight years less than twice of Yunees age. The
+sum of their present ages is 61 years. What is
+Dharitri's present age?
+
+(a) 43 years (b) 36 years
+(c) 41 years (d) 39 years
+RRB ALP & Tec. (09-08-18 Shift-I.
+
+Ans ; (d) Let the present age of Dharitri and Yunees is
+
+x, y years respectively.
+
+According to question,
+
+x+3=2y+3)-8
+x+3=2y+6-8
+x+3=2y-2
+x-2y=-5 ereeereeee(i)
+and xty=61 ereeeseeee(ii)
+By subtracting equation (ii) from equation (i),
+x-2y=-5
+xt+y=61
+—3y =-66
+y=22
+
+Putting y = 22 in equation (ii),
+
+x+22=61
+x= 39
+
+So, Present age of Dharitri is 39 years.
+
+148. Seven years from now Virat will be twice as old
+as Mohinder. Five years ago Mohinder's age
+was one years less than jot Virat's age. What
+is Virat's present age?
+
+(a) 53 years (b) S51 years
+(c) 57 years (d) 55 years
+RRB ALP & Tec. (09-08-18 Shift-I)
+
+Ans : (d) Let the age of Virat before 5 years = x years
+
+Age of Mohindar before 5 years -(#-1) Years
+
+Present age of Virat = (x + 5) Years.
+
+Present age of Mohindar = (= + s) Years
+
+According to question,
+
+x+5 +7=2(24+447)
+5(x + 12)=4x+ 110, x= 50
+Present age of Virat =x +5=50+5=55 Years
+5 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0028_left.png =====
+149. The average age of P and Q is 24 years.
+Average age of P, Q and R is 22 years. Find the
+sum of their age in the previous year?
+
+(a) Data is insufficient (b) 90
+(c) 87 (d) 95
+RRB JE - 27/05/2019 (Shift-I10
+
+Ans: (a)P+Q=24x2......... (i)
+
+P+Q+R=22 x 3........ (ii)
+
+By subtracting equation (i) from equation (ii)-
+
+R = 66 — 48 = 18 Years
+
+The different ages of P and Q are not knwon so the data}
+
+is insufficient to answer the question.
+
+150. The sum of the ages of father and son is 50. 6
+years before the age of father was 6 more than
+thrice of the age of son. What will be the
+fathers age after 6 years.
+
+(a) 40 Years (b) 48 Years
+(c) 42 Years (d) 50 Years
+RRB JE - 28/05/2019 (Shift-I
+Ans : (c) Let the age of father = x Years
+land age of son= y Years
+xty=50 ---- (i)
+According to question,
+(x-6) = (y-6) x3 +6
+x-6=3y-18+6
+x-3y=-6 ----(ii)
+From equation (i) and (ii)-
+xty=50
+x-3y=-6
+= + +
+4y = 56
+y=14
+Putting the value of y in equation (i),
+x= 36
+
+So, Age of father after 6 years = 36 + 6 = 42 years.
+
+151. The age of father is 5 years more than the
+mother age. Mother's present age is thrice of
+the daughter's age. The Present age of
+daughter is 12 years. What was the age of
+father at the time of daughter's birth?
+
+(a) 29 Years (b) 25 Years
+(c) 31 Years (d) 32 Years
+RRB Group-D — 20/09/2018 (Shift-1T
+
+Ans : (a) *: Present age of daughter = 12 Years
+
+So Present age of Mother = 3 x 12 = 36 Years
+
+Given, present age of father = 36 + 5=41 Years
+
+Therefore, at the birth of daughter the father's age
+
+= 41-12 = 29 Years
+
+152. A father says to his son "that at the time of
+your birth my age was as your present age. If
+the father's present age is 40 years, then what
+was the son's age before 5 years?
+
+(a) 15 Years (b) 13 Years
+(c) 17 Years (d) 23 Years
+RRB Group-D — 31/10/2018 (Shift-II)
+Problems Based on Age 34
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0028_right.png =====
+Ans. (a) Let the age of father at the birth of son = x years
+
+So present age of son = x Years
+
+Given, present age of father = 40 Years
+
+=> (40-x)=x
+
+40 = 2x
+x= 20 Years
+
+~. Age of son before 5 years = 20 - 5= 15 Years
+
+So, before 5 years son's age was 15 years.
+
+153. At the time of marriage, the age of a person
+was 6 year more than the age of his wife but
+after 12 years of marriage His age is 1.2 times
+of his wife's age. What was their age during the
+marriage?
+
+(a) 27 Years, 18 Years
+(b) 24 Years, 18 Years
+(c) 21 Years, 18 Years
+(d) 23 Years, 19 Years
+RRB Group-D — 22/10/2018 (Shift-ID
+
+Ans : (b) Let the age of the Man's wife at the time of
+
+marriage = x Years
+
+and Age of Man = (x + 6) Years
+
+.. Age of man after 12 years = x+6+12 = (x+18) Years
+According to question, x + 18 = (x + 12) x 1.2
+x+18=1.2x+14.4
+0.2x = 3.6
+x=18
+
+So the age of the Man's wife = x = 18 Years
+
+And age of Man = (x + 6) = (18 + 6) = 24 Years
+
+154. The present age of Z is half of A's age. After 5
+years the ratio of A and Z will be 11:6. After 3
+years what will be the age of Z?
+
+(a) 25 (b) 30
+(c) 28 (d) 22
+RRB NTPC 31.03.2016 Shift : 1
+
+Ans : (c) If the present age of Z and A is x and 2x
+
+years.
+
+According to question, 2x+5
+
+x+5 6
+12x + 30 = 11x +55
+x=25
+
+Age of Z after 3 years =x +3=28 Years
+
+155. Rathin is now 16 years old while his cousin is 7
+years. After how many years will Rathin's age
+be 1.5 times that of his cousin?
+
+(a) 12 (b) 11
+(c) 9 (d) 10
+RRB ALP & Tee. (13-08-18 Shift-I.
+
+Ans. (b) Let after x years, Rathin's age will be 1.5 times|
+
+that of his Cousin's age.
+
+Age of Rathin After x years = (x + 16) Years
+
+Age of Cousin = (x+7) Years
+
+(x+16) = (x+7)x1.5
+
+x+16=1.5x+10.5
+
+5.5=0.5x
+
+_55
+x=o2
+0.5
+x= 11 years
+J YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0029_left.png =====
+156. At the time of birth of Priya her father's age
+was 38 years. At the time of birth of her 4 year
+younger brother her mother's age was 36
+years. How old is his mother younger than his
+father?
+
+(a) 4 (b) 5
+(©) 8 (d) 6
+RRB JE - 23/05/2019 (Shift-I)
+
+Ans : (d) According to question,
+
+Age of father = 38 Years
+
++: Mother's age during birth of 4 years younger brother|
+
+= 36 Years
+
+.. Mother's age at priya's birth = 36 — 4 = 32 Years
+
+«. Age of father — age of mother = 38 — 32 = 6 Years
+
+157. The average age of three children born at two
+years interval is 8 years. What is the age of the
+eldest child?
+
+(a) 12 Years (b) 7 Years
+(c) 10 Years (d) 8 Years
+RRB JE - 24/05/2019 (Shift-I)
+Ans : (c) Let the three children are A, B and C
+A=x,B=x+2,C=x+4
+According to question,
+X+X+24+xX+4 _ 8
+5 =
+xtxt+2+x+4=24
+3x = 18
+x=6
+
+So, the age of eldest children = x +4=6+4= 10
+
+Years
+
+158. The average sum of 5 children born at 4 years
+interval is 80. What is the age of the eldest
+child?
+
+(a) 18 (b) 24
+(c) 16 (d) 28
+RRB JE - 26/05/2019 (Shift-I)
+‘Ans: (b) Let the five children are A, B, C, D and E
+A= x year
+B=x+4
+C=x+8
+D=x+12
+E=x+16
+
+According to question,
+
+X+ X+ 44x+8+x+12+x+16 = 80
+
+Sx + 40 = 80
+
+5x =40
+
+x=8
+
+«. Age of eldest children =x + 16=8+ 16
+= 24 Years
+Problems Based on Age 34’
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0029_right.png =====
+159. In a group of students, age of 1/5 students is
+less than 8 years. 2/5 students of the rest
+students is more than 8 years. What part of the
+groups age is exact 8 years?
+
+(a) 4/25 (b) 12/25
+(c) 2/5 (d) 3/5
+RRB JE - 26/05/2019 (Shift-I1)
+
+Ans. (b)
+
+Let the total number of students in the group = x
+
+Number of students under 8 yers of age = ;
+
+Number of students over 8 years of age
+
+( *) 2.8
+= [| x-=|x2=—x
+5) 5 25
+Number of students of 8 years =
+(3 =) 13x _ 12x
+x-|>+— |=x-——=—
+5 25 25 25
+
+Part of exactly 8 years old students in the group = 2
+
+160. I have a brother who is 3 years elder to me
+when my brother was born then my sister was
+6 years old. Our average age is 14. Now what is
+the age of my sister?
+
+(a) 20 Years (b) 19 Years
+(c) 17 Years (d) 18 Years
+RRB RPF Constable — 19/01/2019 (Shift-IID
+
+Ans : (b) Let the present age of Man = x Years
+
+Present age of Man's brother = (x + 3) Years
+
+Present age of Man's Sister - (x + 3 + 6) = (x + 9) Years
+
+.. According to question,
+
+X+xt+34+xt+9=3x 14
+
+3x+12=3x14
+
+x+4=14
+
+x= 10 Years
+
+.. Age of sister = 10+9 = 19 Years
+
+161. The age ratio of two brothers is 7:15. The LCM
+of their age is 210. What is the age of elder
+brother?
+
+(a) 45 (b) 42
+(c) 15 (d) 30
+RRB JE - 30/05/2019 (Shift-II1
+
+Ans : (d) Let the age of younger brother is 7x years and|
+
+age of elder brother is 15x years.
+
+According to question,
+
+L.C.M. of Number 7x and 15x = 105x
+
+105 x= 210
+
+x=2
+
+Age of elder borther = 15x = 15 x 2=30 Years
+
+162. If 4 is subtracted from any person's age and is
+divided by 5, then the result represents the age
+of his grand son. There is a sister of grand son
+whose age is 5 years, 6 years less than the
+grandson. What is the age of grand father?
+
+(a) 58 (b) 57
+(c) 60 (d) 59
+RRB JE - 31/05/2019 (Shift-II1)
+y YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0030_left.png =====
+Ans. (d) Let the age of grandfather = x Years
+According to question,
+Age of Daughter = 5 Years
+“ Age of son = 11 Years
+xo4_ pl
+5
+x-4=55
+x= 59 Years
+163. A grand father and his grand daughter's age
+ratio is 9:2. The sum of their age is a whole
+number. The difference of their age may be
+multiple of 11, then find their age?
+(a) 90, 20 (b) 95, 25
+(c) 72, 16 (d) 99, 22
+RRB JE - 02/06/2019 (Shift-I1)
+Ans. (d) According to question,
+Age of grandfather = 9x Years
+Age of grand daughter = 2x Years
+9x + 2x =x?
+llx=x?
+x=11
+Age of grand father = 9x =9 x 11=99 Years
+Age of grand daughter = 2x = 2x11 =22 Years
+164. The age of a father is twice of his son's age. The
+HCF of their age is 22. What is the age of the
+son?
+(a) 18 Years (b) 24 Years
+(c) 22 Years (d) 20 Years
+RRB JE - 02/06/2019 (Shift-I
+Ans : (c) Let age of son = x Years
+then, age of father = 2x Years
+HCF of x and 2x = x=xx1
+2x=xx2x1
+So, HCF =x
+Therefore age of son = x Years = 22 Years
+165. The total age of A and B is 12 years more than
+the total age of B and C. Who is the younger in
+A and C and By how many years?
+(a) A, 6 Years (b) A, 12 Years
+(c) C, 12 Years (d) C,6 Years
+RRB JE - 28/06/2019 (Shift-IIT
+|Ans. (c) According to question,-
+A+B=B+C+12
+A=C+12
+Therefore, It is clear that C is 12 years younger than A.
+166. A grand father's age is 5 times more than the
+age of grandson. Which of the following
+numbers not support the approximate of the
+total age of the grand father and his grandson?
+(a) 50 (b) 54
+(c) 72 (d) 66
+RRB RPF SI - 10/01/2019 (Shift-11
+Ans: (a) Let the age of Grandson = x Years
+Age of Grandfather = 5x Years
+Total age = 6x Years
+Since Divisible Numbers from 6 are 54, 72 and 66.
+Therefore, option (a) does not support of total age.
+Problems Based on Age 34
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0030_right.png =====
+167. The age of P and Q is 50 and 40 respectively.
+Before how many years the ratio of their age
+was 3:2?
+
+(a) 20 Years (b) 10 Years
+(c) 15 Years (d) 5 Years
+RRB JE - 02/06/2019 (Shift-I
+Ans : (a) Let Ratio of their age before x years was 3 : 2
+According to question,-
+50-x _3
+40-x 2
+100 — 2x = 120 —3x
+x = 20 Years
+
+168. Sum of the age of two sisters is 81. Their age
+ratio is 4:5. How old is one sister than other?
+(a) 9 (b) 27
+(c) 18 (d) 12
+
+RRB JE - 27/06/2019 (Shift-1
+
+Ans : (a) Let the age of both sisters is 4x, 5x
+
+According to question,
+
+4x +5x=81
+9x=81
+x=9
+
+Age of first sister = 4x = 4 x 9 = 36 Years
+
+Age of second sister = 5x = 5 x 9= 45 Years
+
+So, first sister is 9 years younger than second.
+
+169. The age of Sita is twice the average age of Ram,
+Mohan and Sita. Ram's age is half of the
+average age of Ram, Mohan and Sita. If
+Mohan's age is 5 years then what is the average
+age of Ram, Mohan and Sita?
+
+(a) 10 Years (b) 8 Years
+(c) 7 Years (d) 15 Years
+RRB Group D 07/12/2018 (Shift-I
+
+Ans : (a) Age of sita = Rem Moan ss 2
+
+Given Mohan = 5 Years
+
+3 x Sita = (Ram+ 5+ Sita) x 2
+
+3 x Sita = 2 x Ram+ 10+ 2 Sita
+
+Sita=2 x Ram+10 ------(1)
+
+Age of Ram = Ram+ Mowe + Sie 5
+
+6 x Ram = Ram + 5 + Sita
+
+5x Ram=5 + Sita
+
+Sita=5 x Ram- 5 -------(2)
+
+By subtracting equation (1) from equation (2)
+
+Age of Ram = 5, Aage of Sita = 20, Age of Mohan = 5
+
+So Average Age = Ram+ “ +Mohan
+
+= “oe = 10 years
+
+170. If 2/3 Children are in the age group of 1-12, 1/2
+children are in the age group of 1-8. Then find
+the part of children in the age group of 9-12?
+(a) 1/3 (b) 1/4
+(c) 1/6 (d) 1/2
+
+RRB NTPC 28.03.2016 Shift : 1
+
+3 YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0031_left.png =====
+Ans : (c) The part of Students of 9-12 age group
+= part of student of (1-12) years — part of student of (1-
+8) years.
+_2:1_4-3 01
+3.2 6 6
+171. The sum of the ages of 4 children born at the
+intervals of 4 years is 48. Find the age of the
+youngest child.
+(a) 4 years (b) 5 years
+(c) 6 years (d) 7 years
+RRB NTPC 05.04.2016 Shift : 3
+Ans : (c) All four children are x), x2, x3 and X4.
+Let the age of youngest (x})=x Years
+The age of older than that boy (x2) = (x +4) Years
+The age of older than that of that boy
+(x3) = (x + 8) Years
+The age of eldest boy (x4) = (x +12) Years
+oX+xt4+x+8+x+12=48 Years
+4x +24=48 Years
+4x=24=>x=6 Years
+.. Age of the youngest boy = 6 Years
+172, The average age of mother, father and two
+children is 30 years and 8 years respectively
+then find the average age of the family?
+(a) 16 Years (b) 19 Years
+(c) 18 Years (d) 17 Years
+RRB NTPC 05.04.2016 Shift : 3
+Ans : (b) Average age of family = 2n2 +82
+= 0416 _ 76 19 Years
+4 4
+173. 3 years before the age of John was 12 years and
+the age of Shankar was 15 years. What will be
+their average age after 5 years from today?
+(a) 21.5 (b) 22.5
+(c) 18.5 (d) 19.5
+RRB NTPC 31.03.2016 Shift : 3
+‘Ans: (a)
+Age of John after 5 years from present
+=12+3+5=20 years
+Age of Shankar after 5 years from present
+=15+3+5=23 years
+Intended Average = ae = 2 =21.5 Years
+174, The average age of 27 students in a class is 22.
+If the teacher's age is also included then
+average is raised by one. Then find the age of
+the teacher?
+(a) 42 (b) 48
+(c) 50 (d) 52
+RRB NTPC 29.03.2016 Shift : 1
+Ans: (c)
+Total sum of age of 27 student
+=27 x 22 = 594 years
+Total sum of age of (teacher + students)
+= 28 x 23 = 644 Years
+.. Age of teacher = 644 — 594 = 50 Years
+Problems Based on Age 34!
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0031_right.png =====
+175. The average age of a group of 19 members is 24
+years. If the age of the faculty is also included
+then the average is raised by 4 months. What is
+the age of faculty?
+
+(a) 35 Years
+(b) 30 Years 8 months
+(c) 37 Years 4 months
+(d) 32 Years 8 months
+RRB NTPC 19.04.2016 Shift : 2
+Ans : (b) Total age of 19 members of a group = 19x24
+= 456
+Years
+Total age of 19 members with faculty = 20x (24 + 4)
+=20x3
+3
+23
+“ Age of faculty = 20x 37 456
+1460-1368 _ 92 _ 302 Years
+3 3 3
+
+= 30Years +3x12 months = 30 Years 8 months
+
+176. The product of the age of swati and Aparna is
+120. If thrice the age of Aparna is 2 years more
+than swati's age, then find the age of swati?
+
+(a) 18 (b) 20
+(c) 24 (d) 16
+RRB NTPC 18.04.2016 Shift : 1
+
+Ans : (a) Let the age of swati is x years and age of
+
+Aparna is y years.
+
+According to first condition—
+
+xy=120...........i)
+According to second condition—
+3y=x+2
+_ ( x+2 }
+UG
+Putting the value of y in equation (i)}-
+xx (2) =120
+3
+
+x’ + 2x-360=0
+
+x’ +20x -18 x -360 = 0
+
+x (x + 20) -18 (x +20)=0
+
+(x +20) (x-18) = 0
+
+x+20=0 or x-18=0
+
+x =— 20 (Invalid) or x= 18
+
+Therefore age of Swati = 18 Years
+
+177. If in class 1st the average age of 20 students is
+10 years and in class IInd the average age of 25
+students is 12 years. What is the average age of
+all the students (in years)?
+
+(@) 1 (b) 11111
+(c) 10.50 (d) 10.85
+RRB NTPC 27.04.2016 Shift : 3
+) YCT
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0032_left.png =====
+Ans: (b) Average age of all students
+_ Total sum of age of allstudents
+Number of all students
+_ 20x10+25x12 _ 200+300
+—-20+25002=~*«SS;
+=3% stain
+45
+178. 15 years ago Cynthia was thrice as old as
+Brittany. The sum of their present ages is 94
+years. How old is Brittany now?
+(a) 33 Years (b) 32 Years
+(c) 30 Years (d) 31 Years
+RRB ALP & Tec. (30-08-18 Shift-I)
+Ans : (d) If present age of Cynthia is x years and
+present age of Brittany is y years. Then,
+xty=94 Years ..........(i)
+Their age before 15 years was (x-15) years and (y-15)
+years respectively. Then,
+According to question
+(x - 15) = 3(y- 15)
+x—15=3y-45
+x-3y=-30 ou.....(ii)
+By multiplying 3 in equation (i) and adding equation (ii)-
+3x + 3y = 282
+x-3y=-30
+4x = 252
+x = 63 Years
+Present age of Brittany > 63 + y= 94
+or y = 94 - 63 = 31 years
+179. The present age of Kavita, Rajita and Harita
+are in the ratio of 4 : 7: 9. Eight years ago, the
+sum of their age was 56. Find their present age
+(in years) :
+(a) 16, 36, 28 (b) 16, 28, 36
+(c) 20,35, 45 (d) 12, 21,27
+RRB ALP & Tec. (20-08-18 Shift-I)
+Ans: (b) Let the age of Kavita, Rajita and harita is 4x,
+7x, 9x years respectively—
+4x, 7x, 9x Years
+According to question,
+(4x -8)+(7x—-8)+(9x -8) = 56
+20x —24=56
+x=4
+So present age of kavita = 4x= 4x4 =16 Years
+Present age of Rajita = 7x = 7x4 = 28 Years
+Present age of Harita = 9x = 9x4 = 36 Years
+180. What is the age of the eldest sister if, the sum of
+age of 5 sisters born at the intervals of 3 years
+each is 50 years?
+(a) 16 years (b) 4 years
+(c) 14 years (d) 18 years
+RRB ALP & Tec. (13-08-18 Shift-I)
+Problems Based on Age 351
+
+
+===== Part 16 — Problem on Age (pp. 319–350)_page-0032_right.png =====
+Ans. (a) Let the age of eldest sister is x years then, age
+of other 4 sisters born at 3 years gap is (x-3), (x-6), (x-
+9) and (x-12) years respectively—
+According to question,
+X+x-3+x-6+x-9+x-12=50
+5x = 50 +30
+5x= 80
+x = 16 Years
+181. The sum of one third of Poojith's age of three
+years ago and half of her present age after two
+years is 20 year. What is her present age?
+(a) 23 years (b) 24 years
+(c) 26 years (d) 25 years
+RRB ALP & Tec. (10-08-18 Shift-II1)
+Ans : (b) Let the present age of Pujeetha = x Years
+Age of Pujeetha before 3 years = (x — 3) Years
+Age of Pujeetha after 2 years = (x + 2) Years
+According to question,
+C3) + 2) =20
+3 2
+2x-6+3x+6 =20
+6
+Ske 20
+6
+x=6x4
+x = 24 Years
+Present age of Pujeetha = 24 Years
+182. 3/5th of my present age is same as 5/6th of one
+of my cousin's age. My age before ten years will
+be his four years later age from now. What is
+my present age?
+(a) 55 (b) 45
+(c) 60 (d) 50
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (d) Let my present age = x Years
+Age of cousin = y Years
+According to question,
+3x _5Y
+5 6
+18x = 25y
+18x — 25y=0 o—------------ (I)
+And, x-l0=y+4
+x-y=14 o—--------------(II)
+From equation (II) x 25 — equation (I)
+25x —25y = 350
+18x-25y = 0
+— + oe
+Tx =350
+x = 50 Years
+Therefore, my present age is 50 years.
+) YCT

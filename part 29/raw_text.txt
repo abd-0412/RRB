@@ -1,0 +1,792 @@
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0001_left.png =====
+29.
+—————————
+1. If a, b, c and d are in proportional, then find |.
+the middle ratio between (a” + c”) and (b” + d’)
+(a) ab+cd (b) ab-cd
+(c) ad-be (d) ad+be
+RRB JE - 31/05/2019 (Shift-II)
+Ans : (a) Given-
+a:bie:d > 25
+bd
+“ad = be ---- (i)
+‘Let the middle ratio of (a’+ c”) and (b? + d’) is x
+(a +07): x2 (b+ a)
+2422
+a°+e
+x (b? +a’)
+x= (a? +07?\(b? +4?)
+x =Va7b? +a7d? +b’c? +¢7°d?
+x= Va*b? +b?c? +b°c? +07d?
+x= Va7b? +07d? +2b’c?
+x= Va"b* +07d? + 2be.be )
+x = Va*b’ +¢7d? + 2ad.be {from the equation (i)}
+x =Va"b? 407d? +2abed
+x= (ab +ced)?
+x= ab + cd
+2. A series of The Kiosk that set up in different
+regions is sold for as shown in the following table-
+[| Satein tah
+[Reson 3 [8
+Comparison region 3 to region 4 is
+(a) 25% more sale (b) 50% more sale )
+(c) 25% less sale (d) 20% more sale
+RRB Group-D — 23/10/2018 (Shift-I)
+Ans. (b) :
+intended increase % = us x100= 4x 100 = 50%
+= 50% more sale
+Miscellaneous 61!
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0001_right.png =====
+°
+Miscellaneous
+TS
+3. The following table describes the 4 years of
+sales (in lakh) to the company.
+[ _| Sale in Lakh
+[year [80
+[years [90
+What percentage difference in sale from year 2
+to year 4,
+(a) 25% decrease (b) 25% increase
+(c) 20% increase (d) 20% decrease
+RRB Group-D — 23/10/2018 (Shift-I1)
+Ans. (b) :
+Intended increase % = wee 100
+20
+=—x100
+80
+= 25% increase
+4, The salary of Q is 4/5 of salary of P which is
+Rs. 85,000 per month. Salary of R is 3/4 of Q.
+What is the per month salary of R.
+(a) Rs. 68,000 (b) Rs. 61,000
+(c) Rs. 51,000 (d) Rs. 45,000
+RRB NTPC 05.04.2016 Shift : 2
+Ans : (c) Salary of P = Rs. 85000
+salary of Q = 85000x <= Rs. 68000
+3 3
+salary of R = salary of Q 4 = 68000x 7
+= Rs. 51000 per month
+5. 250 grams of sweet has 20 grams of Cashew
+and 30 grams of Almonds. How many grams of
+this sweet will be 350 grams of Cashew and
+Almonds respectively.
+(a) 28 and 42 (b) 21 and 28
+(c) 40 and 60 (d) 25 and 45
+RRB NTPC 19.01.2017 Shift : 2
+3 YCT
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0002_left.png =====
+Ans :(a) % of Cashew in 250 gram sweet
+= 72 x100=8%
+250
+% of Almond in 250 grams sweet = ax 100 =12%
+According to the question,
+quantity of cashew in 350 gram sweet.
+=350x— = 28 gram
+100
+quantity of almond in 350 gram sweet
+= 350x42 = 42 gram
+100
+6. A questions and three statements (I), (II) and
+(IID) are given below. You have to decide which |
+of the statement is/are sufficient to answer the
+question.
+Que.- What is the 40% of a number.
+Statement-
+I. 25% of that number is 60 less than that
+number.
+IL. 20% of that number is an even number.
+Ill. 5% of the twice of that number is 1/10 of
+that number.
+Choose the correct option-
+(a) only Lis sufficient
+(b) I and III both are sufficient
+(c) only III or I and II are sufficient
+(d)_ only III is sufficient
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (a) The statement I is sufficient for answer the|
+question.
+considered number = x
+According to the question-
+xx72 2x60 %=x-60
+100 4
+3x 60
+4
+then
+x of 40% = 80x40 = 39
+100
+7. John won a lottery in which the government
+deducted 35% of the tax and gave 7/8 part to
+john and remaining to the ticket seller. If the
+ticket seller received Rs. 22,343.75. What was
+the amount of lottery?
+(a) 2,23.437 (b) 275,000
+(c) 264,384 (d) 178,750
+RRB NTPC 28.04.2016 Shift : 1
+Miscellaneous 61!
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0002_right.png =====
+Ans: (b) Assuming lottery amount = x Rs.
+xx35__ 35x
+governments tax =——— = ——
+100 100
+remain amount = x — 35x _ 65x
+100 100
+65x_ 7 _ 91x
+share of John =—— x—=——
+100 8 160
+. 65x _ 91x _ 520x—455x _ 65x
+remain amount =————— =———___ = —_”
+100 160 800 800
+Pe 65x _99343.75
+800
+x= 22343.75x800 _ 275000
+65
+8. Consider the given question and decide which
+of the following statements is sufficient to
+answer the question.
+How much did Mr. X earn in the year 2000?
+Statements:
+1. Mr. X earned Rs. 7,000 in 2003, which is
+10% more than what he earned in 2000.
+2. Mr. Y, Mr. X's wife, earned half of the
+amount Mr. X earned, and they together
+earned Rs. 9,000 in 2000.
+(a) Either 1 or 2 is sufficient to answer the
+question
+(b) Both 1 and 2 are sufficient to answer the
+question
+(c) only 1 is sufficient while 2 is not sufficient to
+answer the question
+(d) only 2 is sufficient while | is not sufficient to
+answer the question
+RRB ALP & Tee. (29-08-18 Shift-III)
+Ans : (a) From statement (1)-suppose if the amount
+earned by Mr. 'X' in the year 2000 is A.
+amount earned by Mr. 'X' in the year 2003 = 7000Rs.
+Now amount A earned by Mr. 'X' in the year 2000 >
+A+AX10_ 7000
+100
+or “= 7000
+10
+A = 6363.6Rs,
+from statement (2)-
+suppose amount A earned by Mr. 'X' in the year 2000
+amount earned by Mrs. 'Y' in the year 2000 = $
+A+4= 9000
+2
+) YCT
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0003_left.png =====
+3A = 9000
+
+2
+
+A= 6000
+amount earned by Mrs. 'Y' = 9000 — 6000
+
+= 3000
+which is less than half of the earned amount of 'X' in
+year 2000
+Here either statement (1) or statement (2) is sufficient
+to answer the question.
+
+9 Various bonds of chips are available in a kiosk
+70% of the sales of the store come from selling
+potatoes 30% of sales are other chips and
+wafers. The average sales of the store in each
+quarter is Rs. 12,00,000. What is their
+estimated average monthly sales of potato
+chips?
+
+(a) Rs. 5,00,000 (b) Rs. 2,50,000
+(c) Rs. 3,00,000 (d)_ Rs. 2,80,000
+RRB Group-D — 24/09/2018 (Shift-I)
+Ans: (d) Let sales of stores = Rs. x
+. xx70 _ 7x
+to sales potato chips = ——— =——
+100 10
+sales of other chips and wafers = **30 =3%
+100 10
+sales of potato chips : sales of other chips and wafers
+mL : 3x 7:3
+10 10
+*. store's average sale in every quarter = Rs. 12, 00,000
+-. Store's average sale in every month a
+=Rs. 400000
+estimated average monthly sales of potato chips
+— 400000x7 _ 4000007
+(743) 10
+
+= 40000 x 7 = Rs. 2,80,000
+
+10. | Which of these deals will be the best in terms of
+percentage profits
+(a) Cost price = 60, Profit = Rs. 32
+(b) Cost price = 80, Profit = Rs. 44
+(c) Cost price = 50 , Profit = Rs. 26
+(d) Cost price = 70, Profit = Rs. 40
+
+RRB NTPC 18.01.2017 Shift : 3
+Ans: (d) From the option-
+(a) py =22%100 _ 53 339%
+60
+(b) P% = 44x100 _ 55%
+80
+Miscellaneous 62
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0003_right.png =====
+(c) P%= 26x50 _ 13%
+100
+(d) P%= 40%100 _ 57.14%
+70
+
+So option (d) will be the best deal.
+
+11. Govind buys a laptop in Rs. 40,000 five years
+ago. What is the profit/loss percentage if the
+annual rate of depreciation is 10% and has sold
+it at Rs. 25,000?
+
+(a) neither profit nor loss (b) 25% loss
+(c) profit 25% (d) 20% profit
+RRB NTPC 30.04.2016 Shift : 1
+Ans: (c) Purchase price of goods = 40000
+
+price loss rate = 10%
+
+time = 5 year
+
+purchase price of goods = sons = 20000
+
+after five years purchase price of goods = 40000-|
+
+20000 = 20000
+
+sale price of goods = 25000
+
+profit = 25000 —20000 = 5000
+profit % = 5000x100 _ 45,
+20000
+
+12. Sunil bought a motorcycle at Rs. 30,000 five
+years ago. What is the profit/loss percentage
+(%) if the prescribed annual rate of
+depreciation is 5% and has sold it for Rs.
+20,000
+(a) neither gain nor loss (b) 25% loss
+(c) 12.5% loss (d) 12.5% gain
+
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (c) cost price = Rs. 30,000
+after five years total loss = 5x5 = 25%
+100-2:
+then after five year cost price = 30000 a2)
+=30000x3
+4
+= 22500
+sale cost = 20,000
+o loss % = (none. 100}
+20000
+= 2500 100
+20000
+= 35, =12.5%
+2
+) YCT
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0004_left.png =====
+13. Ravi had Rs. 713.39 in his bank account he
+deposited some amount in his account and then
+withdraw the amount for 5 shirt. Cost of each
+shirt worth Rs. 123.79. If total balance in his
+account is Rs. 545.19. So how much amount did
+he deposit.
+
+(a) Rs. 460.70 (b) Rs. 450.75
+(c) Rs. 448 (d)_ Rs. 459.50
+RRB Group-D — 03/10/2018 (Shift-II1)
+Ans :(b) Amount in Ravi's bank account = Rs. 713.39
+withdraw money to buy five shirts
+= Rs. 123.79 x 5
+= Rs. 618.95
+suppose deposited amount by Ravi = Rs. x
+balance = Rs. 545.19
+according to the question-
+713.39 + x — 618.95 = 545.19
+x + 94.44 = 545.19
+x = 545.19- 94.44
+x =F 450.75
+
+So Ravi deposited Rs. 450.75
+
+14. If you want to increase the size of a cubic box,
+for this you increase its dimensions by half
+more than that of original size. Which of the
+following statement is true regarding the
+volume of the newly formed box after the box
+size has been increased?
+
+(a) It is 337.5% of the volume of the original
+box.
+(b) It is 112.5% of the volume of the original
+box.
+(c) Itis 450% of the volume of the original box.
+(d) It is 150% of the volume of the original box.
+RRB Group-D — 11/10/2018 (Shift-II)
+
+Ans : (a) Suppose cubic box dimension = a
+
+According to the question-
+
+increased size = 1.5a
+
+volume of cubic box = a*
+
+and volume of cubic box with 1.5a dimensions =
+
+(15a)
+
+= 3.375a°
+after the box size increase, this will be volume of the
+original box 3.375 double or (3.375 x 100)%
+= 337.5%
+
+15. Emma makes arrangements for a Kitty party
+she divides the total expected expenditure into
+five broad segment. The distribution has been
+given here.
+
+Miscellaneous 62:
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0004_right.png =====
+Expense expense
+Segment %
+C1 | |
+If she spends Rs. 3000 on segment 3. So what
+will be her total expenditure for segment 2 and
+segment 5.
+(a) Rs. 2,000 (b) Rs. 6, 000
+(c) Rs. 3, 000 (d)_ Rs. 1,000
+RRB Group-D — 11/10/2018 (Shift-II1)
+Ans: (b) Spend percentage at segment 3 = 15
+given 15% = 3000
+and spend percentage of segment 2 and 5 = 20+ 10 =
+30%
+15% = 3000
+1%= 3000
+15
+30% = 3000x30 _ 6000
+15
+so 30% = Rs. 6000
+16. A rich man divided his property among five
+sons. But later he withdraw his share of the
+youngest son and divided it into other sons, if
+the eldest son would now have 93..75m” land.
+How much land did the rich actually own.
+(a) 375m (b) 395 m?
+(c) 315m (@) 275 m?
+RRB Group-D — 15/10/2018 (Shift-I)
+Ans : (a) Considered the total wealth of rich man= x m
+> each son got share =3 part
+> the share of the younger son is shared by every)
+four sons and the older son gets the share = 3455
+According to the question.
+> 245-9375
+5 20
+> Ax +x = 93.75 x 20
+> 5x = 1875
+> x=375
+=>  x=375
+> so the total wealth of the rich man was 375 m*
+{ YCT
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0005_left.png =====
+17. 216 cards are distributed between A and B.
+First the cards are distributed between A and B
+respectively in 5:4 the ratio. After some times
+CARDS are recollected and distributed
+between A and B respectively in the ratio
+11:13. How many card received from A to the
+second time than before?
+
+(a) 3 less (b) 3 more
+(c) 21 more (d) 21 less
+RRB Group-D — 25/09/2018 (Shift-II1)
+
+Ans. (d) : Ratio of the card distributed between A and B
+
+A:B=5:4
+
+Card received by A= ; x 216=120
+
+. 4
+Card received by B= 3 x216=96
+Ratio of the distribution of recollected cards.
+A:B = 11:13
+Again card received by A= a x216=99
+. . 13
+Again card received by B= 34 x216=117
+.. Card received by A as compared to second time
+= 120-99
+= 21 is less
+
+18. A grasshopper of 63 grams can be eaten by
+three ants separately in 3, 4 and 6 days
+respectively if they eat the grasshopper
+together, find their share (in gram) till they
+finish it.
+
+(a) 28,21, 14 (b) 30,21, 12
+(c) 31, 20, 12 (d) 31,21, 15
+RRB Group-D — 27/11/2018 (Shift-III)
+Ans. (a) Time = 3: 4:6
+Therefore part = Idd, 23:2
+346
+Suppose that their share is 4x, 3x and 2x
+4x +3x+2x=63
+9x = 63
+x=7
+.. Shares of three = 28, 21, 14
+
+19. Jane won the lottery and get 1/3 of the prize
+money she makes a donation of Rs. 6000 which
+is 1/6th part. The total amount of lottery is:
+
+(a) 36000 (b) 18000
+(c) 54000 (d) 108000 |
+RRB NTPC 03.04.2016 Shift : 2
+Miscellaneous 62:
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0005_right.png =====
+Ans: (d) Let the price of the lottery = Rs. x
+From the question-
+%)x4= 6000
+3) 6
+~ = 6000
+18
+x= Rs. 108000
+20. Rani and Malika have a total of Rs. 227, Rani
+and Tamali have Rs. 273, while the Tamali and
+Malika have total Rs. 280 what is the amount
+of money Malika has?
+(a) 7113 (b) 2123
+(c) 127 (d) @117
+RRB Group-D — 30/10/2018 (Shift-I1)
+Ans: (d) Malika + Rani = 227 -----(I)
+Rani + Tamali =273 —-----(II)
+Tamali + Malika = 280 -----(III)
+On adding equation I, II, and III
+2 (Malika + Rani + Tamali) = 227 +273 +280
+Malika + Rani + Tamali = Ee -390—1V)
+Putting the value of eqn. II in eqn. IV
+Malika + 273 = 390
+Malika = 390 - 273 =Rs. 117
+21. In a college of 420 students, each students
+reads 5 subject and 60 students read each
+subjects then what is the total number of
+subjects that was read.
+(a) Approximately 35 (b) Approximately 25
+(c) Atleast 50 (d) At most 30
+RRB Group-D — 24/10/2018 (Shift-I)
+Ans: (a)
+No. of total students in college = 420
+No. of subjects studied by 60 students = 2 =7
+*: each students studies 5 subjects
+«. Total no. of subjects studied = 7 x 5=35
+22. In group of boys, 22 like sweets, 10 like puff
+and 10 like cakes. Three of them like all three
+from the items, at least two items are liked by
+7. How many of them like only one item?
+(a) 38 (b) 24
+(c) 25 (d) 35
+RRB Group-D — 30/10/2018 (Shift-III)
+Ans. (c) : No. of peoples who like only one item.
+= 22+10+10-3-2x 7 = 42-17 = 25
+J YCT
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0006_left.png =====
+23. Read the following table carefully and answer |
+the question given below A classification of 100
+students based on marks obtained in
+mathematics and science in engineering
+entrance exam.
+
+obtained and | and] and] and | more
+out of 50/ more} more| more] more
+subject
+[Maths | 23 | 26 | 70 | 90 | 100 |
+[science [1536 | 75 | 95 | 100 |]
+Total 31 93 100
+faves |” |" |" |” ||
+How many students scored less than 60%
+marks in total?
+(a) 50 (b) 69
+(c) 65 (d) 27
+
+Ans : (b) No. of students who scored less than 60% =
+
+no. of total students — no. of students who scored less
+
+than 60% = 100-31 =69
+
+24. A man has a few small boxes to pack in the |
+parcel. If he pack 3, 4, 5 or 6 boxes in the
+parcel, then he left 1 box. If he pack 7 parcel
+then there is no one left, what can be the
+number of packing boxes?
+
+(a) 405 (b) 309
+(c) 400 (d) 301
+RRB Group-D — 30/10/2018 (Shift-I)
+
+Ans : (d) No of parcels =3 x 4 x 5 x 6 =300
+
+If he pack 3, 4, 5 or 6 boxes in the parcel, then he left 1
+
+box.
+
+then the number of packing boxes
+
+3x4x5x6+1=300+1
+=301
+
+25. The ratio of each interior angle of a regular
+heptagon and a regular dodecagon will be:
+
+(a) 4:5 (b) 2:3
+(c) 7:12 (d) 6:7
+RRB Group-D — 20/09/2018 (Shift-I)
+
+Ans. (d) : On taking out the ratio of all the interior
+
+angles of the regular heptagon and a regular dodecagon
+
+Formula: cane from-__ where x is no. of sides
+
+So, (7-2) x 180 , (12—2)x180
+
+7 12
+5.10
+712
+12x5=10x7
+=6:7
+Miscellaneous 62.
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0006_right.png =====
+26. How many millimeters in 10 km?
+(a) 10" (b) 10°
+(c) 10° (d) 10’
+RRB NTPC 31.03.2016 Shift : 2
+Ans: (d) 1 km=1000 m
+= 1000 x 1000 mm (1 m = 1000 mm)
+= 10° mm
+2. 10 km = 10 = 10°= 107mm
+27. | What will be the next set of numbers in given
+series.
+(2, 3), (3, 5), (5, 7), (7, 11), (11, 13),
+(a) (13, 15) (b) (15, 17)
+(©) (13, 17) (d) (13, 19)
+RRB NTPC 17.01.2017 Shift-1
+Ans : (c) The above series is a set of prime numbers
+(2,3), (3,5), (5,7), (7,11), (11,13), (13,17)
+Therefore the next set of the series is (13, 17)
+28. If W>X,X>Y and Y >Z then which of the
+following conclusion is definitely wrong?
+(a) Z>W (b) W>Z
+() W>Y (d) X>Z
+RRB NTPC 16.04.2016 Shift : 2
+Ans : (a) Given-
+W>X,X>Y,Y>Z
+On writing after including the above inequalities
+W>X>Y>Z
+Therefore it is clear that option (a) Z > W is wrong
+29. Read the following and answer the question
+based on it. Puspa wanted to buy three shirts.
+He came to know of the following offers.
+
+1. Super sale take 2 shirts at a price of Rs. 749
+per shirt and get 30% off on the next shirt.
+
+2. Hot sale : Take 2 shirts at a price of Rs. 799
+per shirt and get a discount of 40% on the
+next shirt.
+
+3. Mega sale : Take 2 shirts of Rs. 1999 and get
+1 shirt free.
+
+4. Big sale : Take 2 shirts at the cost of Rs. 999
+per shirt and get a discount of 90% on the
+next shirt.
+
+In the content of price which offer is best which
+Puspa should choose.
+(a)_ big sale (b) mega sale
+(c) super sale (d) hot sale
+RRB NTPC 26.04.2016 Shift : 1
+J YCT
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0007_left.png =====
+Ans: (b)
+(1) Cost of 3 shirts according to the super sale
+= 749 + 749 +749 x a =Rs. 2022.3
+(2) cost of 3 shirts according to the hot sale
+= 799 +799 +799 x = =Rs. 2077.4
+(3) cost of 3 shirts according to mega sale
+= 1999 +0=Rs. 1999
+(4) cost of 3 shirts according to big sale =
+= 999 +999 + 29910 _ Rs 2097.9 |
+100
+
+Therefore the best offer is at mega sale which Puspa
+
+should choose.
+
+30. A monkey is climb on a 12 m long tree. If he
+climbs 2 m in first second. and in next second.
+he slip 1 m. He repeated this activity again and
+again. In which second. he climbs on the top of
+tree.
+
+(a) 20th (b) 21st
+(c) 22 nd (d) 24 th
+RRB NTPC 29.04.2016 Shift : 3
+
+Ans. (b) «- The monkey climbs 2 m in first second. but
+
+next second. he slips 1 m. So he climbs only one meter
+
+in 2 second.
+.. He will climb 10 meter in 20 second.
+
+and in 21 second. he will be able to climb 12 m means
+
+he will reach at the top.
+
+31. A man climbs a 24 meter high palm tree. He
+climbs 4 metres in the first second. and slips 2
+metres in the next second. This process is repeated
+again and again until he does not reaches the top.
+In which second. he will at the top?
+
+(a) 20th (b) 21th .
+(c) 22th (@) 24th
+RRB NTPC 30.04.2016 Shift : 1
+Ans: (b) In 2 second the distance climbed at the palm|
+tree =2m
+
+distance climbed at the palm tree in 20 second. = 20 m
+
+21st second. on means the distance climbed at the palm|
+
+tree in the last = 20 + 4 = 24 m)
+
+Therefore in 21st second he reaches at the top of 24m}
+
+palm tree.
+
+32. ‘In the given diagram, Set U is the universal set
+and Set L, M and N represent students
+studying History, Geography and Language,
+respectively.
+
+What is the total number of students studying
+History and Geography but NOT Language?
+U 75 13
+(“B)
+@)
+12
+Miscellaneous 626
+
+
+===== Part 29 — Miscellaneous (pp. 618–624)_page-0007_right.png =====
+(a) 5 (b) 2
+(c) 12 (d) 7
+RRB ALP & Tec. (31-08-18 Shift-I
+
+Ans : (a) It is clear from the given figure-
+
+Total 10 students are studying only geography. In this
+
+way
+
+Total of 6 students only study language.
+
+In this way total 5 students are studying History and
+
+Geography including 5 students while total of 4 students
+
+are studying language and History excluding 4 students
+
+of Geography.
+
+33. ‘In the following diagram, Set U is the universal
+set, and Set L, M and N represent students
+studying History, Geography and Language,
+respectively.
+
+Based on the given data, what is the total
+number of students studying Language and
+Geography but not History?
+U 13
+(\
+Y
+23 CS 11
+12
+(a) 9 (b) 11
+(c) 19 (d) 2
+RRB ALP & Tec. (31-08-18 Shift-IID)
+Ans : (a) L= students studying History
+M= students studying Geography
+N& students studying Language
+
+Those students who study language and Geography but
+
+do not study history
+
+No. of students (as per figure) =9
+
+34. Consider the given question and decide which
+of the following statements is/are sufficient to
+answer the question.
+
+Is X-—S even
+X is a real number.
+Statement:
+1, X — 15 belongs to integer
+2. X - 10 is an odd integer
+(a) Statement 1 alone is sufficient while
+statement 2 alone is insufficient
+(b) Statement 2 alone is sufficient while
+statement 1 alone is insufficient
+(c) Both statements 1 and 2 are sufficient
+(d) Neither statement | nor 2 is sufficient
+RRB ALP & Tec. (09-08-18 Shift-I
+Ans : (b) Let x= 11
+From statement (2)
+11 - 10= 1 (Odd Integer)
+
+so 11 — 5 = 6 Even number and 6 is a real no.
+
+along with even no.
+
+So, statement 2 is sufficient for answer the question.
+
+So, option (b) is correct.
+
+7 YCT

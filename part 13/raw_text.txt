@@ -1,0 +1,3843 @@
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0001_left.png =====
+13.
+os
+Type - 1
+
+1. A jug has two holes. First hole empties the jug
+in 15 minutes. Second hole empties the jug in
+20 minutes. If the leakage is taking place at a
+constant rate, then in how much time the jug
+will be emptied by the both holes ?
+
+4 4
+a) = b) 7
+(a) 7 (b) 7
+5 4
+c) 8= d) 8-
+(©) 7 (d) 7
+RRB RPF Constable — 22/01/2019 (Shift-II)
+[Ans : (d) Time taken to empty the jug by both holes.
+ai,l 243.7
+15 20 60 «60
+
+Required time -2 = 8s minute
+
+2. Two pipes can fill a tank in 20 hrs and 30 hrs
+respectively. If both the pipes are opened, then
+in how much time the tank will be fill ?
+
+(a) 10 Hours (b) 12 Hours
+(c) 18 Hours (d) 15 Hours
+RRB JE - 26/06/2019 (Shift-I
+
+Ans: (b)
+
+filled part in 1 hour by first pipe “>
+
+and filled part in 1 hour by second pipe “3
+
+filled part in 1 hour of both pipes
+
+(3 7 (#2) (2) 1
+=|—+—|=|—~“]=|— J=— part
+20 30 60 60) 12
+
+So cistern will fill in 12 hours.
+
+3. A tank can be filled by two pipes together in
+45/4 minutes. Big pipe can fill the tank in 12
+minute less as compared to small pipe. How
+much time will be taken by the big pipe alone
+to fill the tank ?
+
+(a) 30 minute (b) 12 minute
+(c) 18 minute (d) 24 minute
+RRB RPF SI - 05/01/2019 (Shift-I1)
+
+Ans. (c) : Let time taken to fill the tank by big pipe =t
+
+Time taken to fill the tank by small pipe = t + 12
+
+As per the question,
+
+1,31 1
+=+—_=—
+t t+12 45
+4
+Pipe & Cistern 24)
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0001_right.png =====
+Pipe & Cistern
+TT
+ttt 4
+t(t+12) 45
+90t +540 = 41? +48t
+4t? -42t-540=0
+2t? -21t-270=0
+2t(t-18)+15(t-18)=0
+(t-18)(2t+15)=0
+t-18=0
+t= 18 minute
+4, Two pipes A and B can fill a tank in 45 hrs and
+36 hrs respectively. If both the pipes are
+opened together, then how long will it take to
+fill the tank ?
+(a) 10 Hours (b) 20 Hours
+(c) 2 Hours (d) 5 Hours
+RRB RPF Constable — 25/01/2019 (Shift-II1)
+Ans : (b)
+filled part by tank A in one hour = =
+filled part by tank B in one hour = 7
+filled part by both (A+B) in one hour
+at, 1iH5_ 9 1
+45 36 180 180 20
+So all tank will fill by both pipes in 20 hours.
+5. If two flood gates A and B work together then
+the reservoir will be filled in 6 hours. Gate A
+fills the reservoir 5 hour faster than Gate B.
+The Fast flood gate A will fill the reservoir in
+how many hours ?
+(a) 5 Hours (b) 10 Hours
+(c) 7 Hours (d) 13 Hours
+RRB Group-D — 03/10/2018 (Shift-I
+Ans: (b) Suppose B reservoir fills = in (x+5) hours
+and A reservoir fills = in x hours
+As per the question,
+1 1 1
+—4—— =
+x x+5 6
+x4+54+x 1
+x +5x 6
+12x +30=x? + 5x
+x°—7x-30=0
+x’ 10x + 3x-30=0
+(x— 10) (x+3) =0
+Hence fast flood gate A will the reservoir in 10 hours.
+[ YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0002_left.png =====
+6. Pipe A and B can fill a tank in 30 and 45 min.
+respectively, while pipe C can empty the whole
+tank in 60 minutes. If the three pipes are
+opened together, then how long will it take to
+fill an empty tank.
+
+(a) (x +3) minute (b) 60 minute
+5s). 5).
+(c) | 18+ 3 minute (d) | 25+ 7 minute
+RRB Group-D — 04/10/2018 (Shift-IT.
+Ans: (d) Capacity of pipe A in 1 hour “5
+capacity of pipe B in 1 hour = =
+capacity of pipe C in 1 hour “=
+ar 1 11
+filled part by thi 1 hour=—+—~-—
+filled part by three pipes in 1 hour=— +7 -—7—
+_6+4-3
+180
+=
+180
+
+Required time = = “ = (25+3)min
+
+7. Pipe A can fill an empty pool in 14 hours.
+Together with pipe B it can fill the empty pool |
+in 12 hours. So pipe B can fill the empty pool in
+
+hours ?
+@ 84 (b) 75
+(c) 78 (d) 77
+RRB Group-D — 23/09/2018 (Shift-I
+
+Ans : (a) Time taken to fill the pool by A=14 hours
+
+filled part by A in 1 hour = pate
+
+Time taken to fill the pool by A and B together = 12
+
+hours
+
+filled part by A and B in 1 hour = att
+
+Suppose B can fill pool in n hours then filled part by B
+
+in 1 hour = 1 part
+
+n
+from the question—
+gt yllt
+° 14 n 12
+Ald
+n 12 14
+Lité lil,
+n_ 84 n 84
+Hence time taken to fill the pool by B = 84 hours
+
+8. A pipe can fill a tank in 12 hrs and the second
+pipe can fill it in 15 hrs. If both the pipes are
+opened at the same time, then how much time
+will it take to fill half of the tank ?
+
+Pipe & Cistern 24;
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0002_right.png =====
+(a) az Hours (b) 3% Hours
+2 1
+(c) 6 Hours (d) 23 Hours
+RRB Group-D — 15/10/2018 (Shift-I
+Ans : (b) Filled part of cistern by pipe A in 1 hour
+1
+=— part
+pe
+filled part of cistern by pipe B in 1 hour = = part
+
+Suppose half of the tank will be filled by both pipes in t
+
+hours.
+
+As per the question,
+
+ti til
+> —sto=-
+12 15 2
+St+4t 1
+> a a
+60 2
+> 9t=30
+10
+> t= =
+3
+> t= 31
+3
+
+Hence half part of cistern will fill in 35 hours.
+
+. Pipe J and K can fill a tank in 15 and 20
+minutes respectively. If both the pipes are
+opened together then, what time will be taken
+to fill the tank ?
+
+(a) 115 minute (b) 1 re minute
+2. 4.
+(c) IBS minute (d) a minute
+RRB Group-D — 11/10/2018 (Shift-III)
+Ans : (d) Filled part by pipe J in] minute = Pat
+Filled part by pipe K in 1 minute “3 part
+. . . . 11
+Filled part b: Jand K in 1 ite = —+—
+illed part by pipe J and K in 1 minute= +> 5
+4437 an
+60 60
+60 44.
+
+Time taken to fill the whole tank = 7 = i minute
+
+10. Pipe A and B can fill an empty tank in 10 and
+15 hrs respectively. Both can fill the tankin____
+hrs.
+
+(a) 6:10 (b) 6
+(c) 4 (d) 6:15
+RRB Group-D — 16/10/2018 (Shift-I1)
+, YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0003_left.png =====
+Ans: (b) Filled part of tank by pipe A in 1 hour
+=i Part
+10
+Filled part of tank by pipe B in 1 hour = = Part
+Filled part of tank by pipe A and B in 1 hour = ate
+=> =} pant
+30 6
+Hence time taken to fill the tank together = 6 hours
+11. There are two pipes X and Y to fill an empty
+tank. Pipe X alone can fill 2/3 part of an empty
+tank in 10 hrs. Pipe Y alone can fill 1/6 part of
+an empty tank in 5 hrs. Both pipes following
+their own relative rate of flow will fill the tank
+in how many hours ?
+(a) 30 Hours (b) 10 Hours
+(c) 24 Hours (d) 15 Hours
+RRB Paramedical Exam — 20/07/2018 (Shift-II
+Ans. (b) :
+Time taken in filling 2 part by pipe X = 10 hours
+-. Time taken in filling all part by pipe X = 10x
+= 15 hours
+Time taken in filling ; part by pipe Y = 5 hours
+-. Time taken in filling all part by Y = 5 x 6 = 30
+hours
+Filled part of cistern by both pipe X and Y together in 1
+hour
+jp Lytle 3d
+30°15 30 30 10
+~. Time taken in filling whole tank = 10 hours
+12. 44 pipes can fill a big tank of water in 21 hours.
+How much hours will be taken by 55 pipes to
+fill S such tanks ?
+(a) 63 (b) 84
+(c) 72 (dd) 54
+RRB Group-D — 12/12/2018 (Shift-I
+Ans. (b) As per the question,
+md, _ m,d)
+wy WwW,
+44x21 _ 55xx
+1 5
+44x21 _ lx
+1
+x=4x21
+x = 84 hours
+13. Pipe A can fill an empty tank in 14 hours with
+another pipe B together A and B can fill the
+same tank in 10 hours. Pipe B alone can fill this
+empty tank in how many hours ?
+Pipe & Cistern 24:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0003_right.png =====
+(a) 35 (b) 20
+(c) 30 (d) 25
+RRB Group-D — 12/11/2018 (Shift-ID
+
+Ans : (a) According to the question,
+
+Pipe A fills the empty cistern in 1 hour -4 Part
+
+This empty cistern fills by (A+B) in 1 hour -s Part
+
+. . 131
+Time taken to fill the tank b’ B=—-—
+ime taken to fill the tank by pipe 014
+_ 14-10
+140
+= =] pant
+140 35
+
+Hence pipe B will fill the tank in 35 hours.
+
+14. Pipe A and pipe B can fill a tank in 4 and 16
+hours respectively. Both can fill the tank in
+how many hours ?
+
+(a) 4 Hours (b) Lh Hours
+15 3
+(c) S Hours (d) s Hours
+RRB Group-D — 25/10/2018 (Shift-ID
+Ans: (c) Filled part by pipe A in 1 hour = 4 Par
+Filled part by pipe B in 1 hour = geen
+Filled part by pipe A and B in 1 hour
+= tL 4+l 5 pat
+4 16 16 16
+
+Hence time taken to fill the whole tank = ATG
+
+=16 Hours
+5
+
+15. Two pipes A and B can fill a tank in X minute
+and 6 minute respectively. If both the pipes are
+working together, then they fill the tank in 1.5
+minute. Find the value of X ?
+
+(a) 1 minute (b) 2 minute
+(c) 4 minute (d) 5 minute
+RRB Group-D — 11/10/2018 (Shift-I
+
+Ans : (b)
+
+Time taken by pipe 'A' in filling the tank = X minute
+
+Time taken by pipe 'B' in filling the tank = 6 minute
+
+Total time taken by both in filling the tank = 1.5 minute
+
+According to the question,
+
+1.1 1
+—4o-—
+X 6 15
+6+X_ 1
+=> =
+6X 15
+=> 15(6+X)=6X
+3 YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0004_left.png =====
+=> 9+1.5X=6X
+=> 6x-1.5X=9
+=> 45X=9
+= x-2
+45
+X=2 minute
+16. There are two holes in a water tank. Hole 1
+Alone takes 9 minutes to empty the tank and
+hole 2 alone can empty the tank in 6 minutes. If
+the leakage occurs at a fixed rate then by
+working the both pipes the tank will be
+emptied in how many minutes ?
+3 3
+a) 32 b) =
+(a) 5 (b) 5
+1 2
+c) 32 d) 3
+© 35 @ 35
+RRB NTPC 17.01.2017 Shift-1
+Ans : (a) Portion emptied by hole- 1 in 1 minute = ;
+portion emptied by hole-2 in 1 minute = ;
+portion emptied by hole-1 and hole-2 of tank in 1
+minute
+11946 15
+9 6 9x6 54
+time taken by both hole together in emptying tank =
+54 18 3.
+=— =— =3= minute
+155 5
+17. A container has two holes. The first hole can
+empty the container individually in 15 minutes
+and the second hole can empty the container
+individually in 10 minutes. If the leakage
+occurs at a fixed rate in the container, then by
+the both holes together opening, the container
+will be emptied in how many minutes ?
+1
+a) 6 b) =
+(a) (b) 6
+1
+© 5 @ 7
+RRB NTPC 17.01.2017 Shift-3
+Ans: (a) Leakage by hole-1 in 1 minute = Pant
+leakage by hole-2 in 1 minute = 7 part
+leakage by both holes in 1 minute =
+Tid 25 oan
+15 10 150
+Hence the time taken by hole-1 and holes 2 to empty the
+A 150 .
+container = —— =6 minute
+25
+Hence hole-1 and hole-2 will empty the container,
+together in 6 minutes.
+Pipe & Cistern 24
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0004_right.png =====
+18. A tube has two holes. One hole alone empties it
+in 29 minutes. The second hole alone empties
+the tube in 6 minutes. If the leakage is
+happening at a fixed rate, then together the
+both hole can empty the tank in how much
+time?
+
+34 34
+a) = b) 3
+(a) 35 (b) 35
+33 34
+c) 4 d) 4—
+(©) 35 @) 35
+RRB NTPC 11.04.2016 Shift : 3
+Ans: (d)
+Portion emptied by hole-1 in 1 minute = =
+portion emptied by hole-2 in 1 minute = :
+leakage by hole-1 and hole-2 in 1 minute
+= 116429 _ 35,
+29 6 174 (174
+time taken by hole-1 and hole-2 to empty whole tank
+=14 -434 minute
+35 35
+
+19, A tank has two holes. The first hole alone
+empties the tank in 21 minutes and the second
+hole alone empties the tank in 7 minutes. If the
+leakage is happening at a fixed rate then how
+much time will be taken by the both holes to
+empty the tank?
+
+1 1
+- b)  4—
+@ 7 (b) 47
+2 1
+c) S= d) 5—
+© 57 @ 57
+RRB NTPC 07.04.2016 Shift : 1
+Ans : (d) Time taken by holes in emptying the tank
+1 1_1+3 4
+=— += ==
+217° 21 21
+Required time = 2 si minute
+a 4.4
+
+20. There is two holes in a glass filled with water.
+On opening the first hole alone, this glass is
+emptied in 9 minutes and on opening the
+second hole alone then the glass is emptied in 3
+minutes. If the leakage of the glass is
+happening regularly, then on opening both the
+holes, the glass will be emptied in how many
+minutes?
+
+1 2
+a) — b)  2—
+@ 3 ) 27
+1 1
+c) 3— d) 2—
+(c) 4 (d) 4
+RRB NTPC 19.01.2017 Shift : 1
+} YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0005_left.png =====
+Ans: (d) Time taken to empty the glass by two holes |
+‘when two holes are opened together = I + 1_3+9
+9 3 9x3
+9327951
+12,12 4 4
+21. There are two holes in a tank. First hole
+empties the tank in 3 minutes. The second hole
+empties the tank in 5 minutes. If the leakage is
+happening at a fixed rate, then how much time
+will be taken by the both holes to empty the
+tank?
+7 7
+a) = b) 2-
+(a) 8 (b) 3
+5 7
+c) 1S d) le
+(©) 3 (d) 3
+RRB NTPC 26.04.2016 Shift : 2
+Ans : (d) The tank emptied in 1 minute by the first
+hole = u
+3
+The tank emptied in 1 minute by the second hole =z
+.. portion emptied by both holes in | minute
+115438
+“3°95 15 15
+Hence the entire tank will be empty in 2 = iz minute
+22. A bowl has two holes. First hole alone can
+empty the bowl in 4 minutes. The second hole
+alone can empty the bowl in 12 minutes. If the
+leakage is happening at a fixed rate, then both
+holes will empty the bowl in how much time?
+(a) 1.33 (b) 3.5
+() 4 (d) 3
+RRB NTPC 30.04.2016 Shift : 3
+Ans : (d) Time taken by first hole = 4 minute
+time taken by second hole = 12 minute
+time taken by both holes together = ;
+a3tl_4 1
+12 12 3
+Hence required time = 3 minute
+23. Two pipes X and Y can individually fill a tank
+in 48 and 72 minutes, respectively. If they are
+opened simultaneously, how long will it take for
+the tank to fill?
+(a) 39.4 minutes (b) 60 minutes
+(c) 28.8 minutes (d) 24 minutes
+RRB ALP & Tee. (31-08-18 Shift-II)
+Ans. (c) : Filled part of the tank by pipes X and Y in 1
+minute
+= 1 tL 2448 _ 120 part
+48 72 48x72 3456
+‘Time taken by pipe X and Y in filling the whole tank
+= “es 28.8 minute
+Pipe & Cistern 24:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0005_right.png =====
+24. A pipe can fill a tank in 20 minutes, but an
+outlet pipe can empty it in 28 minutes. When
+both the pipes are opened, then in how much
+time the tank will be filled?
+
+(a) 72 minutes (b) 56 minutes
+(c) 96 minutes (d) 70 minutes
+RRB JE - 28/05/2019 (Shift-1
+Ans: (d) Portion filled by first pipe in 1 minute = =
+portion emptied by out let pipe in 1 minute = =
+- . - - loi
+portion filled in 1 minute by both pipe 20-38
+28-20 8 1
+= —— =——— = — part
+20x28 20x28 70
+
+So time taken in filling the tank = 70 minute
+
+25. Two pipes 'P' and 'Q' together can fill a tank in
+4 hrs. When both the pipes are opened
+individually then Q takes 6 hours more as
+compared to P to fill the tank. P alone can fill
+the tank in how much time?
+
+(a) 5 hours (b) 6 hours
+(c) 8 hours (d) 7 hours
+RRB JE - 02/06/2019 (Shift-I
+
+Ans : (b) Suppose pipe P takes x hours in filling cistern
+
+then Q will take time to fill cistern =x +6
+
+filled part by (P + Q) in 1 hour = ;
+
+filled part by P in 1 hour = 1
+
+x
+
+filled part by Q in 1 hour = a
+
+x+6
+
+According to the question,
+
+1 1 1
+—4+—— ==
+
+x xt+6 4
+(x+6)+(x)_ 1
+
+x(x+6) 4
+
+(2x + 6) x 4=x? + 6x
+8x +24=x" + 6x
+x’-2x-24=0
+x’— (6-4) x-24=0
+(x? -6x) + (4x — 24) =0
+x(x -6) +4 (x-6)=0
+(x + 4) (x-6) =0
+x-6=0,x=6
+
+Hence P can fill tank in 6 hours
+
+26. 2/5 part of tank A is filled with water. Pipe P
+can fill it in 10 minutes, while pipe Q can
+empty it in 6 minutes. If P and Q are opened
+together, then in how much time tank will be
+emptied?
+
+J YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0006_left.png =====
+(a) 6 minute (b) 6.5 minute
+(c) 5.5 minute (d) 7 minute
+RRB RPF Constable — 17/01/2019 (Shift-I
+Ans : (a) | minute work of pipe P andQ = ard
+=375 _2 _-l
+30 30. «15
+time taken by P and Q in emptying the tank
+2
+=> =2, 15. 6 minute
+los 1
+15
+
+27, A tank can be filled in 9 hours but due to a
+leakage, it takes 1 hour more. If tank is
+completely full, then due to leakage it will be
+empty in how much time?
+
+(a) 60 hours (b) 75 hours
+(c) 30 hours (d) 90 hours
+RRB JE - 01/06/2019 (Shift-IT.
+
+Ans. (d) Filled part in 1 hour = ; part
+
+leakage part in 1 hour= 7 part
+
+if tank is completely full
+
+portion emptied by leakage in 1 hour= faa
+
+10-9 1
+90 90
+
+Hence cistern will be empty by leakage in 90 hours.
+
+28. 2/5 part of a water tank is filled. Pipe A can fill
+the tank in 12 minutes and pipe B can empty
+the same tank in 6 minute. If both pipes are
+opened together, then to fill the empty tank or
+to empty the full tank, what time will be taken?
+(a) It will fill in 4.8 minutes.
+
+(b) It will empty in 5.6 minutes.
+(c) It will empty in 4.8 minutes.
+(d) It will fill in 5.6 minutes.
+RRB RPF SI — 10/01/2019 (Shift-ID)
+
+Ans. (c) Filled portion by pipe A in 1 minute -4
+
+‘Emptied portion by pipe B in 1 minute =;
+
+suppose time taken to fill tank completely or empty = t
+
+minute
+
+According to the question,
+
+‘Time taken by both pipe to empty or fill the tank
+
+at t2
+12 6 5
+>to 2t_2
+12. 5
+—t 2
+a
+12.5
+
+=> t =—4.8 minute
+
+where (—) indicates of emptying the cistern
+
+Pipe & Cistern 24
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0006_right.png =====
+29. A pipe can fill an empty cistern in 7.8 hours
+while another can drain the cistern when full in
+19.5 hours. Both the pipes were turned on when
+the cistern was half-empty. How long will it
+take for the cistern to be full?
+(a) 5.2 hours (b) 3.9 hours
+(c) 7.8 hours (d) 6.5 hours
+RRB Group-D — 19/09/2018 (Shift-ID
+Ans. (d) : Filled portion by first pipe in one hour =4
+Emptied portion by second pipe in one hour = =
+filled portion by both pipes in one hour
+1 1
+78 19.5
+_19.5-7.8 _ 11.7
+19.5x7.8 152.1
+. . . . 152.1
+time taken in filling whole cistern= 7 hour
+Now time taken in filling remaining half portion of tank
+152.1 1
+= xt
+11.7 2
+152.1
+4" 6.5 hours
+30. A pipe can fill any tank in 7/4 hours while the
+other pipe can empty the full tank in 21/8
+hours. Both pipes were opened at that time
+when the tank was 2/3 empty. How much time
+will be taken to fill the tank?
+(a) 3 hours 20 minute (b) 3 hours 30 minute
+(c) 3 hours 45 minute (d) 3 hours 15 minute
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (b) Suppose it will take t hours to fill the tank.
+According to the question-
+t t 2
+733
+4 8
+4t_ 82
+7 21 3
+12t-8t_ 2
+at as
+21 3
+4t 2
+amet
+21 3
+2x21
+>t=oo
+3x4
+at=th
+2
+1
+>t=3 2
+1
+=>t=3:-x60
+2
+=>t=3h:30min
+Hence it will take 3 hours 30 minutes to fill the tank.
+J YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0007_left.png =====
+31. A tap can fill the tank in 25 minutes and the |:
+other can empty the tank in 50 minutes. If both
+the taps are opened simultaneously, then what
+time will the tank be filled in time?
+
+(a) L hour, 5 minutes —_(b) 50 minutes
+(c) 55 minutes (d) 1 hour, 5 minutes
+RRB Group-D — 18/09/2018 (Shift-II)
+
+Ans. (b) : Suppose filling tank = A
+
+emptying tank = B
+
+filled portion of tank by Tap A in 1 minute = x
+
+emptying portion of tank by Tap B in 1 minute = =
+
+Hence filled portion of cistern in 1 minute by both tap =
+
+ee ee lal
+25 50 50 50
+
+[Hence time taken in filling whole tank = 50 minute
+
+32. A tank has two taps. One tap can fill the tank
+in 8 hours and the second tap can empty it in
+10 hours. If the both taps were opened
+together, then what time will be taken to fill the
+tank?
+
+(a) 40 (b) 20
+(c) 30 (d) 50
+RRB Group-D — 09/10/2018 (Shift-1
+Ans. (a) : It takes 8 hours by X in filling the tank. .
+Where as it takes 10 hours by Y in emptying the tank.
+~. filled portion of tank in one hour
+alot dit
+X Y 8 10 40
+~. time taken to fill the tank = 40 hours:
+
+33. A tank has two taps, first fills water in tank,
+and second empties the tank. Tank is filled in 4
+hours, when only first tap is 12 hrs. opened and
+filled in 12 hours when both taps can opened.
+How much time is taken to empty the full tank
+when only second tap is opened?
+
+(a) 10 hours (b) 4 hours
+(c) 6 hours (d) 8 hours
+RRB Group-D — 10/10/2018 (Shift-IID)
+Ans: (c) Filled portion of tank in 1 hour by first tap
+1
+=— part
+4 Pa
+filled portion of tank in 1 hour by both tap -+ part
+«'. filled portion of tank in 1 hour by second tap
+11
+=—-— part
+412?
+3a
+12
+-21
+12 6
+Hence second tap will empty the filled cistern in 6 hours
+Pipe & Cistern 24’
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0007_right.png =====
+34. Tank has two taps. Tap A is to fill the tank and
+tap B is to empty the tank. If only tap A can fill
+the tank in 35 hours, then only tap B can empty
+the full tank in 70 hours. Find the time taken to
+fill the half filled tank?
+
+(a) 35 hours (b) 40 hours
+(c) 70 hours (d) 55 hours
+RRB Group-D — 06/12/2018 (Shift-ID)
+Ans. (a) : Filled portion of cistern in 1 hour by tap A =|
+a
+35
+
+emptied portion of cistern in 1 hour by tap B = =
+
+suppose time taken in filling half empty cistern)
+
+completely = t time
+
+According to the question-
+
+oe
+
+35 70 2
+
+2t-t_1
+7 2
+
+til
+
+70 2
+
+t= 35 hours
+
+Hence It will take 35 hours in filling the half empty
+
+cistern completely.
+
+35. A tap can fill a tank completely in 1 hour 30
+min but due to leakage in the tank it takes 2
+hours and 15 minutes. What time will be taken
+to empty the tank due to leakage?
+
+(a) 45 minute (b) 4 hours 30 minute
+(c) 1 hours 30 minute (d) 2 hours 45 minute
+RRB Group-D — 05/12/2018 (Shift-I
+Ans: (b) 1 hour 30 minute = 90 minute
+2 hour 15 minute = 135 minute
+
+According to the question-
+
+emptied portion of cistern in 1 minute because of|
+
+leakage
+
+ee
+90 135 270 270
+
+Hence time taken in emptying the cistern = 270 minute
+
+= 4hours 30 minute
+
+36. A tap can fill a tank in 25 minutes and the
+second tap can empty the same tank in 50
+minutes. If the both taps are opened together,
+then tank will be filled__ minutes?
+
+(a) 55 (b) 45
+c) 20 (d) 50
+Ans. (d) : A tap fills in 1 minute =3gpar
+second tap fills in 1 minute -5 part
+oe ee
+25 50 50 50
+total time taken in filling the tank = 50 minutes
+] YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0008_left.png =====
+37. _ A tank has two pipes. Pipe M is to fill the tank
+and pipe N is to empty the tank. If pipe M
+takes 45 hours to fill the tank completely and N
+takes 90 hours to empty the tank completely.
+Then how much time will it take to fill the half
+empty tank?
+
+(a) 45 hours (b) 35 hours
+(c) 60 hours (d) 40 hours .
+RRB Group-D — 11/12/2018 (Shift-I])
+Ans : (a)
+Filled portion of cistern by pipe M and N in 1 hour
+1 1 2-1 1
+45°90 90 90
+Time taken by M and N in filling whole cistern = 90)
+hours
+.. Time taken in filling half portion of cistern = z =|
+
+45 hours
+
+38. A tank normally gets filled in 8 hours, but due
+to leakage in its surface, it takes two hour more |.
+to get filled. If the tank is full, then the leakage
+willempty itin__?
+
+(a) 20 hours (b) 40 hours
+(c) 30 hours (d) 10 hours
+RRB Group-D — 12/10/2018 (Shift-I1)
+
+Ans : (b) Time taken in filling full of tank = 8 hours
+
+filled portion in 1 hour = Pars
+
+Due to leakage, time taken in filling tank = 8 + 2 = 10)
+
+hours
+
+filled portion in 1 hour = 7
+
+‘Emptied portion of tank in | hour by leakage
+
+1 1 5-4 = 1
+= <-— =—— =— part
+8 10 40 40
+
+[Hence due to leakage tank will be empty in 40 hours.
+
+39. A tube can fill a tank in 15 hours. Due to
+leakage in its bottom, it gets filled in 20 hours.
+If the tank is fully filled, then due to leakage it
+will get empty in how much time?
+
+(a) 20 hours (b) 60 hours
+(c) 32 hours (d) 40 hours
+RRB Group-D — 19/09/2018 (Shift-I)
+Ans : (b) Time taken in filling the cistern by the tap =
+15 hours
+
+filled portion in 1 hour = zee
+
+Because of leakage time taken in filling cistern = 20
+
+hours
+
+Hence filled portion in 1 hour = sppatt
+
+Pipe & Cistern 24%
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0008_right.png =====
+Suppose cistern will be empty in x hours by leakage
+1 1 ot
+so —=—-—
+x 15 20
+14-301
+x 60 60
+x = 60 hours
+
+40. A tank can be filled in 30 minutes. There is a
+leakage in the tank which can empty the tank
+in 90 minutes. Therefore the tank will be filled
+in how much time?
+
+(a) 60 minute (b) 45 minute
+(c) 55 minute (d) 50 minute
+RRB NTPC 31.03.2016 : 2
+Ans :  (b) Filled portion of tank in 1 minute
+io
+30 90
+3-11
+90 45
+
+.. Tank will fill in 45 minutes.
+
+41. It takes 12.5 minute for an utensil to get fully
+filled with juice. By this utensil the children
+drink juice at a fixed rate due to which the
+utensil is emptied in 25 minutes. By the present
+rate how much time will be taken to fill the
+utensil?
+
+(a) 20 minute (b) 12.5 minute
+(c) 25 minute (d) 30 minute
+RRB NTPC 18.01.2017 Shift : 3
+Ans: (c) Time taken in filling the vessel
+il 1_ 10 1 _10-5
+12.5 25 125 25 125
+_5_1
+125 25
+
+hence vessel will fill in 25 minutes.
+
+42. A tap can fill a tank in 20 minutes. If a leakage
+is capable of emptying the tank in 60 minute,
+then the tank will be filled in how much time?
+(a) 1 hour (b) 45 minute
+(c) 30 minute (d) 50 minute
+
+RRB NTPC 06.04.2016 Shift : 1
+
+Ans: (c)
+
+Filled portion by filler tap in 1 minute = =
+
+and emptied portion by emptying tap in 1 minute
+
+1
+60
+so filled portion by both tap in 1 minute = a=
+20 60
+_ 40 1
+20x60 30
+hence, time taken in filling the tank completely by both
+= 30 minutes.
+3 YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0009_left.png =====
+43. A Honda motor can fill a sintex tank in 4
+hours. There was a leakage in the tank due to
+which it took six hour to fill the tank. Suppose
+that the tank is fully filled, in how much time
+leakage will empty the tank?
+
+(a) 12 hours (b) 15 hours
+(c) 11 hours (d) 10 hours
+RRB NTPC 22.04.2016 Shift : 3
+ay 11
+Ans: (a) Required time 476
+12. 12
+
+Hence leakage will empty the tank in 12 hours.
+
+44. An oil tank takes 15 minutes to be filled. The
+oil tank is emptied by an outlet pipe which can
+empty it in 30 minutes. If this outlet pipe
+remains open, then how much time will it take
+to fill the tank completely?
+
+(a) 20 minute (b) 25 minute
+(c) 30 minute (d) 40 minute
+RRB NTPC 28.04.2016 Shift : 3
+Ans : (c) If outlet pipe is open then filled part in 1
+_ 1 1 _ 30-15 |
+minute = —— >~ =—__
+15 30 15x30
+time taken to fill tank = 30x15 _ 30x15 _ 30 minute |]
+30-15 15
+
+45. A pump can fill a tank in 4 hours, but due to a
+leak, the tank now gets filled in 5 hours. How
+long will it take the leakage to empty the tank
+when it is full?
+
+(a) 20 hours (b) 9 hours
+(c) 1 hour (d) 4.5 hours
+RRB ALP & Tec. (29-08-18 Shift-II])
+Ans : (a) Let it will take 't' time in emptying the tank.
+Then-
+11
+4t5
+Tliil
+t 4 5
+1_5-4
+t 20
+1a
+t 20
+
+tank will be empty in 20 hours
+
+46. One pipe can fill an empty cistern in 4 hours
+while another can drain the cistern when full in
+10 hours. Both the pipes were turned on when
+the cistern was half-empty. How long will it
+take to fill the cistern completely?
+
+(a) 6 hours 40 minutes
+(b) 5 hours 30 minutes
+(c) 4 hours 20 minutes
+(d) 3 hours 20 minutes
+RRB ALP & Tec. (13-08-18 Shift-II)
+Pipe & Cistern 24$
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0009_right.png =====
+Ans : (d) According to the question-
+filled portion by first pipe in 1 hour oo
+emptied portion in 1 hour by second pipe = a (First +
+Second)
+filled portion in 1 hour by first and second pipe
+= (5-3) =322
+4 10 20
+3
+== part
+20 P
+‘2 half portion of cistern is filled.
+hence remaining portion of cistern = 1-3 -4
++: time taken in filing = portion = | hour
+-. time taken in filling i portion = 201 -10 hours
+2 392 3
+= 3 hours 20 minute
+Type - 1
+47. There are three inlets in a tank when the first
+two are opened then it takes the same time to
+fill the tank as the third inlet takes to fill the
+tank. The second inlet takes 5 hours more as
+compared to previous one and as compared to
+third inlet it takes 4 hours less. First inlet alone
+can fill the tank in how many hours?
+(a) 15 hours (b) 6 hours
+(c) 12 hours (d) 10 hours
+RRB JE - 26/06/2019 (Shift-1
+Ans: (a) Let the time taken by the first inlet to fill the
+tank is x hours.
+the second inlet takes time to fill the tank = (x + 5)|
+hours
+The third inlet takes time to fill the tank = (x + 9) hours.
+According to the question-
+1 1 1
+=—+—— = —_
+xX xt5S x+9
+2x+5 1
+x7+5x x49
+2x? + 5x + 18x +45 =x? + 5x
+x? + 18x+45=0
+x +15x+3x+45=0
+x(x+15)+3(x+15)=0
+(x+ 15) +(x+3)=0
+x+15=Oorx+3=0
+x=-15 (-- Time is not negative)
+©. x= 15 hours
+Hence the time taken to fill the cistern by the first inlet
+= 15 hours
+) YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0010_left.png =====
+48. A tap can fill tank completely in 6 hours. After
+filling half of the tank three more such tanks
+are opened. How much time will it take to fill
+the tank?
+
+(a) 2 hours 20 minutes
+(b) 4 hours 30 minutes
+(c) 3 hours 25 minutes
+(d) 3 hours 45 minutes
+RRB JE - 31/05/2019 (Shift-I11
+(Ans. (d) Filled portion of tank in 1 hour by first tap =|
+1
+6
+a 4.2
+
+filled portion in 1 hour by 4 taps = 63
+
+[Hence four tap can fill the tank in 3/2 hours or 90)
+
+minutes.
+
+time taken in filling half tank = ° = 45 minutes
+
+time taken by first tap to fill the half tank = 3 hours
+
+So total time taken to fill the tank = 3 hours 45 minute
+
+49. Pipe A and C can fill a vacant tank in 7 hrs and
+10.5 hours respectively while pipe B can empty
+the filled tank in 5.25 hours. If the three pipes
+are opened together when the tank is empty,
+how many hours will be taken to fill the 2/3
+part of the tank?
+
+(a) 14 (b) 21
+(c) 12 (d) 15.75 }
+RRB RPF Constable — 24/01/2019 (Shift-IID
+Ans : (a) Suppose three pipes will fill the 2/3 portion of]
+cistern in x hours.
+xx x 2
+> >+—- ==
+7 105 5.25 3
+(because it is to fill only 2/3 portion of cistern)
+x 10x 100x _ 2
+> r+ -
+7 105 525 3
+75x+50x-100x _ 2
+aes =e
+525 3
+125x-100x _ 2
+aoe ee
+525 3
+25x _2
+525. 3
+x 2
+a>rAat
+21 3
+>x= pau) =14
+3
+
+=> x= 14 hours
+
+50. Two pipes X and Y can fill a gas tank in 60 and
+75 minutes respectively. There is an outlet Z. If
+all the three pipes are used together, then the
+tank gets full in 50 minutes. How much time
+will be taken by Z to empty the tank
+completely?
+
+Pipe & Cistern 25
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0010_right.png =====
+(a) 100 minutes (b) 75 minutes
+(c) 90 minutes (d) 50 minutes
+RRB RPF SI — 11/01/2019 (Shift-I)
+Ans : (a) Suppose time taken by 'Z’ is x minute
+filled portion of cistern by 'X' in 1 minute = =
+filled portion of cistern by "Y' in 1 minute = =
+emptied portion of cistern by 'Z' in | minute = L
+x
+As per the question-
+1.11.1
+—4+—-==—
+60 75 x 50
+11 11
+>--=—-|—+—
+x 50 (& =)
+11 (3 +)
+=>--=—-|—
+x 50 \ 300
+tlt 8
+x 50 300
+1_ 6-9 3
+= -- = =-—
+x 300 300
+1 1
+=>--=-—
+x 100
+=> x= 100 minute
+Hence time taken by 'Z'= 100 minute
+51. Pipe A and B can fill a tank in 7 and 10 hours
+respectively while pipe C can empty the tank in
+14 hrs. If all the pipes start together, then how
+much time will it take to fill the tank?
+(a) 64 hours (b) 62 hours
+6 3
+1 5
+(c) 5 hours (d) 5G hours
+RRB RPF Constable — 18/01/2019 (Shift-III)
+Ans. (d) : filled portion of tank by pipe A in 1 hour =
+L
+7
+filled portion of tank by pipe B in 1 hour = 7
+filled portion of tank by pipe C in 1 hour = a
+from the question-
+If all the three pipes are opened, then filled portion o!
+tank in| hour = tpt od
+7 10 14
+_10+7-5 =12_ 55
+70 70 6
+Hence all three pipes will fill the tank in se hours
+) YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0011_left.png =====
+52. Two pipe working individually can fill a tank in
+6.3 and 8.4 hours respectively, while the third
+pipe can empty filled tank in 4.8 hours. If all
+the 3 pipes are opened together when the tank
+is empty, then how much time will be taken to
+fill the tank completely?
+
+(a) 13 hours 20 minutes
+(b) 12 hours 18 minutes
+(c) 14 hours 18 minutes
+(d) 14 hours 24 minutes
+RRB Group-D — 23/10/2018 (Shift-I1)
+Ans. (d) : Filled portion in 1 hour by three pipes
+et ,t_1
+63 84 48
+10 10 10
+=—+—-—
+63 84 48
+_ 1006+12-21)
+1008
+_10x7 _ 5
+1008 72
+. ee 22 2
+
+Hence time taken in filling the tank = 37 4c hours
+
+=14 hours 24 minute
+
+53. A, B and C are three valves connected to a
+tank. A, B together can fill a tank in 6 hours. B
+and C together can fill the tank in 10 hours. A
+and C together fill the tank in 5 hours. A
+alone will take how much time to fill the tank? |
+(a) 10 hours (b) 12 hours
+(c) 11 hours (d) 13 hours
+
+RRB Group-D — 17/09/2018 (Shift-I)
+
+Ans : (a) filled portion by A + B in 1 hour =t
+
+filled portion by B + C in 1 hour -i
+filled portion by C + A in 1 hour =<
+Hence by three
+filled portion by (A +B +B+C+C+ A) in 1 hour
+11,2
+=s4—4
+6 10 15
+filled portion by 2(A + B+ C) in 1 hour = 2
+7 . 121
+filled portion by (A +B+C) in 1 hour = 05
+filled portion by A in 1 hour = pd
+5 10
+filled portion by A in 1 hour =?
+Pomoney “To “10
+Hence cistern will fill by A in 10 hours.
+Pipe & Cistern 25)
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0011_right.png =====
+54. | There are three pipes connected to a tank. First
+pipe can fill the tank in 30 minutes and the
+second pipe can fill the tank in 45 minutes
+while the third pipe is to empty the tank. If it
+takes 27 minutes to fill the tank when all three
+pipes are opened. In what time the third pipe
+will empty the tank?
+
+(a) 54 minutes (b) 52 minutes
+(c) 50 minutes (d) 56 minutes
+RRB Group-D — 03/10/2018 (Shift-II)
+
+Ans : (a) Time taken to fill the tank if three pipes are
+
+opened = 27 minute
+
+suppose third pipe empty the tank in x minute then
+
+1 1 121
+4 =
+30 45 x 27
+1 1.1 1
+—=—4—-
+x 30 45 27
+_9+6-10
+
+270
+_ 15-10
+270
+—s
+270
+tlt
+
+x 54
+
+Hence third pipe will empty the tank in 54 minutes.
+
+55. Tap A and Tap B can fill a tank in 2 and 8
+hours respectively. Tap C can empty the tank
+in 4 hours. If all the taps are opened at a time,
+then how much time will be taken to fill the
+tank?
+
+8 9
+(a) 3 hours (b) 2 hours
+(c) 3 hours (d) 2 hours
+RRB Group-D — 08/10/2018 (Shift-I)
+Ans ; (a) filled portion of cistern by tap A in 1 hour =
+1
+2
+
+filled portion of cistern by tap B in 1 hour = 7
+
+emptied portion of cistern by tap C in 1 hour =;
+
+As per the question,
+
+“. (A+B+C) will fill the tank in an hour
+1,1 1_3
+
+=—+—-— ==part
+28 4 8
+
+“. Time taken by three taps to fill the cisten =
+
+8 hours
+
+3
+
+[ YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0012_left.png =====
+56. There is two entrance in a tank, which can fill
+the tank in 6 hrs and 8 hrs respectively. By an
+exit gate the whole tank can be emptied in 10
+hours. If all the three pipes are opened together
+in an empty tank, then how much time will be
+taken to fill the tank completely?
+
+(a) ss hours. (b) 65 hours
+(c) 6 hours (d) cs hours
+46 46
+RRB Group-D — 08/10/2018 (Shift-IT.
+Ans : (a) Filled portion by A+B+C in 1 hour
+11 1 23
+= -4--— =
+6 8 10 120
+.. time taken in filling whole cistern
+= 2055 hour
+23 23
+
+57. Two inlet pipes can completely fill a tank in 5
+and 7 hours and an outlet can empty the filled
+tank in 14 hours. If all the three pipes are
+opened together in an empty tank, then how
+much time will it take to fill the tank
+completely?
+
+(a) all hours (b) sil hours
+13 1B }
+(c) 3 hours (d) 53 hours
+RRB Group-D — 11/10/2018 (Shift-IT.
+
+Ans ; (c) Filled portion of tank by A in 1 hour =
+
+filled portion of tank by B in 1 hour =;
+
+emptied portion of tank by C in 1 hour=
+
+. . 1.1.1
+filled portion by three t 1 hour==+>-—
+illed portion by three taps in 1 hour=—+———7
+_14+10-5_ 19
+710 70
+
+Hence, tank can be fill by three taps in 3 hours.
+
+58. In the three pipes the first two pipes can fill a
+tank in 10.8 hours and 21.6 hours respectively.
+While the third pipe can empty the filled tank
+in 18 hours. If the tank is empty and all the
+three pipes are opened together, then the tank
+will be filled in how many hours?
+
+(a) 13.2 (b) 12
+() 14.4 (d)_ 15.6
+RRB Group-D — 25/09/2018 (Shift-ID)
+Ans : (b) Filled portion by three pipes in 1 hour
+1 1 110,10 #1
+=—~ + -— = +
+10.8 21.6 18 108 216 18 '
+20410-1218 1 a
+216 216 12
+Time taken by three pipes in filling the tank = 12 hour
+Pipe & Cistern 25:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0012_right.png =====
+59. Two pipes working together can fill a tank in
+3.9 hours and 5.2 hours respectively, while a
+third pipe, can empty the full tank in 10.4
+hours. When the tank is 1/12 filled, all three
+pipes are opened together. How much time will
+be taken to fill the tank completely?
+
+(a) 2 hours 45 minutes (b) 2 hours 10 minutes
+(c) 2hours 11 minutes (d) 2 hours 36 minutes
+RRB Group-D — 26/09/2018 (Shift-IID)
+Ans: (d) Remaining part of cistem = -t = part
+According to the question-
+t t t ll
+—+——-—_ = =
+3.9 5.2 104 12
+Or ,10r_ se _ M1
+39 52 52 12
+400+300-15¢ _ 11
+156 12
+35M
+156 12
+13 -
+t= > 2 hours 36 minute
+
+60. Pipe A can fill a tank in 8 hrs, pipe B can fill in P
+hours and Pipe C can fill in 24 hours. If all the
+pipes are opened then it takes 2.4 hours to fill the
+tank completely. Then find the value of P ?
+
+(a) 2 hours (b) 1 hours
+(c) 3 hours (d) 4 hours
+RRB Group-D — 10/10/2018 (Shift-IIT
+Ans : (d) Filled portion of cistern by pipe A in 1 hour
+1
+=< part
+8 Pi
+
+filled portion of cistern by pipe B in 1 hour= apart
+
+filled portion of cistern by pipe C in 1 hour = spat
+
+all the three pipes fill the tank in 2.4 hours.
+
+from the question-
+
+filled part by (A +B+C)in1 hour=244, 121
+
+8 P 24 24
+Jl 1
+P 24 8 24
+1_10-3-1
+P24
+16
+P 24
+
+61. A tank is filled by two taps A and B in 12 hrs
+and 16 hrs respectively. Complete tank can be
+emptied by the third tap in 8 hours. If all the
+taps are opened together at a time then how
+long will it take to fill the tank?
+
+, YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0013_left.png =====
+(a) 24 hours (b) 40 hours '
+(c) 16 hours (d) 48 hours
+RRB Group-D — 22/10/2018 (Shift-I
+Ans : (d) Suppose time taken in filling the empty tank
+is T
+filled portion of tank by A in 1 hour = =
+filled portion of tank by B in 1 hour = x
+emptied portion of tank by third tap in 1 hour -;
+As per the question-
+1 1,11
+AS=stsis
+T 12 16 8
+= 1_4+3-6
+T 48
+11
+> i=—
+T 48
+=> T=48 hours
+62. Tap A and B fills a tank in 5 hrs and 20 hrs
+respectively. Tap empties the full tank in 10
+hours. If all the three taps are opened together
+then how long will it take to full the tank?
+(a) 29 hours (b) u hours
+2 5
+2 2
+(c) 2 hours (d) 2 hours '
+RRB Group-D — 30/10/2018 (Shift-IIT.
+Ans. (d) : Tap A fills the tank in 5 hours
+Tap B fills the tank in 20 hours
+Tap C fills the tank in 10 hours
+filled portion of tank by three taps in 1 hour
+aipl blab? 3
+5 20 10 20 20
+* total time taken in filling the tank = 2 hours
+63. <A tap can fill a reservoir in 4 hrs. After the
+reservoir is half filled 3 more taps of the same
+size are opened. How much time will be taken
+by all the taps to fill the tank completely?
+(a) 2 hours 30 minutes (b) 2 hours
+(c) 1 hours 30 minutes (d) 3 hours
+RRB Group-D — 05/11/2018 (Shift-I)
+[Ans : (a) Suppose reservoir is filled in x hour.
+As per the question,
+1.x x x x
+st+—+—4+=4+=51
+24444
+axl > x= i hour
+4 2 2
+total time taken in filling reservoir = 2 + ;
+=2 hour 30 minute
+Pipe & Cistern 25:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0013_right.png =====
+64. A and C pipes can fill an empty tank in 60 hrs
+and 48 hrs, respectively while pipe B can empty
+the full tank in 24 hours. When the tank is full
+and all the three pipes are opened together
+then how much time will be taken to fill 1/3
+part of the tank?
+
+(a) 240 (b) 160
+(c) 80 (d) 120
+RRB Group-D — 01/11/2018 (Shift-ID
+Ans : (b) Filled portion of tank by pipe A
+1
+= —part
+60”
+
+filled portion of tank by pipe C in 1 hour = =p
+
+emptied portion of tank by pipe B in 1 hour -s part
+
+So emptied portion by three pipe in 1 hour
+
+1 ( 11 )
+= —-|—+—
+24 \60 48
+= 1=4+5) Nang
+240 240
+So time taken in emptying the : portion of tank = time
+1 . 2/3
+taken to fill the — portion of tank= —— =160 hours
+3 1/240
+
+65. A, B and C three tubes are attached with a
+reservoir. A and B together can fill the
+reservoir in 6 hours. B and C together can fill
+the reservoir in 10 hours. A and C together can
+fill the reservoir in 5 hours. How much time
+will be taken by C alone to fill the tank?
+
+(a) 25 hours (b) 15 hours
+(c) 40 hours (d) 30 hours
+RRB Group-D — 26/10/2018 (Shift-I
+Ans : (d)
+Work done in 1 hour by A+B
+11 1
+=|=+— | =<part.... (1
+(i 3) 6 ®
+work done in 1 hour by B + C
+11 1
+=|—+— |=— part...... (2)
+( +) 10 P @)
+work done in 1 hour by A+ C
+= jyh st art....... 3)
+a‘c) 7s is? ns
+2
+on adding of equation (1), (2), (3)
+( 11 11 1,1)_1,1,2
+—+— ]+/ += |+] —4+— J=-4+—4+—
+A B/) \B C A C) 6 10 15
+( 11,1 ) 5+34+4
+2) —+-+— |=——
+A BC 30
+nn
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0014_left.png =====
+( 11.1 } 12
+2| —+=4+— |=—
+A B C) 30
+A B C 30x2 5
+on subtracting the equation (1) from equation (4)
+11,1 ( 11 ) 11
+—+—+—-|—+— ]==-—
+A BC \A B) 5 6
+1_6-5_1
+Cc 30 30
+11
+Cc 30 |
+time taken in filling the reservoir by C = 30 hours
+66. Two pipes can fill a tank in 5 hrs and 3 hrs
+respectively while the third pipe can empty the
+tank in 7.5 hours. When 1/10 part of the tank
+was filled then all the three pipes were opened
+together, then how long will it take to fill the
+tank?
+(a) 2 hours 20 minutes (b) 2 hours
+(c) 2 hours 15 minutes (d) 2 hours 30 minutes
+RRB Group-D — 23/10/2018 (Shift-II)
+Ans. (c) :
+Emptied portion of cistern = il -2 part
+10 10
+filled portion by three pipes in 1 hour
+11 1
+=—4--—
+5 3 75
+11 10
+=s+--—
+5 3 75
+15+25-10 30 2
+= == == part
+75 755
++: filled portion by three pipes in 1 hour = :
+time taken in filing = portion = 1 hour
+time taken in filling 2 portion = 3,9
+10 2 10
+= 2 hour 15 minute
+67. Pipes A, B and C are attached to an empty
+cistern. While the first two can fill the cistern
+in 4 and 10 hours, respectively, the third can
+drain the cistern, when filled, in 6 hours. If all
+the three pipes are opened simultaneously
+when the cistern is half-full, how many hours
+will be needed to fill the cistern?
+30 60
+(a) Tl (b) Tl
+120 90
+(©) Tl (d) Tl
+RRB ALP & Tec. (31-08-18 Shift-II)
+Pipe & Cistern 25:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0014_right.png =====
+Ans : (a) According to the question,
+1 1.
+=i4+—-=
+4 10 6
+—15+6-10_ 11 part
+60 60
+‘ . . . 60
+time taken in filling whole cistern = Tl hour
+When cistern is half fill then time taken
+= 0030 hour
+2x11 11
+68. Out of three pipes the first two can fill an
+empty tank in 9 and 18 hours, respectively
+while the third can drain the filled tank in 15
+hours. If all the three pipes are opened when
+the tank is empty, after how many hours will
+the tank be fill?
+(a) 10 (b) 12
+(c) ll (d) 13
+RRB ALP & Tec. (21-08-18 Shift-I)
+Ans: (a)
+Filled portion of cistern by pipe A in 1 hour= =
+filled portion of cistern by pipe B in 1 hour -5
+and emptied portion of cistern by pipe C in 1 hour=
+«. filled portion of cistern by (A+B+C) in 1 hour
+1,101
+=-+—-—
+9 18 15
+_10+5-6
+90
+ot
+90 «(10
+so time taken in filling whole cistern= 10 hour
+69.  Raghu's tanker can fill a cistern in 4 hours.
+After half the cistern is filled, three more
+similar tankers are opened. what is the total
+time taken to fill the cistern completely ?
+(a) 240 min (b) 2h
+(c) 3h (d) 2h30 min
+RRB ALP & Tec. (20-08-18 Shift-II)
+Ans: (d)
++: Raghu's tanker fills half portion of reservoir in 2
+hours.
+.. Three more tanker just like that = total 4 tanker will
+fil portion of cistern = ax5 = 30 minutes
+hence time taken in filling whole cistern = 2 hours 30
+minute
+} YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0015_left.png =====
+70. Pipes A and C can fill an empty cistern in 32
+and 48 hours, respectively while Pipe B can
+drain the filled cistern in 24 hours. If the three
+pipes are turned on together when the cistern is |
+empty, how many hours will it take for the
+cistern to be Stultz
+(a) 96 (b) 64
+(c) 72 (d) 48
+
+RRB ALP & Tec. (14-08-18 Shift-II)
+
+Ans : (b) Filled portion by pipe 'A' in 1 hour = =
+
+filled portion by pipe 'C' in 1 hour = =
+
+lemptied portion by pipe 'B' in 1 hour = 7
+
+filled portion by three pipes in 1 hour at ,tit
+~ oe “3248 24
+
+_3+2-4_ 1 |)
+~ 9 96
+‘” It takes 1 hour in filling x portion
+gy 2 7 2
+-. time taken in filling 3 Portion=96x= = 64 hours
+
+71. Pipes A, B and C are attached to an empty
+cistern. While the first two can fill the cistern
+in 4 and 10 hours, respectively, the third can
+drain the cistern, when filled, in 6 hours. If all
+the three pipes are opened simultaneously
+when the cistern is three-fifth full, how many
+hours will be needed to fill the cistern?
+
+36 48
+pad b)
+(a) Tl (b) 11
+60 24
+oc) — d) —
+OF ® 7
+RRB ALP & Tec. (10-08-18 Shift-I)
+Ans : (d) A, B and C will fill the cistern in 1 hour
+1,1 1_15+6-10_ 11
+=—+—-—=————_=— _part
+4 10 6 60 60
+.. All three pipes will fill the cistern completely
+= 60 hour
+11
+A 5 3_2
+Remaining empty portion of cistern = 1- 3 = 3 part
+.. Time taken in filling remaining empty portion of|
+cistern = 802 = 74 hour
+15 il
+Pipe & Cistern 25:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0015_right.png =====
+Type -1
+72. Pipes P and Q can fill a tank in 6 hrs and 4 hrs
+respectively. Pipe P is opened at 7 O'clock and
+P and Q is opened one by one for an hour.
+Tank will be filled in how many hours?
+(a) 6 hours
+(b) 3 hours
+(c) 4 hours 30 minutes
+(d) 5 hours
+RRB JE - 29/05/2019 (Shift-I)
+Ans : (d) L.C.M of 6 and 4 = 12 unit work
+1 hour work of P = 2 unit
+1 hour work of Q = 3 unit
+2 hour work of (P+ Q) = 5 unit
+Hence 2 x 2 hours work = 5 x 2 = 10 unit
+Remaining work = 2 unit
+~. the time taken by P to finish 2 unit work = 1 hour
+~. the time taken to fill the tank = 2 x 2+ 1 =5 hours
+73. A tank can be filled by a tap in 10 hours,
+although due to a leakage it takes 11 hours to
+fill the tank. The tap is closed when the tank is
+full. In how much time the tank will be emptied
+due to leakage?
+(a) 130 (b) 110
+(c) 100 (d) 50
+RRB RPF Constable — 20/01/2019 (Shift-I
+Ans. (b) : Filled part in 1 hour by tap = Pat
+filled part in 1 hour = apart
+It takes x hours to empty the tank due to leakage.
+According to the question,
+Alli
+10 x Il
+1121
+> -=—-—
+x 10 11
+_ 11-10
+110
+1 1
+=>-=—
+x 110
+x = 110 hours
+Hence the time taken for the tank to be emptied = 110
+hours
+74. Two taps P and Q individually take 60 min and
+40 min to fill a tank. If tap Q is opened for the
+first half an hour and for remaining time tap P
+is opened, then how long will it take to fill the
+tank?
+(a) 45 minutes (b) 32 minutes
+(c) 36 minutes (d) 48 minutes
+RRB JE - 30/05/2019 (Shift-1)
+J YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0016_left.png =====
+Ans: (a)
+
+P Q
+
+60 40
+
+\/4
+
+120
+
+Let the total capacity of the tank is 120 liters. ’
+[L.C.M of (60, 40) = 120]
+*. Q fills 3 liters of water in 1 minute.
+«. Q will fill in 30 minutes = 3 x 30=90/
+
+Remaining amount of the tank = 120-90 = 30/7
+
+*” P fills the remaining volume of the tank
+> 2 =15 min.
+
+required time = 30 + 15 = 45 min.
+
+75. Two pipes P and Q can fill a tank in 32 min and
+48 min. Both pipes are opened and after some
+time pipe Q is closed, then tank gets filled in 24
+minutes. When was pipe Q closed?
+
+(a) 12 minutes (b) 15 minutes
+(c) 10 minutes (d) 16 minutes
+RRB JE - 01/06/2019 (Shift-I11
+
+Ans. (a) Filled part in 1 minute by pipe P = > part
+
+filled part in 1 minute by pipe Q -z part
+
+Pipe P will work from the starting to end.
+
+filled part by P in 24 min. due to leakage = # = 2 part
+
+remaining part =1— 3ll part
+
+4 4
+time taken to fill remaining part by Q
+1 .
+= —x48=12 min.
+ri min.
+
+[Hence pipe Q was closed after 12 min.
+
+76. Tap P and Q can fill a bucket individually in 12
+min and 15 min. Both the taps are opened, but
+after 3 minutes tap P is closed. What extra time
+will be taken by Q to fill the bucket?
+
+(a) 6 minutes 15 sec.
+(b) 8 minutes 15 sec.
+(c) 6 minutes 30 sec.
+(d) 9 minutes
+RRB JE - 27/06/2019 (Shift-I1T.
+
+[Ans : (b) Let the extra time taken for tap Q to fill the}
+
+bucket is t minute.
+
+According to the question,
+
+3. 3+t
+24221
+12 15
+3+t_ li
+15 4 )
+Bt 3
+15 4
+12+ 4t=45
+Pipe & Cistern 25
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0016_right.png =====
+4t= 33
+
+1-33
+4
+
+t=3t =8min 15 sec.
+4
+
+77. Two pipes P and Q fill a tank in 15 min and 20
+min respectively. Both are opened but after 4
+minute P is closed. In how much time tank is
+filled from the beginning?
+
+(a) 16 minutes
+(b) 16 minutes 20 sec.
+(c) 14 minutes 20 sec.
+(d) 14 minutes 40 sec.
+RRB RPF SI - 13/01/2019 (Shift-I11)
+Ans : (d) Let extra time taken by Q to fill the tank
+=tmin.
+from question,
+4 t+4
+—4— 21
+15 20
+16+3t+12 _ 1
+60
+3t+ 28 =60
+3t=32
+t=10 min. 40 sec.
+total time taken = 10 min 40 sec. + 4 min.
+= 14 min. 40 sec.
+
+78. Two pipes A and B can fill a tank in 12 min &
+16 min respectively. Both pipes are opened
+together, but pipe A closed 4 minutes before
+the tank is filled. In how many minutes the
+tank is completely filled?
+
+(a) 9 minutes 8 sec
+(b) 10 minutes 9 sec
+(c) 11 minutes 9 sec
+(d) 11 minutes 29 sec
+RRB NTPC 29.04.2016 Shift : 2
+Ans: (a) Let it takes T minute to fill the tank.
+According to the question,
+T-4, T
+—+>=1
+12. 16
++ 4(T-4)+3T_,
+48
+
+> 4T - 16 +3T = 48
+
+> TT - 16 =48
+
+> 7T =48 +16
+
+> 7T = 64
+
+> poS gl minute = 9 min, x 60 sec.
+
+7 7 7
+
+=9 min 8.5 sec © 9 min 8 sec.
+
+79. Pipes A and B work together then they can fill
+an empty tank in 24 hours. If working together
+for 8 hours B is closed but A remains open,
+then it will take 28 hours to fill the tank. A
+alone will fill the tank in how much time?
+
+p YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0017_left.png =====
+(a) 30 hours (b) 31 hours '
+(c) 28 hours (d) 29 hours
+RRB RPF SI - 12/01/2019 (Shift-lT)
+Ans. (a) : Let A will take t hours to fill the tank alone.
+According to the question,
+8 20
+—+—=1
+24 ¢
+20,1
+t 3
+20 2
+t 3
+t=30 hours
+
+[Hence A alone will take 30 hours to fill the tank.
+
+80. Two pipes X and Y can fill a tank in 24 hrs and
+32 hrs. If both the pipes are opened together
+then at what time first pipe should be closed
+that it may take only 16 hours to fill the tank?
+(a) After 18 hours (b) After 10 hours
+(c) After 15 hours (d) After 12 hours
+
+RRB Group-D — 18/09/2018 (Shift-II)
+
+Ans. (d) : Let the first pipe should be closed after x|]°
+
+hours.
+
+According to the question,
+
+= xy 16 =1
+24 32
+x 1
+> —+==1
+24 2
+x 1
+> ==
+24 2
+x= 12 hours
+
+Hence first pipe should be closed after 12 hours.
+
+81. Two gas filling tube A and B can fill a cylinder
+in 12 and 15 minutes respectively. But a third
+tube can empty it in 6 minutes. First two tubes
+are opened for 5 minutes and then the third
+tube is also opened. In what time cylinder will
+be empty?
+
+(a) 70 minutes (b) 45 minutes
+(c) 60 minutes (d) 30 minutes
+RRB Group-D — 12/10/2018 (Shift-I
+
+Ans: (b) Tube A— 12 minutes
+
+tube B — 15 minutes [L.C.M. of 12 and 15 = 60 unit]
+
+tube C — in 6 minutes
+
+tube A-— 12 min — 60 unit
+A> 1 min > 5 unit
+
+tube B- 15 min — 60 unit
+B> | min > 4 unit
+
+filled part by both tubes (A + B) in 1 minute = 9 unit
+
+both tubes (A + B) are opened for first 5 minutes, then|
+
+work done = 5 x 9 = 45 unit
+C will empty in 1 minute = S = 10 unit '
+when the C tube is also opened.
+
+the work of (A + B—C) tube in 1 minute =5+4-10
+
+=-1 unit
+
+therefore it will take 45 minutes to empty 45 units.
+
+Pipe & Cistern 25'
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0017_right.png =====
+82. Two inlet pipes A and B can fill an empty tank
+in 22 and 33 hours respectively. They were
+opened together but 3 hours before when tank
+was completely filled, pipe A was stopped. How
+much time will be taken by both the pipes to fill
+the tank?
+
+(a) 16.2 (b) 15
+(c) 142 (d) 16
+RRB Group-D — 17/09/2018 (Shift-I
+
+Ans : (b) Let the time taken by both pipes to fill the
+
+tank in x hours.
+
+from question,
+
+x-3 x
+
++ =1
+
+22 33
+3x-9+2x _ 1
+66
+
+5x-9 = 66
+
+5x= 75
+
+x=15
+
+therefore it takes 15 hours to fill the tank by both pipes.
+
+83. Two pipes A and B can fill an empty tank in 1.8
+hrs and 2.7 hrs_ respectively. Without
+functioning of any pipe, Pipe C can empty the
+whole tank in 4.5 hrs. In the beginning pipe A
+and pipe C are opened after the tank is
+emptied. After some hours pipe A is closed and
+pipe B is opened. In this way total 5.5 hours is
+taken to fill the tank. For how much time pipe
+B remained open.
+
+(a) 2.7 (b) 5
+(c) 3 (d) 45
+RRB Group-D — 20/09/2018 (Shift-ID
+
+Ans : (d) Filled part by pipe A in | hour= a
+
+filled part by pipe B in 1 hour = a
+
+emptied part by pipe C in 1 hour -4
+
+Let pipe A is opened for x hours.
+
+so pipe B is opened for (5.5—x) hours
+
+& (55x) 55_)
+
+18 27 45
+
+_ 15x +55—-10x —33 =I
+27
+
+5x = 27+ 33-55
+
+5x=5
+
+x=1
+
+Hence pipe A is opened for 1 hour
+
+so pipe B worked = (5.5—1) = till 4.5 hours
+
+84. Three flood gate A, B and C can fill a reservoir
+in 6 hours. After working for two hours
+together C was closed, remaining part is filled
+by flood gates A and B in 7 hours. What time
+will be taken by flood gate C to fill the
+reservoir?
+
+y YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0018_left.png =====
+(a) 16 (b) 12
+(c) 14 (d) 10
+RRB Group-D — 22/09/2018 (Shift-I)
+Ans : (c) Filled part by all the three flood gates A, B, C
+in 1 hour= part
+«. filled part by all three flood gates in 2 hour =
+L x2= i part
+6 3
+. ining part= 1-122 part
+*; remaining part=1—> =~ p
+filled part by A and B in 7 hours -2
+filled part by A and B in | hour = 2 part
+. 1 2
+part filled by C in 1 hour =—-—
+6 21
+_7-4_3_1
+42 42 14
+time taken by C to fill the reservoir = 14 hours
+85. There are two entrance pipes in a tank by
+which the tank can be filled in 4 hours and 6
+hours respectively. By an exit pipe the whole
+tank can be emptied in 8 hours. Both the
+entrance pipes are opened for an hour and then
+closed. Then after all the three pipes are
+opened together. Remaining part of the tank
+can be filled in ___ hours.
+(a) 3 hours (b) Er hours
+(c) 2 hours (d) 55 hours
+RRB Group-D — 10/10/2018 (Shift-II)
+Ans : (c) Let the time taken to fill the remaining part of
+the tank = t hours
+tank filled in 1 hours by both entrance
+pipes=141 => part
+4 6 12
+remainil t= 1 5.7 rt
+ining part= 1-7 = 75 pa
+According to the question,
+t t t_7
+=4fo--a
+468 12
+6t+4t-3t_ 7
+24 (12
+HLT
+2412 |
+7x12
+t=2 hours
+Hence the remaining part of the tank will be filled in 2
+hours.
+Pipe & Cistern 25%
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0018_right.png =====
+86. Three pipes A, B and C can fill a tank in 4
+hours. Pipe A and pipe B can together fill the
+tank in 9 hours. If the three pipes A, B and C
+are opened together and after 3 hours pipe A
+and B are closed, then how much time will be
+taken by pipe C alone to fill the tank?
+(a) 2 (b) 18
+(c) 2.25 (d) 15
+RRB Group-D — 16/10/2018 (Shift-IID)
+Ans : (b)
+Filled part by (A+B+C) in 1 hour= +
+filled part by (A+B) in 1 hour= 3
+. 11.5
+filled part by C in 1 hour =—-~=—
+4 9 36
+time taken to fill whole tank by pipe C= = hour
+let C does the remaining work in t time.
+According to the question,
+5) ae
+A BC) C
+toy 3
+Cc 4
+36.1_9
+t==x-==
+5 4 5
+t=18
+the time taken by C to fill the remaining part is 1.8
+hours
+87. Inlet pipe P can fill any tank in 7 hrs while an
+outlet pipe Q can empty a whole tank in 6 hrs.
+If only P is opened for first 3 hrs and then Q is
+also opened, then how many hours is needed to
+empty the tank?
+(a) 24 (b) 28
+(c) 21 (d) 18
+RRB Group-D — 25/09/2018 (Shift-I1)
+Ans : (d) Time taken by P and Q to fill the tank
+a =42 hours
+1-6
+filled part of the tank by P in 1 hour -5 part
+filled part of the tank by p in 3 hours =3 part
+- 3 3
+time taken to empty 5 Part by tank Q = 3 x 42
+= 18 hours
+88. Two gas filling tube A and B can fill a gas
+cylinder in 15 min and 40 min respectively.
+Both the tubes are opened together but after 4
+minutes tube A is closed. What will be the total
+time to fill the cylinder?
+(a) 14 minutes 40 sec.
+(b) 10 minutes 10 sec.
+3 YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0019_left.png =====
+(c) 20 minutes 10 sec. .
+(d) 29 minutes 20 sec.
+RRB Group-D — 25/09/2018 (Shift-IIT
+
+Ans. (d) : Let the cylinder will be completely fill in|
+
+time t.
+
+According to the question,
+
+4 t 32+3t
+—+—=l, ——=l
+15 40 120
+3t= 120-32
+t= 88
+3
+t= 29 min 20 sec.
+
+89. Pipe A can fill an empty reservoir in 6.8 hrs
+while pipe B can fill it in 10.2 hrs. Only pipe B
+is opened for 1.7 hours, after which pipe A is
+also opened. What is the total time to fill the
+reservoir?
+
+(a) 5 hours 6 minutes (b) 5 hours 10 minutes
+(c) 5 hours 12 minutes (d) 5 hours 5 minutes
+RRB Group-D — 26/09/2018 (Shift-ID
+Ans. (a): Filled part by A in 1 hour = a
+; 1 :
+filled part by B in 1 hour = ——
+Paney 102
+filled part by B in 1.7 hours = Ati
+payenm’ 102 6
+Remaining part = 1-2-3 part
+filled part by (A+B) in 1 hour
+1 1 25
+=|—>+—7 |=7~ part
+6.8 10.2) 102
+- 5 5102
+
+time taken by (A+B) to fill = part = =x——= part
+
+time taken by (. ) to fil 6 Pa 6°25
+= 4g =3.4 hours
+
+total time taken = 1.7+3.4= 5.1 hours
+
+or 5 hour 6 minutes
+
+90. Pipe C and D alone can fill a tank in 4 and 5
+hrs respectively. If pipe C, is closed after 3
+hours and at the same time pipe D is opened,
+then the tank will be filled in how many hours?
+(a) 1.25 (b) 1
+(c) 15 (d) 0.8
+
+RRB Group-D — 28/09/2018 (Shift-I
+
+Ans : (a) Filled part by pipe C in 1 hour= +
+
+Filled part by pipe C in 3 hours = 3x5 = :
+
+31
+
+Remaining part=1 4 = qpat
+
+Time taken by pipe D to fill whole tank = 5 hours
+
+Hence time taken by pipe D to fill remaining part
+
+=5x4=3=125hours
+4 4
+Pipe & Cistern 25!
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0019_right.png =====
+91. Pipe A alone can fill a tank in 10 hrs. Pipe B
+can fill the same tank in 12 hours. These pipes
+are opened together then it is known that due
+to a leakage in the tank an extra time of
+hours will be taken to fill the tank
+completely. If both the pipes are closed, then
+calculate the time to empty the full tank by the
+leakage?
+
+(a) 110 hours (b) 132 hours
+(c) 143 hours (d) 120 hours
+RRB Group-D — 05/12/2018 (Shift-II)
+Ans. (d) Filled part of the tank by pipe A in 1 hour
+1
+~ 10
+Filled part of the tank by pipe B in 1 hour = =
+Let the tank will be empty in x hours due to leakage.
+.. Empty part of tank in 1 hour due to leakage = L
+x
+Filled part of tank by (A + B) in 1 hour
+11 11
+= /—+— |=—
+Gs 5) 60
+So pipes A and B together can fill the tank in 2 hours
+Total time taken to fill the tank due to leakage
+60, 60 _ 1320
+= —+—— =—— hour
+11 231231
+from question,
+11 1 _ 231
+—+o-5 =
+A B x 1320
+11 31 _ 231
++ =
+10 12 x 1320
+1T_u 231
+x 60 1320
+Ad 242-231
+x 1320 1320
+x= = =120 hours
+
+Hence the whole tank should be empty in 120 hours by)
+
+leakage.
+
+92. Two inlet pipe A and B can fill a reservoir in
+2.5 and 15 hrs respectively, while pipe C can
+empty the full reservoir in 7.5 hours. After the
+reservoir was empty pipe A, B and C were
+opened together, but pipe B was closed after
+sometime, due to which it took 3.5 hours to fill
+the reservoir. Pipe B was started for how many
+hours?
+
+(a) 1 hour (b) 2 hours
+(c) 1.5 hour (d) 0.5 hour
+RRB Group-D — 01/12/2018 (Shift-I1)
+) YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0020_left.png =====
+Ans : (a) Let pipe B was opened for x hours.
+According to the question,
+1.161
+—+=-==1
+ABC
+35x 3.5
+oP yA Pa]
+25 15 7.5
+7.x 7
+444-+-1
+5 15 15
+x 7,7 15-21+7
+A22j-445 2-255"
+15 5 15 15
+a. 1 => x=1 hour
+1515
+
+93. Three pumps can fill a water tank individually
+in 15, 20 and 30 hrs respectively. All three}.
+pumps were opened together at 8 A.M. At that
+time 1/5 of tank was filled. After 4 hours first
+pump was closed. After next two hours the
+third pump was also closed. At which time tank
+will be fully filled?
+
+(a) 2:30 p.m. (b) 2:40 p.m.
+(c) 3:20 p.m. (d) 1:20a.m.
+RRB Group-D — 27/11/2018 (Shift-
+
+Ans. (b) : Filled part of tank by first pump in 1 hour
+
+1
+=— part
+15
+
+Filled part of tank by second pump in | hour= apart
+
+Filled part of tank by third pump in 1 hour= =a part
+
+Pre-filled part of the tank = : (given)
+se 1.4
+
+Remaining part = 1——=—
+
+1g Di 5.5
+‘Let it will take x hours to fill the tank.
+According to the question,
+4 x 6 4
+74%, a"
+15 20 30 5
+16+3x+12_4
+60 5
+28 + 3x = 48
+3x=20
+20 .
+x => or 6 hour 40 minutes
+
+[Hence required time = 8 am + 6 hour 40 minutes =|
+
+2:40 pm.
+
+94. Pipe A can fill a tank in 15 hours while pipe B
+takes 25 hours to fill it. In the beginning only
+pipe A was started for some time and again it
+was closed and then just pipe B was started.
+Overall it takes 19 hours to fill the tank
+completely. Pipe A was started for how much
+time?
+
+Pipe & Cistern 26
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0020_right.png =====
+(a) 9 hours (b) 6 hours
+(c) 7.5 hours (d) 3 hours
+RRB Group-D — 27/11/2018 (Shift-I)
+Ans. (a) Let the pipe A was opened for x hour.
+According to the question,
+x 19-x
+=s=+— =1
+15 25
+5x+57-3x _ 1
+75
+2x +57=75
+2x = 75-57
+2x=18
+x=9
+Hence pipe A was opened for 9 hours
+95. Two inlet pipe and one outlet pipe is present in
+a tank. The tank can be filled in 6 and 8 hrs
+respectively by the inlets individually and can
+be emptied in 10 hrs by the outlet pipe. If the
+inlet pipe is opened for 1 hour and then closed,
+and then all the three pipes are opened
+together, then how much time will be taken to
+fill the remaining part of the tank?
+(a) 75/23 hours (b) 82/23 hours
+(c) 85/23 hours (d) 72/23 hours
+RRB Group-D — 15/10/2018 (Shift-IT)
+Ans : (c) Let it will take n hour to fill the remaining
+tank.
+According to the question,
+n+l n+l on
+—+—-—=l
+8 6 10
+6n+6+8n+8 n
+> oo el
+48 10
+Int+7 on
+> —-—=l
+24 «10
+70n + 70—24n
+> ——=l
+240
+35n+35-12n
+> ———=l
+120
+=> 23n+35=120
+23n=85
+23
+96. Pipe A alone can fill a tank in 4.5 hours, while
+along with pipe B it can be filled in 2.25 hours.
+If only pipe A is opened for half an hour after
+which pipe B is also opened, then how much
+time will be taken to fill the tank?
+(a) 2 hours 30 minutes
+(b) 2 hours 15 minutes
+(c) 2 hours
+(d) 2 hours 20 minutes
+RRB Group-D — 01/10/2018 (Shift-II)
+) YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0021_left.png =====
+Ans. (a) : Let the pipe B will fill the tank in x hours
+Filled part of the tank by A in 1 hour=
+Filled part of the tank by A and B in | hour= 5
+1 1, x
+a —x-—+——=l
+45 2 2.25
+10 , 100x
+—+——=1
+90 225
+1 4x
+=—+—=1
+9 9
+1+4x=9 |
+hours
+Hence total time to fill the tank =
+2 hour + 30 minutes = 2 hour 30 minutes
+97. Pipe A can fill an empty cistern in 4 hours
+while along with Pipe B it can be filled in 3
+hours. Only Pipe A is turned on for an hour
+after which Pipe B is also turned on. How much
+total time will it take to fill up the cistern?
+(a) 3 hours
+(b) 3 hours 15 minutes
+(c) 3 hours 25 minutes
+(d) 3 hours 20 minutes
+RRB ALP & Tec. (31-08-18 Shift-II)
+Ans. (c) : Filled tank by pipe A in 1 hour + part
+Filled tank by A and B in 1 hour =; part
+‘Emptied part of tank =1 -t = 3 part
+; part of tank can be filled by (A + B) = in | hour.
+3 part of tank can be filled by both = 3x3 = 2.25
+total time = 1 + 2.25 =3.25 hours
+98. Two pipes A and B can fill an empty cistern in
+32 and 48 hours, respectively. Pipe C can drain
+the entire cistern in 64 hours when no other
+pipe is in operation. Initially, when the cistern
+was empty, Pipe A and Pipe C were turned on.
+After a few hours, Pipe A was turned off and
+Pipe B was turned on instantly. In all it took
+112 hours to fill the cistern. For how many
+hours was Pipe B turned on ?
+a) 72 b) 70 c) 77 d) 84
+[Ans : (a) Let tap A is closed after x hours and tap B is|
+lopened, so it can be assumed that tap A was opened for}
+x hours, tap B was opened for (112-x) hours and C was|
+opened for 112 hours.
+then
+x 112-x_ 112
+> —=+——_ -—=l
+3248 64
+Pipe & Cistern 26:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0021_right.png =====
+6x +(112-x)4-112x3
+> +
+192
+> 6x+448—4x-336 = 192
+> 2x+112 = 192
+2x = 192-112
+2x = 80
+x = 40 hours
+*. Pipe B was kept running at 112-x hours.
+Hence the required time = 112—x = 112-40 = 72 hours.
+99. Pipe A can empty whole tank in 5.6 hours, while
+pipe B, can fill the same tank in 7 hours. In the
+situation of tank being full, if the pipes A and B is
+opened one by one for an hour, then how much
+time can be taken to empty the tank?
+(a) 48 hours (b) 56 hours
+(c) 55 hours (d) 47 hours
+RRB Group-D — 25/09/2018 (Shift-I
+Ans: (d)
+A=05.6.9)
+R392
+B=(H7
+when, (-) outlet
+(+) inlet
+work done by (A + B) in 2 hours = 6
+" C14)
+work done by (A + B) in 46 hours = 1.4 x 23
+= 32.2 unit
+Remaining work = 39.2 — 32.2 =7 unit
+Now in 47 hours, A will drain 7 unit water.
+So total time = 46 + 1 = 47 hours
+100. An inlet pipe and outlet pipe are taking turns
+to fill and drain a cistern, respectively, for an
+hour each at a time, starting with the inlet pipe
+when the cistern is empty. It takes the inlet pipe
+15 hours to fully fill the empty cistern, whereas
+the outlet pipe can drain the filled cistern
+completely in 21 hours. How many hours will it
+take for the cistern to be full?
+(a) 100 (b) 52.5
+(c) 105 (d) 99
+RRB Group-D — 18/09/2018 (Shift-ID)
+Ans. (d) : Filled portion of cistern in 2 hours = zu
+et 1.75 _2
+15 21 105 105
+On multiplying by 49.
+Filled portion of cistern in 98 hours = 2, 49= 4
+105 15
+A 14_1
+-. Remai tion =1-—=—
+maining portion B15
+Hence A will now fill z part in 1 hour.
+So, it will take total 99 hours.
+{ YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0022_left.png =====
+101. Pipe A can fill an empty tank in 1.5 hours while
+pipe B can empty a full tank in 2.4 hours.
+When the tank is empty then pipe A is opened
+for 1 hour and then closed. Now B pipe is
+opened for 1 hour to empty the tank and then
+closed. The tank was opened and closed
+alternately for one hour every time. How much
+time will it take to fill the tank completely?
+
+(a) 4.75 hours (b) 6.375 hours
+(c) 7 hours (d) 8 hours
+RRB Group-D — 19/09/2018 (Shift-IID
+
+Ans. (d) : work done by pipe A in 1 hour = rc part
+
+work done by pipe B in 1 hour = ype
+
+filled part in 2 hours :
+
+1 1 24-15 9.9 9 1
+= a = = part
+15 24 360 36 36 4
+
+so the time taken to fill the entire part = “2 =8 hours
+
+102. Starting from the inlet pipe in the reservoir, an
+inlet pipe and an outlet pipe take an hour to fill
+and empty the reservoir. The inlet pipe takes
+11.25 hours to fill the empty reservoir and the
+outlet pipe can empty the filled reservoir
+completely in 22.5 hours. How much time will
+be taken to fill the reservoir?
+
+(a) 44 hours
+(b) 45 hours
+(c) 43 hours 50 minutes
+(d) 42 hours 45 minutes
+RRB Group-D — 19/09/2018 (Shift-I1T.
+
+Ans. (d) Filled part by inlet pipe in 1 hour= T1258 eS part
+
+emptied part by outlet pipe in 1 hour= an part
+
+filled part in 2 hours = ss LL = 2-1
+
+11.25 225 22.5
+_ il
+22.5
+Water filled in 2 x 21 hours = xa
+22.5
+. 42
+
+Water filled in 42 hours = 6 part
+
+remaining part of tank = 1— B38
+45 45
+time taken to fill the 2 part by inlet pipe
+=3.x11.25 = hours
+45 4
+= 3x60 = 45 minute
+Total time = 42 hour 45 minutes
+Pipe & Cistern 26:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0022_right.png =====
+103. Pipe A is an inlet pipe which can fill an empty
+tank in 69 hours. Pipe B can empty a full filled
+tank in 46 hours. Starting with pipe B in the
+filled tank one by one, alternate both the pipes
+were open for one-one hour. How much time
+will it take to empty the tank?
+
+(a) 11 day 12 hours (b) 11 day 10 hours
+(c) 1 day 13 hours (d) 11 day 7 hours
+RRB Group-D — 27/09/2018 (Shift-I
+Ans. (d) Let total capacity
+138 liters
+JX
+B A
+46 69
+
+Emptied in 2 hours = | lit.
+
+Emptied in (2 x 135) hours = 135 lit.
+
+The last 3 liters will be emptied by pipe B in 1 hour.
+
+Hence total time taken = 271 = 11 day 7 hours
+
+104. An inlet pipe and an outlet pipes are opened in
+an order of one hour to fill and to empty a
+tank. When the tank is empty, starting is done
+from inlet pipe to fill the empty tank inlet pipe
+takes 10.5 hours, and the outlet can empty the
+full tank in 35 hours. How much time will be
+taken to fill in the tank?
+
+(a) 28 hours 7 minutes
+(b) 29 hours
+(c) 30 hours
+(d) 28 hours 42 minutes
+RRB Group-D — 04/12/2018 (Shift-IIT)
+Ans. (d) Part filled by pipe A in 1 hour = a
+Emptied part by pipe B in 1 hour = =
+. . 1 1
+Filled part by (A — B) in total 2 hours = —-~-—
+illed part by (. ) in total 2 hours 10535
+os
+21 35
+= ra 4 2 TLL
+21x35 35x21 105 15
+time taken to fill spat = 2 hours
+. 14
+and filled part of tank in 2 x 14 hour. = 1s
+- 144_1
+Remaining part = 1-—= —
+ining P 15 15
+Now time taken to fill 7 part by pipe A.
+al 4 105= 0.7 hour
+15
+= 60 x 0.7=42 minute
+
+Hence total time taken to fill the tank = 28 hour 42
+
+minute
+
+J YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0023_left.png =====
+105. Pipe A is an inlet pipe, which can fill a tank in
+57 hours. Pipe B can empty the same tank in 38
+hrs. When the tank is full, both pipes are
+opened alternately for one hour each time
+starting with A. How much total time will be
+taken to empty the tank?
+
+(a) 9 day 13 hours (b) 9 day 10 hours
+(c) 9 day 12 hours (d) 9 day 7 hours
+RRB Group-D — 15/11/2018 (Shift-IID)
+Ans, :(c) Filled part by pipe A in 1 hour “5
+emptied part by pipe B in 1 hour = =
+. oe 1 oi
+emptied part by both pipes in 2 hours =—--—
+iptied part by pip 38.57
+57-38 19 1
+=i =. =—_part
+57x38 57x38 114
+
+time taken to fill ape =2 hours.
+
+.. Total time taken to empty the entire tank 2 x 114 =|
+
+228 hours
+
+228 hours = 9 day 12 hours
+
+106. Pipe A can empty a filled tank in 32 hours,
+while B can fill this empty tank in 40 hours. If
+pipe A and B is used alternately for 1 hours
+each time when the tank is filled, then what
+time will be taken to empty the tank?
+
+(a) 315 hours (b) 320 hours
+(c) 319 hours (d) 311 hours
+RRB Group-D — 02/11/2018 (Shift-I
+
+Ans. (d) Filled part of the tank in 1 hour = 7
+
+emptied part of the tank in 1 hour = =
+
+emptied part in 2 hours = 11.54.14
+
+32 40 160 160
+
+Time taken to fill the ants part of tank = 2 x 155
+we 5 1
+
+Re art =—— = —
+
+emaining pi 160 = 32
+time take to empty = part = 1 hour
+Hence total time taken to empty the entire tank
+= 310+ 1 = 311 hours.
+
+107. Pipe A could fill an empty cistern in 18 hours
+while Pipe B can drain a filled cistern in 30
+hours. When the cistern is empty, Pipe A is
+turned on for an hour and then turned off.
+Now Pipe B is allowed to drain out water from
+the cistern for an hour and then turned off.
+The pipes were alternately left open for an
+hour each time till the cistern was full. How
+much time did it take for the cistern to be full?
+
+Pipe & Cistern 26:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0023_right.png =====
+(a) 45 hours
+(b) 90 hours
+(c) 86 hours 40 minutes
+(d) 86 hours 48 minutes
+RRB ALP & Tec. (30-08-18 Shift-IID)
+Ans : (d)
+Pipe A Pipe B
+18 30
+90
+.. work done by pipe A and B alternately in 2 hours =
++5-3=2 unit
+~. 1 Cycle (2 hours) 2 unit
++x 43 1x43
+86 hours 86 unit
+
+time taken by pipe A to fill the reaming 4 units of work
+
+= : x 60= 48 minutes
+
+Hence total time to fill the tank = 86 hour 48 min.
+
+108. Two pipes, when working one at a time can filla
+cistern in 2 hours and 3 hours, respectively
+while a third pipe can drain the cistern empty in
+6 hours. All the three pipes were opened
+together when the cistern was 3 full. How long
+will it take for the cistern to be completely full ?
+(a) 1 hour 15 minutes
+(b) 1 hour 30 minutes
+(c) 1 hour 20 minutes
+(d) 1 hour
+
+RRB ALP & Tec. (17-08-18 Shift-III)
+Ans : (a) All three cistern will be filled in one hour|
+alll
+23 6
+3+2-1_4_2
+=i 2S = =f part
+6 6 3
+. . 1_5
+.. Remaining part of cistern =1 66
+5
+~. Time taken to fill remaining cistern =$
+3
+233 5-1) hours
+624 4
+
+ie. 1 hour 15 minutes
+
+109. Pipe A can empty a filled tank in 28 hours
+while Pipe B can fill the same tank, when
+empty, in 35 hours. If alternately Pipes A and
+B are turned on for an hour each time, starting
+when the tank is full, how long will it take to
+empty the tank ?
+
+3 YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0024_left.png =====
+(a) 279 hours (b) 271 hours
+(c) 275 hours (d) 280 hours
+RRB ALP & Tec. (13-08-18 Shift-I
+Ans: (b)
+A> 28hours—_;
+> 140 (capacity of tank)
+B— 3Shours
+
+Emptied part by A in 1 hour = 1 x 5=5 units
+
+Filled part by B in 1 hour = 1 x 4=4 units
+
+«. Tank emptied in 2 hours =— 5 + 4=— | units
+
++: 1 unit tank empties in 2 hours.
+
+«. 135 units will be emptied by tank (A + B)
+
+= 135 x 2 = in 270 hours
+
+|And remaining 5 units will be emptied = In 1 hour (by)
+
+A)
+
+-. Total time = 270 + 1 = 271 hours.
+
+Type - 6
+
+110. Pipe P can take out whole water from a tank in
+20 hours. Another pipe Q can take out 20 liters
+per hours. If both the pipes are opened, then
+tank gets emptied in 12 hours, Find the
+capacity of the tank?
+
+(a) 400 liters (b) 800 liters
+(c) 650 liters (d) 600 liters
+RRB JE - 02/06/2019 (Shift-II)
+Ans. (d) a = 20-12 = — => 30 hours.
+12 20 240 240
+= 30 x 20 = 600 liters
+
+111. There is a hole in a tank, which can empty it in
+8 hours, one more pipe has been planted for the
+tank which can fill 6 litre of water per hour.
+Pipe is opened, but due to (leakage) hole the
+tank gets empty in 12 hours. What is the
+capacity of the tank?
+
+(a) 80 liters (b) 120 liters
+(c) 144 liters (d) 78 liters
+RRB JE - 27/06/2019 (Shift-I)
+Ans : (c) | hour pure filler work of second tap
+= (é-4)- a
+8 12) 24
+
+It there were no other holes, then the tank would be
+
+filled in 24 hours.
+
+.. Tank capacitance = 6 x 24 = 144 liters.
+
+112. Ifa bucket is filled 80% then it has two litre
+more water than when it is filled 667% . Find
+the capacity of the bucket?
+
+(a) 20 litre (b) 10 litre
+(c) 15 litre (d) 12 litre
+RRB JE - 27/06/2019 (Shift-II1)
+Pipe & Cistern 26:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0024_right.png =====
+Ans : (c) 80% — 667% =2 liters
+240-200 o, =2 liters
+3
+= % =2 liters
+3
+100% = 23 100 = 15 liters
+40
+Hence capacity of Bucket = 15 liters
+
+113. Kajipet, whose population is 4000, needs 9 litre
+water per day per person. It has tank of 15 m x
+8m x 6m cuboid shaped. If the tank is fully
+filled with water, then the water of the tank
+will lest for how many days?
+
+(a) 20 day (b) 25 day
+(c) 10 day (d) 30 day
+RRB Group-D — 19/09/2018 (Shift-I)
+Ans : (a) Number of days =—Volume of cuboid _
+Population x Necessity
+= 15x8x6%1000 (| an} = 1000 liters)
+4000x9
+= 20 days
+
+114. 2/5 of a vessel is filled with oil. When 20 litres
+of oil is used then it is 7/12 full. Find the
+capacity of the vessel?
+
+(a) 1200 litres (b) 1400 litres
+(c) 1600 litres (d) 1000 litres
+RRB Group-D — 15/10/2018 (Shift-II)
+Ans : (a) Part of oil present in the vessel = part
+Part of left oil after extracting 20 liters of oil from the
+7
+1 =— part
+same vessel => Pi
+Therefore, the part which was filled with 20 liters of oil
+a3 7
+5 12
+36-35_ 1
+=—— =— part
+60 60
+*’ Quantity of oil present in the Zs portion = 20 liters
+-. Quantity of oil present in one part
+= ax. 1200 liters
+
+Hence the capacity of vessel is 1200.
+
+115. A water container was 3/5 full, when 38 litres of
+water is taken out of it, then 1/8 part remains
+what is the total capacity of the container?
+
+(a) 60 litres (b) 65 litres
+(c) 75 litres (d) 80 litres
+RRB NTPC 03.04.2016 Shift : 3
+} YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0025_left.png =====
+Ans: (d) Let the total efficiency of the container be x/.
+According to the question,
+
+3 x-38= i x
+
+5 8
+
+3, X38
+
+5 8
+
+24x—Sx _ 38
+
+40
+
+19x = 38 x 40
+
+x=2x40 x= 801
+
+Hence total capacity of container is 80 /.
+
+116. Two pipes namely A, B can fill a tank in 25
+minutes and half an hour respectively and a
+pipe C can empty 3 gallons per minute. All the
+three pipes working together can fill the tank
+in 15 minutes. The capacity of the tank is:
+
+(a) 450 gallons (b) 300 gallons
+(c) 240 gallons (d) 600 gallons
+RRB ALP & Tec. (30-08-18 Shift-I
+Ans : (a) According to question,
+A B A+B-C
+2Sminutes 3Qminutes 15 minutes
+L.CM. of 25, 30, 15 = 150
+or, A+B-C=10
+6+5-C=10
+or c=1
+7 150.
+
+Hence time taken to empty the tank by C ==" min =
+
+150 min
+
+Thus the capacity of tank = 150 x 3 Gallon water >
+
+450 Gallon
+Type -6@
+
+117. On starting pipe A, B and C together, they can
+fill any tank in 4 hours. Pipe a fills twice than
+that of pipe B and pipe C fills at the twice the
+speed of pipe A. How much time will by taken
+by pipe A to completely fill the tank?
+
+(a) 7 hours (b) 30 hours
+(c) 28 hours (d) 14 hours
+RRB RPF SI — 12/01/2019 (Shift-ID)
+
+Ans. (d) : Time taken to filling the tank together by,
+
+pipes = 4 hours
+
+Let the time taken by pipe A to fill the tank = x hours
+
+-. The time taken by pipe B to fill the tank = 2x
+
+:. Time taken by pipe C to fill the tank = 5
+
+.. Filled part of the tank by pipe A, B and C in | hour
+Pipe & Cistern 26:
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0025_right.png =====
+11,121
+r+ +—=-
+
+x 2x xX 4
+
+2
+
+1 1.2.1
+>r+o+=-
+
+x 2x x 4
+> th rae + 2] = L
+
+x 2 4
+
+1 [ 2414+ ‘) 1
+>| |=-
+
+x 2 4
+
+1 7_1
+>-xt=-—
+
+x 2 4
+
+Tx4
+>x=—
+2
+
+x=7x2=14hours
+
+Hence the time taken by pipe A to fill the tank alone =
+
+14 hours.
+
+118. A tank can be filled by two pipes in which one
+pipe can fill with the thrice speed as compared
+to other. If both the pipes together fill the tank
+in 36 minutes, then the slow pipe alone can fill
+the tank in how much time?
+
+(a) 81 minutes (b) 144 minutes
+(c) 120 minutes (d) 108 minutes
+RRB JE - 30/05/2019 (Shift-II1)
+Ans: (b) Let a slow-speed pipe fills the tank in x min.
+then the high-speed pipe will fill it ing min.
+1,3 1
+ttle
+x x 36
+44
+x 36
+
+x= 144
+
+Hence slow-speed pipe will fill the tank in 144 minutes
+
+119. Pipe P works twice as fast as Q. Q pipe works
+twice faster as R. All three pipes together can
+fill any tank in 8 hrs. How long Q alone takes
+to fill the tank?
+
+(a) 56 hours (b) 14 hours
+(c) 25 hours (d) 28 hours
+RRB JE - 26/06/2019 (Shift-I
+
+Ans : (d) According to the considered efficiency, the|
+
+time taken by P, Q, R pipes to fill the tank is 4x, 2x and)
+
+x hour respectively.
+
+According to question-
+
+1 11.1
+—+—4-=-
+4x 2x x 8
+14244 1
+4x 8
+tl!
+4x 8
+x= 14 hours
+Hence time taken by Q to fill the tank = 2x
+=2 x14 = 28 hours
+5 YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0026_left.png =====
+120. Time taken by three taps P, Q and R
+individually to fill a tank is in the ratio of 2:1:6
+which of the tap is fastest in these?
+
+(a) cannot be determined (b) P
+(©) Q @) oR
+RRB JE - 27/06/2019 (Shift-I
+
+Ans: (c) P Q R
+
+Time 2: 1: 6
+
+Efficiency tL : i : L
+
+2 1 6
+
+ILCM of 2, 1,6=6
+
+i, 6: 1, 6: 6
+2 1 6
+3 : 6 21
+
+Hence the capacity of the tap Q is high then this tap will
+
+be the fastest.
+
+121. Three pipes P, Q and R can fill a tank in 30
+min, 20 min and 10 min. When the tank is
+emptied, then the three pipes are opened while
+they discharge three chemical solutions, S, T
+and U respectively. Find the ratio of the
+solution U in the material present in the tank
+after 3 minutes?
+
+(a) 7/1 (b) 4/11
+(c) 6/11 (d) S/11
+RRB JE - 28/06/2019 (Shift-I11.
+Ans. (c) Filled part by P, Q and R in 1 minute
+_1,1,1
+= 44
+30 20 10
+24+3+6 11
+60 60
+Filled solution by R in 3 minutes = 143 = 3
+10 10
+3
+Ratio of solution U to R = 10 pL)
+dl 11x10 11
+20
+
+122. Ifa pipe P fills a tank in 10 minutes. Five pipes,
+in which the capacity of each pipe is 20% of
+pipe P, can fill the tank in?
+
+(a) 10 minutes (b) 50 minutes
+(c) 130 minutes (d) 175 minutes
+RRB RPF Constable — 20/01/2019 (Shift-II
+Ans : (a) Efficiency of P = 10 minutes
+~. 1 min efficiency of P = =
+20% efficiency of P = 1 x20 =i
+10 100 50
+time to fill the tank by 5 pipes
+1, 1,1,1,1
+= t+ 4+ 4+ 4+
+50 50 50 50 50
+~5 _1
+50:10
+Hence total time = 10 minutes
+Pipe & Cistern 26
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0026_right.png =====
+123. P, Q and R are channels which discharge
+solutions A, B, C respectively in a tank. When
+the tank is empty and all the three channels are
+opened, what is the proportion of the solution
+C in the tank after 3 minutes, if the channels,
+P, Q and R can fill the tank in 30 minutes and
+20 minutes and 10 minutes respectively when
+they are opened simultaneously?
+
+5
+(a) 6 (b) ll
+© 5 @ $
+RRB ALP & Tee. (21-08-18 Shift-I)
+Ans: (d) The ratio of work done by P, Q and R in 3
+minutes are as follows
+=3.3 32011 =2:3:6
+30 20:10 3°21
+ie. the ratio of P, Qand R=2:3:6
+then the ratio of the solution = on ens
+24+3+6 IL
+
+124. Working with full speed a pipe can fill can
+empty tank in 2 hrs. Although, during first
+hour it worked at 1/12 of its efficiency, during
+second hour it worked at 1/9 of its efficiency,
+during third hour it worked at 1/6 of its
+efficiency, during fourth hour it worked at 1/4
+of its efficiency and during fifth hour the
+efficiency was 1/3 to that compared to which it
+should work. The second pipe also worked like
+this, but if it worked at its full speed, then it
+would have filled the tank in 4 hrs, if both the
+pipes and that pipe which empties the tank at a
+fixed speed, starts together them half emptied
+tank can be filled in 5 hrs. If alone the pipes
+which empties the tank is started then how
+much hours will it take to empty the tank?
+
+(a) 20 (b) 24
+(c) 30 (d) 32
+RRB Group-D — 03/10/2018 (Shift-III)
+
+Ans : (b) Let the emptying pipe empties the tank in x
+
+hour.
+
+From question-
+
+aedetett feted tl] Sad
+ee ee
+2112 9 6 4 3) 4[12 9 6 4 3] x 2
+1 34 1°34 5_1
+=xtax- ts
+2 36 4 36 x 2
+17,17 5_1
+—4-2=-
+36 72 x 2
+344+17_1_ 5
+72 2 x
+51_1_5
+2 2 x
+J YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0027_left.png =====
+51-36 _ 5
+72 x
+155
+72 x
+5x72
+xolk
+15
+x=24
+Hence the emptying pipe will empty the tank in 24
+hours.
+125. One of the two water filling pipe in a tank
+works 1.5 times more efficiently than the other.
+If these two pipes works with such adraining
+pipe which alone can empty the tank in 12
+hours, then the empty tank can be filled in 28
+hours. How much time will be taken by the less
+efficient pipe to fill the tank?
+(a) 21 (b) 18
+(c) 24 (dd) 15
+RRB Group-D — 05/10/2018 (Shift-IT,
+Ans : (a) Let working efficiency of tank A = 1
+then, the working efficiency of second tank B = 1.5
+A:B =1:15=10:15=2:3
+the ratio of times of A and B will be inversely}
+proportional to their efficiencies.
+hence ratio of times = 3 : 2
+hence the time of A is 3x and time of B is 2x.
+According to the question-
+1 11 1
+=> tS ES
+2x 3x 12 28
+> Xe, 1h
+6x 28 «12
+5 _ 12+28
+> 2.
+6x 28x12
+5 _ 40
+im x 56 k=
+time taken to fill the tank with less efficient pipe = 3x
+=3 x 7=21 hours
+126. A water tank is filled with the help of three
+pipes X, Y and Z in 5 hours. Pipe Z is three
+times faster than pipe Y and pipe Y is two
+times faster than pipe X. How much time will
+be taken by the pipe X alone to fill the tank?
+(a) 35 hours (b) 40 hours
+(c) 60 hours (d) 45 hours
+RRB Group-D — 17/09/2018 (Shift-IT.
+Ans : (d) Let the time taken to fill the tank by pipe = t
+hour
+According to the question-
+12,6 1
+=t=4+-=-
+ttt 5
+t-t2
+t 5
+Hence pipe x will fill the tank in 45 hours.
+Pipe & Cistern 26
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0027_right.png =====
+127. Two inlet pipe, in which the first inlet pipe is
+twice capable than the second pipe. One
+another outlet pipe which can empty the filled
+tank in 12.5 hours, working together can fill
+the empty tank in 2.5 hours. In how many
+hours the less capable inlet pipe will fill the
+tank?
+
+(a) 7.5 (b) 6.25
+(c) 5 (d) 8.75
+RRB Paramedical Exam — 21/07/2018 (Shift-III)
+Ans : (b) Let there be three pipes A, B and C
+A=2xB
+1 .
+C= Ds h (Empties)
+A+B-C= a
+2.5
+A+B= _ + 110 + 40
+2.5 12.5 25 125
+AaB a 50410 _ 60
+125 125
+ A=2B
+60 20 4
+3B 195 B05 ~ 35
+
+Hence the time taken to fill the less efficient pipe
+
+a3. 6.25 hours.
+4
+
+128. A pipe, working with its full speed can fill an
+empty tank in 2 hours. Although during its
+first two hours it worked with 1/12 part of its
+efficiency during its second two hours it
+worked with 1/9 part of its efficiency, during
+third two hours it worked with 1/6 part of its
+efficiency, during fourth two hours it worked
+with 1/4 part of its efficiency and during its
+fifth two hours it worked with 1/3 part of its
+efficiency. Another pipe also shows the same
+type of performance, but if it works at it full
+speed then it would have filled the tank in 4
+hours. A drain pipe is also there which takes
+out the water from the tank at a fixed rate. If
+all the three pipes work together then the
+empty tank can be filled in 10 hrs. If rest of the
+two pipes remain closed then in how many
+hours the drain pipe will empty the full tank
+completely?
+
+(a) 24 (b) 30
+(c) 20 (d) 32
+RRB Group-D — 27/09/2018 (Shift-III)
+y YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0028_left.png =====
+Ans : (a) Let the emptying pipe empties the tank in
+total x hour.
+According to the question-
+
+1 1.1.1,1,1 1 1,.1,1,1,1}} 10
+Do] 24 t- 45 t— 4-45 |4-| 23— 4-4-4 $=} | -— 1
+2, U2 9 6 4 3 4, 2 9 6 4 3)] x
+
+3(1 ,1,1,1,1)} 10
+=>2)=| = +— 454-42 ||-—=1
+412 9 6 4 3)| x
+3.34 5 1
+> ix SH =
+4 36 x 2
+17 5_1
+=> W-i=-
+24 x 2
+=5. 2
+x 24 24
+5s_5
+> les
+x 24
+x = 24 hours
+
+129. One inlet pipe among the two inlet pipes works
+twice as efficient as the other inlet pipe. A
+drain pipe can empty a fully filled tank in 12
+hours. If all the three pipes are opened
+together, then the empty tank is filled in 12
+hours. In how many hours the less efficient
+inlet pipe will alone fill the empty tank?
+
+(a) 15 (b) 18
+() 12 @ 9
+RRB Group-D — 28/09/2018 (Shift-I)
+
+Ans: (b) Let the another pipe fills the tank in x hours
+
+then first pipe will take (3) hour (because works from
+
+double efficient). A third pipe empties the tank in 12
+
+hours. Then According to the question,
+
+i
+x,i til,
+2 x 12 12
+2,1 1 _=1
+445-—
+x x 12 12
+3 1,1
+>-=—4+—
+x 12 12
+3.2
+>i=t
+x 12
+=> x=18 hours.
+
+130. A tank is filled by three pipes X, Y and Z in 6
+hours. If Z is three time faster than Y and Y is
+two time faster than X, then how many hours is
+needed by X to fill the tank?
+
+Pipe & Cistern 26!
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0028_right.png =====
+(a) 27 hours (b) 54 hours
+(c) 30 hours (d) 45 hours
+RRB Group-D — 22/10/2018 (Shift-II)
+Ans: (b) The time taken by X, Y and Z is 6T, 3T and
+2T respectively.
+X:Y:Z
+x: 2x : 6x — efficiency
+6:3:1— time
+According to the question-
+1 1,1 1
+ee
+6T 3T T 6
+142+6 1
+=> =
+6T 6
+=>T=9
+Hence time taken to fill the tank by X = 6T
+=6x9 =54 hours
+131. Two inlet taps, in which one tap's capacity is
+4.5 times greater than the other, an outlet tap
+which can empty a tank in 9 hours, working
+together can fill an empty tank in 7.5 hours.
+How many hours will be taken by the less
+efficient pipe to fill the tank?
+(a) 18 (b) 27
+(c) 22.5 (d) 13.5
+RRB Group-D — 27/11/2018 (Shift-I)
+Ans. (c) : If pipe A fills a tank in x hours then pipe B
+will fill that tank in ss hours because the efficiency,
+of B is 4.5 times more than A.
+According to question-
+( 1/45) 1 1
+4-2 |--=—
+x x) 9 75
+55 12
+x 9 15
+49.5-x _ 2
+9x, 15
+=> 5 (49.5 — x) = 6x.
+=> 247.5 — 5x = 6x
+=> 11x = 247.5
+2475
+> x=
+110
+=> x=22.5 hours
+3 YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0029_left.png =====
+132. Among the two inlet pipes A and B, A's
+efficiency is twice than that of B. Pipe C is an
+outlet pipe which takes three times the time
+taken by pipe A in emptying the filled
+reservoir. If the three pipes are opened
+together when the reservoir is empty then it
+takes 6 hours to fill the reservoir. When A and
+C are working together, then how much time
+will be taken to fill the reservoir?
+
+(a) 15.75 hours (b) 10.5 hours
+(c) 21 hours (d) 42 hours
+
+Ans. (b) : Let the time taken by A to fill the tank is x|
+
+hours.
+
+The time taken by B to fill the tank will be 2x hours
+
+The time taken by C to empty the tank will be 3x hours
+
+According to question-
+
+11 11 6+3-2 1
+
+i
+
+x 2x 3x 6 6x 6
+
+x = 7 hours
+
+|A = 7 hours, B = 14 hours, C = 21 hours
+
+Filled part of the tank by A and C together in 1 hour =|
+
+aoe
+
+7 21 21
+
+Hence time taken to fill the reservoir by A and C
+
+together = 2 =10.5 hours
+
+133. A tap can fill a water tank in 4 hours. The tap
+was opened and 3/4 part of the tank was filled
+then two taps of same filling capacity were
+opened. Then after 15 minutes, another tap of a
+capacity of two times the first tap was opened
+in order to take out the water from the tank.
+Calculate the time which it takes to fill the
+tank.
+
+(a) 4 hours 15 minutes
+(b) 4 hours
+(c) 3 hours
+(d) 3 hours 30 minutes
+RRB Group-D — 15/11/2018 (Shift-I)
+Ans : (d) According to question, total filled part of the|
+tank by pipes in 3 hour 15 min.
+3,1,1,1_15
+= ++ 4+ ==
+4 16 16 16 16
+let the time taken to fill the remaining 1/16 part of the
+tank is x hours
+. x x x x_ id
+an 4+545-F =
+44 4 2 16
+Pipe & Cistern 26!
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0029_right.png =====
+3x_2x 1
+4 4 16
+ce => x= 15 minutes
+4 16
+time taken to fill the entire tank
+= 3h. 15m + 15 min = 3 hour 30 min.
+
+134. In two inlet pipes, one is twice capable than the
+other. There is also a third outlet pipe which
+can empty the fully filled tank in 10 hours, it
+takes 2.5 hours to fill the tank completely. How
+many hours will be taken by the low capacity
+pipe to fill the tank alone?
+
+(a) 6 (b) 7
+() 8 (d) 5
+RRB Group-D — 01/10/2018 (Shift-II)
+Ans. (a) : Let,
+Time taken by A = 2n
+Time taken by B =n
+from question-
+1 1 1_10
+45
+2n n 10 25
+1,1.2,1
++o a24
+2n n 5S 10
+1+2_ 441
+2n 10
+325
+2n 10
+
+time taken by less efficient pipe = 2n = 2 x 3 = 6 hours.
+
+135. Pipe A fills the tank in 1/4 time of B. Pipe C
+takes three times more time as compared to A.
+If all three pipes are opened together, they can
+fill an empty tank in 24 hours. If pipe C was
+not opened then how much time will be taken
+to fill the empty tank?
+
+(a) 30.2 (b) 28.4
+(c) 30.6 (d) 304
+RRB Group-D — 18/09/2018 (Shift-III)
+Ans. (d) : Given-
+A:B=1:4
+A:C=1:3
+A:B:C=1:4:3
+) YCT
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0030_left.png =====
+[Let A, B, C fill the tank in x, 4x and 3x hours|
+respectively.
+According to question-
+the ratio of efficiencies= A: B: C= bis
+=12:3:4
+total work = 19 x 24 = 456
+total time taken by (A + B) = * = 30.4 hours
+136. One of the two inlet pipes works twice as
+efficient as the other. A drain pipe that can
+empty a tank in 8 hours, can fill the empty
+system is 8 hours. How many hours will the less
+efficient inlet pipe take to fill the empty system
+by itself ?
+(a) 12 (b) 6
+(c) 10 @) 8
+RRB ALP & Tec. (17-08-18 Shift-II)
+Ans: (a) Let the high efficiency pipe fills the tank in x
+hours.
+|A low efficiency pipe fills the tank in 2x hours.
+and the third empties that tank in 8 hours.
+According to question-
+ree
+x 2x 8 8
+32
+2x 8
+x = 6 hours
+Hence the time to fill the tank with low efficient pipe|
+alone = 2x = 12 hours
+137. A pipe, working at full speed, can fill an empty
+cistern in 1 hour. However, during the first
+hour it worked at one-twelth of its capacity,
+during the second hour at one-ninth of its
+capacity, during the third hour at one-sixth of
+its usual capacity, during the fourth hour at
+one-fourth of its usual capacity and during the
+fifth hour it was only one-third as efficient as it
+was supposed to be. A second pipe also
+displayed similar performance, but it worked
+at full speed would have filled the empty
+cistern in 2 hours. Together with a drain pipe
+that drained water out of the tank at a constant
+Pipe & Cistern 27
+
+
+===== Part 13 — Pipe & Cistern (pp. 241–270)_page-0030_right.png =====
+rate, the empty cistern could be filled in 5
+
+hours, all the three pipes working
+
+simultaneously. How many hours will it take
+
+the drain pipe to empty the filled cistern if no
+
+other pipe was functioning during the time?
+
+(a) 16 (b) 12
+
+() 10 (d) 15
+
+RRB ALP & Tec. (14-08-18 Shift-I)
+
+Ans : (b) Let drain pipe will be emptied the cistern in x
+hours
+
+filled part of cistern in 5 hours by first pipe
+
+-1o111.1
+“R96 43
+_34+4+6+94+12 _ 34
+7 36 36
+then filled part of cistern in 5 hours by second pipe
+1. 34_17
+“2°36 36
+when all three pipes are opened simultaneously-
+34.175
+36°36 x
+1
+ze, x = 12 hours.
+
+138. Sita's bucket has thrice the capacity as Ramu's
+bucket. It takes 60 turns for Sita's bucket to fill
+the empty drum. How many turns it will take
+for both the buckets of Sita's and Ramu's,
+having each turn together to fill the empty
+drum?
+
+(a) 45 (b) 40
+
+(c) 50 (d) 30
+
+RRB ALP & Tec. (10-08-18 Shift-II)
+Ans : (a) Let the capacity of Ramu's bucket = x
+then capacity of Sita's bucket = 3x
+capacity of drum = 60 x 3x
+=180x
+
+let both fill the bucket N times and turn into the drum
+©. N (3x+x) = 180x
+n= 180 _ 4s
+
+4x
+nn or

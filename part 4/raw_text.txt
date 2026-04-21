@@ -1,0 +1,2500 @@
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0001_left.png =====
+04.
+————————————
+7
+1. Simplify: 0.8 + 0.08 + 0.008 + 8
+(a) 880.8 (b) 8.888
+(c) 8.808 (d) 8.088
+RRB JE - 26/05/2019 (Shift-IL.
+‘Ans : (b) 0.8 + 0.08 + 0.008 +8
+= 8.888
+2. 3.4+3.5 + 4.9 + 66 + 1.9 + 6.03 + 55 + 4.004 +]
+23 + 60=?
+(a) 327.734 (b) 27.734
+(c) 127.734 (d) 227.734
+RRB RPF Constable -18/01/2019 (Shift-I
+Ans, (d) : Given,
+3.4+3.5+4.9+66+1.9+6.03+55+4.004+23+60
+= (66+55+23+60)+(3.4+3.5+4.9+1.9+6.03+4.004)
+= 204 + 23.734
+= 227.734
+3. The value of 0.592 + 0.8 = ?
+(a) 74 (b) 0.74
+() 740 (d) 0.074
+RRB RPF-SI -13/01/2019 (Shift-ID)
+Ans : (b) From given expression,
+0.592 + 0.8
+8
+_ 592x10
+8x1000
+4
+100
+=0.74
+4, 33.33 - 0.03 + 333.333 - 3.33 =?
+(a) 366.633 (b) 363.303
+(c) 366.663 (d) 369.963
+RRB RPF Constable -25/01/2019 (Shift-I)
+Ans : (b) 33.33 - 0.03 + 333.333 - 3.33
+=> 33.30 + 330.003 = 363.303
+5. 6kg5g=?
+(a) 6.05 kg (b) 0.65 kg
+() 6.5kg (d) 6.005 kg
+RRB Group-D — 03/10/2018 (Shift-I1I)
+5
+Ans : (d) 6kg 5g (6 + aa)
+=(6+0.005)kg
+= 6.005 kg
+Simplification 83
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0001_right.png =====
+° ° °
+Simplification
+SS
+6. 5.52 — (2.3)? + (0.8)° x 0.12 + (0.4)* — 3.14 =?
+(a) -0.51 (b) 0.42
+(©) 0.51 (d) -0.63
+RRB Group-D — 22/09/2018 (Shift-I
+Ans : (a) 5.52 — (2.3)? + (0.8)° x 0.12 + (0.4) 3.14
+=5.52—5.29 + 0.512 x 0.12 + 0.0256 — 3.14
+=0.23+2.4-3.14
+=-051
+7. 30.9 + 3.09 + 0.309 + 0.039 + 309 =?
+(a) 340.138 (b) 243.338
+(c) 534.388 (d) 343.338
+RRB Group-D — 10/10/2018 (Shift-II)
+Ans : (d) Given,
+30.9 + 3.09 + 0.309 + 0.039 + 309
+= 343.338
+8. 7.892 +35 — 0.005 + 10.345 =?
+(a) 53.232 (b) 52.232
+(c) 23.322 (d) 0
+RRB Group-D — 30/10/2018 (Shift-I)
+Ans : (a) Given,
+= 7.892 + 35 — 0.005 + 10.345
+= 7.892 + 10.345 + 35 — 0.005
+= 53.237 — 0.005
+= 53.232
+9, 392 - 39.2 - 3.92 - 0.392 =?
+(a) 346.468 (b) 346.508
+(c) 348.488 (d) 348.468
+RRB Group-D — 26/09/2018 (Shift-II1)
+Ans: (c) Given,
+392 - 39.2 - 3.92 - 0.392
+= 352.8 - 3.92 - 0.392
+= 348.88 - 0.392
+= 348.488
+10. 0.098 + 0.98 + 9.8 +98 =?
+(a) 108.338 (b) 108.428
+(c) 108.878 (@) 108.378
+RRB Group-D — 27/09/2018 (Shift-II1)
+Ans : (c) Given,
+0.098 + 0.98 +9.8 + 98
+228 98 98 9g
+1000 100 10
+_ 98+980+ 9800 + 98000
+1000
+_ 108878
+~~ 1000
+= 108.878
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0002_left.png =====
+Ml. 443x443x44+3x44+3x4443x 45 =?
+(a) 10x 44 (b) 4°
+() 5x4 (d) 9x44
+RRB Paramedical Exam — 20/07/2018 (Shift-II)
+Ans: (b) Given,
+443 (444+ 4444+)
+>4+3x4(l+4+a+4r+aty
+5 os
+343 £21] pos, 2),
+4-1 r-l
+4-1
+3 43 xdx (When r> 1)
+> 44+4°-4
+=46
+12. Multiply 8795 by 125:
+(a) 1099375 (b) 1099345
+(c) 1099305 (d) 1098375
+RRB Group-D — 05/10/2018 (Shift-I
+Ans. (a) : 8795 x 125 = 8795 x (100 + 25)
+= 879500 + 219875
+= 10,99,375
+13. Fill in the blanks with the most appropriate
+option.
+395 — 39.5— 3.95 — 0.395 = ccseccseccrseeree «
+(a) 351.055 (b) 351.145
+(c) 351.155 (d) 351.045
+RRB Group-D — 09/10/2018 (Shift-I
+Ans. (c) : 395 — 39.5— 3.95 — 0.395
+= 395 — 43.45 — 0.395
+= 395 — 43.845
+= 351.155
+14, 35-7.892 + 0.005 — 10.345 =?
+(a) 16.768 (b) 26.768
+(c) 29.768 (d) 19.768
+RRB Group-D — 22/10/2018 (Shift-IT
+Ans : (a) 35 - 7.892 + 0.005 — 10.345 =?
+= 35.005 — 18.237
+= 16.768
+15. The value of 20.9 + 2.09 + 0.209 + 0.029 + 29
+(a) 62.228 (b) 52.228
+(c) 42.228 (d) 52.00
+RRB Group-D — 12/10/2018 (Shift-I
+Ans. (b) : 20.9 + 2.09 + 0.209 + 0.029 + 29 |
+= 52.228
+16. 0.295 + 2.95 + 29.5 + 295 =?
+(a) 327.856 (b) 327.756
+(c) 327.746 (d) 327.745
+RRB Group-D — 01/10/2018 (Shift-IL
+Ans. (d) : 0.295 + 2.95 + 29.5 + 295 =?
+=> 3.245 + 324.5=?
+2 = 327.745
+17. Calculate: 4237.43 + 453.32 + 24.12 — 387.23
+(a) 4327.64 (b) 4646.64
+(c) 4676.64 (d) 4587.64
+RRB NTPC 28.04.2016 Shift : 2
+Simplification 84
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0002_right.png =====
+Ans : (a) 4237.43 + 453.32 + 24.12 — 387.23
+= 4714.87 — 387.23
+= 4327.64
+. i 9 18 90
+18. Simplify: B26" 52
+(a) 45/26 (b) 13/45
+(c) 26/45 (d) 45/13
+RRB NTPC 03.04.2016 Shift : 1
+Ans : (c) From given expression,
+5,18 90
+13° 26 "52
+9 26 52
+sox yx2t
+13 18 90
+_ 26
+45
+19. 5.16 x 3.2=?
+(a) 15.502 (b) 16.512
+(c) 17.772 (d) 17.52
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (b) Given expression,
+5.16 x 3.2 = 16.512
+20. 1.1 +1212 +123, 123 =?
+(a) 134.343 (b) 133.433
+(c) 132.123 (d) 136.343
+RRB NTPC 30.03.2016 Shift : 1
+Ans: (d) From given expression,
+1.1 + 12.12 + 123.123 = 136.343
+21. 128-43+57-143+94 = ?
+(a) 142 (b) 285
+(c) 236 (d) 93
+RRB NTPC 30.03.2016 Shift : 2
+Ans: (d) From given expression,
+128 — 43 + 57 -143 + 94
+= 85-86+94=93
+22. Find the value of 5231405 x 99999,
+(a) 523135278595
+(b) 723135268595
+(c) 523135268595
+(d) 623135268595
+RRB NTPC 19.04.2016 Shift : 3
+Ans: (c) 5231405 x 99999 = 523135268595
+23. Solve: 7342015 x 9999?
+(a) 73416544985 (b) 73455322985
+(c) 73412807985 (d) 73412907985
+RRB NTPC 12.04.2016 Shift : 2
+Ans : (c) 7342015 x 9999
+= 7342015 (10000-1)
+= 73420150000 — 7342015
+= 73412807985
+24. Compute of 69696 x 9999 = ?
+(a) 696980304 (b) 666890304
+(c) 696809304 (d) 696890304
+RRB NTPC 11.04.2016 Shift : 1
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0003_left.png =====
+Ans: (d) From given expression, .
+69696 x 9999
+= 69696 x (10000 -1)
+= 696960000 — 69696
+= 696890304
+25. Calculate : 19170 + 54 +5
+(a) 17 (b) 1775
+() 71 (ad) 1757
+RRB NTPC 11.04.2016 Shift : 3
+Ans : (c) From given expression,
+19170 + 54 +5
+= 355 +5
+=71
+26. Calculate : 33333x9999
+(a) 332396667 (b) 333297667 .
+(c) 33329667 (d) 333296667
+RRB NTPC 11.04.2016 Shift : 3
+Ans : (d) 33333 x 9999 = 33333 (10000-1)
+= 333330000 — 33333
+= 333296667
+27. Calculate :
+0.00048 + 0.08
+(a) 0.06 (b) 0.006
+(c) 0.0006 (d) 0.6
+RRB NTPC 10.04.2016 Shift : 3 |
+Ans : (b) From given expression,
+0.00048 + 0.08
+0.00048 __48x100 _ 6 = 0.006
+0.08 _8x100000 1000
+28. Calculate:
+62160+185+24
+(a) 41 (b) 8064
+(c) 14 (d) 8046
+RRB NTPC 07.04.2016 Shift : 1
+62160
+Ans : (c) =—185_ = ©2160 _ 14 |
+24 185x24
+29. Calculate:
+66666 x 9999
+(a) 665693334 (b) 666594334
+(c) 666953334 (d) 666593334
+RRB NTPC 07.04.2016 Shift : 1
+‘Ans : (d) 66666 x 9999
+= 66666 (10000 —1) .
+= 666660000 — 66666 = 666593334
+30. 9876 + 34.567 — ? = 9908.221
+(a) 23.45 (b) 234.6
+(c) 2.345 (d) 2.346
+RRB NTPC 06.04.2016 Shift : 2
+Ans : (d) 9876 + 34.567 -? = 9908.221
+9910.567 -? = 9908.221
+2 = 9910.567 — 9908.221
+2= 2.346
+Simplification 85
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0003_right.png =====
+31. Find the value of 1093 x 1093
+(a) 1194649 (b) 1162481
+(c) 1424649 (d) 1428481
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (a) Given expression
+1093 x 1093
+= (1000 + 93) x 1093
+= 1093000 + 1093 x 93
+= 1093000 + 1093 x (100-7)
+= 1093000 + 109300 — 1093 x 7
+= 1093000 + 109300 — 1093 (10 — 3)
+= 1093000 + 109300 — 10930 + 3279
+= 1205579 — 10930 = 1194649
+32. Calculate: 35968 + 562 +8
+(a) 80 (b) 512
+(©) 8 (d) 521
+RRB NTPC 22.04.2016 Shift : 2
+35968
+Ans : (c) —362_ = 359681
+8 562 8
+562
+33. Calculate: 54367x9999
+(a) 546315633
+(b) 543655633
+(c) 543651633
+(d) 543615633
+RRB NTPC 22.04.2016 Shift : 2
+Ans : (d) 54367 x 9999
+= 54367 x (10000 -1)
+= 543670000-54367
+= 543615633
+34, (64 x 54) —(5* x 16) =?
+(a) 40,000 (b) 35,000
+(c) 30,000 (d) 25,000
+RRB NTPC 26.04.2016 Shift : 1
+Ans : (c) (64 x 5*) — (5° x 16)
+= (64 x 625) — (625 x 16)
+= 40,000 — 10,000 = 30,000
+35. The value of —261+(-380)—(-521)+821-(-121)
+is:
+(a) 800 (b) 825
+(c) 822 (a) 833
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (c)
+=> - 261 + (-380) - (-521) + 821 - (-121)
+=— 261 —380 +521 + 821 +121
+= —641 + 1463 = 822
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0004_left.png =====
+36. Solve : 10°*107=10°
+(a) 108 (b) 10°
+(c) 10° (d) 10°
+RRB RPF Constable -22/01/2019 (Shift-II1)
+e102
+Ans : (a) 10° x10? +10° a =10° x10?
+=10° )
+37. {20-(25-33)} +{-5x4-(-6)} +56+(-27+13)=?
+(a) -2 (b) -6
+(c) -4 (d) 4
+RRB RPF Constable -20/01/2019 (Shift-I)
+Ans. (b)
+{20-(25-33)} +{-5x4—(-6)} +56 +(-27+13) =?
+= {2048} + {-20+ 6} +56 +(-14)
+= {28}+{-14}-4
+=-2-4=-6
+38. {40-(90+ 5x 16-8 +2+3)}=?
+(a) 16 (b) 28
+(©) 14 (d) 64
+RRB RPF-SI -11/01/2019 (Shift-1)
+Ans : (a){40- (90 +5 x 16-8 = 2+3)} =?
+=> {40-(90+5x8+2+3)}=?
+=> {40-(90+5%4=3)}=?
+=> {40-(18x4+3)} =?
+=> {40-24} =?
+2=16
+39. 2-[3-{6-(6-4-3+10)}] =?
+(a) -3 (b) 1
+(©) 2 (d) 4
+RRB RPF Constable -19/01/2019 (Shift-II)
+Ans : (a) From given expression,
+2-[3-{6-(5-4-3+10)}]=?
+= 2-[3-{6(8)}]
+= 2-[3+-2)]
+= 25
+= 3
+40. Solve the following.
+2550 — [510 — {270 — (90 — 80 + 70)}]
+(a) 2240 (b) 2230
+(c) 2220 (@) 2210
+RRB ALP & Tec. (20-08-18 Shift-I)
+Ans : (b) = 2550—[510—{270-(90-80+70)}]
+= 2550-[510—{270-80}]
+= 2550-[510-190]
+= 2550-320
+= 2230
+Simplification 86
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0004_right.png =====
+41. Solve the following :
+23 — [23 — {23 - (23 — 23 + 23)}]
+(a) -1 (b) 23
+© 1 (d) 0
+RRB ALP & Tee. (20-08-18 Shift-III
+‘Ans: (d) = 23 — [23 — {23 — (23 - 23 + 23)}]
+= 23-(23-{23-23+23-23}]
+= 23-[23-0]
+=23-23=0
+42. Solve the following:
+27 — [38 - {46 - (15 — 13 - 2)}]
+(a) 35 (b) 31
+(©) 29 @) 30
+RRB ALP & Tec. (09-08-18 Shift-II)
+Ans : (a)
+=> 27-[38- {46-(15-13-2)}]
+=27-[38- {46}]
+= 27 - [38-46] = 27 - [-8]= 27+ 8= 35
+wl 5a7\\=
+43. 56+5{15+12-(9+6-5+7)} =?
+(a) 9 (b) 8
+() 12 @) 7
+RRB Group-D — 17/09/2018 (Shift-I
+Ans: (d)
+1 _
+56+5{15+12-(9+6-5+7)|
+1
+=56+—{15+12—-(15-12
+1 415+12-(15-12)}
+=56+5{15+12-3}
+1
+=56+—{24)
+324}
+=5621x24
+3
+=56+8
+567
+8
+44. 717 =[46-{66-(52-63=9%3)}]=?
+(a) 5 (b) 6
+(©) 7 (d) 11
+RRB Group-D — 19/09/2018 (Shift-II
+Ans. (¢) 77+[46 - {66 -(52-63+9x3)}]=A
+=> 77 +[46 - {66 -(52-7%3)}]=A
+=> 77+[46-{66-GI)}J=A
+=> 77+[46-(35}]=A
+>772[1]=A
+>A=7
+45. 140+ [61-{36-(40- 60+ 12x6)}]=?
+(a) 2 (b) 5
+(©) 4 (d) 10
+RRB Group-D — 19/09/2018 (Shift-II)
+| YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0005_left.png =====
+Ans. (c) From given expression,
+=140+[61—{36-(40-60+12x6)}]
+= 140+[61-{36-(40-5x6)}]
+=140+[61—{36-(10)}]
+=140+[61-26]
+=140+35=4
+46. (5) {(20+-2) x (-8)} =?
+(a) 180 (b) -20
+(c) 20 (d) -180
+RRB Group-D — 20/09/2018 (Shift-I}) |
+Ans : (b) From given expression,
+(-5) {(204-2) x (-8)} =?
+= (-5) { 20-16)
+=(5)x4
+=-20
+47, 78-[5+3 of (25-2 x 10)] =?
+(a) 56 (b) 48
+(©) 58 (d) 38
+RRB Group-D — 20/09/2018 (Shift-IID)
+Ans : (c) From given expression,
+78 -[5+3 of (25-2 10)]
+= 78—[5 +3 x (25-20)]
+=78-[5+3 x5]
+= 78-20
+= 58
+48. 70+5x(10-8+2)+3=?
+1
+(a) 7 (b) 3
+(c) 3 (d) 28
+RRB Group-D — 22/09/2018 (Shift-I
+Ans:(d) From given expression,
+70+5x(10-8+2)+3=? .
+70+5 x (10-4)+3=?
+10+5x6+3=?
+10+5x2=?
+14x2=?
+2=28
+49. {25-(s+(2-3)| +33] =?
+3 2
+11 12
+Badal b)
+@ > % |
+11
+Os @ 2 :
+RRB Group-D — 23/09/2018 (Shift-I
+Ans ; (c) From given expression,
+1 1
+2—-(5+(2-3)-+3= |=?
+lf 3 64 } * |
+{24-(s+@-3)}+35
+3 2
+7 7
+=| 4—-(5-1)$4+=
+{ 76-0} A
+Simplification 87
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0005_right.png =====
+3 2
+[F+3]
+=|/—44
+3 2
+|")
+6
+_u
+6
+50. 63 —(- 3) (-2 -8 -4) + 3 of {5+ (-2) (-I)} =?
+(a) -60 (b) 60
+(c) 65 (d) 61
+RRB Group-D — 23/09/2018 (Shift-I
+Ans : (d) 63 — (-3) (-2-8 — 4) + 3 of { 5 + (-2) (-1)}
+= 63 - (-3) (-14) +3 x {5 +2}
+= 63 —(-3) (-14)+3 x7
+= 63 -(-3) (-14) +21
+=63-42+21
+=63-2
+=61
+51. 72 +[27- {35 (42-45 +92) }] =?
+(a) 3 (b) 8
+(©) 6 qd) 4
+RRB Group-D — 24/09/2018 (Shift-I
+Ans : (a) From given expression,
+72 +[27- {35-(42-45 +9 x2)}]
+=72+[27- {35-(42-10)}]
+=72+[27- {35-32 }]
+=72+[27-3]
+=72+24
+=3
+52. If T= (93 + 15) +(3 x 4) - 24 + 8, then what will
+be the value of T?
+@ 4 (b) -7
+(©) -2 (d) -5
+RRB Group-D — 24/09/2018 (Shift-I
+Ans : (b) Given,
+T=(93 + 15)+(3 x 4)-24+8
+= (108) + (12)-24+8
+=108+12-24+8
+=9-24+8
+=17-24
+T=-7
+53. 75 + [35- {63 —(79 -54+9x6)}] =?
+(a) 5 (b) 3
+(©) 15 (d) 25
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (a) From given expression,
+75 + [35 — {63 -(79-54+9 6)}] =?
+=> 75 +[35- {63 — (79-6 x 6)}] =?
+=> 75 +[35— {63 — (79 — 36}] =?
+=> 75 +[35- {63 -43}] =?
+=>75+[35-20]=?
+=> 75+15=5
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0006_left.png =====
+54. 0.36 + 0.284 + 0.4 x 0.8 — 0.038 =?
+(a) 0.548 (b) 0.89
+(©) 1.25 (d) 12
+RRB Group-D — 26/09/2018 (Shift-I
+Ans : (b) From given expression,
+0.36 + 0.284 + 0.4 x 0.8 — 0.038
+=> 0.36 +0.71 x 0.8 — 0.038
+=> 0.36 + 0.568 — 0.038
+=> 0.928 — 0.038 = 0.89
+55. 3+[32=8%52+(4+9)]=?
+(a) 19 (b) 20
+(c) 18 (d) 21
+RRB Group-D — 28/09/2018 (Shift-II) |
+Ans. (a) : From given expression,
+34[32+8x52+(4+9)]=?
+=3+[4x52+13]
+34 4x52
+3
+=34+4x4=3+16=19
+56. 144+[ 40-{37-(25-112 +74}
+(a) 4 (b) 8
+(©) 2 (d) 6
+RRB Group-D — 28/09/2018 (Shift-I) |
+Ans. (d) : From given expression,
+144+[40- 37-(25-112 +7x4)}|
+=> 144+[40-{37-(25-112+28)}]
+=> 144+[40-{37-(25-4)}]
+= 144+[40- 87-21}]
+=> 144+[40-16]
+=> 144+24=6
+57. If G = (96 +12) + 14 x (12 +8) + 2, then what
+will be 1/4" of G?
+(a) 148 (b) 37 }
+(©) 36 (d) 38
+RRB Group-D — 03/10/2018 (Shift-II
+Ans: (b) Given,
+G= (96 = 12) +14 x (12+8)+2
+=8+14x20+2
+=8+14x 10
+=8+140
+G=148
+Then 1/4" of G,
+G_148 _,,
+44
+58. 18-45 (11 + 16-(00+7- 6+8)} =?
+(a) 6 (b) 9
+(c) 18 (d) 3
+RRB Group-D — 05/10/2018 (Shift-II)
+Simplification 88
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0006_right.png =====
+Ans : (a) From given expression,
+2=18+ ; {11+16-(10+7- 6+8)}
+= 18+ ; (11+ 16-(10+7-14)}
+1
+= 18+ — {11+ 16-3}
+8
+=18+ 4x24
+8
+27=18+3=6
+59. 22-(F\-s-(48)+(-16)}=?
+(a) 21 (b) 22
+(©) 20 (d) 24
+RRB Group-D - 10/10/2018 (Shift-I0
+Ans : (d) From given expression,
+1
+22-—{-5-(-48)+(-16)} =?
+gi 5-(-48)+(-16)}
+1
+=22--{-5-3
+at5-3}
+=22+5x8=22+2=24
+60. | What is the value of
+(-45+7x23-(247+13)-11)+2?
+(a) -47 (b) -14
+(©) 43 (d) 86
+RRB Group-D — 16/10/2018 (Shift-II1)
+Ans : (c) From given expression,
+(45 +7 x 23 - (247 + 13)-11) +2
+= (45 +161-19-11)+2
+= (161-75) +2
+=86+2
+=4
+61. 74—[85 + {49 -(41-3°+ 9x3)}] =?
+(a) 59 (b) 79
+(©) 49 (d@) 69
+RRB Group-D — 19/09/2018 (Shift-II1)
+Ans. (d) From given expression,
+74 - [85 + {49-(41-3° + 9x3)}]
+2 = 74 —[85 + {49-(41-3°+27)}]
+= 74 - [85 + {49 - (41-243 + 27)}]
+= 74 -[85 + {49-(41-9)}]
+= 74-[85 + {49 -32}]
+=74-[85 + {17}]
+=74-[85 +17]
+=74-[5]
+2=74-5=69
+| YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0007_left.png =====
+62. (12 - 1) of (16 + 15) x (119 + 113 - 16) =?
+(a) 73656 (b) 73660
+(c) 73600 (d) 73650
+RRB Group-D — 26/09/2018 (Shift-IID
+Ans: (a) From given expression,
+(12 - 1) of (16 + 15) x (119 + 113 - 16)
+= 11 of 31 x 216
+=11 31x 216
+= 73656
+63. Sumplify:
+25+15-(51)+(4x15 of 17) + 20+ 6-2=?
+(a) 45 (b) 44
+(c) 44 (d) -45
+RRB Group-D — 26/10/2018 (Shift-IT)
+Ans : (b) From given expression,
+25+15-(51)+(4x15 of 17) + 20+ 6-2
+> asvis-sie( 215417) .4
+20
+> — 40-514+51+4=44
+64. ‘Find the following:
+10+{26-15x(20-5+2x7-5)} =?
+(a) 189 (b) -198
+(c) 198 (d) -189 |
+RRB Group-D — 01/10/2018 (Shift-I
+Ans. (d) : From given expression,
+10+{26-15x(20-5+2x7—5)} =?
+10 {26-15x{20-5x52)|
+=10+{26-15x(20-5)}
+=10+{26-15x(15)}
+=10+{26-225}
+=10+26-—225
+65. Solve: 6.9-[(3.19x0.7)-0.5 of (8.5-3.04)-2.85]
+(a) 4.36 (b) 10.247
+() 6.61 (8.79
+RRB NTPC 29.04.2016 Shift : 1
+Ans :(b) From given expression,
+6.9 - [(3.19x0.7)- 0.5 of (8.5-3.04)-2.85]
+=6.9—[2.233—-0.5x5.46—2.85]
+=6.9—[2.233-2.73-2.85]
+=6.9-[-3.347]
+=6.9+3.347 = 10.247
+66. Solve: (50 + 0.5 x 20) + 0.7
+(a) 8.571 (b) 857.1
+(c) 85.71 (@) 72.85
+RRB NTPC 02.04.2016 Shift : 2
+Simplification 89
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0007_right.png =====
+Ans: (c) From given expression,
+(50 + 0.5 x 20) + 0.7
+= (50+ 10)+0.7
+=60+0.7
+= 85.71
+1,1 3,,2.,1
+67. Simplify: | 2—-1— | of =+12+2—
+imply: [25 A 5 5 3
+1 3
+_— b) =
+(a) 10 (b) 10
+1
+1— d) 1
+3) 10 qd)
+RRB NTPC 29.03.2016 Shift : 1
+Ans: (c) From given expression,
+[24-1gforziz+24
+3092) 5 5 3
+[2 3] 3,7,7
+=|s-=|xl+2+-
+3 215 5 3
+14-9 3,73
+= xt +x
+6 5 57
+5.3 3_1,3_5+6 11 1
+sixiyle 4¢l a2 a a1
+65 5 25 10 10 10
+68.  Calcuplate : 4082 + 157-23
+(a) -3 (b) 3
+(c) 2041/67 (d) 2014/67
+RRB NTPC 11.04.2016 Shift : 2
+Ans : (b) From given expression,
+4082 + 157-23
+4082 + 157-23
+26-23
+=3
+69. 44-2x[(-12«(24-13-3)}+Q0-4)]=?
+(a) 4 (b) 6
+(©) 5 dd) 3
+RRB ALP & Tec. (31-08-18 Shift-I)
+Ans : (d) From given expression,
+1
+4+ —x| {-12x(24—-13-3)}+(20-4
+dx [{-12x(24-13-3)} +(20-4)]
+1
+=4+—x| {-12x8}+16
+1 ff-t28} 16]
+=447x(-6)=4-1
+=3
+70. The value of 14 + {(5 of 2 — 3)} x 4 (7 — 2) is:
+1
+— ‘b) 40
+(a) 10 (b)
+14
+44 dy) —
+(©) @) rr)
+RRB ALP & Tee. (31-08-18 Shift-I)
+: YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0008_left.png =====
+Ans : (b) From given expression,
+14+{(5x2-3)}x4(7-2)
+=14+{(10-3)}x4(7-2)
+=14+7x4x5
+= 2x4x5 = 40 |
+
+71. 45 — [38 — {80 + 4- (8-12 +3) +4}] =?
+
+(a) 25 (b) 27
+(c) 26 (d) 28
+RRB ALP & Tec. (31-08-18 Shift-II1)
+Ans : (c) From given expression,
+45 — [38 — {80+ 4— (8-12 +3) +4}]
+= 45-[38-{80+44:-4}]
+= 45-[38-{20-1}]
+= 45-[38-19]
+= 45-19= 26
+72. Solve the following:
+1 —
+ra - - =?
++5 (18412 (9+6-5+7)} =2 |
+(a) 6 (b) 9
+(c) 12 (dd) 8
+RRB ALP & Tec, (30-08-18 Shift-I)
+Ans : (a) From given expression,
+1 —
+a - - =?
+N+ s{is+l2 (9+6-547)} =?
+= T+5{15+12-(9+6-12)}
+1
+=72+={15+12—(15-12
+Mfis+12-(15-12)}
+=72+1(15412-3} = nlp -3}
+2 2
+= T+ hx24= 72 +12=6
+73. — Find the value of the given expression :
+6-36 x3+6+5=?
+42
+— b) 7
+(a) TT (b)
+42
+© + @) -7
+RRB ALP & Tec. (30-08-18 Shift-II)
+Ans: (d) From given expression,
+6-36 x3+6+5 |
+=6-36x345 , =6-36x1 45
+6 2
+=6-18+5, =-7
+74. Solve the following:
+(6) 140 + {7-31 =2
+(a) 24 (b) -60
+(c) 60 (d) 24
+RRB ALP & Tec. (30-08-18 Shift-I11)
+Simplification 90
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0008_right.png =====
+Ans : (d) From given expression,
+(6) [40 = {7- (-3)}] =?
+(-6) [40 + {10}]
+(—6) [40 + 10]
+(6) [4] =-24
+15. 4+(1/6)[{-10x (25-13 -3)}=(-5)]=?
+(@) 8 (b) 9
+(©) 6 qd 7
+RRB ALP & Tec. (21-08-18 Shift-II)
+Ans : (d) From given expression,
+1
+4+e[{-10x(25 -13-3)}+(-5)]
+> 42 {f(-10%9) +(-5)}]
+1 1
+4+=| (-90)x| —
+= Jom(5)
+> 4+Ai8] > 44+3=7
+76. Solve the following :
+36 — [18 - {14 - (15-4 +2 x 2)}]
+(a) 20 (b) 22
+() 21 (d) 23
+RRB ALP & Tec. (17-08-18 Shift-T
+Ans: (c) 36-[18-{14-(15-4+2x2)}]
+=36-[18-{14-(15-2x2)}]
+= 36-[18-{14-11}]
+=36-[18-3]
+=36-15
+=21
+77. Solve the following :
+24+ (19-9+3x9)=?
+(a) -3 (b) +4
+(©) 3 (d) 6
+RRB ALP & Tec. (17-08-18 Shift-ID)
+Ans: (a) From given expression,
+24+(19-9+3x9)
+=24+(19-3x9)
+=24+(19-27)
+=24+(-8)
+=3
+78. What is the value of 12 + 3 (-2 x 3) — (18+ 6)?
+@) 5 (b) -9
+(©) -5 (d) 9
+RRB ALP & Tec. (17-08-18 Shift-IID)
+Ans: (b) From given expression,
+12+3 (-2x3)-(18 +6)
+=12+3(-6)-3
+=12-18-3
+=12-21 =-9
+: YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0009_left.png =====
+19. 28-5{5+4-(3+2-143)} =?
+(a) 23 (b) 21
+(c) 24 (d) 22
+RRB ALP & Tec. (14-08-18 Shift-IIT)
+Ans: (c) From given expression,
+=25-3{5+4-(G+2-143)} |
+=25-4{5+4-7}
+=25 -+ x2=24
+80. 23-|24-{25-(26-27-28)} |=?
+(a) -2 (b) -3
+(©) -1 @ 1
+RRB ALP & Tec. (14-08-18 Shift-II]) |,
+Ans: (b) From given expression,
+23-[24- {25-(26-27 =28)} |
+=23-[24-{25-(26+1)}]
+= 23—[24—{25-27}]
+=23-[24+2], =23-26=-3
+81. (-8) [36 + {7-(-2)}] + (4) {19-+-3) x (-5)} =? |
+(a) 2 (b) 4
+(©) 4 qd) 2 |
+RRB ALP & Tec. (13-08-18 Shift-ID)
+Ans: (a) From given expression,
+=(-8)[36 + {7-(—2)}] + (-4){19-(-3) x(-5)}
+=(-8)[36+{9}] + (—4) {19-15}
+=(-8)[4]+(-16)
+= _,
+16
+82. Solve the following:
+45 - [38 - {60 +3 - (6-9 + 3) +3}]
+(a) 25 (b) 26
+(c) 24 (d) 21 !
+RRB ALP & Tec. (13-08-18 Shift-IIT)
+Ans : (b) From given expression,
+45 — [38 — {60+ 3 -(6-9+3)=3}]
+= 45 — [38 - {20- 3+ 3}]
+= 45 — [38-19]
+= 45-19 =26
+83. — Solve the following.
+{38-(60=5x16-8+2+3)} =?
+(a) 30 (b) 29
+(©) 22 (d) 37
+RRB ALP & Tec. (10-08-18 Shift-IID)
+Ans : (c) From given expression,
+{38-(60+5x16—8+2+3)}=?
+Simplification 91
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0009_right.png =====
+= {38-(60+5x8+2+3)}
+= {38-(60+5x4+3)}
+-{38-(12»4}}
+3
+= {38-16} = 22
+84. Solve the following:
+22 - (1/4) {-5 — (-48) + (-16)}
+(a) 0 (b) 24
+(c) 22 (d) 21
+RRB ALP & Tec, (09-08-18 Shift-IIT)
+Ans : (b) From given expression,
+22-1) 5448.{—
+4 16
+= 22+2=24
+85. What is the value of |3(1) — 6|?
+(a) 3 (b) 0
+(©) -3 (d) 4
+RRB ALP & Tee, (31-08-18 Shift-IIT)
+Ans : (a) = [3(1)-6|
+= 3-6|= 3
+(Mod always gives the positive value.)
+Type -3
+86. If 2508 + 12.54 + (X x 11) = 200, Then find the
+value of X.
+(a) 2.5 (b) 0
+(c) 4 (d) 3.5
+RRB JE - 22/05/2019 (Shift-II
+Ans : (b) Given,
+2508 + 12.54 + (X x 11) = 200
+200 + (X x 11) = 200
+(X x 11) = 200 - 200
+x=2
+11
+xX=0
+87. If = wi62 Then find the value of ‘X’.
+128 x
+(a) 14 (b) 12
+(c) 144 @ 13
+RRB JE - 23/05/2019 (Shift-II1)
+Ans : (b) Given,
+x _ v162
+v128 x
+=> x =Vi162 128
+=> x? =V18x9x16x8
+=> = 144
+> x= 144
+x=12
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0010_left.png =====
+88. If x __A + B then find the value of |
+. vatox-l xt”
+A and B.
+(a) 2,2 (b) 1/2,-1/2
+() 1/2, 12 (@) 2,2
+RRB JE - 23/05/2019 (Shift-IIL.
+Ans : (c)
+x A B
+* -48\)y
+x-1 x-l x41
+x _ A(x+1)+Bx-))
+x?-1 (x? -1)
+x=Ax+A+Bx-B
+x+0=x(A+B)+(A-B)
+A+B=1 (On comparing)
+A-B=0
+2A=1
+A=1/2 .
+B=1/2
+89. If 5x/(1 + 1/1 + x/(1 —x))) =I, find the value of
+x,
+(a) 1 (b) 1
+() 5/3 (@) 23
+RRB JE - 29/05/2019 (Shift-II)
+Ans : (b) Given,
+_ Sx _ 5x Sx Sx 1
+wt 4 469) 1, 0o) 2-x
+a l-x+x 1
+l-x
+“Sx=2-x
+6x=2
+1
+xe
+3
+90. If 138.019 + 341.981 — 146.395 = 133.605 + a
+then find the value of ‘a’.
+(a) 248 (b) 120.085
+(c) 200 (d) 295.5
+RRB JE - 30/05/2019 (Shift-I1)
+Ans : (c) Given,
+138.019 + 341.981 — 146.395 = 133.605 +a
+= 138.019 + 341.981 = 146.395 + 133.605 +a |]
+= 480 =280+a
+a= 480 — 280
+a= 200
+91. If |}-4x+4|-6=—6, then find the value of 'x'.
+(a) -1 (b) 0
+() 1 (d) 2
+RRB JE - 30/05/2019 (Shift-II)
+Ans : (c) From given expression,
+Mx + 4|-6 =-6
+H4x-4)|-6 =-6
+4x-4=-6+6
+4x-4=0
+x=1
+Simplification 92
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0010_right.png =====
+92. ‘If 1.5x=0.04y then find the value of (y—x)/(y+x)
+(a) 73/77 (b) 0.73/77
+(c)_ 73/770 (4) 730/77
+RRB JE - 28/05/2019 (Shift-II)
+Ans : (a) From given expression,
+1.5x = 0.04y
+x_.04
+y 15
+a
+y 150
+Le
+y 75
+Let x= 2k, y = 75k
+y-x _75k-2k _ 73k _ 73
+x+y 75k+2k 77k 77
+93. If (0.29 + 0.25 + 0.01)/ 0.005 = a%; then find
+the value of ‘a’.
+(a) 5000 (b) 500
+(c) 11000 (d) 110
+RRB RPF Constable -17/01/2019 (Shift-IIT)
+Ans : (c) given,
+(0.29 +0.25+0.01) =a%
+0.005
+O55 a
+0.005 100
+55x10? a
+5x10° 100
+a= 11000
+94. If 49x17 = 833, then what is the value of 0.0833
++49
+(a) 17 (b) 0.017
+(c) 0.0017 (d) 0.17
+RRB RPF-SI -12/01/2019 (Shift-I)
+Ans : (b) 49 x 17 = 833
+0.0833 + 4.9=?
+25 0.0833 =0.017
+49
+95. If 185 x 28 = 5180, then what is the value of
+51.8
+=?
+18.5
+(a) 0.28 (b) 280
+() 2.8 (d) 28
+RRB RPF-SI -16/01/2019 (Shift-I1T)
+Ans: (c) Given,
+185x 28 = 5180
+2g = S180
+185
+Then,
+28 = 518 10
+185
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0011_left.png =====
+28 _ 518
+10 185
+28= 518
+185
+oa: — =2.8
+18.5
+96. Simplify: y+ [p-(ytx)+ {y--)} (z+) | =?
+(a) y (b) x+ytz
+(c) y+z (d) x+z
+RRB Group-D — 30/10/2018 (Shift-I
+Ans : (b) From given expression,
+y+ Ly-@ +x) + 9-0-9} +E +)
+=yt[y-y-xt fy-ytx}tz+x]
+=y-xtxtztx
+=xtytz
+97, 23 x 31=713, then 0.00713 +3.1 =?
+(a) 0.023 (b) 0.0023
+(c) 0.23 (d) 23
+RRB Group-D — 24/09/2018 (Shift-II)
+Ans : (b) Given,
+23x31 = 713
+713
+3, 31 (1)
+Then,
+713x10
+0.00713+3.1 = 37100000
+= i n
+= 2 = 0.0023 . {From eq (0)
+98. Of 05-01% 92, then x =?
+1.3-0.8x
+(a) -1 (b) -1
+(c) -3 (d) -4
+RRB Group-D — 24/09/2018 (Shift-IT)
+Ans : (d) Given,
+0.5-0.1« =02,
+1.3-0.8x
+0.5 — 0.1x = 0.26 — 0.16x
+0.16x — 0.1x = 0.26 -0.5
+0.06x = - 0.24
+0.24
+xe
+0.06
+x=-4
+99, If 31 x 23 = 713, then 310 x 0.023 =?
+(a) 0.713 (b) 71.3
+(©) 7.13 (d) 0.0713
+RRB Group-D — 03/10/2018 (Shift-I11)
+Ans : (c) Given,
+31 x 23 =713
+Then, 310 x 0.023 =?
+23
+=> 31x 10 x——
+1000
+= 3233 73 a3
+100 ‘100
+Simplification 93
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0011_right.png =====
+100. If 31 x 23 = 713, then what is the value of 3100
+x 0.00023 ?
+(a) 71.3 (b) 7.13
+(c) 0.713 (4) 0.0713
+RRB Group-D — 08/10/2018 (Shift-I)
+Ans : (c) Given,
+31 x 23 =713
+Then,
+1
+3100x0.00023 = 31%100x23x Toon 99
+1 1
+= 31x23x7005 = 713%7009 = 0.713
+101. Solve the following equation to find the value of
+xX.
+(x-5) | (x-2)_7
+“3 4°42
+(a) 42 (b) 60
+(c) 56 (d) 52
+RRB Group-D — 10/10/2018 (Shift-I)
+Ans : (c) Given,
+(x-5)_ (x-2)_7
+“3. 4° 2
+5 4(x-5)-3(¢-2)_7
+12 2
+4x-20-3x+6_ 7
+= oer et
+12 2
+ott _7
+12 2
+=>x-14=42
+=>x=56
+102. 23 x 33 = 759, then what is 0.00759 + 3.3 ?
+(a) 0.023 (b) 0.0023
+() 23 (d) 0.23
+RRB Group-D — 11/10/2018 (Shift-II)
+Ans : (b) Given,
+23x33 = 759
+759
+23 = 3
+Then,
+0.00759+3.3
+= 9X10 _ 43! __ 9.0023
+33x100000 10000
+103. If 1120/vx = 80, then x =?
+(a) 225 (b) 196
+(c) 125 (d) 336
+RRB Group-D — 24/09/2018 (Shift-I)
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0012_left.png =====
+Ans: (b) Given,
+1120/ Vx = 80
+1120
+—= =80
+vx
+1120
+“0
+14=Vx
+x= 14 = 196
+104. If p=36-2 (20+ 12+4x3-2x2)+ 10, then
+what is twice of p?
+(a) -8 (b) 4
+() 2 (d) -10
+RRB Group-D — 25/09/2018 (Shift-I
+Ans : (a) Given,
+P=36-2 (20+ 12+4x3-2x2)+10
+P=36-2(20+3x3-2x2)+10
+P= 36-2 (29-4) +10
+P=36-50+10
+P=-4
+Hence, twice of p will be =—4 x 2=-8
+105. If 1131 +39 = 29, then 11.31 + 0.0029 =?
+(a) 3.9 (b) 3900
+(c) 390 (d) 0.39
+RRB Group-D — 24/10/2018 (Shift-ID.
+Ans. (b) Given,
+1131+39 = 29
+U3I _ 49
+39
+131 _ 39
+29
+Then,
+11.31
+11.31+0.0029 = D o5g
+— 1131x10000 _ 39x100
+29x100
+= 3900
+106. 1¢ —1—=1.1_1 then find the value of x.
+x-a-b x ab
+(a) -a,b (b) ab
+(©) a,b (d)_ -a,-b
+RRB Group-D — 15/11/2018 (Shift-I
+Ans : (b) Given,
+1! lili
+x-a-b x a b
+1101 1
+= 45 =--—
+a b x x-a-b
+atb_ x-a-b-x
+ab = x(x—a—b)
+a+b —(a+b)
+ab = x(x-a—b)
+Simplification 94
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0012_right.png =====
+x’—(at+b)x+ab=0
+x (x-—a)—-b(x-a)=0
+(x-a) (x-—b)=0
+x=a,x=b
+So, the value of x is a and b.
+107. 1f./75 +/363 = JN, then what is the valeu of
+N?
+(a) 729 (b) 438
+(c) 768 (d) 27
+RRB Group-D — 05/11/2018 (Shift-III)
+Ans. (c) From given expression,
+V75 +1363 = JN
+On squaring both sides,
+(75) + (V363)' +275 x V363 =(/N)
+75 +363 +2x5v3 x1 1V3 =N
+438 + 330=N
+N= 768
+108. If 202.4 + x = 5.06, then find the value of x.
+(a) 30 (b) 42
+(c) 43 (d) 40
+RRB Group-D — 31/10/2018 (Shift-I11
+Ans : (d) From given expression,
+202.4+x=5.06
+> 202.4 =5.06
+x
+> x= 202.4
+5.06
+=> xe 20240
+506
+x=40
+109. Evaluate:
+-V19600 +./0.0196 + /0.00000196
+(a) 142.1414 (b) 140.1414
+(c) 143.1414 (d) 141.1414
+RRB Group-D — 12/10/2018 (Shift-1
+Ans. (b) : From given expression,
+19600 + V0.0196 +/0.00000196
+=140+0.14+0.0014
+= 140.1414
+110. What is the value of x?
+144 _ 144
+1.44 x
+(a) 0.144 (b) 1.44
+(c) 0.00144 (d) 0.0144
+RRB Group-D — 05/10/2018 (Shift-II1
+Ans. (a) From given expression,
+144 _ 144
+144 x
+144x100 _ 144 x= 144x144
+144 xx10 144x100x10
+x= 0.144
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0013_left.png =====
+111. If 123 x 356 = 43788, then 1.23 x 35.6 =?
+a) 4.3788 (b) 43.788
+(c) 0.43788 (d) 437.88
+RRB Group-D — 23/09/2018 (Shift-II)
+Ans : (b) Given,
+123 x 356 = 43788
+1.23 x 35,6 = 123,356 _ 43788 _ 43 799
+100 10 1000
+112. Find the value of 'a'?
+7.5
+a-2 a+4
+(a) -19 (b) 38
+() 19 (d) -38
+RRB NTPC 19.01.2017 Shift : 2
+Ans: (a) From given expression,
+ne
+a-2 at+4
+7a+28=Sa-10
+2a=—38
+a=-19
+113. Simplify:
+1+ [{p"/ (p + 6)} + {pp + 6)}]
+1 1
+@ — (b) —>
+P (p+6)
+(c) p+6 @) pP
+RRB NTPC 17.01.2017 Shift-2
+Ans: (a) From given expression,
+1e[{p? /(p+6)\+{6p/(p +6)}]
+a12| PL
+pt+6 p+6
+14] P+)
+(p+6)
+P
+114. if +2 =1andx=2, then y=? |
+(a) 3/5 (b) 7/5
+(c) 5/3 (d) 21/5
+RRB N TPC 31.03.2016 Shift : 1
+Ans : (d) Given,
+X Vay
+5 7
+wx=2
+o 2 +251
+5 7
+Yuy-2
+7 5
+yl3
+7 5
+ye2l
+5
+Simplification 95
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0013_right.png =====
+115. If 4°x5° =10", then find the value of m.
+(a) 4 (b) 6
+(©) 8 (d) 2
+RRB NTPC 29.03.2016 Shift : 2
+Ans : (b) From given expression,
+4 x 5°=10"
+(4x 5)8 x 53 = 10™
+20° x 125 = 10"
+8000 x 125 = 10" => 10"= 1000000
+= 10"= 10°
+>
+116. If 4515 +17.5 = 258, then 45.15 + 1.75 = ?
+(a) 2.58 (b) 0.258
+(c) 25.8 (d) 258
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (c) Given,
+4515+17.5 = 258
+4515
+Ws" 258
+45.15x100 _
+L7sx10 78
+45.15 10
+175 ~°°8*700
+45.15+1.75 = 25.8
+117. 19 x 23 = 437. Then 190 x 0.023 =?
+(a) 0.0437 (b) 0.437
+(c) 43.7 (a) 4.37
+RRB ALP & Tee. (13-08-18 Shift-II
+‘Ans: (d) Given,
+19 X23 = 437
+So,
+190x0.023 = 19x23 10
+x =19x23x7 999
+10
+= B7x 7500 = 4.37
+Type - 4
+118. Simplify : (-4.6)x (-4.6) + (-4.6 + 0.6)
+(a) -5.29 (b) -0.529
+(c) - 4.06 (d) 5.01
+RRB RPF Constable -24/01/2019 (Shift-I)
+Ans : (a) From given expression,
+(-4.6) x (-4.6) + (-4.6 + 0.6)
+= (-4.6) x (-4.6) + (- 4.0)
+= (-4.6) x (-4.6) x1/(-4) = -5.29
+119. Which of the following will take place of *?
+attend
+4° 6 8 12
+(a) 5/12 (b) 7/12
+(c) 7/24 (d) 5/24
+RRB JE - 22/05/2019 (Shift-III)
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0014_left.png =====
+Ans : (d) From given expression,
+wy tipteey
+4 6 8 12
+5,79 Be
+4 6 8 12
++ _ 30+ 28-27-26
+24
++ _ 58-53
+24
+—
+24
+Wt 92
+120. Simplify: ——+—
+2 1
+3- 7
+3. 3
+12 13
+(@ 41= (b) 40—
+13 11
+(©) all (d) as
+© _— a
+19 ll
+RRB JE - 23/05/2019 (Shift-II)
+Ans : (d) From given expression,
+121,92 121x3  92x3
+vars nT ae
+3= 7
+3 3
+_ 6x121+92x3 _ 726+276
+2 ~ 2
+= 1002 501 _ 456
+22 it ll
+121. Solve: 3.6 x 0.48 x 2.50
+0.12 x 0.09 x 0.5
+(a) 8000 (b) 8
+(c) 800 (d) 80
+RRB JE - 24/05/2019 (Shift-I
+|Ans : (c) From given expression,
+3.60.48 x 2.50 - 36x 48x 250 _ 16 x 50 = 800
+0.12 x 0.09 x 0.5 12x9x5
+122. Find the value of
+1 1 1 1 1 1
+—— + $$ + _ ¢ — F.—7 +
+1x2 2x3 3x4 4x5 5x6 9x10
+(a) 1/10 (b) 5/11
+(©) 9/10 (d) 2/5
+RRB JE - 24/05/2019 (Shift-IIT.
+Ans : (c) From given expression,
+1 1 1 1 1 1
+— + —— + —_ + + — + ..... +
+1x2 2x3 3x4 4x5 5x6 9x10
+117 ft) flay fafa 11
+10-1]_ 9
+10 | 10
+Simplification 96
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0014_right.png =====
+123. Simplify :
+3 oe T
+14+
+2+—
+4
+(a) 48/13 (by) 18/49
+() 1/12 (d) 3/13
+RRB JE - 25/05/2019 (Shift-I
+Ans : (a) From given expression,
+=3+ 1 =3+ =
+1 1
+1+ a 1+ 9
+2+— =
+4 4
+1 9
+=3+— =34+—
+4 13
+9
+#8
+13
+124, Simplify : 1.2*2.5 x 0.5
+(a) 15 (b) 150
+(©) 0.15 (d) 15
+RRB JE - 25/05/2019 (Shift-I1)
+Ans: (a) From given expression,
+1.2x2.5x0.5
+= 12x25x5 _ 1500 _ iy
+10x10x10 1000
+125. Simplify : 1.2-0.12
+(a) 11/10 (b) 11/90
+() 1 (d) 9/10
+RRB JE - 26/05/2019 (Shift-III)
+Ans : (a) From given expression,
+1.2-0.12
+=1+0.2-0.12
+a142_02-) 2142-11
+9 90 9 90
+20-11 9 1 1
+ec
+90 90 10 10
+oe 1 1
+126. Simplify: | 1+——- +] 1--—_-
+10+ — 10+ —
+10 10
+(a) 2 (b) 101/10
+(c) 3/10 (d) 91/101
+RRB JE - 28/05/2019 (Shift-I)
+Ans: (a) From given expression,
+1 1
+1+—— ]+] 1-———
+1 1
+10+— 10+—
+10 10
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0015_left.png =====
+10 10
+1+— | +] 1-—
+[ Al [ Al
+101+10 101-10
+4]
+101 101
+111, 91 = 202
+— 42-5 * 22
+101 101 101
+127, Simplify:
+vel
+4.2
+34
+15 10
+(a) 4 (b) 5
+(©) 2 (d) 3
+RRB JE - 30/05/2019 (Shift-I)
+Ans : (b) From given expression,
+ait
+4.2
+ty 9
+15 10
+53
+472
+2 3430-27
+30
+5.2 5
+4°36
+cs
+30. 30
+2520-5
+6 5
+128. Simplify :
+0.09 7.3
+(a) 113 (b) 61/9
+(©) 2/3 (d) 67/99
+RRB RPF-SI -06/01/2019 (Shift-IIl)
+Ans : (c) From given expression,
+0.0973
+_9 ( 3\-2 66 66 2
+=—x| 7+= |=—x—=— ==
+99 9) 99 9 99 3
+129. Solve: —
+14+—_-
+ae
+1-=
+2
+(a) 3/8 (b) 3/4
+(c) 3/2 (d) 4/3
+RRB JE - 31/05/2019 (Shift-I)
+Simplification 97
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0015_right.png =====
+Ans : (b) From given expression,
+1 - 1 _ 1
+1+ oe 1+ st I+ J
+1 1 2
+1+—— 1+— 1+=
+1-1 1 1
+2 2
+=t.t 1.3
+ni S44
+3 3 3
+130. Simplify :
+3.36 - 2.05 + 1.33
+(a) 261 (b) 2.64
+(c) 2.64 (d) 2.64
+RRB JE - 02/06/2019 (Shift-I
+Ans : (c) From given expression,
+3.36 — 2.05 +133
+= 469-205 = 2.64
+131. Solve the following equation:
+(7.5%7.5 - 2.5% 2.5) = (1.5? + 2.75) =?
+(a) 10 (b) 50
+(c) 20 (d) 5
+RRB RPF-SI -05/01/2019 (Shift-I1])
+Ans. (a) : Given equation,
+(7.5x7.5—2.5x2.5)+(1.5? +2.75) =?
+_ (7.5-2.5)(7.5+2.5)
+(2.25 + 2.75)
+_ 5.0x10.0
+5.00
+5x10 _ 10
+5
+132. Solve the following equation:
+1 1
+11x3+—-5x6| 1+— |=?
+(a) -115 (b) 117
+(c) -117 (d) 115
+RRB RPF-SI -13/01/2019 (Shift-I)
+Ans: (b) From given expression,
+txde5—5x6{1+2)
+9 6
+=11x3x9-5x6(1x6)
+= 297-180=117
+133. 131/255 + 2/5+5-17/3 =?
+121 117
+a) = b) =
+@) 255 ®) 255
+63 131
+= dp)
+© 355 @ 355
+RRB RPF Constable -19/01/2019 (Shift-II)
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0016_left.png =====
+‘Ans: (c) From given expression,
+131 2 17
+—t+=+5-—
+255 5 3
+_ 1314102 +1275-1445 _ 63.
+255 255
+134, 0.12 a =?
+(a) 4 (b) 0.04
+(c) 0.004 (d) 04
+RRB Group-D — 20/09/2018 (Shift-I11
+Ans : (d) From given expression,
+0.12+0.15 _ 4
+—
+0.12x 1.
+0.15 9
+2
+2,
+15x2
+2=04
+135. Find the value of 7,81, 286 -
+17 :13°«1
+-167 -161
+—— by)
+® 87 ® 87
+20 -35
+a d =
+© 97 © Tg7
+RRB Group-D — 24/09/2018 (Shift-ID)
+Ans : (a) From given expression,
+7,8 1 286
+24,
+11 17: 130«11
+7 8 286
+=54—-5°
+11 17° «143
+7,8 5, _119+88_,
+11 17 187
+_ 207 _ 2 _ 207-374
+187 7’ 187
+_ —167
+187
+3-0.2
+136. —~——~_=?
+0.1x (3+ 0.2)
+(a) 8.75 (b) 0.0875
+(c) 87.5 (d) 0.875
+RRB Group-D — 26/09/2018 (Shift-1
+Ans : (a) From given expression,
+3-0.2
+0.1x(3+0.2)
+2.8
+> =8.75
+0.32
+137. Solve the following:
+(0.54 0.540- 0.460% 0.460) _ ,
+(1-0.920) :
+Simplification 98
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0016_right.png =====
+(a) 0.1 (b) 2
+(© 1 (d) 0.01
+RRB Group-D — 10/10/2018 (Shift-II)
+Ans : (c) From given expression,
+0.54 x 0.540 — 0.460 x 0.460
+(1-0.920)
+(a —b) = (a +b) (a-b)
+5 (0.54) -(0.460)' _ (0.54 +0.460)(0.54 - 0.460)
+(1-0.920) (1-0.920)
+1x0.08
+>—-=l
+0.08
+138. Find the value of the following equation:
+14#20 4
+1+
+1+=
+3
+21 21
+a b)
+(a) 4 (b) 5
+6 9
+2 dp 2
+©) 5 @ 5
+RRB Group-D — 16/10/2018 (Shift-III)
+Ans : (c) From given expression,
+142
+(+3)
+3
+-_ 3 .3
+“7 23] 10
+4 4
+ee)
+10 5
+139. Solve the following equation:
+11+3+}-sx6{ 1x2) =?
+9 6
+71 -l1
+a) = ‘b)
+(a) 9 (b) 9
+11 i
+= d) —
+OF @
+RRB Group-D — 16/10/2018 (Shift-III)
+Ans : (b) From given expression,
+s3+d-sx6{ xt}
+9 6
+1
+=11+3+=-5xl1
+9
+ol 3341-45 _ -11
+= t4o-5 => =
+3.9 9 9
+YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0017_left.png =====
+140. (}+as-0)x9 =?
+(a) 100 (b) 115
+(c) 113 (@ 110
+RRB Group-D — 17/09/2018 (Shift-II)
+Ans : (c) From given expression,
+(2) +08-6).9- 2
+ll
+5+12x9=?
+5+108=?
+2=113
+141, (2.5)? + 87-(12 sos =?
+(a) 14.55 (b) 10.95
+(c) 14.91 (d) 14.32
+RRB Group-D — 25/09/2018 (Shift-IIT)
+Ans. (a) : From given expression,
+(25) +8.7-(1!2)05=2
+14
+6.25+8.7-0.8x0.5=?
+6.25+8.7-0.40=?
+14.95—.40=?
+142, 016x165
+0.075 x 0.02
+(a) 8400 (b) 8000
+(c) 7500 (d) 8800
+RRB Group-D — 26/09/2018 (Shift-II)
+Ans. (d) : From given expression,
+9 = 0.16x1.65
+" 0.075x0.027
+__16x165x10~
+75x10 x4x104
+_16x165x10°
+T5x4
+_ 4x165x10?
+75
+_ 4x33x103
+15
+_ 4x33x10x100
+15
+_ 4x33x2x100
+3
+= 4x11*2x100
+= 8800
+143, 34 343.(342 =?
+4 \44\4 4
+(a) 1 (b) 2
+Simplification 99
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0017_right.png =====
+3 3
+2 d) 22
+(©) 4 @ 4
+RRB Group-D — 27/09/2018 (Shift-I)
+Ans. (b) From given expression,
+3, 243.(2+3)
+4|4 4\4 4
+3 f3,3.3
+siti iei
+4 (4 4 2
+3, f3,1 33,1
+Se nt ed
+4 |4 2 442
+=343+2 _8_,
+4 4
+(Fas), 3
+144, SAS) op 3 =o
+32)" 2
+55
+5 2
+2 by) =
+(a) 7 (b) 6
+5 6
+= d) 2
+©) 6 (d) 5
+RRB Group-D — 28/09/2018 (Shift-I)
+Ans : (c) From given expression,
+2,4 30+20
+5715 op 3-75 3
+S15 og = = By =
+(3-2) pn 1 2
+5.5 5
+50.1 3
+Paix st
+75 5 12
+50.5.3
+yee
+75 1 12
+50,3 5
+2 yta2
+15 12 6
+145. Simplity:{2x4)+(5«7)_(1.4
+3 6) \3 2) \4 3
+31 16
+a) — by) —
+(a) 9 (b) 9
+47 29
+a dy)
+(©) 18 dd) 18
+RRB Group-D — 26/10/2018 (Shift-II1)
+Ans: (c) From given expression,
+(3-2}+(3-2)-44)
+3 6) \3 2) \4 3
+4 35 Wl
+a ly2
+9 6 3
+- Sse fe
+18 18
+: YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0018_left.png =====
+146. 2.09 + 0.000209 = ?
+(a) 100000 (b) 1000000
+(c) 1000 (d) 10000
+RRB Group-D — 07/12/2018 (Shift-I1I)
+Ans: (d) From given expression,
+2.09 = 0.000209
+209 209
+~ 100 ” 1000000
+— 209 1000000
+100 209
+=100,00
+147. 1.08 = 0.000108 =
+(a) 100000 (b) 1000
+(c) 1000000 (d) 10000
+RRB Group-D — 03/12/2018 (Shift-IID
+Ans. (d) : From given expression,
+1.08 + 0.000108
+_ 1.08
+~ 0.000108
+108
+~ 0.0108
+_ 10810000 =10000
+108
+148. Find the value of 32-+-& -5 431-9
+8 16 24 2
+751 715
+(a) ve (b) me
+175 157
+(c) -u (d) -
+RRB Group-D — 12/11/2018 (Shift-II1)
+Ans : (c) From given expression,
+3548S y3h
+8 16 24 2
+29,6 5.7
+=2742 2 44
+8 16 24 2
+_ 6x29+3x6—2x5S+24x7
+7 48
+_174+18-10+168 _ 350 _ 175
+_ 48 4824
+149. Simplify the equation:
+6 3) \3 2) \4 3
+19 17
+(a) 36 (b) 9
+14 23
+(©) 3 (d) >.
+RRB Group-D — 05/11/2018 (Shift-I)
+Ans. (a) : From given equation,
+-(2 ;) (3 ;] (4 *)
+=| x= ]+| —x—|-|—x=
+6 3 3.2 4 3
+Simplification 10
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0018_right.png =====
+5.7 11
+=—+———
+18 6 12
+_ 20+84-66
+T2
+_ 104-66 _ 38
+T2 T2
+2
+36
+150. V75.24+? =8.71
+(a) 0.6241 (b) 6.0241
+(c) 6.241 (d) 62.41
+RRB Group-D — 05/11/2018 (Shift-I
+Ans. (a) : From given expression,
+V75.24+2=8.71 Let ?=x
+V75.24+x =8.71
+On squaring the both side,
+(75.24+x)=(8.717
+75.24+x = 75.8641
+x = 75.8641 — 75.24
+x = 0.6241
+151. Solve the equation given below:
+(0.125+0.255) _,
+0.5-0.03+0.005 *
+(a) 0.08 (b) 0.8
+() 02 (1
+RRB Group-D — 05/11/2018 (Shift-I11)
+Ans. (b) : From given expression,
+(0.125 +0.255)
+0.5—0.03 + 0.005
+380 _76_
+ATS 95 |
+152. Solve:
+(9.5 x 9.5 - 2.5 x 2.5) + (1.5? - 0.25) =?
+(a) 47 (b) 42
+(©) 49 (d) 45
+RRB Paramedical Exam — 21/07/2018 (Shift-I11)
+Ans: (b) From given expression,
+(9.5 x 9.5-2.5 x 2.5) =(1.5?-0.25)=?
+a 95P =25Y _ 95-25) 9542.5)
+© (1.5)? -(0.5)" — (1.5+0.5)(1.5-0.5)
+= 10%12.0 _ 499
+2.0x1.0
+153. 0.00025 + 12.5=?
+(a) 0.0025 (b) 0.00002
+(c) 0.0002 (d) 0.000002
+RRB Group-D — 11/12/2018 (Shift-I
+Ans. (b) : 0.00025 + 12.5
+1
+= 0.00025 x——
+“25
+- 0.00025 _ 25 = 0.00002
+12.5 1250000
+) YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0019_left.png =====
+154, Simplify:
+(2-4}+(34)(82)-2
+6 3 3 2) \4 3
+31 35
+a b) =
+@ Te ® is
+36 29
+_ d
+© 18 @ is
+RRB Group-D — 31/10/2018 (Shift-III)
+Ans: (a) From given expression,
+71 7.3 13.2
+=x |+|—xi|-| x=
+eas} (F3)
+7713
+= 4l-=
+18 2 6
+7+63-39 _ 70-39
+aa 3S
+18 18
+_
+18
+155. Solve the following equation:
+16 J 41 3t-(24-1) =?
+3 3.3033
+1 1
+4- b) S=
+(@) 3 (b) 3
+1 1
+c) Is d) 2—
+(©) 3 (d) 3
+RRB Group-D — 15/10/2018 (Shift-II1)
+Ans. (d) : From given expression,
+16 {at (31 (21 1)}han
+3 3 3 3 3
+a16_ {le (Ls
+3 3 3 \3 3
+=16_ 4i-(2-$)
+3 3 (3 3
+-$-{B_4}
+3 (3 3
+69 7 yl
+3.3 3 3
+156. Find the value of 3.24+0.002 =?
+(a) 16.20 (b) 1620
+(c) 162 (d) 1.620
+RRB NTPC 26.04.2016 Shift : 3
+Ans: (b) From given expression,
+3.24+0.002
+3.24 _ 324x10 =1620
+0.002 2
+157. (1 + 2/3) + [(1+1/3) + (2/3 +1)] =?
+4 3
+(a) 3 (b) 4
+Simplification 10:
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0019_right.png =====
+12 25
+=< d) 2
+© 25 @ 12
+RRB NTPC 17.01.2017 Shift-2
+Ans: (d) From given expression,
+3 3 3
+5 [ 3]
+=i+|—x
+3 13 5
+5.5
+=ix>
+3 4
+25
+12
+158. Find the value : (0.3)" + 100 =?
+(a) 0.09 (b) 0.0009
+(c) 0.009 (d) 09
+RRB NTPC 17.01.2017 Shift-3
+Ans : (b) From given expression,
+(0.3) +100 =20
+100
+= 0.0009
+159. Solve : (0.25% 0.004)+ 0.374 - 0.72 =?
+(a) -0.345 (b) 0.325
+(c) 1.94 (d) -0.945
+RRB NTPC 04.04.2016 Shift : 2
+Ans: (a) (0.25x 0.004) +0.374—-0.72
+= 0.001-0.346
+= -0.345
+160. Calculate: 0.00056=0.07
+(a) 0.08 (b) 0.008
+(c) 0.0008 (d) 08
+RRB NTPC 04.04.2016 Shift : 3
+Ans:  (b) From given expression,
+0.00056 +-0.07 = 2.00056 , 100000
+0.07 100000
+-_56_ _ 8 _ 0.008
+7x1000 1000
+161. Simplify: (3/2+5/3) +(3/2+2/3)
+@ 1 (b) 19/13
+(c) 13/19 (d) 13/16
+RRB NTPC 04.04.2016 Shift : 3
+Ans : (b) From given expression,
+3 ;) (3 2) +10) 2+4)
+=42 +) 242 ]=|—— ]+/——
+2 3 2 3 6 6
+222
+6 6
+19 6 19
+=x ==
+6 13° 13
+[ YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0020_left.png =====
+162. Simplify : (2/5 + 2/9) + (2/5 + 5/9)
+(a) 28/45 (b) 28/43
+(c) 27/34 (d) 7/17
+RRB NTPC 02.04.2016 Shift : 1
+Ans : (b) From given expression,
+(2 2) G 3)
+Ste ]e/ S45
+5 9) \5 9
+-(22). (32)
+45 J \ 45
+28,43 _28
+45°45 43
+163. Simplify: (2/9+3/5) = (2/9+2/5).
+(a) 37/28 (b) 47/43
+(c) 43/47 (d) 41/47
+RRB NTPC 02.04.2016 Shift : 3
+Ans: (a) From given expression,
+(2/9+3/5)+(2/9+2/5) - (2227), (0x8)
+45 45
+37,28
+45° 45
+37,4537
+45 28 28
+164. 5(10)' +6(10)° +4(10)-3(1/100) =?
+(a) 54,60.33 (b) 54,309.97
+(c) 56,407.00 (d) 56,039.97
+RRB NTPC 31.03.2016 Shift : 3
+Ans: (d) From given expression,
+5(10)* +6x(10)’ +4(10)—3(1/100)
+= 5x10000+6x1000+4x10—3x—
+100
+= 50000 + 6000+ 40 —.03
+= 56040 —.03 = 56039.97
+165. Find the value of 0.08 x 0.23 = 0.004
+(a) 46 (b) 4.6
+(c) 0.046 (d) 0.0046
+RRB NTPC 31.03.2016 Shift : 3
+Ans: (b) From given expression,
+0.08x0.23+0.004
+_ 0.08x0.23 _ 8x23 2x23 46 _4¢
+0.004 4x10 10 10”
+166. 0.55x 0.81 =?
+45
+(a) 0.99 (b) 0.099
+(c) 9.9 (d) 0.0099
+RRB NTPC 11.04.2016 Shift : 3
+Ans: (b) From given expression,
+0.55x0.81
+45
+_ _55x81x10 = 0,099
+100x100x 45
+Simplification 10:
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0020_right.png =====
+167. Simplify:
+(2/3 + 3/5) + (2/3 + 2/5)
+(a) 1 (b) 19/16
+(c) 15/16 (d) 13/16
+RRB NTPC 10.04.2016 Shift : 3
+Ans: (b) From given expression,
+(3 2) (3 2)
+H+ )s/42
+3.5 3°05
+_10+9 10+6 _19 15 _19
+Is 1515 16 16
+168. Calculate : 40.7 x 40.7x 40.7 +1
+40.7x 40.7—40.7+1
+(a) 417 (b) 4.17
+(c) 41.7 (d) 441.7
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (c) From given expression,
+40.7x 40.7x40.7+1
+40.7x 40.7-40.7+1
+sq}
+= — OD +0" 49741) =40741 = 417
+(40.7)? -40.7x1+ (1)
+Type -3
+1
+169. Simplify : (3+V/8)+ -(6+ 42
+lity: (3+V8) ane 2)
+(a) 4 (b) 1
+(©) 0 (d) 6
+RRB JE - 23/05/2019 (Shift-IIL
+Ans : (c) From given expression,
+1348
+= 348 +——~ x= -(6+4V2
+3-8 348 ( )
+=3+V8+3+v8-(6+4y2)
+=6+2\8-6-4V2
+=6+4/2-6-4V2
+=0
+170. Simplify: (25+ 10V6 +25 -10V6
+(a) 2is (b) 25
+(© 55 @ 50
+RRB JE - 24/05/2019 (Shift-III)
+Ans : (a) From given expression,
+¥25+10V6 +y25-10V6
+X = /25+10V6 +)25-10V6
+On squaring both sides,
+X? =25+10V6 + 25-106 +-2{ (257 =e) |
+X? = 50+2(V/625- 600)
+, YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0021_left.png =====
+X? =504+2x5
+Xx? = 60
+X= V60
+X=2V15
+171. If 3V5 +125 = 17.88, then find the value of
+80 +6V5
+(a) 22.25 (b) 22.35
+(c) 18.75 (d) 20.235
+RRB JE - 31/05/2019 (Shift-I
+Ans : (b) Given, |
+3V5 + V125 = 17.88
+3V5 +5V5 = 17.88
+8V5 = 17.88
+80 +6V5 =?
+45 +65 =?
+10/5 =? |
+= 17.88x10V5 _ 4, 35
+Ea
+172, Find the value of 30-/30-30-/30-V... 2
+(a) 5 (b) V30 |
+(c) 54 (d) 6
+RRB Group-D — 30/10/2018 (Shift-I0
+Ans: (a) Let
+4(30-/30-30-30-V... =x
+Squaring on both sides,
+30-x=x"
+> x +x-30=0
+=> (xt 6)(x-5)=0
+>x=5
+173. Solve: Ba ea yen:
+(a) 0 (b) 1/2
+(c) -1 (d) -12
+RRB Group-D — 23/10/2018 (Shift-ID
+Ans. (a) : From given expression,
+5 ws 8,
+V3-V2 J5-J2 V5+V3
+9 5(V3-+V2)_ 3V3~5 +2) 2V2~5 - 3)
+3-2 5-2 5-3
+=Vi5 +Vi0-Vi5 - V6 -J10 + V6
+= 0
+174. Solve the following:
+2Vi2 x 520 x 3V15 =?
+(a) 900 (b) 1800
+(c) 1200 (d) 1500
+RRB Group-D — 23/10/2018 (Shift-I1)
+Simplification 10:
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0021_right.png =====
+Ans: (b) From given expression,
+2/12 x5,/20 x3V15
+=2V2x2x3x Sy2x2x5 x 3V15
+=4V3 x 10V5 x 315
+=3x40xV15 x15
+=120x15
+=1800
+Type -3
+175. Simplify: J12 x /27
+(a) 43 (b) 3v4
+(c) 18 (d) 9
+RRB RPF-SI -06/01/2019 (Shift-III
+Ans : (c) From given expression,
+=Vi2 x27 =2V3 x33 =6 x3 =18
+176. Find the value of 73x73+42x42-2x73x42
+(a) 961 (b) 676
+(©) 981 (d) 861
+RRB RPF-SI -16/01/2019 (Shift-II1)
+Ans : (a) From given expression,
+73 x 73 +42 x 42-2 x 73 x 42
+= (73) + (42)? -2 x 73 x 42
+= (73-42) = (31)= 961
+177. Find the value of [(525+252)’ — (525-252)"|/
+(525 x 252)
+(a) 3 (b) 4
+() 5 (d) 6
+RRB RPF Constable -22/01/2019 (Shift-IIT)
+Ans : (b) From given expression,
+(525+ 252)? —(525-252)?
+525x252
+_ (525) +(252) +2x525x252—(525)° —(252)° +2x525x 252
+7 525x252
+_4%525%252 _ 4
+~ 525x252
+178. Simplify; 21% 0-14 0.2%0.2
+0.30.3 + 0.6x0.6
+(a) 2/9 (b) 1/9
+(©) 13 (d) 2/3
+RRB JE - 27/05/2019 (Shift-I
+Ans : (b) From given expression,
+0.1«0.1+0.2x0.2
+0.3x0.3+0.6*0.6
+1,4
+- 100" 100 __5_,,100
+9 36 100° 45
+100 100
+3 YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0022_left.png =====
+(82 + 28)? - (82 - 28)?
+179. Find the value of : 2 * 28) (8? 28)"
+82x 28
+(a) 220 (b) 4
+(©) 8 (@ 110
+RRB JE - 28/06/2019 (Shift-IIL.
+Ans. (B) Formula:
+2 2
+farby ~(@=by _ fab (89 p=28}
+ab ab
+[From given expression,
+. (82 + 28)? — (82 -28)*
+, 82x 28
+= 4x82x28 _ 4
+82x 28
+180. (0.2 x 0.2 x 0.2)x(0.06 x 0.06 x 0.06) + (0.12 x 0.12
+x 0.12)=?
+(a) 0.008 (b) 0.001
+(c) 0.002 (d) 0.006
+RRB RPF-SI -10/01/2019 (Shift-IIT)
+Ans: (b) From given expression,
+(0.2) x(0.06)°
+(0.12)°
+(0.2x0.06) _ (auzy
+(0.12) 0.12
+1y
+“(i)
+=(0.1)
+=0.001
+1y
+181. Solve: | 3 -5)
+(o35
+(a) 3/4 (b) 43
+4
+(©) 23 @ =
+3
+RRB JE - 02/06/2019 (Shift-IIT.
+Ans : (b) From given expression,
+2
+1 2 1 1
+B-5)- B (3) ~aix
+Vea} 0) )
+a34bga 241-6 _ 10-6 4
+3 3 3 3
+182. Find the value of the following equation:
+(469 +144)" - (469-144) _,
+2(469 x 144) :
+(a) -2 (b) =1
+(c) 1 (d) 2
+RRB RPF Constable -19/01/2019 (Shift-II
+2 2
+; __ (a+b) -(a-bY _ dab
+Ans : (d) Formula:- is i
+Simplification 10
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0022_right.png =====
+From given expression,
+(469 + 144)? - (469-144)? 9
+2(469 144) ,
+_ (a+b) -(a-by’ _ 4ab_,
+2(ab) 2ab
+a= 469, b= 144
+183. Solve the following equation:
+3-8?
+—_=?
+(3+8)
+3 -5
+2 b) =
+(a) mM (b) Tr
+3 5
+= d 2
+3) mM @ rT
+RRB Group-D — 16/10/2018 (Shift-III)
+Ans : (b) From given expression,
+3-8"
+a=?
+(3+8)
+_ (3+8)(3-8) a’ —b’ =(a+b)(a—b)
+(3+8) (a+b) =a? +b? +2ab
+_ 3-8
+3+8
+=>
+ll
+184. Solve the equation: 467 x 467 + 166 x 166 -2 x
+467 x 166 =?
+(a) 90106 (b) 960600
+(c) 90601 (d) 90060
+RRB Group-D — 01/12/2018 (Shift-II)
+Ans : (c) From given expression,
+467 x 467 + 166 x 166 —2 x 467 x 166
+(A-B)? = A? + B?- 2AB
+A= 467, B= 166
+467 x 467 + 166 x 166 —2 x 467 x 166
+(467) + (166)° — (2 x 467 x 166)
+(467 — 166)’ = (301)? = 90601
+185. Solve: (0.15 +0.12),/(0.15- 0.12)
+(a) 0.09 (b) 0.03
+() 0.9 (d) 03
+RRB Group-D — 01/11/2018 (Shift-IT)
+Ans: (a) From given expression,
+V(0.15+0.12),/(0.15—0.12)
+= (0.15) = (0.12
+= V0.0225—0.0144
+= V0.0081 = 0.09
+186. Solve the following:
+(3.6 + 6.4) (3.6 - 6.4) - (3.6 - 6.4)" =?
+(a) 29.6 (b) -35.84
+(©) 32.6 (d) 32.68
+RRB Group-D — 01/10/2018 (Shift-II)
+1 YCT
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0023_left.png =====
+Ans. (b) : From given expression,
+(3.6 + 6.4) (3.6- 6.4) -(3.6-6.4) =?
+= (3.6-6.4)[(3.6+6.4)-(3.6-6.4) |=?
+=> (3.6-6.4)[3.6+6.4-3.6+6.4]=?
+=> (3.6-6.4)(6.4+6.4) =?
+=> (-2.8)(12.8) =?
+7 =-35.84
+187. (425)*— (424)=?
+(a) 859 (b) 869
+(©) 839 (d) 849
+RRB Group-D — 28/09/2018 (Shift-II])
+Ans : (d) From given expression,
+(425) - (4247 =?
+From formula- a” —b? = (a+b) (a—b)
+(425)? — (424)? = (425 + 424) (425 - 424)
+= 849 x1
+= 849
+188. The value of
+{(.98)° + (0.02)? + 3x 0.98 x 0.02 - 1}
+(a) 1.09 (b) 1.98
+(©) 0 (d) 1.562
+RRB Group-D — 18/09/2018 (Shift-I)
+Ans. (c) : From given expression,
+{(.98)° + (0.02)' +3x0.98x0.02-I}
+{(.98)° + (0.02)° + 3 = 0.98 = 0.02 (.98 + .02) -1}
+[(0.98) + (0.02)} -1
+(1.00) -1=1-1=0
+189. 97x97=?
+(a) 9391 (b) 9409
+(c) 9049 (d) 9309
+RRB NTPC 31.03.2016 Shift : 2
+Ans: (b) From given expression,
+97x 97=(97"
+(100-3) = (100) + (3) -2 = 100 x 3
+= 10000 + 9 — 600
+= 9409
+190, [1:93%19.3-2.07 20.7 equals to:
+19.3 -20.7
+(a) 0.40 (b) 4.00
+(c) 40 (d) 0.04
+RRB NTPC 18.04.2016 Shift : 2
+Ans : (b) From given expression,
+1.93x19.3—2.07 20.7
+19.3-20.7
+_ 10(1.93x1.93)-10(2.07x2.07)
+7 10(1.93-2.07)
+Simplification 10:
+
+
+===== Part 4 — Simplification (pp. 83–105)_page-0023_right.png =====
+_ (1.93) -(2.07
+~ (1.93-2.07)
+_ (1.93+2.07)(1.93-2.07)
+7 (1.93-2.07)
+= 1.93 +2.07=4
+191. Find the value of following:
+(250 x 250 x 250 + 150 x 150 x 150)/(250%250 -
+250 x 150 + 150 x 150) =?
+(a) 40000 (b) 400
+(©) 40 (d) 500
+RRB NTPC 22.04.2016 Shift : 3
+Ans: (b) From given expression,
+_ 250x250 250 +150 150x150
+250 x 250—250x 150 +150 150
+____(250)'+(150)°
+(250) — 250x150+(150)"
+Py [2 +b? =(a+ b)(a? +b?- ab) |
+(250+150)| (250)' +(150)’ -250x150 ]
+7 (250) +(150)° - 250x150
+= 250 + 150 = 400
+1
+192. Simplify : (2.25)?
+(a) 15 (b) 15
+() 16 @ 223
+RRB NTPC 17.01.2017 Shift-3
+Ans : (a) From given expression,
+(2.25)'”
+= 2.25
+= [225
+100
+_ [5x15
+10x10
+=5 A115
+10
+1
+193. Simplify : (7)° + a
+@ 1 (be) 7
+(c) 14 @ 1/14
+RRB NTPC 19.01.2017 Shift : 1
+Ans : (a) From given expression,
+BaP aPaPel
+5 YCT

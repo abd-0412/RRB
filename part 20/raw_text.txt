@@ -1,0 +1,1077 @@
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0001_left.png =====
+20.
+——————
+Type -8
+1. The speed of a man in still water is 28/3 km/h.
+He takes three times the time taken in the
+upstream, as in the downstream. What is the
+velocity of the current or the stream.
+(a) 16/3 km/hr. (b) 20/3 km./hr.
+(c) 6 km/hr. (d) 14/3 km/hr.
+RRB RPF Constable — 20/01/2019 (Shift-I]) |
+Ans : (d) Let the velocity of stream = R km/h
+‘Man's movement in still water = (28/3) km/h
+According to question,
+‘Time taken in the upstream
+= 3x time taken in the down stream
+d d { d }
+= = 3x t=—
+28 R Bir v
+3 3
+28 +R=3x = R
+3 3
+28 +R=28-3R
+3
+AR = 28- Ei
+3
+4p =28
+3
+R= Mims h
+3
+2. A sailar travels a distance of 24 km the
+upstream and 36 km in the down stream and |
+takes 6 hours each time. Find the speed of the
+stream.
+(a) 2 km/hr. (b) 4km/hr.
+(c) 1 km/hr. (d) 3 km/hr.
+RRB JE - 26/05/2019 (Shift-ID
+‘Ans: (c)
+Speed of Boat = B km/hr
+Speed of Stream = W km/hr
+Speed of boat in the down stream = (B+W) km/hr
+Speed of boat in the upstream = (B—W) km/hr
+Speed of boat (B+W) in down stream = %
+B+ W=6 km/h seseeeeee (i)
+Speed of boat in upstream
+B-W= 24
+6
+B-W=4 km/h sesseeeeee (ii)
+Boat & Stream 41
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0001_right.png =====
+Boat & Stream
+a
+on adding equation (i) and (ii)
+
+B+W=6
+B-W=4
+2B=10
+Speed of Boat B =5 km/h
+B+W=6
+5+W=6
+Speed of stream W = 1 km/h
+3. A boat takes 2 hours to travel 16 km in the
+down stream and 4 hours to cover the same
+distance in the upstream. Find the speed of the
+current.
+(a) 12 km/hr. (b) 2 km/hr.
+(c) 4km/hr. (d) 6 km/hr.
+RRB JE - 29/05/2019 (Shift-ID
+Ans: (b) Let speed of stream = R km/hr
+Speed of Boat = B km/hr
+In down stream—
+BtR = = shar ei)
+In upstream—
+BR =" = 4kanhr evo)
+from equation (i) and (ii)-
+B-R+B-R=8+4
+2B=12
+B=6km/h
+Putting value of B in eq" (i)
+6+R=8
+ea R=2 km/hr
+4, Ram goes from place A to B cycling at a
+uniform speed of 12 km/hr. and then comes
+back to place A while cycling. His friend Gopi
+travels by boat from places A to B and comes
+back to location A. Where his speed in still
+water is 10 km/hr and speed of stream is 4
+km/hr. who will return to position A first?
+(a) Gopi
+(b) Ram
+(c) Both reach which at the same time
+(d) Can not be determined
+RRB JE - 29/05/2019 (Shift-II1.
+Ans : (b) Let distance AB = 84 km (L.C.M. of 12, 14)
+The time taken by Ram go to from A to B at a speed o!
+12 km/h = The time taken by Ram to return to A again|
+at a Speed of 12 km/hour = = =7h
+Total time taken by Ram to travel = 7+ 7= 14h
+) YCT
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0002_left.png =====
+The time taken by Gopi to go from A to B at a speed of] |
+
+(10+4) km/h. -#- 6h
+
+The time taken by Gopi to return to A again at a speed]
+
+lof (10-4) km/h -S-u h
+
+Total time take by gopi to travel = 14+6=20h
+
+Hence It is clear that Ram takes less time in traveling so}
+
+[Ram will come back to place A first.
+
+5. A man's speed in the down stream in 15 km/hr.
+and the speed of the stream is 2.5 km/hr. Find
+his speed upstream.
+
+(a) 10 km/hr. (b) 9 km/hr.
+(c) 12.5 km/hr. (d) 8.5 km/hr.
+RRB JE - 26/06/2019 (Shift-I
+
+Ans : (a) Let the speed of Man is x km/hr and speed o!
+
+stream is y km/hr.
+
+Speed of Man in the down stream = (x + y) = 15 km/h
+
+Speed of stream (y) = 2.5 km/h
+
+x+y=15
+x+2.5=15
+x= 12.5 km/h
+
+Speed in the upstream = x-y = 12.5-—2.5 = 10 knv/h
+
+6. A man takes time t; and t, respectively to travel
+a certain distance in the upstream and in the
+down stream. If the speed of the stream is 'y'
+km/h. Find the speed in still water.
+
+t,+t,)2 '
+(a) [se] km/hr.
+
+(4-4)
+(b) (=) | km/hr,
+
++t
+
+2,2
+) (S) km/hr,
+
+2y
+
++4,
+
+(d) [e3 | km/hr.
+(4-4)
+RRB JE - 31/05/2019 (Shift-I
+
+[Ans : (d) Let Speed in still water = x km/hr & covered]
+
+distance = d
+
+Speed of stream = y km/hr
+Distance = d km/hr
+
+d -
+ram ae dead =(x-y)ty an)
+
+1
+
+d a
+pamela ied =(xt+y)tr seeee (ii)
+
+2
+from equation (i) and (ii)-
+(x-y)t =(kt+y)b
+tx-ty=x+ hy
+X (ti-h) = y(t +b)
+x= WOH) pve
+
+(tt)
+Boat&Steam S™~C~S~S~S~S~«SY
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0002_right.png =====
+7. It takes 12 hours for a boat to travel a certain
+distance in the down stream and it takes 24
+hours to return 24 hours to return. How long
+will it take for the Boat to cover the same
+distance in still water?
+
+(a) 15 Hours (b) 10 Hours
+(c) 18 Hours (d) 16 Hours
+RRB JE - 02/06/2019 (Shift-IIL.
+
+Ans : (d) Let the total distance = x km
+
+Time taken to cover the same distance in still water = t
+
+hour
+
+from Speed = Distance
+
+Time
+
+Speed of boat in still water =
+
+; (Speed of boat in the down stream + speed of boat in|
+the upstream)
+x_1 [ x x |
+*i-|*4*
+t 2[12 24
+x_1 Ee + *|
+t 2, 24
+
+x_ 1 3x
+
+= six
+
+t 2 24
+11
+
+t 16
+
+t= 16 hours
+
+8. A boat, whose speed in still water is 15 km/hr.
+goes 30 km in the down stream in 4.5 hours
+and returns in the upstream. Find the speed of
+the stream.
+
+(a) 4km//hr. (b) 5 km/hr.
+(c) 10 km/hr. (4) 6 km/hr.
+RRB RPF SI - 10/01/2019 (Shift-I
+
+Ans: (b) Let the speed of stream = x km/hr.
+
+Speed of boat in the down stream = (15+x) km/hr.
+
+Speed of boat in the upstream = (15 —x) km/hr.
+
+According to question,
+
+30 + 30 45
+(15+x)  (15-x)
+450—30x + 30x +450
+Err 45S
+
+(15+x)(15—x)
+
+20 7=4.5
+225—x’
+
+200
+————=1
+225-x?
+
+200 = 225 — x?
+
+x? = 25
+
+x =5 km/hr.
+
+. It takes 8 hours for a rower to cover a distance
+of 60 km upstream of a river while it takes 5
+hours to cover the same distance down stream.
+What will be the speed of the rower in stagnant
+water.
+
+q YCT
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0003_left.png =====
+(a) 9.25 km/h (b) 9.80 km/h
+(c) 9.75 km/h (d) 9.5km/h
+RRB RPF SI - 05/01/2019 (Shift-IID)
+Ans.(c) Speed of rower in upstream = : =7.5 km/hr
+. 60
+Speed of rower in down stream “> = 12 km/hr
+Speed of rower in still water = pets =9.75 km/hr
+10. Arjun takes 5 hours to swim 40 km in the down
+stream, where as he only takes 2 hours to swim
+24 km in the upstream. Tell his speed of
+swimming in still water.
+(a) 12 knv/hr (b) 10 km/hr
+(c) 9 km/hr (@) 15 km/hr
+RRB RPF Constable — 17/01/2019 (Shift-L
+Ans : (b) Speed of arjun in the down stream
+= 2 =8 km/hr
+Speed of arjun in the upstream
+= 24 =12 km/hr
+2
+.. Speed of Arjun in still water
+21248 10 km/hr
+2
+11. A boat's speed in still water is 20 km/hr. If the
+boat covers a distance of 20 km in the
+upstream in 4 hours, find the speed of the
+current.
+(a) 20 km/hr (b) 15 km/hr
+(c) 25 km/hr (4) 30 km/hr
+RRB Group-D — 23/09/2018 (Shift-I.
+Ans : (b) Speed of boat in still water (a) = 20 km/hr
+Speed of boat in the upstream = 2 5 km/hr
+Let the speed of stream is b km/hr.
+According to question,
+Speed of boat in the upstream = (a-b) km/hr
+Hence 5=20-b
+b=20-5
+b=15
+Hence speed of stream = 15 km/hr
+12. The speed of a boat is 12 km/hr. in still water.
+If the boat covers a distance of 38 km in the
+opposite direction of the stream of water in 4
+hours, then the speed of the stream is in km/hr.
+(a) 3 (b) 2.5
+(c) 3.17 (d) 65
+RRB Group-D — 03/10/2018 (Shift-IT.
+Ans: (b) Let the speed of stream = x knv/hr,
+Speed of boat in still water = 12 km/hr
+Then speed in upstream = (12—x) km/hr
+Speed in upstream = 3 =9.5 km/hr
+Boat & Stream 41
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0003_right.png =====
+Hence
+9.5=12-x
+so x=12-9.5
+x=2.5
+Hence speed of stream = 2.5 km/hr
+13. 15 hours is taken by a boat to reach its
+destination in still water and return to its
+starting point from there. The same journey
+requires 16 hours if the river flows. The
+difference between the speed of boat and the
+river is 15 km/hr. Find the speed of the flow of
+river.
+(a) 10 km/hr.
+(b) 6 km/hr.
+(c) 4 km/hr.
+(d) 5 km/hr.
+RRB Group-D — 17/09/2018 (Shift-III)
+Ans. (d) : Let the distance between both places = D km
+And speed of stream = x km/hr
+«. Speed of boat = (15 + x) km/hr
+According to question,
+The time it took to come and go from the boat in still
+water = 15 hours
+2D .
+x45 15 sonnei)
+and the time it took to come and go when the water|
+flowed = 16 hours
+Do, Di.
+x+15+x x+15-x
+—P_ Pig eli)
+15+2x 15
+On solving equation (i) and (ii)
+D= 150 km
+and x=Skmv/h
+14. A rower takes 16 hours to rowed 100 km
+upstream, while it takes only 10 hours to travel
+the same distance with the flow of the stream.
+What is the speed of the stream.
+(a) 6.625 km/h
+(b) 1.875 km/h
+(c) 6.25 km/h
+(ad) 8.125 km/h
+RRB Group-D — 07/12/2018 (Shift-IIT
+Ans : (b) Let the speed of boat = x km/h
+and speed of stream = y km/h
+According to question,
+x-y= 1028 (i)
+164 seven
+100
+x+y 10 10 seee(ii)
+By solving equation (i) and (ii)
+x= 8.125
+y= 1.875
+Hence speed of stream = 1.875 km/h
+J YCT
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0004_left.png =====
+15. In stagnant water the speed of a boat is 20
+km/hr. The boat travels 364 kilometers down
+the stream and then travels in the opposite
+direction to its begining point. Time taken by
+the journey is 40 hours. What is the speed of
+the current?
+
+(a) 10 km/hr (b) 8 km/hr
+(c) 4 km/hr (d) 6 km/hr
+RRB Group-D — 03/12/2018 (Shift-IT.
+
+Ans : (d) Let the speed of stream = x km/hr
+
+Speed in the down stream = ( 20 + x) km/hr
+
+Speed in the upstream = (20 — x) km/hr
+
+According to question,
+
+364, 364 _49
+
+20+x 20-x
+20-x+20+x _ 40
+
+(20-x)(20+x) 364
+
+(20 - x) (20 + x) = 364
+
+400 — x’ = 364
+
+36-x’=0
+
+x = 36
+
+x=+6
+
+hence speed of stream = 6 km/h
+
+16. Every 5 hours a person swims 4 km. upstream
+and 16 km in the down stream. Find the speed
+of stream.
+
+(a) 2.2 km/h (b) 3.2 km/h
+(c) 1.2 km/h (d) 1.5 km/h
+RRB Group-D — 02/11/2018 (Shift-ID
+
+Ans. (c)
+
+Speed in the down stream (a) = % km/h
+. 4
+
+Speed in the upstream (b) = 3 km/h
+
+16 4
+aarb_5 5
+Speed of stream 2 7
+12
+= 5-22 121mm
+2 10
+
+17. A swimmer swimming in stagnant water at a
+speed of 9 km/hour and given that the time
+taken by him to cover a certain distance in the
+direction of the flow is half the time taken to
+cover the same distance in the direction
+opposite the flow of water. Find the speed of
+water.
+
+(a) 10 km/hr (b) 3 km/hr
+(c) 5 km/hr (d) 8 km/hr
+RRB Group-D — 12/10/2018 (Shift-I
+
+[Ans : (b) Let the speed of water is x km/hr and the|
+
+distance traveled by swimmer is D km.
+
+land the time taken to cover the distance D km in the}
+
+direction against the stream = t hr.
+
+Boat & Stream 41:
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0004_right.png =====
+According to question,
+D=(9-x)xt esi)
+D=(9+x)x5 fii)
+from equation (i) and (ii)
+> (9-x)t=(94x)5
+18-2x=9+x
+3x =9, x =3 km/hr
+18. It takes 12 hours for a sailor to cover a distance
+of 75 km in upstream while it takes only 7.5
+hours to cover that distance in the down
+stream. What is the speed of the stream?
+(a) 6.625 km./hr. (b) 6.25 km/hr.
+(c) 8.125 km/hr. (d)_ 1.875 km/hr.
+RRB Group-D — 18/09/2018 (Shift-I11
+Ans. (d) : Let the speed of boat = x km/hr
+Speed of stream = y km/hr
+Total distance = 75 km
+In the upstream,
+Bu 19
+x-y
+75 .
+x-Y=5 6.25 (i)
+In the down stream,
+a 75
+x+y
+xty=10 seseeeeeseeee(il)
+On adding equation (i) & equation (ii)
+2x =16.25
+x =8.125
+Hence from equation (i)
+x-y=6.25
+8.125-y =6.25
+y =8.125—-6.25
+y =1.875km/hr
+19. Ramu can ride a boat at 9 km/hr. speed in still
+water. It take twice the time to go in the
+opposite direction of the stream than going in
+the direction of the stream. Find the speed of
+the stream.
+(a) 16 km/hr. (b) 8 km/hr.
+(c) 3 km/hr. (d) 9 km/hr.
+RRB NTPC 16.04.2016 Shift : 1
+Ans: (c) Speed of boat in still water = 9 km/hr.
+Speed of stream = x km/hr.
+and distance = d km.
+Speed of boat in the down stream = (9+x) km/hr.
+Speed of boat in the upstream (9 — x) km/hr.
+. Distance
+From Time = ————
+Speed
+oi y=
+9+x 9-x
+=> 18-2x=9+x
+=3x=9
+x=3
+Hence speed of stream = 3 km/hr.
+3 YCT
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0005_left.png =====
+20. A man can ride a boat at a speed of 4 km/hr.
+He founds that the time taken to travel in the
+opposite direction of the stream is double the
+time it takes to travel in the direction of the
+flow of the stream. Find the speed of the
+stream.
+
+(a) 15 (b) 13
+(c) 2 q@ 1
+RRB NTPC 27.04.2016 Shift : 1
+Ans : (b) Let the speed of stream = x km/hr.
+Speed of boat in the down stream = (4+x) km/hr.
+Speed of boat in the upstream = (4-x) km/hr.
+. Distance
+From Time = ————
+Speed
+ee
+4-x 44+x
+4+x=8-2x
+3x=4
+x =1.3 km/hr.
+
+21. The speed of a boat in the opposite direction of
+the flow is 40 km/hr. and in stagnant water 55
+km/hr. What will be the speed of boat in the
+flow direction of the stream.
+
+(a) 75 km/hr. (b) 70 km/hr.
+(c) 60 km/hr. (d) 65 km/hr.
+RRB NTPC 02.04.2016 Shift : 2
+
+Ans: (b) Let the speed of boat in the down stream = x
+
+km/hr
+
+Speed of boat in still water =; (speed in the down
+
+stream + speed in the upstrem)
+
+55-5 (x40)
+110=x+40
+
+x= 110-40
+x=70
+
+Hence speed of boat in the down stream = 70 km/hr.
+
+22. A person travels a distance of 16 km in two
+hours in the down stream. If he travels half the
+distance in the upstream in the same time, then
+find the speed of the stream.
+
+(a) 4 km/hr. (b) 2 km/hr.
+(c) 3 km/hr. (d) 1 km/hr.
+RRB NTPC 27.04.2016 Shift : 3
+
+[Ans : (b) Let the speed of stream is x km/hr. and speed]
+
+lof Man is y km/hr.
+
+Speed of man in the down stream = (x+y) km/h
+
+Speed in the upstream = (y—x) km/h
+
+According to question,
+
+xty= >xty=8......(i)
+8 a”
+YoxX= 5 >y-x=4.......ii)
+
+On subtracting equation (ii) from equation (i)
+
+2x=4>x=2 km/h
+
+Boat & Stream 41
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0005_right.png =====
+23. A boat covers a distance of 35 km in the
+direction of the stream in 5 hours and returns
+in 7 hours. Find the speed of the boat in still
+water.
+
+(a) 6 km/hr (b) 5.5 km/hr
+(c) 10.5 km/hr (d) 7.5 km/hr
+RRB Group-D — 01/11/2018 (Shift-IT
+Ans: (a)
+35
+Speed of boat in the down stream = 7 =7 km/hr
+Speed of boat in the upstream
+= 35, =5 km/hr
+7
+nee 7T+5_
+
+Hence speed of boat in still water = ae 6 km/hr
+
+24. In stagnant water the speed of a boat is 13
+km/hr. speed of stream is 4 km/hr. What time
+will be taken to cover a distance of 68 km in the
+upstream.
+
+(a) 7 Hours (b) 4 Hours
+(c) 8 Hours (d) 7 Hours 33 minute
+RRB JE - 22/05/2019 (Shift-I
+Ans : (d)
+Speed of boat in the stagnant water = 13 km/hr.
+Speed of stream = 4 km/hr.
+o Speed in the upstream
+= 13-4=9 km/hr.
+Time taken to travel the distance of 68 km. = S
+= 7 hours 33 minute
+
+25. A sailor covers 2 km in the upstream in 1 hour
+and a distance of 1 km in the down stream in
+10 minutes. Find the speed in still water.
+
+(a) 4km/hr. (b) 2.5 km/hr.
+(c) 3 km/hr. (d) 4.5 km/hr.
+RRB RPF Constable — 25/01/2019 (Shift-I)
+
+Ans : (a) Speed of boat = B km/hr
+
+Speed of stream = R km/hr
+
+Let the speed of boat in the upstream = (B-R) km/hr
+
+Speed of boat in the down stream = (B+R) km/hr
+
+According to question,
+
+B-R= 7 seen)
+B+R= +6 ii)
+10
+60
+
+on adding equation (i) and equation (ii)
+
+2B=8
+
+B=4
+
+Hence Speed of boat in still ater is 4 km/hr.
+
+} YCT
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0006_left.png =====
+Type -8
+26. The speed of a sailor in still water is x km/hr.
+and the speed of stream is y km/hr. If a person
+moves a certain distance opposite the stream,
+and then returns the same distance in the
+direction of the stream, find his average speed
+during the journey.
+242 2_.2
+(a) S*2 kms, (6) SY kr.
+xy 2xy
+2442 2_.2
+(c) X*¥ kmior,  d) SS kor,
+x x
+RRB JE - 29/05/2019 (Shift-I1)
+Ans : (d) Speed of Sailor = x km/hr.
+Speed of stream = y km/hr.
+Speed of boat in the down stream (V})
+= (xty) km/hr.
+Speed of boat in the upstream (V2) = (x-y) km/hr.
+.. from Average Speed = Mv
+vi +v,
+—2xtyyox-y) _ 2(x*-y')
+x+y+x-y 2x
+2_.2
+== km/hr.
+x
+27. A boat covers a distance of 12 km. The distance
+of first 4 km in the down stream is covered in
+15 minutes. The next 8 km is travelled in
+upstream. The speed of the boat in the down
+stream is twice the speed of the boat in the
+upstream. Find the average speed of journey.
+(a) 11.6 km/hr. (b) 9.6 km/hr.
+(c) 10 km/hr. (d) 10.4 km/hr.
+RRB JE - 28/05/2019 (Shift-I1
+[Ans : (b) The distance of 4 km by boat in the down
+stream is covered in 15 minutes.
+oO Speed = 4 L16kn/br
+15
+60
+According to question,
+Speed of boat in the upstream |
+= s =8km/hr
+Remaining distance = 12-4=8km |],
+Time taken to travel the distance of 8 km at the speed o!
+8 km/hr -3= 1 hr.
++: Average Speed = Total distance
+Total time
+Average Speed = cm = a
+15 75
+—+1
+60
+= 8. 9.6km/hr
+5
+Boat & Stream 41:
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0006_right.png =====
+28. A boat moves in the upstream from city P to
+city Q and then it returns in the down stream
+from city Q to city P. If in stagnant water the
+speed of the boat is 35 km/hr. and the stream
+speed is 5 km/hr. then in total journey what is
+the Average speed of boat?
+
+(a) 36.28 km./hr. (b) 34.28 km/hr.
+(c) 35 km/hr. (d) 33.33 km/hr.
+RRB NTPC 03.04.2016 Shift : 3
+Ans : (b) Speed in the upstream
+= 35-5 =30 km/hr.
+Speed in the down stream = 35+5 = 40 km./hr.
+Average speed of boat = Jab
+a+b
+_ 2x40x30
+40+30
+= 24 40%30 34.28 km/hr.
+70
+
+29. A boat moves from the city x to city 'y' to the
+upstream and then returns from city 'y' to city
+'x' in the down stream. If in still water the
+speed is 40 km/hr. and the speed of stream is 10
+km/hr. then what is the average speed of the
+total journey?
+
+(a) 36.5 km/hr. (b) 34.5 km/hr.
+(c) 37.5 km/hr. (d) 33.33 km/hr.
+RRB NTPC 02.04.2016 Shift : 1
+
+Ans : (c) Speed of boat in the down stream
+
+=B+R=40+10=50 km/hr.
+
+Speed of boat in the upstream
+
+=B-R=40-10=30 km/hr.
+.'. Average boat speed over the entire journey
+_ 2ab
+a+b
+_ 2x50x30
+50+30
+_ 2x1500
+80
+= 37.5 km/hr.
+
+30. A boat moving in the upstream takes 8 hours
+48 minutes to cover a distance, while it takes 4
+hours to return to the starting point in the
+down stream. Find the ratio of the speed of the
+boat to the stream in still water.
+
+(a) 3:2 (b) 8:3
+(c) 4:3 (d) 2:1
+RRB JE - 24/05/2019 (Shift-II)
+Ans : (b)
+Speed of boat in the upstream
+= (B-R) km/hr
+and speed of boat in the down stream
+= (B+R) km/hr
+5 YCT
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0007_left.png =====
+from question—
+{-- distance = sppedxtime}
+48
+B-R)x 8— = (B+R)
+(B-R) 60 (B+R)4
+(B-R)x =(B+R)4
+44B — 44R = 20B + 20R
+24B = 64R
+pea
+R 24 3
+B:R=8:3
+31. The ratio for the time taken by the boat in the
+upstream and the time taken in the down
+stream to cover a certain distance is 4:1. Find
+the ratio of the speed of the boat in the down
+stream and in the upstream. .
+(a) 4:1 (b) 3:5
+(c) 1:4 (d) 5:3
+RRB JE - 25/05/2019 (Shift-I
+Ans : (a) Let the certain distance = d
+Speed of boat in the upstream
+d
+=V,=—
+a At
+Speed of boat in the direction of stream
+d
+=V, ad
+a According to question—
+d
+Mot 4
+vy, do
+4t |
+An Vp: Va=4:1
+32. ‘If the time taken in the upstream is equal to 'n' |:
+time taken in the down stream and the speed in
+the still water is 'x' and the speed of stream is
+'y' then find the value of x: y.
+(a) n/2 (b) @+ Di - 1)
+(c) (n - DAn+1) (d) n(m-1)
+RRB RPF SI - 11/01/2019 (Shift-I1)
+[Ans : (b) Let the speed of boat and stream is x km/hr}
+land y km/hr respectively
+According to question,
+D D
+—— = 1x——
+(-y) (x+y)
+xXt¥_y
+x-y
+xt+y=n(x-y)
+x+y =nx-ny
+y(n+1) = x(n-1)
+x _n+l
+y n-l
+Boat & Stream 41
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0007_right.png =====
+33. A boat covers a certain distance in the down
+stream in 4 hours, but takes 6 hours to return
+to the starting point. What is the ratio of the
+speed of the stream and the speed of the boat in
+still water?
+
+(a) 1:5 (b) 1:4
+(c) 5:1 (d) 4:3
+RRB JE - 27/05/2019 (Shift-I11
+Ans: (a) Let the speed of stream = R km/hr
+Speed of boat = B km/hr
+
+from question—
+
+(B+R) 4 = (B—R)6
+
+4B + 4R=6B-6R
+
+10R = 2B
+
+R_2
+B 10
+
+R:B=1:5
+
+34, A man take twice the time to ride the boat in
+upstream as compared to ride the boat in the
+down stream. Find the ratio of the boat to the
+stream in current water.
+
+(a) 3:2 (b) 4:1
+(c) 2:1 (d) 3:1
+RRB JE - 28/05/2019 (Shift-I)
+
+Ans : (d) Speed of boat in the down stream
+
+= (xty) km/h
+
+Then speed of boat in the upstream
+
+=(x-y) knv/h
+
+from Distance = speed x time
+
+(xty) t= (x—y)2t
+xt+y=2x-2y
+x=3y
+Required Ratio = =e 3:1
+yl
+Type -5
+
+35. Suresh covers a distance of 34 km in the
+direction of a river in 4 hours 15 minutes by a
+luxury boat and 19 kilometers in the opposite
+direction of a river in 3 hours 10 minutes. As
+present what is the speed of the flow of river?
+(a) 3 km/hr. (b) 2 km/hr.
+
+(c) 1 km/hr. (d) 5 km/hr.
+RRB RPF SI - 12/01/2019 (Shift-ID)
+
+Ans : (c) Let the speed of luxury boat is x km/hr. and
+
+speed of stream is y km/hr.
+
+x+y= 34 34x4
+4517
+60
+
+> x+y=8 seed)
+
+x-y= 19 _19x6
+310 19
+60
+
+> x-y=6 seeeeee- (ii)
+
+from equation (i) & equation (ii)
+
+2y=2>y=1
+
+Hence River flow speed is 1 km/hr.
+
+J YCT
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0008_left.png =====
+36. The speed of a boat is x km/hr in still water. |.
+and a speed of stream is 'y' km/hr. If the time
+taken to cover a distance upstream is t hour
+more than the time taken to cover the same
+distance in the down stream, find the distance
+covered.
+
+x -y*)t
+2xy
+x -y*)t
+2y
+(c) (2 * 2) km.
+x-y
++y)t
+@) [4 km.
+2
+RRB JE - 30/05/2019 (Shift-IIT) |.
+
+‘Ans: (b) Let the traveled distance = z km/hr
+
+Speed of boat in still water = x + y km/hr.
+
+Speed of boat in the upstream = x — y km/hr.
+
+According to question,
+
+Zz Zz
+~*~ -* =
+x-y x+y
+xty-x+y
+z| ———— |=t
+fe 7
+2.2
+- t
+2y
+
+37. Instill water the speed of a boat is 11 km/hr. If
+the speed covers 19 km in 2 hours in the
+upstream. Find the speed of the stream.
+
+(a) 20.5 km/hr.
+(b) 11.5 km/hr.
+(c) 1.5 km/hr.
+(d) 3 km/hr.
+RRB NTPC 29.04.2016 Shift : 1
+
+Ans : (c) Speed of boat in still water = 11 km./hr.
+
+Distance traveled by boat in the 2 hours an upstream =
+
+19 km.
+
+Speed of boat in the upstream = kan/hr.
+
+Speed of stream =11 av = Bad
+
+2 2
+= 3 =1.5 km/hr.
+2
+
+
+===== Part 20 — Boat & Stream (pp. 410–417)_page-0008_right.png =====
+38. The speed of a boat in still water is 12 km/hr.
+and the speed of stream is 3 km/hr. A person
+goes 135 km in the upstream by boat and
+returns to the starting point by walking in the
+down stream. Find the time taken to cover the
+total journey in hours.
+
+(a) 24 (b) 48
+(c) 36 (d) 30
+RRB NTPC 18.01.2017 Shift : 1
+Ans : (a) Let the total time taken is t hour.
+t=-—9_ 4 (B— boat, R- stream)
+B+R B-R
+135. 135
+te
+12+3 12-3
+135 135
+t=—4+—
+15 9
+t=9+15
+t= 24 hours
+
+39. If in still water, the speed of the boat is x
+km/hr. and speed of stream is 'y' km/hr. and
+the time taken to reach a place and to return
+from there is 't' hour, find the distance
+travelled in one direction.
+
+242
+(a) (S} km.
+2xy
+1? -y’)
+———| km.
+w [|
+24 y?
+(©) [| km.
+2x
+2_y2
+(d) [| km.
+xy
+RRB Paramedical Exam — 21/07/2018 (Shift-II)
+
+Ans: (b) Let the total distance = d km
+
+Speed in the down stream = (x + y) km/h
+
+Speed in the upstream = (x —y) km/h
+
+According to question,
+
+4,4 1,
+(x+y) (x-y)
+a|—4 44 fay
+(x+y) (x-y)
+x-yt+xt+y
+d| —>—— |= t
+xiay?
+dx (=) =t
+x -y
+2_\2
+d= B=) ot
+2x,
+=| t@=9)
+2x
+y YCT

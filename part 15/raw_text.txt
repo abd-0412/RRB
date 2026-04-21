@@ -1,0 +1,3727 @@
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0001_left.png =====
+15.
+——————
+Type -5 )
+1. Mohit invested %10000 in two different
+schemes NSC and PPF at an annual compound
+interest rate of 14% and 11% respectively. If
+the total amount of interest received in 2 years
+is T 2726, then what was the amount invested in
+PPF?
+(a) %5000 (b) %4000
+(c) 6000 (d) %7000
+RRB RPF SI - 06/01/2019 (Shift-II)
+‘Ans: (b) Let invested amount in NSC =% x
+Invested amount in PPF = & (10000 — x)
+4y uy
+x{1+ 4) +0000» 1+ 75) = 10000 + 2726
+100 100
+x44 | o000—xy dt 1 = 12796
+100 100 100 100
+12996 (i o000- x) 12321 = 12726
+10000 10000
+12996x + 123210000 -12321x _ 12726
+10000 10000
+12996x + 123210000 —12321x = 127260000
+675x = 4050000
+x= 4050000 = 6000
+675
+Amount of PPF = 10000-6000 = %4000
+2. Find the amount of interest for the third year
+at the rate of annual compound interest on
+%2000 at a rate of 40%.
+(a) 1500 (b) 21600
+(c) 21568 (d) 1750
+RRB RPF Constable — 18/01/2019 (Shift-III)
+Ans : (c) Principal = %2000
+Rate = 40%
+40)
+Interest for three year = 2000} | 1+——~ | -1
+100
+oa
+= 2000%{ 7) — 2000
+= 5488-2000 = 3488
+2
+Interest for two year = 2000{1 + 4) — 2000
+= 3920-2000 =1920
+Interest for third year = 3488 — 1920 = %1568
+Compound Interest 28!
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0001_right.png =====
+TT
+3. An amount of 716400 is borrowed and is to be
+repaid in 2 years in equal annual installments
+at the rate of 5% compound interest. Find the
+amount of annual payment.
+(a) = 7590 (b) &% 7495
+(c) = 7600 (d) % 8820
+RRB JE - 25/05/2019 (Shift-II)
+Ans : (d) Given-
+: 1 1
+Total amount = installment | ———, + ——_.,
+T Tr
+1+—~ 1+—~
+["+ic6) (ite)
+16,400 =x] —1_,__1__
+5 5 y
+1+— 1+—_
+100 100
+16,400 =x oo =x 20 , 400
+21 (21 21 441
+20 (20
+16,400 = x| 420+ 400] _ 820
+441 441
+x = 20 x 441 =% 8820
+4. A women invested %200 at the beginning of
+every year at a 5% compound interest rate. At
+the end of the second year its total investment
+amount will be.
+(a) %431 (b) %430.5
+(c) 2435 (d) 2430
+RRB RPF SI - 11/01/2019 (Shift-I)
+Ans : (b) First Year, Principal = 7200
+Rate = 5% Time = | Year
+c
+Compound amount = Principal (+5)
+1
+=200 5) =200x21 =z 210
+100 20
+Again for second year
+Principal = 210 + % 200 =% 410
+Rate = 5%, Time = | Year
+3) 21
+New Compound amount = 410) 1+—| =410x—
+100 20
+=% 430.50
+3 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0002_left.png =====
+5. A certain sum of money was invested at
+compound interest, at 4% per annum for 2
+years at compound interest, this amount
+becomes %338. Find the amount.
+
+(a) %320 (b) %312.5
+(c) %318.53 (@) 3315
+RRB JE - 25/05/2019 (Shift-II1)
+Ans: (b) Given-
+P=?,r=4%, Amount = %338, t= 2 Year
+As per the question-
+t
+Amount = P| 14
+100
+338 = oft al
+100
+2
+338= px( 23)
+25
+p= 211250
+676 |
+P=%312.5
+
+6. An amount is invested for two years at 20%
+compound interest. If the interest is payable on
+a half yearly basis, then it receives 7482 more
+than that which was payable on an annual
+basis. Find the amount.
+
+(a) = 19500 (b) %20000
+(c) %21800 (d) %30000
+RRB JE - 26/06/2019 (Shift-I)
+Ans. (b) Let Principal amount = %x
+Rate of Compound interest = 20%
+‘Time
+‘Compound interest = Principal [(-) “1
+2
+=x +26) -1
+100
+2
+=x (+4) -1
+5
+2
+=x ($) -1
+5
+=x [2 - i
+25
+a lix
+25
+If interest are half yearly payable '
+Rate of interest = 10%
+Time = 4 Year
+Time
+‘Compound interest = Principal 1a) -1
+100
+CompoundInterest ——sSs~=~CS~«S
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0002_right.png =====
+4
+=x (1 w) -1
+100
+4
+=x\(Ut) 1
+10
+w x[ Ht ecto
+10000
+=x ae noes | _ 4641x
+10000 10000
+As per the question,
+4641x _ix = 482
+10000 25
+4641x-4400x _ 482
+10000
+PAIX _ 482
+10000
+x =2 x 10000 = %20000
+7. A fixed amount becomes %2420 in two years at
+a rate of compound interest and 2662 in three
+years, the interest was calculated on an annual
+compound basis. Find the amount and rate of
+interest annually.
+(a) 71000 and 12% (b) &% 2000 and 10%
+(c) ©2250 and 15%  (d) & 2500 and 5%
+RRB JE - 31/05/2019 (Shift-I1)
+Ans : (b) Let that amount P and interest rate is r%
+Compound amount = P We)
+100
+According to the question-
+2
+2420 =P +e) (i)
+100
+ry
+2662 = P | 1+— ----(ii)
+100
+Dividing equation (ii) in (i)
+tT _ 2662
+1+—— = ——
+100 2420
+r=10%
+“ons 10)
+from equation (i) - 2420 =P | 1+—
+100
+p= 2420x1010 - z0000
+ou
+8. Mr. Marthi invested 716000 in a scheme. How
+much money will be get when he becomes on
+adult if he invests it for 9 months at a
+compound interest rate of 20% per annum.
+(a) 718,523 (b) 718,521
+(c) % 18,524 (d) 718,522
+RRB RPF Constable — 17/01/2019 (Shift-I)
+) YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0003_left.png =====
+Ans : (d)
+: 20
+(Compound interest Rate on quarter = 7% =5%
+time = 9 months = 3 quarter
+(Received amount on being adult of marthy
+3
+= 16000) 1+
+100
+A= of: + x)
+100
+21) _ 16000x21x21x21
+=1 S| 2 = 218522
+cooo( 2) 20x 20x 20 85
+9 A person borrowed money at 9% simple
+interest and invested it at 10% compound
+interest for 3 years After 3 years he received
+profit of %1952. How much money did he
+borrow?
+(a) % 30000 (b) % 32000
+(c) % 33000 (d) % 32543
+RRB Group-D — 06/12/2018 (Shift-II1)
+Ans. (b) : Suppose borrowed amount = % x
+Compound interest = total Amount — Principal
+Profit = Compound interest — simple interest
+As per the question,
+3
+x] (1422) -1]-] 22223 |< 1952
+100 100
+3
+=x (7) =1|-| 22223] - 1952
+10 100
+=x 1331) _[xx9x3 =1952
+1000 100
+= x) 1331=1000]_[xx9x3]_ 195
+1000 100
+= x| 331 ]_27% 1959
+1000] 100
+x (331-270)
+—<~—__— = 1952
+=~ 000 ~~
+xx6l1
+>—__ = 1952
+1000
+=> x =32x1000= %32000
+10. The money invested for two years is to be
+compounded on an annual basis, at a rate of
+20% per annum. At maturity it becomes %324.
+What was the initial amount invested.
+(a) %240 (b) 2200
+(co) %250 (d) 2225
+RRB Group-D — 05/12/2018 (Shift-II)
+Compound Interest 29
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0003_right.png =====
+Ans. (d) Let Amount = =P
+time = 2 Year
+> Rate = 20% Annual
+2
+324=P ( + 2)
+100
+324=p x £6
+5.5
+p= 324%25
+36
+P= 225
+11. When there is an annual compound interest at
+the rate of around 9% per annum, what will be
+the amount of %5000 after 2 years.
+(a) %5,940 (b) 29,950
+(c) %5,970 (d) 25,936
+RRB Group-D — 10/10/2018 (Shift-II1)
+Ans: (a)
+Principal (P) = = 5000
+Time (t) =2
+Rate (r) = 9%
+a Rate \"""
+Compound amount = Principal 00
+2
+= 5000(1+ 2
+100
+= 5000x102, 108
+100 100
+= see = 5940.5 % 5940
+12. Shyam deposits %x for 2 years at 8% per
+annum compound annual interest, which is
+272900. Then what is the value of x?
+(a) %60,500 (b) 62,000
+(c) 260,000 (d) 262,500
+RRB Group-D — 04/10/2018 (Shift-I)
+Ans: (d) r= 8%
+n=2 Year
+A= 72,900
+a 2
+A=P| Wk) » 72900= P| ne
+100 100
+72900 = Px 108,108
+100 100
+p= 72900 x 100x100
+108x108
+P=% 62500
+13. If 710000 is invested at the rate of 20% per
+annum, at half yearly compound interest, then
+what will be the amount after 18 months.
+(a) 716000 (b) 713310
+(c) %13000 (d) % 13140
+RRB Paramedical Exam — 20/07/2018 (Shift-I)
+) YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0004_left.png =====
+Ans: (b) time (t)= 18 month = 3 Half yearly
+Rate (r) = 20% Annual = 10% Half yearly
+G
+Then required Amount = Principal (ee
+3
+= ro000{ 1+)
+100
+= 1000x111 13310
+10 10 10
+
+14. If you have invested 7100 on a 40% annual
+interest, which would be a _ quarterly
+compounded. How much amount will you get
+after one year?
+
+(a) 7148.11 (b) 2146.41
+(c) 7145.61 (d) 7149.01
+RRB Group-D — 04/10/2018 (Shift-I)
+
+Ans, (b) interest Rate = 40% Annual
+
+.. quarter interest Rate “O38 = 10%
+
+time = 4 quarter
+
+Amount after 1 year = 1o0>(1+-10)
+
+100
+Wo ou oi
+HO 7010" 10 “10
+_ 121x121
+100
+=2%146.41
+
+15. A women invests %2000 per year at the
+beginning of every year at a compound interest
+rate of 5%. How much will she invest at the
+end of the second year.
+
+(a) 74305 (b) %430
+(c) 4355 (d) %4350
+RRB NTPC 17.01.2017 Shift-1
+Ans ; (a) Received amount in first year
+= invested amount + simple interest
+= 2000+ 2000*5%1 _ 9199
+100
+Received amount in second year
+= invested amount + simple interest
+
+= (2100-+2000) + 7°51 4100 + 205 = 4305
+
+[Hence the women invest %4305 at the end of second|
+
+year.
+
+16. A person borrows a certain amount from a
+bank for 3 years at a rate of 7% compound
+interest annually. If he paid %85966 as total
+interest, then what was the amount borrowed?
+(a) %462,000 (b) %382,000
+(c) %354,000 (d) 428,000
+
+RRB NTPC 04.04.2016 Shift : 1
+
+Compound Interest 29)
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0004_right.png =====
+Ans: (b) Let borrowed amuont = %x
+Amount (A) = Principal + interest
+=x + 85966
+AS (+35)
+100
+7y\
+x+85966 = x(1+-2)
+100
+x + 85966 =x (1.07)
+x + 85966 = 1.225043x
+0.225043x = 85966
+x= 85966
+0.225043
+x = 381998.107, x =%382000
+17. After two years of 780000 from compound
+interest compounded annually, what will be the
+amount at the annual rate of 20%.
+(a) %97,240 (b) %117,128
+(c) %115,200 (d) %1120,000
+RRB NTPC 02.04.2016 Shift : 1
+Ans ; (b) *. interest is half yearly
+~. Time =2 Year = 4 Half year
+Rate = 2 =10% Half yearly
+10)
+oA so000( + «)
+Wo i
+80000x TETAS RATT Z117,128
+18. A takes a fixed amount from a bank at a rate of
+8% interest with interest compound half
+yearly. If he paid 7196851 after one and a half
+year, find the principal.
+(a) = 168,000 (b) & 175,000
+(c) & 179,000 (d) % 184,000
+RRB NTPC 31.03.2016 Shift : 3
+Ans: (b) Given- Rate (r) = 8% Annual, = 4% Half|
+yearly
+Time n = | Year = 2 Half yearly
+1.5 Year = 3 Half yearly
+ao 196851 196851
+Principal= ———, = ——|
+(14555) (26/25)
+100
+_ 196851x 25x 25x25
+26x 26x26
+= 174999.82 =%175000
+19. If 'P' expresses the principal invested at the
+semi annual rate for a period of 2 years at a
+5% interest rate, then after 2 years how much
+amount will he receive?
+(a) P(1.025)* (b) P(1.1)
+(c) P(1.05) (d) P(1.025)*
+RRB NTPC 18.01.2017 Shift : 2
+{ YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0005_left.png =====
+Ans: (a) 2 year =4 Half year
+R= (3) Half year
+A=P| 1
+100
+4
+A=P(14+——
+2100
+4
+A=P AL
+40
+A=P(1.025)"
+20. A fixed amount becomes 27200 in 2 years at a
+compound interest rate of 20% per annum.
+Find the principal amount.
+(a) %4800 (b) %6000
+(c) %5400 (d) %5000
+RRB NTPC 18.01.2017 Shift : 3
+Ans: (d) Compound amount = (1 +5)
+2
+7200 = oft +7)
+100
+2
+7200 = of +2)
+100
+7200 =Px 36
+25
+P = 200 x 25 = %5000
+21. Prakash invests in a FD. What will be the
+matured amount with an annual compound
+interest rate of 20% for 6 months at 713000,
+interest is compounded quarterly?
+(a) _%14332.25 (b) %14332.5
+(c) %14332.75 (d) 14332
+RRB NTPC 07.04.2016 Shift : 3
+Ans :(b) P = 213000
+T =6 months -§ quarter = 2 quarter
+R = RK =5% quarterly
+2 2
+A=P we = 13000 Be
+100 100
+Compound amount
+2 2
+=13000x wt = 13000 2
+20 20
+=13000x21,21 -¢14332.5
+20 20
+22. Mr. Akhil deposited 713500 in a fixed deposit
+find the total money for 6 months at the rate of
+compound interest of 20% per annum if the
+interest is compound for every 3 months.
+Compound Interest 29;
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0005_right.png =====
+(a) % 14,883.35 (b) 14,883.75
+(c) %14,883.5 (a) % 14,883
+RRB NTPC 19.01.2017 Shift : 1
+Ans: (b) When Rate is quarter = 2 =5%
+time = 6 month = 2 quarter
+As per the question,
+57
+=13500] 1+——
+100
+=13500x21%21 _ 1 4893.75
+20x20
+23. A women invested %4000 at the beginning of
+the year at a compound interest rate of 5% per
+annum. What will be his invested amount at
+the end of the second year?
+(a) 4410 (b) 74615
+(c) _%5000 (d) %4010
+RRB NTPC 19.01.2017 Shift : 3
+Ans: (a) S1=PRE _ 4000x5x1 _ 599
+100 100
+cy = 4200x105 _ za419
+100
+24. Rakesh invests 710000 in a fixed deposit
+scheme for 2 years at a 5% annual rate of
+compound interest. How much amount will he
+get on maturity of the fixed deposit?
+(a) & 10000 (b) = 8500
+(c) = 11050 (d) & 11025
+RRB NTPC 22.04.2016 Shift : 1
+Ans: (d) Given-
+Principal (P) = 10000
+Annual Rate (R) = 5%
+time (t) =2 Year
+o
+Formula— Compound Amount (A) = (+55) from-
+5
+A= to000{1 +5)
+100
+2
+= 10000 2)
+20
+=10000x 41
+400
+=25x441=2%11025
+25. A person invests 20000 for 1 year at an annual
+interest rate of 15%. If the interest is
+compounded half yearly, then the amount
+received by him at the end of the year will be.
+(a) %16537.50 (b) %23112.50
+(c) %18112.75 (d) %22175.30
+RRB NTPC 22.04.2016 Shift : 3
+J YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0006_left.png =====
+Ans : (b) Principal (P) = 20,000
+Time (n)=2 (Half yearly)
+Rate (R)= o% (Half yearly)
+A=P (1 + a)
+100
+2
+= 20000) 1+ _
+2100
+=20000x 43.43 = z3112. 50
+40 40
+26. Calculate the principal if an amount of € 441 is
+received on compound interest at the rate of
+5% per annum after 2 years
+(a) 2400 (b) 2390
+(c) %380 (d) %350
+RRB NTPC 27.04.2016 Shift : 3
+Ans: (a) As per the question,
+Rate )"™"
+A it = Principal | 1+——
+mount ‘Tincipal ( 100 )
+sy
+441 = Principal ( +5)
+100
+2
+441= Principal (3)
+20
+441= Principal x41
+400
+Principal = 441%400 _ g4qq
+441
+27.  Gitesh took a loan for 4 years at 5% compound
+interest. If the total interest paid was % 431.01,
+Calculate the principal.
+(a) %2000 (b) 22050
+(c) 2100 (@) 22150
+RRB NTPC 27.04.2016 Shift : 3
+Ans: (a)
+- _ Rate \""™"
+‘Compound interest = Principal ary -1
+5)
+431.01 = Principal (+5) -1
+100
+431.01 =Principal | 242421, 214
+20 20 20 20
+a 194481
+431.01 =P 1 | ——-1
+31.0 rincipal Fee |
+431.01= Principal [aero
+160000
+431.01 =Principal x 24481
+160000
+Principal = 43101x160000 1999 99 = 2000
+34481
+Compound Interest 29:
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0006_right.png =====
+28. A women deposited 7100 at an annual interest
+rate of 10%. The women received 7121 at the
+end of the period at an annual rate of
+compound interest. How long did he keep the
+money in the bank?
+
+(a) 1 Year (b) 2 Year
+(c) 2.5 Year (d) 3 Year
+RRB NTPC 28.04.2016 Shift : 3
+Ans:  (b) Given—
+Principal (P) = 100
+
+Amount (A) = 2121
+
+Rate (R) = 10%
+
+time t=?
+
+Formula— A= of! +*) a
+
+100
+G
+121=10(1+ 5)
+100
+
+121_ ( 11 }
+100 (10
+(Hy _ ( ul J
+
+10 10
+t=2 Year
+
+29. If a certain amount becomes %6655 at a
+compound interest rate of 10% in 3 years. Find
+the amount.
+
+(a) %5000 (b) %5500
+(c) %4500 (d) %4800
+RRB NTPC 30.04.2016 Shift : 1
+ry
+Ans: (a) A +5)
+3
+6655 = (1 + a)
+100
+6655 = 1331P
+1000
+P= 1000x6655 _ 5000
+1331
+
+30. Rakesh invested %10000 in two different
+schemes in NSC and PPF at an annual
+compound interest rate of 14% and 11%
+respectively. If the total interest for 2 years is
+%2726, then what was the amount invested in it
+(NSC)?
+
+(a) %5000 (b) %4000
+
+(c) %6000 (d) 7000
+RRB NTPC 30.04.2016 Shift : 2
+Ans : (c) Let invested amount in NSC is ®x. then
+
+invested amount in PPF will be % (10000-x).
+
+Total Amount = 10,000 + 2726 = %12726
+
+As per the question,
+
+4y ny
+12726 = {1 4) +(10,000— »(1 3)
+100 100
+3 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0007_left.png =====
+12,726 = xx 4x14 19 00x WxT Ut |
+100x100 100x100 100x100
+=> 12,726x10,000=12,996x+12,321*10,000 — 12,321x
+=> (12,726x10,000-12321 10,000) = 12996x — 12321x
+10,000(405) = 675x
+x= 40,50,000 _ 26000
+675
+31. If % 2,000 is invested at the rate of 20% per
+annum, compounded half-yearly, then the
+amount after 18 months will be:
+(a) 2,628 (b) %2,662
+(c) %3,200 (d) %2,600
+RRB ALP & Tee. (21-08-18 Shift-IT
+Ans : (b) Principal (P) = %2000
+Rate (r) = 20% Annual, half yearly interest is payable
+so Rate (r) = 2 10%, time (T) = 18 month = 3
+Half year
+Formula- Compound interest
+Time 3
+= Principal (: ue) = 2000 (+2)
+100 100
+= 2000 (3) =2x1331 = 2662
+After 18 month amount will be 32662
+Type - 2
+32. In how many years %1728 will become %2197 at
+8s annual rate of compound interest.
+(a) 2 Year (b) 13 Year
+(c) 3 Year (d) 25Year
+RRB RPF SI - 16/01/2019 (Shift-I1T
+Ans: (c) Principal = $1728
+Amount =% 2197
+Rate (R) = 8
+Time (n) =?
+RY )
+Amount = Principal +x)
+100
+a
+gt os"
+2197 =1728) 1+ ~ima(1+ 25)
+100 300
+2197 _(13)"
+1728 (12
+13 (13
+2) (2
+n=3 Year
+Compound Interest 29
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0007_right.png =====
+33. If the amount of %64 increases to %83.20 in 2
+years, then at the same percentage rate of
+simple interest, how much amount of %86 will
+become in 4 years
+(a) 71148 (b) & 124.70
+(c) & 127.40 (d) % 137.60
+
+RRB JE - 22/05/2019 (Shift-IIT.
+
+Ans : (d) Let Rate is R%
+
+. . PxRxT
+simple interest = ————
+100
+simple interest = Amount — Principal
+= 83.20 — 64 = 19.20
+. . PxRxT
+
+Simple interest = ————
+
+100
+
+19.200 = 4xRx2 1920
+
+100 128
+
+R= 15%
+
+Rate = 15%, Principal = 86, time = 4 Year,
+
+Amount =?
+
+simple interest = 86x15x4 _ 51.60
+
+100
+Amount = Principal + simple interest
+= 86 + 51.60 = 7137.60
+
+34. The amount of 800 becomes %956 in 3 years at
+a fixed rate of simple interest. If the rate of
+interest increases by 4% then the amount of
+%800 will be increased in 3 years?
+
+(a) 71025 (b) 1020.80
+(c) %1052 (d) 71054
+RRB RPF SI — 10/01/2019 (Shift-I
+Ans : (c) simple interest = Amount — Principal
+: . PxRxT
+Simple interest = —————
+100
+156 ~800xRatex3 pate = 158 - 6.5%
+100 ; 24
+
+When rate increase 4% then
+
+Amount = simple interest + Principal
+
+= 8004105%3. 800 = 8x 10.53 +800
+100
+
+= 84 x 3 + 800 = 1052
+
+35. Ganesh took a loan of 14000 which is to be
+repaid after three years at compound interest
+at the rate of 10% per annum. What is the total
+amount he will have to pay after three years?
+(a) 716200 (b) 718634
+(c) %17940 (d) 718497
+
+RRB JE - 31/05/2019 (Shift-I11.
+
+Ans. (b) Principal = 714000, time = 3 Year
+
+Rate = 10% Annual
+3
+Amount = 14000{ 1+)
+100
+= 14000x UU - zig634
+10 10 10
+} YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0008_left.png =====
+36. Calculate 1.5 years of interest at a 10% annual
+interest rate on an amount of 71000 when
+interest is calculated on a_ half yearly
+compound interest basis.
+
+(a) 7167.36 (b) 7157.63
+(c) 2150.25 (d) 160.55
+RRB JE - 22/05/2019 (Shift-I)
+Ans : (b) P=2%1000, r=10%, n= 1.5 Year = 3
+Half year
+cl= oft + x -P
+200
+3
+= to00(1+- 3) —1000
+200
+= 1000x2121, 21 1000
+20 20 20
+= 7st -1000= 1157.63 - 1000 =% 157.63
+
+37. When calculated by compound interest on a
+half yearly basis, find the compound interest of
+18 months at 40% per annum on an amount of
+18500.
+
+(a) & 13468 (b) & 16280
+(c) & 16000 (d) & 15469
+RRB RPF Constable — 25/01/2019 (Shift-I)
+Ans : (a) P= 18500
+R (Annual) = 40%
+Half yearly Rate = 1/2% = 20%
+n=3 [18 month = 3 Half year]
+cl=P{1+—_| -P
+100
+3
+= 18500 +) —18500
+100
+6y
+-18s00() —18500
+= 1850x226 _ 18500
+125
+
+= 31968 — 18500 = 713468
+
+38. Ata rate of 10% half yearly compound interest
+at %6000. Find the compound interest received
+
+1
+in 1— years
+in 1 year
+(a) %870 (b) 900
+(c) 3946 (@) 3910
+RRB JE - 27/06/2019 (Shift-III)
+Ans : (c) *. Interest is half yearly
+1 R= a 5%
+2
+n= e3y2- 3 half yearl:
+279 yearly
+Compound Interest 29:
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0008_right.png =====
+cL=P (+5) -1
+100
+5\
+C1. = 6000} | 1+— | -1
+100
+C1. = 6000 x 2261-8000)
+8000
+C1 = 61261 _ 7566 _ 945.75
+8 8
+Compound interest (approximate) = 7946
+39. Divide the amount of %3364 between A and B
+in such a way that the amount received after 5
+years of investing A's share at the rate of 5%
+compound interest annually, after 7 years of
+investing B's share at the same rate will be
+equal to the amount received. Find the share of
+A.
+(a) 71564 (b) 71600
+(c) 1764 (d) 21864
+RRB JE - 27/06/2019 (Shift-I)
+Ans : (c) Let A's share = x
+o B's share = %(3364 — x)
+Amount of A -
+Gl
+Amount = Principal 14+
+100
+5
+= (+5)
+100
+(53)
+=x(—
+20
+Amount of B —
+5)
+Amount = (3364 - x) | 1+—
+100
+21V
+= (3364 — x) | —
+G36» (7)
+5 7
+{5 = (3364 - x) (3)
+20 20
+x= (3364-x) 2x24
+20 20
+400x = 3364 x 441 - 441x
+841x = 3364 x 441
+xe 3364x441 = 21764
+841
+40. In what time will the amount of 71000 become
+21331 at the rate of 10% annual compound
+interest?
+(a) 4 Year (b) 3 Year
+(c) 2 Year (d) 5 Year
+RRB JE - 27/06/2019 (Shift-I)
+5 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0009_left.png =====
+(Ans: (b) Principal (P) = 1000
+Amount (A) = 71331
+Rate (r) = 10%
+Time (t) =?
+(55) = 5)
+A=P|1+—] , 1331=1000] 1+—
+100 100
+1331 _ (; 1 )
+1000 (10
+(i 1 } _ (t 1 J
+10 10
+(On comparing of powers,
+t=3 Year
+41. Meena took a car loan of %275000 from the
+bank. She paid interest at an annual rate of 8% |:
+(p.a.) and paid full amount in 3 years While
+paying, she paid her old scooter and 335000 to
+the bank. What was the total price of the
+scooter?
+(a) %60, 000 (b) 6,000
+(c) %66,000 (d) 26,600
+RRB RPF Constable — 20/01/2019 (Shift-II
+Ans : (b)
+[Loan amount taken by meena (P) = 275000
+Rate(r) =8%, time n = 3Year
+Cost of scooter = Amount-335000
+= 275000 +275000%8%3 _ 335999
+100
+= 275000 + 66000 — 335000
+= 341000 —335000 = %6000
+Hence, cost of scoter is 76000
+42. What will be the amount of %3000 after 2 years
+if compound interest is compounded annually |
+at about 12 percent per annum interest rate?
+(a) 33,763 (b) 3,773
+(c) 33,873 (d) 33,766
+RRB RPF Constable — 19/01/2019 (Shift-I
+Ans. (a) : Principal = %3000, Rate = 12%, Time =
+2Year
+. Ao Rate Time
+an Amount = Principal (1 + 100)
+2
+= 30001 + 2)
+100
+=3000x cad x 28
+25 25
+_ 784x 24
+5
+= 3763.2 =F 3763
+43. Satya invested some amount in a fixed deposit
+what amount of money would be receive on
+maturity if he invested 714500 at a 20%
+compound interest rate at quarterly
+compounding rate for a period of 6 months.
+Compound Interest 29
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0009_right.png =====
+(a) 715,986.25 (b) 715, 986.5
+(c) % 15,986.35 (d) % 15,986
+RRB NTPC 17.01.2017 Shift-3
+Ans: (a) Invested amount = 14500
+Time = 6 month = 2 quarter
+Rate = 20% Annual = 24 quarter = 5% quarter
+AS (1 + x)
+100
+Received amount on maturity to satya
+2 2
+=14s00{1+-5,) -14s00{ 22) =14500x 41
+100 20 400
+= 215986.25
+44. Neha's %8000 amount becomes %9200 after 3
+years at a fixed simple interest rate. If the
+interest rate was increased by 2%, what
+amount she would have received?
+(a) %8900 (b) 9800
+(c) %2000 (d) %9680
+RRB Group-D — 22/10/2018 (Shift-II1
+Ans: (d) Amount = Principal + Simple interest
+9200 = 3000 + 8000%3xr
+100
+1200 = 80 x 3r
+r=5%
+New Rate =5+2=7%
+- - _ 8000x3x7
+simple interest = —————
+100
+= 1680
+Total amount = 8000 + 1680 = %9680
+45. An amount of 200 was invested in a scheme for
+one year, offering a simple interest of 10% per
+annum, compounding the interest annually.
+Another amount of 200 was invested for one
+year in a scheme at 10% per annum, but
+interest was compounded half yearly. How
+much will be the interest earned under the
+second plan?
+(a) 50 paisa (b) %1
+(c) 10 paisa (d) 25 paisa
+RRB Group-D — 06/12/2018 (Shift-I
+Ans. (a) Principal = = 200, Rate = 10%, time = 1
+Year
+10x1
+Compound amount of first plan = 200(1 et)
+_ 200x11 _ 220
+10
+Compound amount of second plan
+time
+= Principal 1+)
+100
+Principal = ¥ 200
+J YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0010_left.png =====
+9
+Rate = 10% os =5% (Half yearly Compound interest)
+time = 2 Half yearly
+2
+‘Compound amount = 200x ( + x)
+100
+_ 200x21x21 = 441 _ 25995
+20x20 2
+Profit earned under second plan = amount of second]
+plan — amount of first plan = 220.50 — 220 = 50 paisa
+46. Manoj invested %15000 in a fixed deposit
+scheme for 3 years, combining 5% per annum
+annually. What amount will Manoj get on
+maturity of fixed deposit.
+(a) 313,764, 37 (b) 217,463.37
+(c) %17,643.37 (d) 217,364.37
+RRB Group-D — 26/10/2018 (Shift-I])
+Ans : (d)
+Rate \"™®
+Compound amount = Principal +422)
+5)
+=1 1+
+sooo + in)
+=15000x21,. 21,21
+20 20 20
+we =F 17364.37
+So on maturity of fixed deposit manoj will get =
+17364.37
+47, Due to an intense campaign against smoking,
+the percentage of smokers in an area is falling |.
+by 10% every year as compared to previous
+year. If currently the numbers of smokers is
+8748, then what was the number of smokers 3
+years ago?
+(a) 12000 (b) 16253
+(c) 11643 (d) 10000
+RRB Group-D — 24/10/2018 (Shift-I1)
+Ans. (a) : From the Formula—
+For the population of n year ago
+A= —_
+ry
+(ic)
+100
++: Given—
+P = 8748 r= 10%
+n=3 Year
+“AS 8748 _ red
+1-<) (7)
+100 10
+A 8748x1010 10 _ 2000
+9 9 9
+Compound Interest 29°
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0010_right.png =====
+48. Sita borrowed 7180000 at a simple interest rate
+of 10% per annum. On the same day, she gave
+that amount to her friend at an annual
+compound interest rate. How much rupee did
+she gain at the end of 2 years?
+
+(a) 2,000 (b) & 1,600
+(c) % 2,200 (d) & 1,800
+RRB Group-D — 15/10/2018 (Shift-III)
+
+Ans. (d) : Rate = 10%, Principal = = 180000,
+
+Time = 2 Year
+
+Simple interest = PxRxT
+
+P 100
+_ 180000x10x2
+100
+= 36000
+time
+Compound amount = Principal 1+ Rate
+100
+10)
+Compound Amount =180000x| 1+ 700
+= 180000x22x41
+10 10
+= 1800x121
+=% 217800
+Compound interest = Compound Amount - Principal
+= 217800 — 180000
+=% 37800
+Gain profit in two year
+= Compound interest — simple interest}
+= 37800 — 36000 = 1800
+
+49. Mani deposits 78000 in a bank on which he gets
+5% annual interest. If the interest is calculated
+annually, then after two years, what will be the
+amount in his account?
+
+(a) % 8500 (b) = 8700
+(c) % 8820 (d) % 8600
+RRB Group-D — 09/10/2018 (Shift-II)
+Ans. (c) :
+time
+Compound amount = Principal 1+ Rate
+100
+2
+= so00( +5)
+100
+= 8000x2121
+20 20
+= 20x441= %8820
+
+50. If the interest is calculated annually, then the
+amount of %2000 will be approximately after 3
+years at the rate of 10% compound annual
+interest?
+
+(a) % 2510 (b) % 2662
+(c) % 2520 (d) % 2726
+RRB Group-D — 09/10/2018 (Shift-I1)
+] YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0011_left.png =====
+Ans. (b) :
+time
+(Compound amount = Principal) 1+ Rate
+100
+3
+=2000%(1+22
+100
+= 2000x Hu !
+10 10 10 )
+=2x1331
+= % 2662
+51. A person takes 732000 at a simple interest rate
+of 9% per annum and deposits it in the bank at
+a compound interest rate of 10% per annum.
+What will be the total increase in his wealth by
+the end of the third year?
+(a) 71,940 (b) 21,952
+(c) %926 (d) 2,904
+RRB Group-D — 01/10/2018 (Shift-IIT)
+Ans : (b) simple interest = o0te7o =27x320
+simple interest (S.I.) = 8,640
+3
+Compound amount = 32000 0
+100
+3
+= 32000) u
+10
+= 320002211,
+10 10 10
+= 32x1331
+=F 42,592
+Compound interest = Compound amount — Principal ’
+= 42592 — 32000
+=F 10,592
+Growth in amount
+= Compound interest — simple interest
+= 10,592 — 8,640
+=% 1,952
+52. Z paid 710920 after 4 years with 10% annual
+simple interest. How much money did he
+borrow?
+(a) 7,600 (b) 27,800
+(c) %8,200 (d) 27,400
+RRB NTPC 05.04.2016 Shift-1
+Ans : (b) Given-
+Rate = 10% Annual, time = 4 Year
+Amount = 710920
+Suppose &x was borrowed by Z
+As per the question-
+x4 22104 _ 10929
+100
+Compound Interest 29%
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0011_right.png =====
+> Tx 10920
+5
+
+=> 7x = 10920x5
+
+= x= IAS = 1560%5 = 87800
+
+53. A man deposits % 500 at the beginning of each
+year for 2 years at 10% annually compound
+interest rate. Find the maturity amount at the
+end of the 2nd year.
+
+(a) 71.050 (b) 21,150
+(c) ®1,155 (d) 21,200
+RRB NTPC 05.04.2016 Shift : 3
+
+Ans : (c)
+
+10)
+
+Amount at end of first year = 500x +000
+
+= 500x41=550
+10
+Principal for second year = 500+550=1050
+10)
+Amount at end of second year =1050x 109
+=1050x14 = 1155
+10
+
+So maturity amount at end of 2year = 71155
+
+54. A bank pays interest on a saving account at
+half the rate of 4%. What will be the effective
+interest rate at the end of the year?
+
+(a) 4.04% (b) 4.01%
+(c) 4.02% (d) 4.00%
+RRB NTPC 31.03.2016 Shift : 1
+
+Ans : (a) The rate of interest is combined for half]
+
+yearly.
+
+«. for one Year,
+
+Time = 2 Half year
+Rate = < = 2% Half yearly
+1y¥
+
+~. Amount (a)=100( 142) [Let Principal =100]
+
+= 100x215 51 = 104.04 ®.
+50 50
+.. Effective interest rate at the end of year
+= 104.04-100 = 4.04%
+
+55. How much will the amount become while
+37500 are invested at an annual compound
+interest rate of 8% in 1Z years when interest
+rates are compounded half-yearly?
+
+3 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0012_left.png =====
+(a) %42,182.40 (b) %42,000
+(c) 242,120 (d) 42,812.40
+RRB NTPC 28.03.2016 Shift : 1
+Ans : (a) Given-
+Principal (P) = % 37500, r= 8%
+Annual = 4% Half yearly
+Time (t) = 5 Year =3 Half year
+Amount(A) = P| we
+100
+4y
+= 37500) 1+—~
+100
+=37500x 76.26, 28 — 249189.40
+25 25 25
+56. 'A' invest 710000 in a scheme at a special rate.
+At the end of two years the amount becomes
+211664. Find the annual interest rate if
+compound interest rate is applicable.
+(a) 7.9 (b) 85
+() 87 (d) 8.0
+RRB NTPC 18.01.2017 Shift : 2
+Ans : (d) Compound amount (A) = Principal :
+Rate time
+(P) x | 1+——
+100
+RY
+=> 11664 = 10000) 1+——
+100
+11664 RY
+>— =| 1+—
+10000 100
+29 RY
+> =|1+—
+625 100
+R__ 27
+> 1+ ==
+100 25
+R 2
+>=
+100 25
+57. If Ram deposits %2000 in his saving account on
+which he gets 20% annual interest at the
+compound annual interest rate. How much will
+be amount in his account after one year (the
+interest calculated in half yearly)?
+(a) 33530 (b) %2420
+(c) %2630 (d) %3870
+RRB NTPC 18.01.2017 Shift : 3
+Ans : (b) one Year = 2 Half year
+Rate= 20 => 10%
+2
+10
+Compound amount = 2000 x} 1+ —
+100
+= 2000x111 en420
+10 10
+Compound Interest 29%
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0012_right.png =====
+58. 710000 was given at the rate of 20% compound
+interest per annum. If this interest is calculated
+half early, find the compound money after 2
+years
+(a) 714600 (b) %12500
+(c) %14642 (d) 314641
+RRB NTPC 16.04.2016 Shift : 1
+Ans: (d) Interest calculated half yearly
+Rate = 20 _ 10%
+2
+and time = 2 x 2=4 Year
+time
+.. Amount = Principal (1-8)
+100
+4
+=10000{1+20
+100
+4 4
+=10000 we =10000 i
+10 10
+14641
+=10000x——_~_ = 714641
+* 70000
+59. In what time will the principal of 710000 be
+increased to 713310 at the interest rate of 10%
+per annum in a bank when interest is
+compounded annually?
+(a) 4 Year (b) 5 Year
+(c) 3 Year (d) 6 Year
+RRB NTPC 16.04.2016 Shift : 2
+Ans : (c) Given-
+Principal (P) = 10000
+Amount (A) = 713310
+Rate (R) = 10% Annual
+time (t)=?
+RY
+Formula- A = P i) from-
+100
+G
+13310 = r0000{ 1+)
+100
+(2 . ( 10 }
+—| =/14+—
+10 100
+ny _(uy
+10 10
+On comparing the powers of both sides -
+t=3 Year
+60. Mr. Vagish invested money in Ekdi. How much
+amount will he get at maturity if %4500 is
+invested for 6 months at a compound interest
+rate of 20% annually and the interest is
+compounded quarterly?
+(a) %4961.5 (b) 4961.25
+(c) _%4961.35 (d) %4961
+RRB NTPC 11.04.2016 Shift : 3
+) YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0013_left.png =====
+Ans : (b) Rate (r) = =5%
+time (n) = 2 quarter
+a 2
+Amount (A) = P (+5) = 4500 (+5)
+100 100
+= 4500x2121 = 4961.25
+20 20
+61. Mr. Nishi barrows %2000 at an annual
+compound interest rate of 5% what will be the
+compound interest for 2 years when the
+interest is compounded annually.
+(a) %205 (b) 22205
+(c) %2250 (d) %250
+RRB NTPC 07.04.2016 Shift : 1
+Ans: (a) Rate = 5%, Time = 2 Year,
+Principal = 2000
+time 2
+Amount = Principal (1+8&\ ~~ = 2000f 1+
+100 100
+21 21x21
+=2 — 2 —— |= 221
+v00»{ >) > oo0{ 21221) 05
+Interest = Amount — Principal = 2205 — 2000 = 205
+62. Prachi barrows %550 at a simple annual
+interest rate of 5%. How much will she have to
+pay after 4 years?
+(a) 101 (b) 606
+(c) 660 (110
+RRB NTPC 07.04.2016 Shift :3
+Ans :(c) Principal (P) = 550 '
+Rate (R) = 5%
+time (T) = 4 Year
+simple interest (SI) = PRT = 550x5x4 =110
+100 100
+Amount = Principal + interest = 550 + 110= 660
+63. A person named Shri Ram invested 714000 in
+FD (fixed deposit) what amount will he get
+after the maturity period if he invests the
+amount (capital) for 6 months at quarterly
+basis at a compound interest rate of 20% per
+annum?
+(a) % 15,437 (b) % 15,434
+(c) 215,436 (d) 15,435
+RRB NTPC 19.01.2017 Shift : 3
+Ans : (d) Principal (P) = 714000
+(When rate pay is quarter then rate
+_Annualrate _ 20 _ 5%
+4 4
+time (n) = 6 month = 2 quarter
+A=P ne
+100
+5
+A=14000| 1+—
+100
+Compound Interest 30
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0013_right.png =====
+2
+A=14000%( 24
+20
+= 1400041 - 441x35=
+400
+64. At simple interest for the money 71500, the
+compound money becomes 71800 in two years,
+If the rate of interest is increased by 5%, what
+will be the compound money.
+(a) 71500 (b) %1900
+(c) & 1950 (d) 2000
+RRB NTPC 22.04.2016 Shift : 1
+Ans : (c) Given —
+Principal = 71500
+time = 2 Year
+Amount = 21800
+o Interest = Amount — Principal
+= 1800 -1500 = %300
+Formula- Simple interest =PxRxT
+100
+= 300 = 1500xRx2
+100
+=>R=10%
+after increasing interest rate by 5% = 10% + 5% = 15%
+New Simple interest = was? =450
+New Amount = Principal + interest
+= 1500 + 450
+= [71950
+65. Mr. Yashwant invested a few rupees in FD.
+What will be the total amount on maturity if
+%10000 is invested for 6 months at a rate of
+20% compound interest annually, compounded
+quarterly?
+(a) 11025.25 (b) 11025
+(c) 11025.75 (d) 11025.5
+RRB NTPC 22.04.2016 Shift : 2
+Ans: (b) Principal (P) = 10000, r = 20% Annual
+= 2 % quarter, r = 5% quarter
+(n) Time = 6 month,
+= 2 quarter
+Amount = oft+5)
+100
+2
+= 10,000) 1+)
+100
+1y
+= 10,000 2)
+20
+2
+=10, ov0( =)
+20
+= 10,0021 x21 = er1025
+20 20
+nn Cor
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0014_left.png =====
+66. Sanjeev invests in a fixed deposit. If 11000 is |
+invested at the rate of 20% compound interest
+annually for 6 months and the interest is
+compounded quarterly, what is the total
+amount he will get on maturity?
+
+(a) %12127.25 (b) %12127.50
+(c) &12127.75 (d) 12127
+RRB NTPC 26.04.2016 Shift : 2
+Ans ; (b) Interest is compounded in quarterly,
+Time = a x4 =2 quarter
+12
+Rate = 20 _ 5%
+4
+ry
+Amount (A)= of + a)
+100
+2
+=1 to00(1 +5)
+100
+=11000x21,,21
+20 20
+=12127.5
+Type -3
+
+67. Ranjan borrows 27500 at an annual compound
+interest rate of 4%. What will be the
+compound interest for 2 years while the
+interest is compounded annually?
+
+(a) %612 (b) %8112
+(c) %8121 (d) %621
+RRB RPF SI - 11/01/2019 (Shift-ID
+Ans : (a) P= 7500, R= 4%, n= 2 Year
+CL=P (+5) -1
+100
+2 2
+= 7500 4) -1] = 7500 (2) -1
+100 25
+= 7500x S6= 85 = 7599x 21 = 612%
+625 625
+
+68. Find the compound interest on % 15,625 for 1
+year 6 months at 8% compound interest rate
+per annum, when compounded half-yearly? !
+(a) 21,951 (b) 71,950
+(c) 71,900 (d) 71,952
+
+RRB Group-D — 12/10/2018 (Shift-II
+
+Ans: (a) Principal =% 15,625
+
+Rate = 8% Annual > 4% Half yearly
+
+Time =1 Year 6 months = 3 Half year
+
+3
+
+Compound interest =15,605(14-*) —15625
+
+= 15625x26,26,, 28 _ 15695
+
+25 25 25
+
+= 17, 576 — 15625 = 1951
+
+Compound Interest 30!
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0014_right.png =====
+69. What will be the compound interest for
+25 years at 8% compound interest rate per
+annum on %31250?
+
+(a) 7300 (b) %7800
+(c) 7337 (d) % 7387
+RRB Group-D — 22/09/2018 (Shift-1
+2
+Ans : (d) A= P| wR 1438
+100 400
+2
+A=31250x 4 14228
+100 400
+A 2 31250%22 27,106
+25 25 100
+A=27x27x53
+A=% 38637
+
+«. C1. (Compound interest) = 38637 — 31250 = & 7387
+
+70. On investing a sum of money at a 4% annual
+rate of compound interest yields 78030 at the
+end of 1 year, when the interest is compounded
+half yearly. The fund is—
+
+(a) 276,000 (b) 271,400
+(c) %72,500 (d) 275,000
+RRB Group-D — 04/12/2018 (Shift-IIT
+Ans. (d) when interest compounded half yearly then,
+r= 4% =2%
+2
+time = 1 Year = 2 Half yearly
+t
+Amount = of: +5)
+100
+2°
+78030 = P| 1+——
+100
+78030 = P Wo)
+50
+2
+(3) P= 78030
+50
+p= 78030x2500
+2601
+P =%75000
+
+71. The interest received on a fixed amount at a
+rate of 10% in a year is %400. Compound
+interest for the same amount at the same rate
+and for the same period if the interest is
+compounded half yearly will be—
+
+(a) = 400 (b) F 210
+(c) % 410 (d) = 200
+RRB Group-D — 05/11/2018 (Shift-I
+Ans. (c) Let Amount = % P, Rate = 10%, T= 1 Year
+~. As per the question,
+pxrxt
+400 = P*EXt
+100
+i YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0015_left.png =====
+400 -Px10x1
+100
+P= 4000
+R= 10%, t =2 Half yearly
+2
+‘Compound amount = [15]
+2100
+2
+> (5 ) .
+2x100
+10 Y
+> 4000(1 + x)
+2
+> sooo 31)
+20
+2121
+=> 4000 x 20 x 20
+=> % 4410
+(Compound interest = Amount — Principal
+(Compound interest = 4410 — 4000 = %410
+72. The simple interest on a sum of money for 3
+years at 12% simple interest rate per annum is
+%6750. What will be the compound interest on
+the same amount at the same rate for the same
+period when compounded annually?
+(a) % 7,092.40 (b) % 7,000
+(c) % 7,592.40 (d) = 7,500.40
+RRB Group-D — 12/10/2018 (Shift-I)
+PRT
+Ans. (c): SI= 700
+From, ’
+6750 = Px12x3
+100
+p= 6750x100
+12x3
+P=18750
+RY
+(Compound amount (A) = of! a)
+100
+3
+A =18750(1 +2)
+100
+A= 18750x28,.28,,,28
+25 25 25
+A = &% 26342.4
+(Compound interest = Amount (A) - Principal (P)
+= 26342.4-18750 = 7592.4
+73. Any money is deposited at 8% per annum
+compound interest rate. If the interest for the
+first year is 72, then get the interest for the
+second year.
+(a) %77.56 (b) %77.64
+(c) &77.76 (d) %85.77
+RRB NTPC 17.01.2017 Shift-2
+Compound Interest 30:
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0015_right.png =====
+Ans: (c) P= SLx100
+RxT
+Amount = P2x100 _ 900
+8x1
+amount for second year = 900 + 72 = 972
+972x8x1
+Interest of second year acs nial 71.76
+74. What will be the compound interest of 172000
+3 years at the of 8% compound interest rate
+per annum.
+(a) %44,670 (b) 11,667
+(c) %41,280 (d) %46,470
+RRB NTPC 04.04.2016 Shift : 2
+Ans : (a) Given- Principal (P) = 172000,
+Rate = 8% Annual
+Time (n)=3 Year
+c1=P(145) -P=P (+5) -1
+100 100
+Py
+= 172000 (+5) -1
+100
+3
+= 172000 (2) -1
+25
+= 172000| 12682 |
+15625
+=172000x 19683-15625
+15625
+= 11.008 x 4058 = 44,670
+75. Find the compound interest at 7500 at the rate
+of 12% per annum for 2 years 4 months to the
+nearest rupee, this interest is calculated on an
+annual basis?
+(a) 2284 (b) 2176
+(c) 2097 (d) 2235
+RRB NTPC 03.04.2016 Shift : 1
+Ans : (a) Principal P = % 7500 , t =25 Year, r=12%
+Annual
+t
+Compound amount A = P ( +5)
+100
+ah
+=7500{ 1442.)
+100
+7 1
+=7500{ 1+ (vs P
+25 25
+= 7500%28x28x(14 3x]
+25 25 3 25
+= 7500x2828, 28 = x 9784.32
+25 25 25
+Compound interest = % 9784.32 — 7500 = & 2284.32
+So Compound interest nearest will be 2284
+J YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0016_left.png =====
+76. Find the interest on F 25000 at 12% per annum |
+compounded annually for 3 years
+(a) %9,000 (b) %9,833.40
+(c) %10123.20 (d) 210,678.90
+RRB NTPC 03.04.2016 Shift : 2
+3
+Ans: (c) Compound interest = 200 (165) “1
+3)
+= 25000 [1+2) -1
+25
+3
+= 25000 (2) -1
+25
+= 25000( 21952 _
+15625
+= 25000x9227 — 210123.20
+15625 !
+77. What will be the compound interest at 24000
+in 2 years at 25% per annum if the interest is
+compounded annually.
+(a) %37,500 (b) 213,500
+(c) %38,400 (d) 236,400
+RRB NTPC 03.04.2016 Shift : 3
+Ans : (b) Compound interest
+ry
+CL)=P)1+—~| -P
+(Cl) ( * iS)
+25)
+= 24000) 1+— | -24000
+100
+1y
+= 24000( 1+) — 24000
+4
+2
+= 24000( 5) — 24000 24000] 23-1]
+4 16
+= 24000) 25-16) _ 24000%2- = 13,500
+16 16
+78. If the interest is compounded annually then for
+2 years at 748000, what will be the compound
+interest at 20% per annum?
+(a) 269,120 (b) 221,120
+(c) %76,800 (d) 272,000
+RRB NTPC 02.04.2016 Shift : 2
+Ans: (b) P(Principal) = 48000, Rate (r) = 20%
+time (T) = 2 years
+ry 20)
+Amount = P| 1+— | =48000/ 1+—
+100 100
+1y 6y
+= soon +4) = 4soon($)
+5 5
+= 48000%ox6 = 69120
+5 5
+interest = Amount — Principal
+= 69120 — 48000 = 21120
+Compound Interest 30:
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0016_right.png =====
+79. How much will become 240,000 at 2% per
+annum at an annual rate of 20%, if interest is
+compounded annually?
+
+(a) %48,620 (b) 58,564
+(c) %57,600 (d) 60,000
+RRB NTPC 02.04.2016 Shift : 3
+Ans : (c) Given- Principal (P) = 40,000
+time (n)=2 Year
+Rate=20% Annual
+A= oft 5)
+100
+2
+= 4oo00(1 + 2)
+100
+= 40000x2x 8 = 57600
+55
+
+80. If Jahnavi borrows 71,25,000 at an interest of
+8% per annum, what will be the amount that is
+payable at the end of 2 years?
+
+(a) %1,45,800 (b) %2,00,000
+(c) %1,45,000 (d) %1,35,800
+RRB NTPC 28.03.2016 Shift : 2
+Ans :(a) P = 125000, R= 8%, n= 2 Year, A=?
+A
+A=P. wo)
+100
+sy
+A =125000| 1+—~
+100
+= 125000 108%108
+100x100
+= 25 x54 x 108 =%145,800
+
+81. 20% compound interest is being given every
+year at 710000. Calculate the amount received
+after 2 years if interest is calculated charged
+half yearly.
+
+(a) 710041 (b) 14641
+(c) 712000 (d) 13660
+RRB NTPC 19.04.2016 Shift : 2
+Ans: (b) Given—
+P=10000
+20
+r= 37 10% Half yearly
+: 1 Year =2 Half year
+~.2 Year =4 Half year
+A= of! + | from-
+100
+4 4
+A = 10000(1 +7 = r0000{ +)
+100 10
+- 13311110000 _ 31 4641
+10000
+3 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0017_left.png =====
+82. Find the compound interest of %5000 for 3
+years at an annual compound interest rate of
+10%.
+
+(a) 1655 (b) 1500
+(c) 1600 (d) 1800
+RRB NTPC 12.04.2016 Shift : 1
+
+Ans : (a) Principal (P) = %5000
+
+time (t)=3 Year
+
+Annual interest Rate (R) = 10%
+
+(Compound interest cy=Al(e 8) 5) !
+
+100
+3
+= 0014-2) “|
+100
+3
+=o (5) 1
+10
+. sooo] Bt Oe |
+1000
+= 5000x231 =1655
+1000
+
+83. Ibrahim barrowed %7500 at an annual
+compound interest rate of 5%. What will be
+the compound interest after 2 years which is
+compounded annually.
+
+(a) %768.75 (b) %8268.75
+(c) %8286.75 (d) 2786.75
+RRB NTPC 11.04.2016 Shift : 1
+
+Ans: (a) Principal (P)=%7500
+
+Annual Rate (R) = 5%
+
+time (t)=2 Year
+
+(it)
+
+(Compound interest =P (+8) “1
+
+100.
+2
+~s00 (16-5) “1
+100
+2
+~7s (2) =| = 7500] 1]
+20 400
+441-400 41
+7500 400 | 7500x705
+= 2768.75
+
+84. Devesh borrowed %4,500 at an annual rate of
+4% compound interest. What will be the
+compound interest after 2 years if the interest
+is compounded annually.
+
+(a) %367.2 (b) %4,867.2
+(c) %4,876.2 (d) %3762
+RRB NTPC 11.04.2016 Shift : 2
+Ans: (a) P= 4500, R= 4%, n= 2 Year
+A=P (+5)
+100
+Compound Interest 30:
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0017_right.png =====
+2
+= 4500( 1+
+100
+2
+= 4500 (=
+100
+= 4500 » 104%104 _ geez 9
+100x100
+CI=A-P
+= 4867.2 — 4500 = 2367.2
+85. Harsh borrowed %8000 at an annual rate of 4%
+compound interest. What will be the compound
+interest after 2 years if the interest is
+compounded annually.
+(a) %652.8 (b) %8,652.8
+(c) © 8,625.8 (d) %625.8
+RRB NTPC 07.04.2016 Shift : 2
+Ans: (a)
+Time
+Compound interest = Principal (82) |
+2
+=8000|(1+4.] -1
+100
+2
+= 8000 (2) -1
+25
+= 8000 676-625
+625
+= 80x24
+625
+_ 64x51
+5}
+_ 3264
+5
+=F 652.8
+86. Mr. Ayush borrowed 23000 at the rate of 5%
+compound interest annually. What will be the
+compound interest after 2 years?
+(a) 2370.5 (b) 2307.5
+(c) %3307.5 (4) %3370.5
+RRB NTPC 19.01.2017 Shift : 1
+Ans: (b) CL=P/1+—_]| -P
+100
+5
+L= 1+— | -30
+Cc. 3000 + =) 3000
+2
+=3000 (3) -1
+20
+= 3000 Ball -1
+400
+=3000x—4L
+400
+=7.5x41=307.5
+nS Co
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0018_left.png =====
+87. Mr. Yudish borrowed 73500 at an annual rate
+of 4% compound interest. What will be the
+compound interest for 2 years?
+
+(a) % 285.6 (b) 3785.6
+(c) 3758.6 (d) % 258.6
+RRB NTPC 22.04.2016 Shift : 2
+Ans: (a) P=%3500, r=4%
+t=2 Year, A=?
+A=P (1 +5)
+100
+4ay 1y
+A=3500 (+4) = 3so0{1+-2.)
+100 25 '
+2
+A=3500 (2)
+25
+A= 3500x2826
+25 25
+= 3785.68.
+
+interest = Amount — Principal
+= 3785.6 — 3500 = 2285.6
+
+88. Mr. Ravish invests in a FD. What is the total
+amount he will get at maturity if %5500 is
+invested for 6 months at a compound interest
+rate of 20% per annum the interest is
+compounded quarterly?
+
+(a) %6063.5 (b) %6063.75
+(c) 6063.35 (d) 26063
+RRB NTPC 26.04.2016 Shift : 3
+Ans : (b) the interest is compounded quarterly,
+. 6
+Time = 0) x4=2 quarter
+Rate 20 =5%
+4
+T " ;
+A= a(t + wl
+100
+5
+A= 55001 + a)
+100
+1y
+= ss00( + 5)
+= 5500x2121
+20 20
+= 55x41 _ 6063.75
+4
+
+89. Mr. Manjunath borrowed %3500 at compound
+interest at an annual rate of 5%. What will be
+the compound interest of 2 years, if the interest
+is compounded annually?
+
+(a) %358.75 (b) %3858.75
+(c)_%3885.75 (d) %385.75
+RRB NTPC 26.04.2016 Shift : 3
+Compound Interest 30:
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0018_right.png =====
+ry 5 2
+Ans: (a) A= P| 1+—~| =3500| 1+—~
+100 100
+= 3500x2121 - 35x441 _ 15435
+20 20 4 4
+C.I. = Amount — Principal
+c1= 15435 _ 3599
+4
+_ 15435-14000
+4
+aE 358.75
+4
+90. Mr. Pritosh borrowed %4,500 at the rate of 5
+percent compound interest. If the interest is
+compounded annually, what will be the
+compound interest for 2 years?
+(a) %4961.25 (b) 461.25
+(c) %4916.25 (d) %416.25
+RRB NTPC 30.04.2016 Shift : 3
+Ans: (b)P=4500, r=5%, t=2 years, CI=?
+t
+A= of: +5)
+100
+5
+A= 4s00(1 +3)
+100
+1y
+= 4500 —
+20
+21y
+= 4500| —
+(>)
+= 4500x2121
+20 20
+= 4961.25
+Cl = A-P
+CI = 4961.25 — 4500 = %461.25
+91. The simple interest on a certain amount at
+12% per annum for 3 years is 4,140. What is
+the compound interest on the same amount at
+8% for two years?
+(a) 22,012.40 (b) 21,840
+(c) 21,913.60 (d) 21,886.50
+RRB ALP & Tee. (29-08-18 Shift-II1)
+Ans: (¢) «; Si=P%Rxt
+100
+4140= Px12x3
+100
+P= 115x100
+P= 11500
+. RY
+A s CL=P}|1+——| -1
+gain. C ( + i)
+3 \
+CI =11500) (+5) -1
+100
+5 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0019_left.png =====
+2
+=11500 +2) -1
+25
+2
+=11500 2) -1
+25
+=11 s0o| 729-225)
+625
+=1 1s00| 22 | = %1913.60
+625
+92. Find the compound interest on = 62500 at
+compound interest of 21% per annum for
+1
+1- 4
+3 years
+(a) %20,687.5 (b) %19,687.5
+(c) %21,638.5 (d) 220,695
+RRB ALP & Tec. (13-08-18 Shift-II1)
+Ans : (a) Given —
+Principal = %62500
+Rate of interest = 21% Annual
+3
+Time == Y
+ime => Year
+3
+21 \2
+Then Compound amount= 62500} 4000
+3
+= casoo( 1)
+100
+3
+~62s00{ *)
+10
+62500x11x11x11
+Compound amount = ————__——_
+1000
+_ 25x121x11 _ g03 1975
+10
+Now Compound interest .
+= 83187.5 — 62500 = %20687.5
+Type -4
+93. The simple interest for 3 years at the rate of
+8% on the amount of @'x' is equal to half of the
+compound interest of 2 years at the rate of
+10% on the amount of 4000. Find the value of
+‘xt.
+(a) %1750 (b) % 1520
+(c) % 6000 (d) % 1400
+RRB JE - 28/06/2019 (Shift-II1)
+Compound Interest 300
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0019_right.png =====
+Ans. (a) Compound interest = Amount — Principal
+=P (+5) -P
+100
+2
+= 4000( 1+) - 4000
+100
+= 4000x121 _ 4000
+100
+= 4000x 2 840
+100
+As per the question—
+Simple interest = compound interest
+xx8x3__ 840
+> Picked dad
+100 2
+= XxX8x3 _ 420
+100
+x = 1204100 _ 7000 _ 21750
+24 4
+94. If the compound interest on a principal in 2
+years at 5% per annum is 710 more than the
+simple interest on the same principal at the
+same time find the principal.
+(a) %5,000 (b) %4,500
+(c) %4,000 (d) 23,500
+RRB RPF SI - 12/01/2019 (Shift-II)
+Ans : (c) difference in compound interest and simple
+interest of two year
+2
+aa Tr
+= Principal (&)
+5
+10= Principal (5 [- different = 10
+100
+T=5%
+n=2
+1y
+10 = Principal (3)
+20
+Principal = 10 x 4 00 = 4000
+95. Ona fixed amount, the compound interest and
+simple interest of 2 years at any interest rate is
+%696.30 and %660. Find the amount.
+(a) %3000 (b) %4000
+(c) %3300 (d) %3600
+RRB JE - 29/05/2019 (Shift-I)
+Ans: (a) Given -
+C.1=% 696.30
+S.L = 660
+T=2 Year
+P=?
+7 . PxRxT
+Simple interest = 100
+J YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0020_left.png =====
+660 = PxRx2
+100
+PR .
+— = 330 —
+100 ©
+RY
+(Compound interest = P| | 1+——| -1
+100
+2
+= 696.30 = P]1+R 428 |
+100 100
+2
+= 696,30 =—PR_, 2PR
+(100)* 100
+~ . PXxRxT
+fi t - ———
+from equation (i) 100
+696.30 = 33R ,. 660
+100
+=> 696.30- 660 = 330R
+100
+36.30 = 330R
+100
+ga 363
+33
+R=11%
+putting the value of R in equation (i)—
+PRL 330
+100
+px -330
+100
+P= 330x100
+11
+P=30x100
+P = % 3000
+So Principal will be ¥ 3000
+96. The simple interest of 3 years at a 5% annual
+rate on a fixed amount is 71260. Find the
+compound interest on the same amount for the
+same period.
+(a) 1324.05 (b) %1384.05
+(c) _%1428.05 (d) 21448
+RRB RPF Constable — 22/01/2019 (Shift-IIT
+Ans : (a) Give—
+Rate of simple interest (r) = 5%
+time (t) = 3 Year
+simple interest (S.I.) = % 1260
+. . PxRxT
+simple interest = ———— '
+100
+1260 = Px5x3
+100
+p= 126000
+15
+P=% 8400
+Compound Interest 30’
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0020_right.png =====
+Compound interest = Principal 1 -1
+100
+3
+=8400|(1+-2-) -1
+100
+3
+=s4oo|( 24) -1
+20
+= 3400 9261-8000
+8000
+= 8400x1261
+8000
+_ 84x 1261
+80
+=F 1324.05
+
+97. The compound interest of 2 years at a rate of
+10% on a fixed amount is %2100. What will be
+the simple interest on the same amount at the
+same rate for the same period?
+
+(a) 71600 (b) 71980
+(c) 71800 (a) 2000
+RRB JE - 26/05/2019 (Shift-ID)
+Ans: (d) compound interest =P (+35) -1
+100
+2
+2100 = P| (oe -1
+100
+2100 =P Bit
+100 1
+2100= [rae]
+100
+2100 = Px 2h
+100
+Pe 2100x100
+21
+Principal (P) = 10000
+As per the question,
+. + PxRxT
+simple interest = ————
+100
+sI= 10000x10x2
+100
+SI = 2000]
+
+So SI will be 72000.
+
+58. An amount was deposited for 7 years at 8%
+simple interest rate. The mature amount was
+invested in a scheme with an annual rate of
+10% compound interest, yielding an interest of
+%1638 over 2 years. Find the principal amount.
+(a) %6200 (b) %5000
+(c) 27500 (d) %8000
+
+RRB JE - 27/05/2019 (Shift-I)
+
+] YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0021_left.png =====
+Ans: (b) Let Principal Amount = = P
+simple interest = Px < xT= SP
+100 100
+Amount = p426P = 56P
+100 100
+As per the question,
+Compound interest = % 1638
+163 = OP (Ve) -1
+100 100
+1638x100 _ 21
+156P 100
+p= 1638 x 100x100
+156x21
+P= 5000
+
+99. On an amount, the simple interest of 2 years is
+660, while the compound interest of two years
+is %696.30, keeping the rate of interest same.
+Find the rate of interest?
+
+(a) 13% (b) 11%
+(c) 10% (d) 12.75%
+RRB JE - 27/05/2019 (Shift-I)
+PRT
+Ans : (b) Simple interest (SI) =——
+ns : (b) Simple interest (SI) 100
+660 = PxRx2
+100
+
+PR = 330 x 100
+
+PR = 33000 sane (i)
+
+difference in compound interest and simple interest for}
+
+two year.
+
+2
+=p(
+100
+696.30 - 660 = px,
+100 100
+36,30 = 23000xR, [PR = 33000
+100x100
+
+36.30=3.3xR from the eq” (1)]
+
+R=38
+33
+
+r=23
+3
+
+R=11%
+
+100. An amount at a fixed rate of simple interest
+increases by 100% in 8 years What will be the
+compound interest for 2 years for 78000 at the
+same rate?
+
+(a) 22050 (b) 2075
+(co) %2125 (d) 2025
+RRB JE - 29/05/2019 (Shift-II1)
+Compound Interest 30!
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0021_right.png =====
+Ans: (c) Let Principal = P
+Amount = 2P
+interest = 2P -P =P
+simple interest = PxRxT
+P 100
+P= PxRx8
+100
+R=2%
+2
+from question —
+. Rate \"""
+Ci d interest = P| | 1+——— -1
+‘ompound interes ( 100 }
+> 1-64
+= 8000 (+35) -1) =8000%(81=64)
+200 64
+= 8000x172 =z 2125
+64
+
+101. Simple interest and compound interest on a
+fixed amount for two years are 78400 and
+%8652 respectively. Find the rate of interest.
+
+(a) 5% (b) 6%
+(c) 4.5% (d) 5.5%
+RRB JE - 29/05/2019 (Shift-IIL.
+
+Ans: (b) When time is 2 year then—
+
+RY
+CL-SI.=P|——
+(ii)
+2
+8652-8400=—
+10000
+2
+52-FR_ iy
+10000
+SL= PxRx2
+100
+PR
+8400 =——
+50
+
+PR = 8400 x 50......... (ii)
+
+from the equation (i) and (ii)-
+
+PR? = 252 x 10000
+
+PR x R = 252 x 10000
+
+252 x 10000
+R=
+PR
+R= 252 x 10000
+8400x 50
+R= 21x10
+7x5
+
+R=6%
+
+102. Find the simple interest of same amount for, 2
+years at the rate of 12.5% on an amount, if the
+compound interest of the same period at the
+same rate is 7510?
+
+(a) %480 (b) %500
+(c) %408 (d) %420
+RRB JE - 30/05/2019 (Shift-II1)
+3 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0022_left.png =====
+Ans : (a) Compound interest = Amount — Principal
+510=P}1+—_| -P
+100
+= eft 5 -P
+100.
+2
+=P f + 25) -P
+100
+2
+. of; 2] _p
+1000
+2
+= 2] -P =» ee)
+8 64
+s19- Px?
+64
+p= 510x 64
+17
+P = 1920
+. . PxRxT
+Simple interest = ————
+100
+Simple interest = 1920x12.5x2
+100
+Simple interest = 192025
+100
+Simple interest = 480
+103. Simple interest on a certain sum of money for 3
+years at 5% per annum is = 5250. What will be
+the compound interest on that sum of money at
+the same rate for the same period?
+(a) 5,510.88 (b) %5,516.88
+(c) 5,512.88 (d) %5,517.88
+RRB ALP & Tec. (10-08-18 Shift-ID)
+. . PxRxT
+Ans: le interest = ————
+ns : (b) simple interest 100
+Px5x3
+5250 = ———
+100
+Principal = ae 20
+Principal = 35000
+Compound interest = Principal (+5) -1
+100
+5\
+= 35000) | 1+— | -1
+son (14555) 3
+_ sooo] 21*21%21-20%20220
+20x 20x 20
+= ssooo{ 22515000
+8000
+1261
+=35x——
+8
+=35 x 157.625 = %5516.88
+Compound Interest 30!
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0022_right.png =====
+104. Smita took a loan of 775000 at a simple annual
+interest rate of 15%. She give that money to
+her friend on the same day, at the same interest
+rate but according to the annual compound
+interest rate. How much profit will she earn
+after 2 years?
+
+(a) © 1,887.5 (b) % 1,867.5
+(c) © 1,786.5 (d) 1,687.5
+RRB Group-D — 30/10/2018 (Shift-ID)
+Ans: (d) simple interest (SI) = PxRaT
+100
+_ 75000152 =2 22500
+100
+Compound amount
+ao(i+K.)
+100
+A= 75000 x US, 115
+100 100
+A= 99187.5
+Compound interest = A-P
+= 99187.5 — 75000 = %24187.5
+Smita's Profit = 24187.5 — 22500 = %1687.5
+
+105. Anjali borrowed %22500 for 2 years at the rate
+of 6% simple annual interest and on the same
+day she gives this amount to Ashoka at
+compound interest for the same interest rate
+and same time. How much loss or profit will
+she make?
+
+(a) 73 Profit (b) 73 Loss
+(c) 81 Loss (d) 81 Profit
+RRB Group-D — 11/10/2018 (Shift-II)
+Ans: (d) R=6%
+T=2
+P = 22500
+SL= 22500x 6x2
+100
+
+S.1. = 2700
+
+= 22500 + 2700
+
+Amount = 25200
+
+2
+A= 22500(1+;5) = 2250x2323
+100 50 50
+
+= 25281
+
+Total Profit = 25281 — 25200 =%81
+
+106. 100 has been invested in a scheme for one year
+in which annual interest is given at the rate of
+10% Another 100 has been invested in a one
+year plan that yields an annual interest rate of
+10% but the interest is compounded half yearly
+The interest received by second plan is how
+much more than the first plan.
+
+(a) = 1 (b) 50 Paisa
+(c) 25 Paisa (d) No difference
+RRB Group-D — 16/11/2018 (Shift-III)
+) YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0023_left.png =====
+Ans. (c) : Received simple interest of invested amount
+in first scheme = 100x10%1 =710
+100
+Received simple interest of invested amount in second]
+scheme
+sy
+= 100} 1+—— | -100
+100
+2
+=100x Ea —100
+20
+441
+=100x—— -100
+*7400
+=I jog 3 A4 _ Al 219.25
+4 4 4
+Required difference = 10.25 — 10 = 25 paisa
+107. A simple interest of 8% on an amount for 1.5
+year is %360. If the time is doubled according to
+the same interest rate on the same amount, find
+the compound interest?
+(a) 2778.13 (b) 2779.13
+(c) &779 (d) 2778
+RRB Group-D — 01/10/2018 (Shift-II1)
+Ans : (b) As per the question,
+Simple interest Prt
+100
+360= Px1.5x8
+100
+P=23000
+doubling the time (t) = 2x1.5 year =3 year
+t
+Compound interest =P we) -1
+100
+3
+= 3000 (+5) -1
+100
+3
+= 3000 (+2) -1
+25
+3
+= 3000 (2) -1| = 3000, 26821]
+25 15625
+= 3000) 19683-15625
+625x25
+_ 4058x3000 _ 4.84058 _ 19478.4
+625x25 25 25
+=% 779.13
+108. The simple interest of 8 years at 8% per
+annum on a deposit is ¥16000.What will be the
+compound interest of 2 years at the rate of one
+fourth of this rate on the same amount.
+(a) 71,020 (b) 7980
+(c) 71,010 (d) 71,015
+RRB NTPC 17.01.2017 Shift-2
+Compound Interest 31
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0023_right.png =====
+. . PxRxT
+Ans : le interest = ———
+ns: (c) simple interest 100
+Principal = 16000%100 _ >s999
+8x8
+As per the question,
+1=8% HT xe
+4
+2
+gxt
+Compound interest = 25000) ard —25000
+= 25000%51x51 9 5999 = 26010 — 25000= 1010
+50x50
+So Compound interest = 71010
+109. Simple interest on a fixed sum of money is
+%1200 over 2 years at a fixed rate of interest.
+The compound interest of the same amount
+gets 71290 in 2 years at the rate of simple
+interest. What will be the principle?
+(a) 71200 (b) 216000
+(c) 26000 (a) 4000
+RRB NTPC 02.04.2016 Shift : 2
+Ans : (d) Rate=R, Time (T) = 2 years
+SI= 1200, CI = 1290
+and difference of CI to SI of two years
+RY
+D=pP| —
+@ ()
+R?
+1290-1200 = P| ——_
+90-120 (aac
+PR? = 90 x 10000
+PR? = 900000 ........(1)
+g1- PTR
+100
+1200 = 2*2*R
+100
+PR= 1200x100
+2
+PR = 60000 ........ (2)
+From the equation (1)—
+PR.R = 900000
+60000 x R = 900000
+R= 900000
+60000
+R= 15%
+From the equation (2)—
+P x 15 = 60,000
+P a (Principal) P = %4000
+) YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0024_left.png =====
+110. An interest of 72000 is given on a fixed sum of
+money at a rate of 10% per annum simple
+interest in 2 years. If the compound interest
+accrues annually on this amount, what will be
+the effective rate of interest?
+
+(a) 10.25 (b) 10.50
+(c) 10.75 (d) 10.15
+RRB NTPC 30.03.2016 Shift : 2
+Ans: (b) Let Amount =x
+Then,
+2000 = xx 40 x2
+100
+x =%10,000
+2
+Ccl= to00o{1 +t) —10000
+100
+= too00( 1 = 2100
+100
+So now interest rate on 72100
+re 2100x100 _ 21 _ 10.5%
+10000x2_ 2
+
+111. On certain principal, simple interest is
+obtained to & 2,000 in two years at the rate of
+10% p.a. if the interest on this amount is
+compounded annually. So what will be the
+difference between the two types of interest?
+(a) %200 (b) %220
+(c) 2100 (d) 2120
+
+RRB NTPC 29.03.2016 Shift : 3
+
+Ans : (c) Let Principal = %x
+
+*: Simple interest = PxRT
+
+100
+= 2000= xx10x2
+100
+x= 10000
+.. Compound interest for 2 years = al( 5) 1
+2
+= oo ( a) 1
+100
+=1 oooo| 124 - i
+100
+=10000x2! = z2100
+100
+
+~. Different in interest = 2100 — 2000 = 7100
+
+112. There was an increase of 40% by the simple
+interest on an amount in 4 years. What will be
+the compound interest at %6000 at the same
+rate in 3 years?
+
+(a) 71260 (b) 71886
+(c) = 1986 (d) %7986
+RRB NTPC 18.01.2017 Shift : 3
+Compound Interest 31
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0024_right.png =====
+Ans : (c)
+
+Let rate of interest =r %
+
+Principal = 7100
+
+7 40
+
+interest = 100 x —— = 40
+
+100
+As per the question
+= 49 = Oar 10%
+100
+Compound interest of 3 years of %6000
+3
+= 6000x (2) -1|=z1986
+100
+
+113. If the rate of interest is 8% per annum and
+10000 are lent for half yearly at the compound
+interest, then calculate the rate of equivalent
+simple interest for the first year?
+
+(a) 8.16% (b) 9%
+(c) 7% (d) 10%
+RRB NTPC 19.04.2016 Shift : 1
+Ans: (a) *- Interest is compounded for half yearly.
+ae td : = 4% half yearly
+
+n=1 year = 1 x 2=2 half yearly
+
+Compound interest for the year
+
+Cl =P ( +5) -1
+
+100
+2
+= 10000) (1 +4)
+100
+= 10000 26 x 26 -1
+25 25
+676-625
+= 10000] ———
+Pas |
+=10000x2
+625
+
+=%316
+
+If simple interest be 7816 for one year.
+
+then 816 = 10000xR x1
+
+100
+R=8.16%
+~-equivalent simple interest rate = 8.16%
+
+114, Find the compound interest at 7% of that
+amount for 3 years where whose simple
+interest will be €18900 at the rate of 7% in 3
+years. (Rounded off to nearest 2)
+
+(a) 719,746 (b) 18,390
+(c) %20,254 (a) 221,053
+RRB NTPC 28.04.2016 Shift : 1
+. - PxRxT
+Ans : (c) simple interest (S.1) =————.
+100
+18,900 = 2*7*3
+100
+[ YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0025_left.png =====
+p= 18:900%100 _ 990100 90000
+7x3
+Again compound interest
+(C1) = 90000 (+3) -1
+100
+= 90000 (2) =I
+100
+_ 90000 1225043 -1)
+1000000
+= 90000x225043 _ 9, 225043
+1000000 100
+= 20253.87 = %20254
+Type -5
+115. The difference of 2 years compound interest
+and simple interest on a fixed amount at 12.5%
+is 45. Find the amount.
+(a) & 2880 (b) % 3000
+(c) & 2000 (d) % 2440
+RRB JE - 22/05/2019 (Shift-I
+Ans : (a)r=12.5%, t=2 Year Cl~SI=%45P=?
+difference between CI and SI of two years
+2
+= ro 5)
+100
+12.5)
+(100)
+P= 45x100x100 _ = 2880
+12.5x12.5
+116. Ata fixed amount for, 2 years simple interest
+at 4% is $140. Find the difference between the
+compound interest and the simple interest for
+the same rate and the same period at the same
+amount.
+(a) 72.80 (b) %2.40
+(c) %3 (d) 71.80
+RRB JE - 23/05/2019 (Shift-I
+Ans: (a) Given—
+R=4% time = 2 Year
+Simple interest = 140
+. . PxRxT
+Simple interest =—————
+100
+140-2% 4x2
+100
+P= 7000 _ 1750
+4
+|As per the question —
+A= of: +e
+100
+Compound Interest 31
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0025_right.png =====
+2
+A= 1730(1 + x)
+100
+A=1750x 26x28
+25 25
+A=1892.8
+Interest = 1892.8 — 1750 = 142.8
+Difference of interest = 142.8 - 140 = 2.8
+117. Find the difference between compound interest
+and simple interest for 2 years at the rate of
+8% per annum on 715000.
+(a) 7100 (b) %96
+(c) 7108 (d) 712
+RRB RPF SI — 13/01/2019 (Shift-II1)
+Ans : (b) Given-
+P=2 15000
+R=8%
+time (t)= 2 Year
+When time is 2 year and then difference of compund
+interest and simple interest.
+2
+D= (55) from,
+100
+2
+= 1s000( =)
+100
+4
+= 15000x—— =% 96
+625
+118. On what principal will the difference of
+compound interest and simple interest at the
+rate of 10% for three years will be 620?
+(a) = 18000 (b) % 25000
+(c) = 24000 (d) % 20000
+RRB JE - 24/05/2019 (Shift-I11)
+Ans : (d) Let Principal = =P
+As per the question—
+3
+can-[o(o ip) a] -Pammes
+100 100
+620 = (ee)
+1000 100
+620= of |
+1000
+620= >| 35]
+1000
+P =%20000
+119. Find the difference between compound interest
+and simple interest, received in 4 years at the
+rate of 10% on the amount of € 1000.
+(a) %64.10 (b) %52
+(c) %74 (d) 7116.40
+RRB JE - 26/05/2019 (Shift-II1)
+J YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0026_left.png =====
+Ans. (a)
+(Compound amount after n Year A = of: +5)
+10)’
+(Compound amount after 4 Year = rooo{1+ 7)
+= tooo HL HU =71464.1
+10 10 10 10
+.. Compound interest = 1464.1 — 1000 = 464.1
+. . PRT
+Simple interest after 4 years = ———
+100
+_ 1000x10x4 = 400
+100
+So intended difference = 464.1 — 400 = %64.10
+120. The difference between compound interest and
+simple interest of 2 years at a rate of 8% ona
+fixed amount is %8. Find the amount.
+(a) %2000 (b) 21250
+(c) 31500 (d) 21000
+RRB JE - 02/06/2019 (Shift-I
+Ans : (b) Given—
+interest Rate = 8%
+time = 2 Year
+difference of compound interest and simple interest= 78
+Let amount = P [where D = difference]
+2
+D= (3s) from—
+100
+2
+8= of _
+100
+8= Px
+625
+P=%1250
+121. The difference between compound interest and
+simple interest is 7124.05 when calculated on a
+half yearly basis for 2 years at the rate of 10%
+on a fixed amount. Find the amount.
+(a) %8400 (b) % 10000
+(c) = 8000 (d) %8200
+RRB JE - 02/06/2019 (Shift-I)
+Ans : (c) Given
+interest Rate = R/2 = 10/2 = 5% (Half yearly)
+time = 2 Year = 4 Half year
+Let Principal = P
+T
+P (+5) -1 -(PRT) - 1405
+100 100
+4
+P (+5) -1 -(24)- 124.05
+100 100
+p | 21x21x21x21~ 20x20x20%20 ]_ Pew) 1240s
+20x 20x 20x20 100
+CompoundInterest —SS~S~«SS
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0026_right.png =====
+P 194481-160000]_Px5x4_ 12405
+160000 100 100
+P a) = 12405
+160000 100
+P 2481 = 12405
+1600
+p= 12405%1600 _ zenqq
+2481
+122. The difference between the simple interest on a
+principal, at the rate of 8% in 8 months and at
+the rate of 6% in 14 months is 200. Find the
+principal.
+(a) 712000 (b) 712800
+(c) %24000 (a) 14400
+RRB JE - 01/06/2019 (Shift-I
+Ans: (a) Let Principal =%x
+simple interest of 8 month at the rate of 8%
+Rate (R) = 8%, time (T)= - Year = 3 Year
+. . PxRxT
+simple interest = ————
+100
+2
+Xx8x=
+2 3
+100
+_ 6x
+300
+simple interest of 14 months at the rate of 6%
+Rate (R) = 6%, time (T)= * = z Year
+. . PxRxT
+simple interest = ————
+100
+xx6x2
+_ 6
+100
+ak
+~ 100
+difference between simple interest = 200
+Tx _ 16x _ 499
+100 300
+21x —16x. =200
+300
+2* _ 909
+300
+x = 40 x 300
+x = 212000
+123. The difference between simple interest received
+on a sum of money at 4% per annum for 2
+years and compound interest is %8. Find that
+amount.
+(a) 74000 (b) %10000
+(c) %8000 (d) 5000
+RRB JE - 01/06/2019 (Shift-II1)
+J YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0027_left.png =====
+Ans. (d) for 2 Year,
+Formula:— Compound interest — simple interest
+time
+= Principal Rate
+100
+2
+8 = Principal (+)
+100
+A 1 1
+8 = Principal x——x—
+25 25
+Principal = 8 x 25 x 25
+Principal = %5000
+124, The difference between simple interest and
+compound interest on a certain amount at the
+rate of 5% for 3 years is 214.48. Find the
+amount.
+(a) & 1850 (b) % 1999
+(c) © 1899 (d) % 2160
+RRB RPF Constable — 22/01/2019 (Shift-I1
+PxRxT
+Ans: imple interest = ————
+ns: (c) simple interest 700
+Let P=%x
+. . xx5x3 3x
+simple interest. = ——— = —
+100 =—-20
+5)
+Compound interest = x} | 1+—~| -1
+100
+3 3
+=x) 1+) -l)=x (3) -1
+20 20
+(ae) 1261
+=x| ———— |= x
+8000 8000
+As per the question,
+261 3% 144g
+8000 = 20
+1261x —1200x =14.48
+8000
+61x =14.48x 8000
+1448 x80
+=—— = 81899
+“a
+125. Find the difference between compound interest
+and simple interest of %400 for 2 years at an
+interest rate of 5%.
+(a) Z10 (b) %4 (c) %3 (d) ZI
+RRB RPF Constable — 24/01/2019 (Shift-II)
+Ans. (d) When difference is two year between simple
+interest and compound interest,
+Difference = Principal | —~
+P (i00
+ry
+Difference = (5)
+100
+r= 5%, P =%400
+2
+Difference = 400 (5) = 400 Zl
+100 20x20
+Compound Interest 31:
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0027_right.png =====
+126. Find the difference between simple interest and
+compound interest at a %2000 for 2 years at
+10% annual interest rate.
+(a) 70 (b) 30
+(c) %20 (d) = 10
+RRB Group-D — 25/09/2018 (Shift-IIT.
+Ans, (c) : Given-
+t=2 Year
+p= 2000
+r=10%
+Formula-
+2
+D- (=)
+100
+10
+D 200a( *)
+D=2000x a
+100
+D=220
+127. The difference between compound interest and
+simple interest is 2 for 2 years at an interest
+rate of 5% on an amount. Find the principal
+amount.
+(a) %650 (b) %920
+(c) %800 (d) 700
+RRB Group-D — 29/10/2018 (Shift-IIT.
+Ans : (c)
+RY
+D= (50) from the formula,
+100
+2
+2=r(-5)
+100
+P =2x 20 x 20=%800
+128. Find the difference between compound interest
+and simple interest at 78000 at the interest rate
+of 5% for 3 years
+(a) 761 (b) 758
+(c) %95 (d) 768
+RRB Group-D — 30/10/2018 (Shift-ID
+Ans: (a) A= (+e)
+100
+sy
+A= so0o(1 + a)
+100
+A= 8000x105 105,105
+100 100 100
+A=%9261
+Compound interest = Amount (A) — Principal (P)
+= 9261 - 8000 =% 1261
+. A PxRxT
+simple interest (SI) 100
+_ 8000x5x3 _ 1200
+100
+difference between compound interest and simple
+interest = 1261 - 1200 =% 61
+} YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0028_left.png =====
+129. The difference between simple interest and
+compound interest received in two years at
+%20,000 is %800. What is the annual rate of
+interest?
+
+(a) 30% (b) 15%
+(c) 25% (d) 20%
+RRB Group-D — 11/10/2018 (Shift-II)
+
+Ans : (d) Difference of simple interest and compound
+
+interest of 2 year = 7800
+
+PR?
+F la |d =—>
+om
+d=difference, P= Principal
+R=Rate
+2
+800 = 20000x R.
+100x100
+
+R? = 400
+
+130. These is a difference of %180 between 15%
+simple annual interest and compound annual
+interest on a certain amount for 2 years Find
+the principal amount.
+
+(a) = 9000 (b) % 7000
+(c) = 8000 (d) % 6000
+RRB Group-D — 08/10/2018 (Shift-II)
+Ans : (c) Let Principal == P
+. - Px15x2 .
+le interest = ————
+
+simple interes 100 (i)
+
+; 1s
+
+Compound interest = P| | 1+——]| -1
+
+100
+=P (= -1
+20
+=P 529-400] _ Px129 (ii)
+400 400
+
+As per the question-
+
+Compound interest ~ simple interest = 180
+= 129P _30P _ 189
+
+400 100
+129P-120P _ 180
+
+400
+
+9P = 180 x 400
+P=20 x 400
+P=%8000
+
+131. What will be the difference between simple
+interest and compound interest of 2 years at
+10% interest rate on 78500?
+
+(a) 7 68 (b) = 50
+(c) 785 (d) = 70
+RRB Group-D — 23/10/2018 (Shift-I1)
+Compound Interest 31
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0028_right.png =====
+Ans. (c) :
+Difference of simple interest and Compound interest o:
+2 year is
+2
+D= (5a)
+100
+D= 8500x1010. =285
+100 100
+132. The difference between the simple interest and
+compound interest of the amount invested at
+5% per annum for 2 years is 715. Find the
+amount.
+(a) % 4,980 (b) % 3,000
+(c) & 4,800 (d) % 6,000
+RRB Paramedical Exam — 21/07/2018 (Shift-II1)
+Ans : (d) Difference of simple interest and Compound
+interest of 2 year is—
+RY
+p=r( 5)
+100
+2
+15S = (3)
+100
+P= 15 x 20 x 20 = %6000
+133. The difference in simple interest paid by two
+banks for two years at % 5000 is $25. Explain
+the difference between the interest rates of the
+two banks.
+(a) 0.25% (b) 0.60%
+(c) 1% (d) 0.10%
+RRB Group-D — 23/10/2018 (Shift-II1)
+Ans: (a) Suppose the first bank gives interest at the
+rate of Rj% and the second bank gives interest at the
+rate of R2%.
+Interest by first bank = SOR? =100R,........(i)
+Interest by second bank
+= 5000%R, x2 _j09R, fii)
+100
+As per the question,
+100 R,-100 R2= 25
+100 (Ry-R:) =25
+R,-R2 = 35 1 0.25%
+100 4
+134. The difference between the compound interest
+and simple interest of an amount at the rate of
+15% per annum for 3 years is $283.50. Find the
+amount.
+(a) % 4,040 (b) % 4,000
+(c) % 4,400 (d) % 4,444
+RRB Group-D — 12/10/2018 (Shift-I
+Ans. (b) :
+Difference = Compound interest — simple interest
+3
+Difference = [P(-s) -+|-(%)
+100 100
+5 YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0029_left.png =====
+3
+283.50 = lu) “53.4
+100 100
+11S 11S 11S 45
+Fe 283.50 elite *00" 100” 100 |
+aN 283,50 =p| 12167 5600-8000
+8000
+P= 283.5 x8000
+567
+P=% 4000
+135. Find the difference between simple interest and
+compound interest of 2 years at an annual rate
+of 20% on a principal of 74000.
+(a) 160 (b) 120
+(c) 90 (@) 110
+RRB NTPC 09.04.2016 Shift : 3
+Ans : (a) Principal (P) = 74000
+Rate (R) = 20%
+Difference of CI and SI of two years
+Compound interest — simple interest = Px (4)
+2
+= 4000»{ 20.) = 4000x 20 x 29 = x60
+100 100 100
+136. Find the difference between the maturity
+values of (i) simple interest for 5 years and (ii)
+annual compound interest at the same rate for
+a amount of 75000.
+(a) 211.00 (b) Z11.50
+(c) 212.00 (d) 212.50
+RRB NTPC 06.04.2016 Shift : 2
+Ans : (d) Principal = %5000
+Rate = 5%
+time = 2 Year
+difference in Compound interest and simple interest for
+two years
+RY sy
+= (5) x Principal = (5) x 5000 |
+100 100.
+= —5__ x sooo =%12.50
+100x100
+137. Each of the two amounts of 710,000 was
+invested for 2 years (i) at the rate of 5% simple
+interest (ii) at the same rate of annual
+compound interest. Whjat is the difference in
+their moturity value?
+(a) = 30 (b) % 25
+(c) % 20 (@) = 40
+RRB NTPC 26.04.2016 Shift : 1
+Ans: (b)
+Difference between of CI and SI for two years
+RY sy
+(D) (5s) r0000{ 55)
+=10000x—>_ = 25
+10000
+Compound Interest 31
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0029_right.png =====
+138. M borrowed some money for 1 year at certain
+simple interest. But the interest rate was
+increased to 2% then the difference of simple
+interest is ¥ 120. Find the principal amount.
+
+(a) %4,000 (b) %5,000
+(c) %6,000 (d) 27,000
+RRB NTPC 27.04.2016 Shift : 2
+Ans: (c) As per the question-
+Px(r+2)x1_Px1%1 _ 159
+100 100
+42-1) =120
+100
+2-120
+100
+P=120x50
+P=%6000
+
+139. Find the difference between simple interest and
+compound interest of $23,465 received at the
+rate of 7.5% in the second year.
+
+(a) 132 (b) 66
+(c) 147 (d) 73.5
+RRB NTPC 28.04.2016 Shift : 1
+
+Ans : (a) Given, Principal (P) = 23,465
+
+and Rate (r) = 7.5%
+
+Formula for difference of 2 years compound interest
+
+and simple interest-
+
+ry 15Y
+Difference (D) =P a) = 23,465( 75)
+100 100
+Y 3y
+= 23465 (<5) = 23465 (3)
+1000 40
+= 23465x—2— = 1185 _, 13) 99-132
+1600 1600
+Type - 6
+
+140. The amount lent at a fixed rate of compound
+interest becomes 71460 in 2 years and 71606 in
+3 years Find the rate of interest.
+
+(a) 11% (b) 12%
+(c) 10% (d) 8%
+RRB JE - 02/06/2019 (Shift-I)
+
+Ans. (¢) From A = (+5)
+
+100.
+Amount of 3 years ' 1606
+Amount of 2 years 1460
+3
+T
+(1455) _ 1606
+( r ) 1460
+Pi 1+——
+100
+D YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0030_left.png =====
+1606 ( R }
+=f 14
+1460 100
+803 ( R )
+=| 14+4+—
+730 100
+803) R
+730 100
+R = 803-730 _ 3 90-10%
+730 730
+141. Deepa deposits an amount of %6250 in the bank
+which becomes %7840 at the rate of compound
+annual interest in two years the rate of interest
+is?
+(a) 13% (b) 10%
+(c) 12% (d) 11%
+RRB Group-D — 25/09/2018 (Shift-I)
+Ans: (c) Principal == 6250
+Time =2 Year
+Amount =% 7840
+Let Rate = R % Annual
+RY
+Amount = Principal (rk)
+100
+RY
+7840 = 6250 x (i +——
+100
+7840 (mary
+6250 100
+(2) (oak .
+25 100
+28 _100+R
+>=-——_—
+25 100
+=> 28x 4=100+R
+R=112-100
+R= 12% Annual
+142. Hari invested 2100 for three years at a simple
+interest rate of 11.03%. How much should tipu
+invest to get the same amount after three years
+but at the rate of 10% compound interest?
+(a) = 120 (b) % 110
+(c) % 100 (a) % 105
+RRB Group-D — 05/11/2018 (Shift-I)
+Ans. (c) : As per the question—
+3
+11.03x100%3 | 199 _p 1410
+100 100
+Compound Interest 31
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0030_right.png =====
+11x11x11
+. 100 = Px ———_
+33.09+100 *Fox10x10
+133.09x10x10x10 _ P
+I1x11x11
+133090 _ P
+1331
+=% 99.9925 =%100
+143. Mr. X invested %300 for 3 years at a simple
+interest rate of 11.03%. How much should Mr.
+Y invest after 3 years to get the same amount to
+return, but at a compound interest rate of
+10%?
+(a) 250 (b) F300
+(c) % 350 (d) % 400
+RRB Group-D — 23/10/2018 (Shift-I)
+Ans. (b)
+The amount given on compound interest is €P,.
+As per the question-
+plist = BxRX  p
+100 100
+3
+(1+) _ 300x3x11.03 +300
+100 100
+ny
+P|— | =99.27+300
+10
+apt =399.27
+10 10 10
+PB = 39927x10 299.97 = %300
+1331
+144. Raju invested %5000 on annual compound
+interest rate for 3 years After 3 years he
+received the 71655 more, then what is the rate
+of interest.
+(a) 40 (b) 30
+(c) 10 (d) 20
+RRB Group-D — 11/10/2018 (Shift-III)
+Ans : (c) Principal =% 5000
+Compound interest = 1655
+Compound amount = 5000 + 1655
+=% 6655
+Time = 3 Year, Rate =R%
+Formula—
+(Time
+Compound amount = Principal [ + 4
+y YCT
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0031_left.png =====
+3
+6655 = s00o( *)
+100
+6655 ( R }
+2? =f 14
+5000 100
+1331 ( R }
+= =/14—
+1000 100
+(i) -(ts)
+=|—] =[14—
+10 100
+ll R 1_R
+>—-1l=—,> — =
+10 100° 10 100
+R=10%
+
+145. A loan of & 305 was taken at a certain rate per
+annum of compound interest, for 3 years After
+three years the amount repaid was = 670,
+calculate the rate of compound interest.
+
+(a) 30% (b) 35%
+(c) 33% (d) 25%
+RRB NTPC 27.04.2016 Shift : 1
+ry
+Ans: (a) Ai it (A) = P| 1+——
+ns : (a) Amount (A) ( + 5)
+Time = 3Year
+ry
+670 = 305| 1+——
+3 s( +5)
+670 ry
+=~ =|1+—_
+305 100
+ry
+2.197 =| 1+——
+100
+1+ 213
+100
++ =03
+100
+r= 30% Annual
+Type -¢@
+
+146. In what time will %4400 become %4576 at 8%
+per annum compound interest rate. The
+interest compounded half-yearly?
+
+(a) 6 month
+(b) 2 Year
+(c) 7 month
+(d) 1 Year
+RRB ALP & Tec. (17-08-18 Shift-I)
+Compound Interest 31
+
+
+===== Part 15 — Compound Interest (pp. 288–318)_page-0031_right.png =====
+Ans : (a) Let, Time = n year = 2n half year
+Given,
+Amount (A) = %4576
+Principal (P) = 4400
+0,
+Rate (r)= iia)
+2
+= 4% Half yearly
+As per the question,
+Time = 2n Half year
+ry
+A= (5) from,
+100
+ay"
+=> 4576 = 4400( ++)
+100
+4576 ( 4 y
+=O =| 14
+4400 100
+26 1 _(26 2n
+25 25
+1
+> 2n=1> n= >
+2
+So required time = 6 months
+147. Under a new scheme, a bank offers an interest
+of 30% per annum compounded annually.
+Suraj deposits T 10,000 under this new scheme
+and at the end of the tenure receives % 28,561.
+What was the tenure of the scheme that Suraj
+had chosen?
+(a) 2 Year (b) 3.5 Year
+(c) 4 Year (d) 4.5 Year
+RRB NTPC 28.04.2016 Shift : 2
+Ans: (c) A= 228,561
+P=%10,000
+r =30%
+n=?
+n
+AS (+35)
+100
+ny
+28561 = r0000{ 1+ 5)
+100
+28561 _(130)"_(13)" _(13)"
+10000 (100 10 10
+«n= 4 Year
+nS Co
